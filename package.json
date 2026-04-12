@@ -1,0 +1,24 @@
+{
+  "name": "inktrace",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A provenance-first personal knowledge CLI and Obsidian vault bootstrapper.",
+  "bin": {
+    "inktrace": "dist/src/cli.js"
+  },
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "dev": "tsx src/cli.ts",
+    "typecheck": "tsc --noEmit",
+    "bootstrap:vault": "tsx scripts/bootstrap-vault.ts",
+    "doctor": "tsx scripts/doctor.ts"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "devDependencies": {
+    "@types/node": "^24.5.2",
+    "tsx": "^4.20.5",
+    "typescript": "^5.9.2"
+  }
+}

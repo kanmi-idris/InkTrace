@@ -1,0 +1,19 @@
+import { exists } from "../adapters/filesystem";
+import type { ProjectPaths } from "../utils/paths";
+
+export async function runDoctor(paths: ProjectPaths): Promise<string[]> {
+  const checks: Array<[string, string]> = [
+    ["Template directory", paths.templateDir],
+    ["Vault directory", paths.vaultDir],
+    ["Index file", paths.indexFile],
+    ["Log file", paths.logFile],
+    ["System AGENTS file", `${paths.systemDir}/AGENTS.md`]
+  ];
+
+  const report: string[] = [];
+  for (const [label, targetPath] of checks) {
+    const ok = await exists(targetPath);
+    report.push(`${ok ? "OK" : "MISSING"}: ${label} -> ${targetPath}`);
+  }
+  return report;
+}

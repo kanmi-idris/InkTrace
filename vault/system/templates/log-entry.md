@@ -1,0 +1,2 @@
+## [{{timestamp}}] {{event}} | {{title}}
+- {{detail}}
