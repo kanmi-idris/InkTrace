@@ -1,13 +1,1391 @@
-[16/10/2025, 1:59:24 PM] Olasunkanmi IDRIS: https://googlefonts.github.io/noto-emoji-animation/?icon.query=:wave:
+11/15/24, 9:01 PM - Messages and calls are end-to-end encrypted. Only people in this chat can read, listen to, or share them. *Learn more*
+11/15/24, 9:01 PM - You created this group
+11/15/24, 9:01 PM - Olasunkanmi IDRIS: https://www.notion.so/blog/how-we-sped-up-notion-in-the-browser-with-wasm-sqlite
+
+Another storage option for web
+11/15/24, 9:03 PM - Olasunkanmi IDRIS: https://dev.to/koladev/how-senior-software-engineers-document-their-project-1nf4
+11/15/24, 9:03 PM - Olasunkanmi IDRIS: https://nextjs.org/learn-pages-router/seo/crawling-and-indexing
+11/15/24, 9:03 PM - Olasunkanmi IDRIS: https://youtu.be/5GG-VUvruzE?si=Cakb72_b4en_0jM0
+11/15/24, 9:03 PM - Olasunkanmi IDRIS: https://youtu.be/BCCjGtKtBjE?si=uOUoSAsnOyEupwJ0
+11/15/24, 9:03 PM - Olasunkanmi IDRIS: https://docs.expo.dev/versions/latest/sdk/notifications/#configuration
+11/15/24, 9:03 PM - Olasunkanmi IDRIS: NOTE: 
+If you need immediate UI updates for a specific state change, you can force React to process updates by flushing the queue:
+import { flushSync } from 'react-dom';
+flushSync(() => {
+  setState(value);
+});
+11/15/24, 9:34 PM - Olasunkanmi IDRIS: https://docs.livekit.io/home/get-started/intro-to-livekit/#how-livekit-works
+11/15/24, 9:45 PM - Olasunkanmi IDRIS: https://devtoys.app/
+11/17/24, 5:13 AM - Olasunkanmi IDRIS: https://rombo.co/tailwind/
+11/18/24, 5:45 AM - Olasunkanmi IDRIS: https://github.com/calico-games/react-native-godot
+11/18/24, 5:46 AM - Olasunkanmi IDRIS: https://github.com/lodev09/react-native-true-sheet
+11/18/24, 10:30 AM - Olasunkanmi IDRIS: https://gunnartorfis.github.io/sonner-native/
+11/20/24, 5:33 PM - Olasunkanmi IDRIS: [REDACTED}
+11/20/24, 5:38 PM - Olasunkanmi IDRIS: [REDACTED}
+11/20/24, 5:45 PM - Olasunkanmi IDRIS: [REDACTED}
+11/20/24, 5:48 PM - Olasunkanmi IDRIS: https://www.focusbuddy.ai/?utm_source=www.joinhorizon.ai&utm_medium=newsletter&utm_campaign=mistral-launches-new-ai-models-and-chat-features&_bhlid=a99397bf699c18cb616740701722b853cef19378
+11/20/24, 5:50 PM - Olasunkanmi IDRIS: https://www.turbolens.io/?utm_source=www.joinhorizon.ai&utm_medium=newsletter&utm_campaign=mistral-launches-new-ai-models-and-chat-features&_bhlid=1024a19c83281095c8ae7b1c21454a6798b9d244
+11/20/24, 5:51 PM - Olasunkanmi IDRIS: Fine-tune an ai model to understand handwritten text notes and convert it to readable text or speech
+11/20/24, 6:50 PM - Olasunkanmi IDRIS: Build a tool call writeAssist that uses realtime video capabilities with live kit.io understands handwriting, uses ollama Claude 3.5 sonnet and runs fully on device. Has advanced reasoning capabilities and is finetuned to education. It learns froms a dataset on files In realtime.remembers data from videos and text
+11/20/24, 8:27 PM - Olasunkanmi IDRIS: https://docs.swmansion.com/react-native-executorch/docs/fundamentals/getting-started
+
+A reactnative library for ondevice ai usage
+11/21/24, 10:42 AM - Olasunkanmi IDRIS: The write Assist has a model that constantly segments the handwriting and continually uses them to train itself based on input from the user, like a floating question that asks, what is the content of this picture, help me understand it better.
+11/26/24, 6:40 PM - Olasunkanmi IDRIS: Anthropic is proposing a new standard for connecting AI assistants to the systems where data resides.
+
+Called the Model Context Protocol, or MCP for short, Anthropic says the standard, which it open sourced today, could help AI models produce better, more relevant responses to queries.
+
+Read more on MCP here: https://tcrn.ch/3CVNbmk
+11/30/24, 5:45 AM - Olasunkanmi IDRIS: https://cursify.vercel.app/cursor-animations/
+11/30/24, 5:51 AM - Olasunkanmi IDRIS: *Data Structures/Algorithms to know :*
+
+Data Structures: Stack, Queue, Hashmap, Set, Graph, etc.
+
+Algorithms: Dynamic programming, Greedy algorithm, Recursion, etc.
+11/30/24, 5:51 AM - You pinned a message
+11/30/24, 8:10 AM - Olasunkanmi IDRIS: https://medium.com/volvo-cars-engineering/use-google-play-instant-to-handle-deep-links-a-real-world-scenario-c7b6b4db0aad
+11/30/24, 8:25 AM - Olasunkanmi IDRIS: https://svgl.app/
+11/30/24, 1:20 PM - Olasunkanmi IDRIS: Read more at:
+http://m.timesofindia.com/articleshow/115813370.cms?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst
+12/2/24, 11:09 PM - Olasunkanmi IDRIS: https://dev.appsflyer.com/hc
+
+appsFlyer developer hub for deeplinking and deferred deeplininking
+12/2/24, 11:16 PM - Olasunkanmi IDRIS: https://www.appsflyer.com/resources/guides/deep-linking-for-developers/
+12/2/24, 11:19 PM - Olasunkanmi IDRIS: https://www.appsflyer.com/solutions/zero-budget-marketing/
+12/3/24, 12:57 AM - Olasunkanmi IDRIS: https://www.youtube.com/watch?v=CxORa1tXMjw
+12/3/24, 4:15 PM - Olasunkanmi IDRIS: https://medium.com/doping-technology-blog/react-native-performance-optimisation-10-real-world-cases-and-solutions-1cc7cc931deb
+12/4/24, 8:45 AM - Olasunkanmi IDRIS: https://github.com/numandev1/react-native-compressor
+12/4/24, 8:47 AM - Olasunkanmi IDRIS: https://github.com/invertase/react-native-google-mobile-ads
+12/4/24, 8:52 AM - Olasunkanmi IDRIS: https://marceloprado.github.io/flash-calendar/
+12/8/24, 3:43 PM - Olasunkanmi IDRIS: https://freedium.cfd/https://levelup.gitconnected.com/context-vs-prior-knowledge-how-to-modify-llm-behavior-88016b2846ab
+12/9/24, 12:20 PM - Olasunkanmi IDRIS: https://freedium.cfd/https://jinlow.medium.com/master-document-preview-in-react-implementing-docx-pdf-excel-and-pptx-viewers-with-key-e0d3940b921f
+12/9/24, 12:33 PM - Olasunkanmi IDRIS: https://freedium.cfd/https://levelup.gitconnected.com/next-js-state-management-patterns-with-react-server-components-ep-4-c06c073ed517
+12/9/24, 4:34 PM - Olasunkanmi IDRIS: https://dev.to/apidog/how-to-mock-apis-in-40s-and-build-frontend-apps-10x-faster-4d3i?context=digest
+12/9/24, 5:25 PM - Olasunkanmi IDRIS: https://dev.to/peboycodes/9-javascript-one-liners-that-replace-50-lines-of-code-6j4?context=digest
+12/9/24, 5:35 PM - Olasunkanmi IDRIS: https://github.com/ItzCrazyKns/Perplexica/
+12/9/24, 5:41 PM - Olasunkanmi IDRIS: https://beeceptor.com/mock-api/index.html
+12/9/24, 5:42 PM - Olasunkanmi IDRIS: https://mockapi.io/
+12/9/24, 5:42 PM - Olasunkanmi IDRIS: https://fakend.fyi
+12/9/24, 5:51 PM - Olasunkanmi IDRIS: https://freedium.cfd/https://levelup.gitconnected.com/context-vs-prior-knowledge-how-to-modify-llm-behavior-88016b2846ab
+12/14/24, 6:06 AM - Olasunkanmi IDRIS: https://samwho.dev/load-balancing/
+12/14/24, 6:09 AM - Olasunkanmi IDRIS: https://pixijs.com/
+12/14/24, 6:10 AM - Olasunkanmi IDRIS: https://pixijs.com/
+2D graphics creator
+12/14/24, 6:27 AM - Olasunkanmi IDRIS: https://www.youtube.com/watch?v=YtBOJKuEz9g
+12/14/24, 9:55 PM - Olasunkanmi IDRIS: https://www.figma.com/@urvashikaushik
+12/16/24, 6:10 AM - Olasunkanmi IDRIS: https://www.youtube.com/watch?v=_YBDHmpAduM&t=129s
+12/16/24, 10:08 AM - Olasunkanmi IDRIS: https://cloudvisor.co/aws-for-startups/
+12/16/24, 12:52 PM - Olasunkanmi IDRIS: Helps to better understand when and when to use the useEffect hook. 
+
+https://freedium.cfd/https://blog.stackademic.com/why-should-we-avoid-useeffect-bede7da22582
+12/16/24, 9:58 PM - Olasunkanmi IDRIS: https://youtu.be/qNX1-T74kLI?si=Cd_nzpPyrOkgFGmq
+
+Watch this to learn how to build animated svgs like the svgs that move... Say a line growing into view
+12/16/24, 10:32 PM - Olasunkanmi IDRIS: https://youtu.be/mhs9aRH_7uI?si=O3kVAU5Jt2eCUSzV
+
+Build on device ai and easily switch to remote
+12/16/24, 10:35 PM - Olasunkanmi IDRIS: https://youtube.com/shorts/Kaeej-gvJd8?si=wRwn0D5RSIVDWjqC
+
+Tailoring your portfolio writeup to be better
+12/16/24, 11:00 PM - Olasunkanmi IDRIS: https://www.reddit.com/r/LocalLLaMA/comments/1grcukd/react_native_executorch_library_is_out/
+
+On device ai for react native
+12/17/24, 8:55 AM - Olasunkanmi IDRIS: https://www.youtube.com/watch?v=JVMiTexyp6U
+
+short 14 min video to implement push notification in PWA
+12/17/24, 8:58 AM - Olasunkanmi IDRIS: https://www.youtube.com/watch?v=W-rlFj0d0RQ
+
+fire base push notification
+12/17/24, 12:06 PM - Olasunkanmi IDRIS: https://reactiive.io/demos
+
+View demos of animations possible in expo
+12/17/24, 4:44 PM - Olasunkanmi IDRIS: to startup an expo app quickly with nativewindUI, tamagyui etc.
+
+just run it and all is installed.
+
+https://createexpostack.com/
+12/17/24, 6:36 PM - Olasunkanmi IDRIS: https://github.com/saulamsal/react-native-sheet-transitions?%20State%20of%20React%20Native%20-%2016011035
+12/17/24, 11:01 PM - Olasunkanmi IDRIS: https://youtube.com/shorts/Zeeif8xSOnM?si=sVYvepqjyhf4l8q4
+
+Check here for tiny little details to make your portfolio website more better
+12/18/24, 7:49 PM - Olasunkanmi IDRIS: Building an on-device AI mobile App with LLaMA 3.2
+https://blog.gopenai.com/building-an-on-device-ai-mobile-app-with-llama-3-2-20f7aa2e292c
+12/20/24, 6:42 AM - Olasunkanmi IDRIS: using two githup profiles in VS CODE. 
+
+
+
+To switch the GitHub profile connected to your VSCode, follow these steps:
+
+Method 1: Using the VSCode GitHub Extension
+1. Open VSCode: Launch VSCode on your machine.
+2. Open the Command Palette: Press Ctrl + Shift + P (Windows/Linux) or Cmd + Shift + P (macOS).
+3. Type "GitHub: Manage Accounts": In the Command Palette, type "GitHub: Manage Accounts" and select the option.
+4. Add a New Account: Click the "+" button to add a new GitHub account.
+5. Authenticate the New Account: Follow the prompts to authenticate the new GitHub account.
+6. Switch to the New Account: Once authenticated, you can switch to the new account by clicking on the account name in the VSCode status bar.
+
+Method 2: Using the GitHub CLI
+1. Open a Terminal: Open a terminal in VSCode by pressing Ctrl + (Windows/Linux) or Cmd + (macOS).
+2. Login to the New Account: Run the command gh auth login and follow the prompts to authenticate the new GitHub account.
+3. Switch to the New Account: Once authenticated, you can switch to the new account by running the command gh config set default-user <new-username>.
+
+Method 3: Using the VSCode Settings
+1. Open the VSCode Settings: Press Ctrl + Shift + P (Windows/Linux) or Cmd + Shift + P (macOS) and type "Open Settings (JSON)".
+2. Update the GitHub Account: In the settings.json file, update the "github.accounts" setting to include the new GitHub account.
+3. Restart VSCode: Restart VSCode for the changes to take effect.
+
+After switching to the new GitHub account, you should be able to clone repositories from that account.
+12/20/24, 1:37 PM - Olasunkanmi IDRIS: https://www.linkedin.com/feed/update/urn:li:activity:7275845780127526912?utm_source=share&utm_medium=member_desktop
+12/20/24, 3:24 PM - Olasunkanmi IDRIS: https://www.linkedin.com/posts/fazlurshah_equity-compensation-guide-ugcPost-7275756167706910722-bTbw?utm_source=share&utm_medium=member_desktop
+
+use this method to share equity in startup
+12/20/24, 3:41 PM - Olasunkanmi IDRIS: https://www.zdnet.com/article/no-one-wants-another-chatbot-this-is-the-ai-we-actually-need/
+
+Artificial General Intelligence
+12/21/24, 7:14 AM - Olasunkanmi IDRIS: NOTE!!!: checkout browserbase and stagehand, for webserarch automation for ai, ai can search the web
+12/21/24, 7:47 PM - Olasunkanmi IDRIS: https://www.linkedin.com/feed/update/urn:li:activity:7276292806581645312?utm_source=share&utm_medium=member_android
+12/21/24, 7:58 PM - Olasunkanmi IDRIS: https://www.npmjs.com/package/modal-swipe-up
+
+Modal that falls in into the app
+12/22/24, 10:15 PM - Olasunkanmi IDRIS: https://github.com/huggingface/transformers.js-examples/tree/main/llama-3.2-webgpu
+
+transformer js, place to find examples of ai running in web & js
+12/23/24, 7:48 AM - Olasunkanmi IDRIS: [REDACTED}
+
+IOS simulator, 50 minutes per month
+12/25/24, 5:49 PM - Olasunkanmi IDRIS: ***PMF***
+
+Here's what it actually looks like:
+
+• Your customers can't shut up about you
+• Growth feels effortless
+• Sales cycles get shorter, not longer
+• Support tickets change from "how to" to "what else"
+
+But here's the truth bomb 💣
+You don't find Product-Market Fit.
+It finds you.
+
+Think about Uber's early days:
+People were BEGGING for invite codes.
+Users became voluntary salespeople.
+Growth was impossible to stop.
+
+That's what PMF feels like.
+
+Here's my simple checklist to know if you've hit it:
+
+1. The Pull Test ⚡
+- Are customers coming to you?
+- Or are you chasing them?
+
+2. The Referral Test 🗣
+- Do users actively share your product?
+- Without rewards or incentives?
+
+3. The "Very Disappointed" Test 💔
+- Ask: "How would you feel if you could no longer use our product?"
+- If >40% say "very disappointed" - you're onto something
+
+4. The Sales Test 💪
+- Are deals closing faster?
+- Is price becoming less of an issue?
+
+5. The Sleep Test 😴
+- Do you wake up to more signups?
+- Instead of more problems?
+
+The brutal truth?
+If you're wondering whether you have Product-Market Fit...
+You probably don't.
+When you have it, you KNOW.
+It feels like riding a rocket ship 🚀
+Not pushing a boulder uphill.
+
+Remember:
+- PMF is not binary - it exists on a spectrum
+- It can be achieved in segments before full market
+- It needs to be maintained and can be lost
+- Different businesses show different PMF signals
+- Focus on trends over absolute numbers
+- Consider your specific market context
+12/25/24, 5:53 PM - Olasunkanmi IDRIS: expo header package.
+https://www.npmjs.com/package/expo-header
+12/25/24, 5:54 PM - Olasunkanmi IDRIS: expo-drawer
+https://www.npmjs.com/package/expo-drawer
+
+For super customized drawer navigation
+12/25/24, 9:05 PM - Olasunkanmi IDRIS: Richtext editor resources.
+
+https://www.youtube.com/watch?v=CxORa1tXMjw
+
+https://docs.expo.dev/guides/editing-richtext/
+
+https://lexical.dev/gallery
+12/29/24, 2:55 PM - Olasunkanmi IDRIS: https://www.youtube.com/watch?v=pg19Z8LL06w&t=115s
+12/30/24, 11:14 AM - Olasunkanmi IDRIS: https://www.youtube.com/watch?v=s_o8dwzRlu4
+12/30/24, 11:15 AM - Olasunkanmi IDRIS: https://piling.js.org/
+12/30/24, 11:29 AM - Olasunkanmi IDRIS: https://www.thisdot.co/blog/build-facial-recognition-and-chatbot-ais-using-typescript-with-jack
+12/30/24, 11:31 AM - Olasunkanmi IDRIS: https://x.com/jherr/status/1818011994647335093
+12/30/24, 11:39 AM - Olasunkanmi IDRIS: https://modelfusion.dev/blog/llamacpp-nextjs-chatbot/
+12/30/24, 12:30 PM - Olasunkanmi IDRIS: https://modelfusion.dev/blog/ollama-nextjs-chatbot
+12/30/24, 6:35 PM - Olasunkanmi IDRIS: Yes, it is possible to create a peer-to-peer (P2P) network that leverages location data and Bluetooth Low Energy (BLE) to confirm proximity, such as for a classroom attendance system. This approach combines geolocation for rough distance calculations and BLE for more precise confirmation. Here's how you can implement it:
+
+---
+
+### **System Components**
+1. **Geolocation:**  
+   Use latitude and longitude to calculate approximate distances between users using the Haversine formula.  
+   - **Purpose:** Pre-filter users who are likely in the same class based on location.  
+
+2. **Bluetooth Low Energy (BLE):**  
+   Use BLE for device discovery and communication to confirm proximity.  
+   - **Purpose:** Ensure users are within a small physical radius, e.g., inside the same room.
+
+3. **P2P Communication:**  
+   Devices exchange information like user IDs, timestamps, or session tokens to verify attendance.  
+   - **Purpose:** Enable decentralized communication without a server dependency.
+
+---
+
+### **Steps to Implement**
+#### 1. **Location Filtering**
+   - Use the device's GPS to periodically get the user's location. 
+   - Calculate distances between users in the network using the **Haversine formula**:
+     ```javascript
+     const haversineDistance = (lat1, lon1, lat2, lon2) => {
+       const toRad = (value) => (value * Math.PI) / 180;
+       const R = 6371; // Earth's radius in km
+       const dLat = toRad(lat2 - lat1);
+       const dLon = toRad(lon2 - lon1);
+       const a =
+         Math.sin(dLat / 2) ** 2 +
+         Math.cos(toRad(lat1)) * Math.cos(toRad(lat2)) * Math.sin(dLon / 2) ** 2;
+       const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+       return R * c * 1000; // Distance in meters
+     };
+     ```
+
+#### 2. **BLE Setup**
+   - Enable BLE advertising and scanning on devices.
+   - Assign a unique identifier (e.g., UUID) to each device when the session starts.
+   - Use BLE libraries for the chosen platform:
+     - **Android/iOS:** [React Native BLE PLX](https://github.com/dotintent/react-native-ble-plx)
+     - **Native:** iOS CoreBluetooth or Android BLE APIs.
+
+#### 3. **Proximity Confirmation**
+   - Devices broadcast their presence via BLE (advertising).
+   - Nearby devices scan for BLE advertisements and validate:
+     - The presence of expected identifiers.
+     - The RSSI (Received Signal Strength Indicator) to estimate BLE proximity.
+
+#### 4. **Ping Requests**
+   - Use BLE to exchange ping requests to confirm:
+     - Presence.
+     - Session participation.
+   - Each ping can include encrypted data (e.g., session token) for security.
+
+#### 5. **Attendance Logic**
+   - After both geolocation and BLE confirmation, mark users as present.
+   - Optionally, synchronize this data with a central database if required.
+
+---
+
+### **Example Workflow**
+1. **User Location Check:**  
+   Devices share their latitude and longitude over a local P2P network or centralized server.
+2. **Pre-Filter by Distance:**  
+   Devices within a predefined distance (e.g., 50m) are shortlisted.
+3. **BLE Validation:**  
+   Shortlisted devices start BLE communication to verify they are in the same physical space.
+4. **Pinging:**  
+   Devices exchange pings to confirm and log their attendance.
+
+---
+
+### **Considerations**
+1. **Battery Usage:**  
+   GPS and BLE can drain battery if not optimized. Use smart intervals for location updates and BLE scanning.
+2. **Privacy:**  
+   - Encrypt communication.
+   - Avoid storing or sharing precise location data unnecessarily.
+3. **Interference:**  
+   BLE performance can be affected by obstacles or interference in the environment. Use signal processing techniques to filter noise.
+
+---
+
+### **Alternatives**
+- **WiFi P2P:** Use WiFi-Direct instead of BLE for device discovery.
+- **NFC:** For very close-range confirmation (requires tapping devices).
+- **Centralized Server:** For location sharing and BLE coordination if P2P is too complex.
+
+---
+
+### **Debugging and Optimization**
+- **Testing Tools:**  
+   Use tools like nRF Connect to debug BLE communication and test RSSI strength.
+- **Logging:**  
+   Log location, BLE advertisements, and pings to identify bottlenecks.
+- **Optimization:**  
+   Minimize GPS and BLE usage frequency to balance performance and power consumption.
+
+Would you like pseudocode or implementation details for a specific component of this system?
+12/31/24, 10:00 PM - Olasunkanmi IDRIS: https://dev.to/thesohailjafri/the-must-have-seo-checklist-for-developers-192i
+1/1/25, 7:51 AM - Olasunkanmi IDRIS: https://tavily.com/#pricing
+1/1/25, 1:54 PM - Olasunkanmi IDRIS: https://www.nextafter.com/blog/3-lessons-from-analyzing-the-key-metrics-of-155-nonprofits/
+1/1/25, 3:00 PM - Olasunkanmi IDRIS: Let’s get it straight so you never blank out in an interview. 👇 
+
+ 1/ What is CORS? 
+CORS stands for Cross-Origin Resource Sharing—a security feature built into browsers. 
+
+It blocks requests made from one origin (domain, protocol, or port) to another origin unless explicitly allowed by the server. 
+
+For example: 
+- Your frontend is hosted at `frontend.com`. 
+- Your backend API is hosted at `api.backend.com`. 
+
+The browser treats these as different origins and blocks the request unless it’s explicitly allowed. 
+
+ 2/ Why Does It Happen? 
+CORS errors are triggered by the Same-Origin Policy, which prevents malicious websites from making unauthorized API calls using your credentials. 
+
+When the backend server doesn’t include the right CORS headers, the browser refuses to share the response and throws this error: 
+
+> *Access to fetch at 'https://api.backend.com' from origin 'https://frontend.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present.* 
+
+In short, the browser isn’t blocking the request—it’s blocking the response for security reasons. 
+
+ 3/ The Real Problem Behind CORS 
+- It’s not a frontend issue. 
+- It’s not a browser bug. 
+- It’s a server-side configuration issue. 
+
+Most candidates panic and assume the browser is the problem. It’s not. 
+
+CORS is the server’s responsibility to allow or deny requests from other origins. 
+
+ 4/ How Do You Fix It? 
+
+Step 1: Update the Backend. 
+The server must send the right headers, like: 
+- `Access-Control-Allow-Origin: *` (Allows all origins). 
+- Or specify trusted domains like `Access-Control-Allow-Origin: https://frontend.com`. 
+
+Step 2: Handle Preflight Requests (OPTIONS). 
+For complex requests (like `POST` with custom headers), browsers send a preflight request before the actual call. 
+
+The server must respond to this with: 
+- `Access-Control-Allow-Methods: GET, POST, OPTIONS` 
+- `Access-Control-Allow-Headers: Content-Type, Authorization` 
+
+Step 3: Use a Proxy for Local Development. 
+If the backend isn’t updated yet, set up a proxy to forward requests through the same origin as your frontend. 
+
+ 5/ Can We Bypass CORS? 
+Short answer—No. 
+
+Any hacky workaround, like disabling CORS in the browser or using extensions, won’t work in production. 
+
+Fix it properly by configuring the server. That’s the only scalable solution. 
+
+ 6/ Why Is This Important in Interviews? 
+Because CORS tests whether you: 
+- Understand how the web works. 
+- Can debug issues logically. 
+- Know where the real problem lies (backend vs frontend).
+1/1/25, 9:35 PM - Olasunkanmi IDRIS: https://freedium.cfd/https://pub.towardsai.net/transform-pdfs-into-llm-fine-tuned-dataset-for-free-a8a20219b31e
+1/9/25, 12:05 AM - Olasunkanmi IDRIS: https://www.reactbits.dev/
+
+Check here for mad ass UI for react
+1/9/25, 10:41 PM - Olasunkanmi IDRIS: https://finetunedb.com/?_bhlid=33fdda587f11e65d1f307c65e4342db84fcefb6f
+1/9/25, 10:59 PM - Olasunkanmi IDRIS: https://www.gecko.security/?_bhlid=a6b89db762037efe79b63da7b9f201441011ede6
+1/16/25, 4:27 AM - Olasunkanmi IDRIS: https://www.fancycomponents.dev/
+1/17/25, 4:51 AM - Olasunkanmi IDRIS: https://www.youtube.com/live/iYX-3hCVmK8?si=nSycWM8XtkzFQVUp
+1/18/25, 7:30 PM - Olasunkanmi IDRIS: Windows Suite Activation Cheats
+https://www.tiktok.com/@officialdevices/video/7423384635461078277
+1/18/25, 7:31 PM - Olasunkanmi IDRIS: <Media omitted>
+1/18/25, 9:38 PM - Olasunkanmi IDRIS: https://deepmind.google/about/education/
+1/19/25, 5:50 PM - Olasunkanmi IDRIS: https://www.youtube.com/watch?v=wTGVHLyV09M
+1/21/25, 12:06 PM - Olasunkanmi IDRIS: https://webflow-new.povio.com/blog/passing-app-store-reviews
+1/21/25, 9:11 PM - Olasunkanmi IDRIS: https://youtu.be/F3KJNgINMIQ?si=pdeHovBmbq9wiiMu
+1/25/25, 9:33 PM - Olasunkanmi IDRIS: https://www.youtube.com/watch?v=UIMG1kFiWa4
+1/25/25, 9:33 PM - Olasunkanmi IDRIS: https://www.youtube.com/watch?v=90E4Z9ftHzA
+1/27/25, 8:53 PM - Olasunkanmi IDRIS: https://codepen.io/jh3y/pen/zxOJdEe
+
+Curved Scrollbar
+1/28/25, 9:30 AM - Olasunkanmi IDRIS: https://www.youtube.com/watch?v=fD0E57QYSPk
+1/28/25, 9:37 AM - Olasunkanmi IDRIS: https://github.com/wodin/expo-ocr-example
+2/1/25, 11:27 PM - Olasunkanmi IDRIS: https://openlit.io/?_bhlid=7623a3d1d0d4ef0b470583570c6cea7ffc579319
+2/2/25, 2:00 PM - Olasunkanmi IDRIS: https://gist.github.com/anubhavshrimal/75f6183458db8c453306f93521e93d37
+2/3/25, 9:56 AM - Olasunkanmi IDRIS: https://freedium.cfd/10%20Game-Changing%20React%20Native%20Tips%20for%20Better%20Mobile%20Development%20in%202025%20%F0%9F%9A%80%20https://javascript.plainenglish.io/10-game-changing-react-native-tips-for-better-mobile-development-in-2024-4bf31c5621da
+2/3/25, 6:03 PM - Olasunkanmi IDRIS: Dr Prime just released a new article on Implementing WebCam Recording in a web app using JavaScript
+
+The article discusses the MediaRecorder API, MediaDevices API, how to record and save videos, add audio, and handle multiple videos and audio options.
+
+Read to find out more:
+https://dev.to/drprime01/how-to-implement-webcam-recording-on-the-web-using-javascript-1p4g
+
+Read 📖, Like 👍, Share 🔁, and Enjoy 🚀
+2/4/25, 8:24 AM - Olasunkanmi IDRIS: <Media omitted>
+2/5/25, 9:14 AM - Olasunkanmi IDRIS: I created this package in case anyone needs it.
+A GitHub star would be highly appreciated.
+
+https://www.npmjs.com/package/react-native-pdf-from-image
+2/5/25, 9:14 AM - Olasunkanmi IDRIS: <Media omitted>
+2/5/25, 1:30 PM - Olasunkanmi IDRIS: Here you go:
+
+https://huggingface.co/learn
+2/5/25, 1:30 PM - Olasunkanmi IDRIS: https://www.nvidia.com/en-us/learn/
+2/5/25, 1:30 PM - Olasunkanmi IDRIS: https://dev.to/michellebuchiokonicha/python-oop-made-easy-master-object-oriented-programming-with-ease-4h9e
+
+
+Trying to understand OOP?
+
+Well, this guide breaks it down in its easiest terms
+2/9/25, 4:33 PM - Olasunkanmi IDRIS: https://freedium.cfd/https://medium.com/@mohantaankit2002/debugging-memory-leaks-in-react-native-apps-common-causes-and-fixes-e013405317fe
+2/14/25, 1:19 PM - Olasunkanmi IDRIS: https://github.com/efstathiosntonas/react-native-style-libraries-benchmark?tab=readme-ov-file
+2/17/25, 5:41 PM - Olasunkanmi IDRIS: https://www.ycombinator.com/launches/Mnc-assistant-ui-open-source-typescript-react-library-for-ai-chat
+2/23/25, 12:51 PM - Olasunkanmi IDRIS: https://dev.to/silviaodwyer/10-open-source-documentation-frameworks-to-check-out-331f
+2/24/25, 3:01 PM - Olasunkanmi IDRIS: Always use this to fix all Next JS 15 errors. it enters and fixes it like magic. it saved me. npx @next/codemod@canary next-async-request-api
+2/24/25, 4:07 PM - Olasunkanmi IDRIS: List of React Native Concepts:
+
+1. Deep Linking in React Native
+
+2. Implementing QR Code Scanner and Generator
+
+3. Navigation in React Native (React Navigation)
+
+4. In-App Update Alerts in React Native
+
+5. Push Notifications (Firebase FCM, Notifee)
+
+6. Local Notifications in React Native
+
+7. State Management (Redux, Context API, Zustand)
+
+8. Animations in React Native (Reanimated, Lottie, Skia)
+
+9. Handling Permissions in React Native
+
+10. React Native Gesture Handling
+
+11. Offline Storage and Caching (AsyncStorage, MMKV)
+
+12. API Integration (Axios, Fetch, GraphQL)
+
+13. React Native Background Tasks
+
+14. Splash Screen and App Loading Optimization
+
+15. Dynamic Theming (Dark Mode, Custom Themes)
+
+16. Authentication in React Native (Firebase Auth, OAuth)
+
+17. Social Media Login (Google, Apple, Facebook)
+
+18. File Upload and Download in React Native
+
+19. Handling App Permissions (Camera, Location, Storage, Notification)
+
+20. Custom Bottom Sheet and Modals
+
+21. Real-time chat (WebSockets, Socket.io, GetStream.io)
+
+22. Multi-Language Support (i18n, Localization)
+
+23. Gesture-Based UI Interactions
+
+24. Working with Maps (Google Maps, Mapbox)
+
+25. Implementing Biometric Authentication (Fingerprint, Face ID)
+
+26. Payment Integration (Paystack, Flutterwave, Stripe)
+
+27. Background Services in React Native
+
+28. Implementing WebView for Hybrid Apps
+
+29. Debugging and Performance Optimization
+
+30. Custom Fonts and Icons in React Native
+
+31. Building Custom Native Modules
+
+32. Handling Deep Links and Universal Links
+
+33. App Version Management and Updates
+
+34. Working with Camera and Image Processing
+
+35. Voice Recognition and Text-to-Speech
+
+36. Realtime Database Integration
+
+37. Implementing Drag and Drop Functionality
+
+38. Video and Audio Streaming in React 
+
+39. Audio and Video transcription.
+
+40. App Store and Play Store Deployment
+2/24/25, 4:07 PM - Olasunkanmi IDRIS: bestcarengo.org
+2/25/25, 2:10 PM - Olasunkanmi IDRIS: https://www.reddit.com/r/reactnative/comments/1ix1064/react_native_boost_make_your_app_up_to_50_faster/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
+2/25/25, 2:29 PM - Olasunkanmi IDRIS: https://react-native-boost.oss.kuatsu.de/docs/introduction/how-it-works
+2/25/25, 2:34 PM - Olasunkanmi IDRIS: https://www.linkedin.com/pulse/expo-firebase-push-notifications-nikola-gorgiev-rwozf/
+2/27/25, 4:24 PM - Olasunkanmi IDRIS: https://freedium.cfd/https://medium.com/@mehdibafdil/hackers-love-these-common-mern-stack-mistakes-10c728d1759f
+2/28/25, 5:30 AM - Olasunkanmi IDRIS: https://olmocr.allenai.org/
+3/7/25, 6:13 PM - Olasunkanmi IDRIS: https://mistral.ai/en/news/mistral-ocr?utm_source=www.joinhorizon.ai&utm_medium=newsletter&utm_campaign=duckduckgo-s-new-ai-features&_bhlid=9548eb91c80946814d4c44994e4a38fa39a5100d
+3/8/25, 6:57 AM - Olasunkanmi IDRIS: Next js package to easily enable A/B tests and new feature tests/flags in your platform. https://flags-sdk.dev/
+3/8/25, 9:40 PM - Olasunkanmi IDRIS: https://www.youtube.com/watch?v=eZBsBMf5zuQ
+3/12/25, 9:50 PM - Olasunkanmi IDRIS: An image viewer for React (+ Native). It works with any image component - bring your own image component 
+https://github.com/nandorojo/galeria/tree/v1.1.0
+https://x.com/FernandoTheRojo/status/1899905300028879067
+3/13/25, 10:28 PM - Olasunkanmi IDRIS: <Media omitted>
+3/14/25, 2:15 PM - Olasunkanmi IDRIS: Hi all, 
+
+I recently just wrote an article on how you can implement a face liveness Detection in realtime using Amazon rekognition, NextJS and expo.
+Please check it out here
+
+https://www.linkedin.com/posts/ayomide-bamigboye-a477b4171_hi-everyone-are-you-building-an-app-that-activity-7306299359191621632-tL9G?utm_medium=ios_app&rcm=ACoAACjf_9cBD9j_8qkbFPrjJtJn1xE1ZuGFwKY&utm_source=social_share_send&utm_campaign=copy_link
+3/14/25, 3:42 PM - Olasunkanmi IDRIS: https://youtu.be/wnSArmbI6qw?si=Y0V63WcLywcOzBV_
+3/15/25, 2:03 AM - Olasunkanmi IDRIS: https://x.com/mironcatalin/status/1900575428248539460
+3/15/25, 2:48 AM - Olasunkanmi IDRIS: https://x.com/codewithshripal/status/1900184017183613195
+Web Performance Tip 💡
+
+Easily lazy load auto-playing videos which are not above the fold 🤩👇
+3/15/25, 12:31 PM - Olasunkanmi IDRIS: https://github.com/Solarin-Johnson/expo-number-input-transition
+3/17/25, 5:40 PM - Olasunkanmi IDRIS: https://codereader.dev/blog/react-native-uncontrolled-inputs
+3/18/25, 7:01 AM - Olasunkanmi IDRIS: https://mateoguzmana.github.io/react-native-fiesta/docs/fiesta-context
+3/26/25, 4:44 AM - Olasunkanmi IDRIS: https://silkhq.co/
+3/31/25, 7:08 PM - Olasunkanmi IDRIS: https://github.com/IvanIhnatsiuk/react-native-advanced-input-mask?tab=readme-ov-file#phone
+4/3/25, 4:40 PM - Olasunkanmi IDRIS: https://medium.com/@letscodefuture/top-8-react-libraries-tools-you-need-to-know-in-2025-2afdb6c33251
+4/6/25, 10:23 PM - Olasunkanmi IDRIS: https://www.keycloak.org/documentation
+
+Backend you can host
+4/6/25, 10:27 PM - Olasunkanmi IDRIS: https://www.frecall.org/aboutus
+4/8/25, 6:27 PM - Olasunkanmi IDRIS: https://github.com/AppAndFlow/react-native-magic-scroll?utm_source=convertkit&utm_medium=email&utm_campaign=%F0%9F%9A%80%20Galactic%20News:%20Video%20Call%20&%20Chats,%20Podcast%20Change,%20Magic%20Scroll%20&%20Better%20Error%20Messages%20-%2017206846
+
+Why react-native-magic-scroll?
+The goal of the library is to seamlessly and precisely handle your keyboard, scrollview and inputs when interacting with forms. While other solutions offer plug-and-play functionalities, we wanted to have something more precise and with more flexibility so that it can be used in any situation.
+4/8/25, 6:30 PM - Olasunkanmi IDRIS: https://github.com/pioner92/react-native-auto-skeleton?utm_source=convertkit&utm_medium=email&utm_campaign=%F0%9F%9A%80%20Galactic%20News:%20Video%20Call%20&%20Chats,%20Podcast%20Change,%20Magic%20Scroll%20&%20Better%20Error%20Messages%20-%2017206846
+
+react-native-auto-skeleton is a modern skeleton loader for React Native, designed to automatically render loading placeholders (shimmer-style) based on your existing layout.
+4/8/25, 6:30 PM - Olasunkanmi IDRIS: https://github.com/AppAndFlow/react-native-magic-scroll?utm_source=convertkit&utm_medium=email&utm_campaign=%F0%9F%9A%80%20Galactic%20News:%20Video%20Call%20&%20Chats,%20Podcast%20Change,%20Magic%20Scroll%20&%20Better%20Error%20Messages%20-%2017206846
+
+Why react-native-magic-scroll?
+The goal of the library is to seamlessly and precisely handle your keyboard, scrollview and inputs when interacting with forms. While other solutions offer plug-and-play functionalities, we wanted to have something more precise and with more flexibility so that it can be used in any situation.
+4/8/25, 6:32 PM - Only messages that mention or people share with @AI can be read by Meta. Meta can't read any other messages in this chat, as your personal messages remain end-to-end encrypted. 
+
+Messages are generated by AI. Some may be inaccurate or inappropriate. *Learn more*
+4/8/25, 6:32 PM - Olasunkanmi IDRIS: https://x.com/S0LARIN/status/1905829104600875025?utm_source=convertkit&utm_medium=email&utm_campaign=%F0%9F%9A%80%20Galactic%20News:%20Video%20Call%20&%20Chats,%20Podcast%20Change,%20Magic%20Scroll%20&%20Better%20Error%20Messages%20-%2017206846
+
+https://github.com/Solarin-Johnson/masked-splash-screen
+
+@⁨Meta AI⁩ add a description
+4/8/25, 6:32 PM - Meta AI: The links appear to be a Twitter post and a GitHub repository. Can you please provide more context or clarify what description you would like me to add?
+4/8/25, 6:41 PM - Olasunkanmi IDRIS: https://github.com/lharries/whatsapp-mcp
+
+WhatsApp MCP Server
+
+This is a Model Context Protocol (MCP) server for WhatsApp.
+
+With this you can search and read your personal Whatsapp messages (including images, videos, documents, and audio messages), search your contacts and send messages to either individuals or groups. You can also send media files including images, videos, documents, and audio messages.
+
+It connects to your personal WhatsApp account directly via the Whatsapp web multidevice API (using the whatsmeow library). All your messages are stored locally in a SQLite database and only sent to an LLM (such as Claude) when the agent accesses them through tools (which you control).
+
+Here's an example of what you can do when it's connected to Claude.
+4/9/25, 7:32 AM - Olasunkanmi IDRIS: Hey, if you're looking for the best emoji library for your Expo CLI project, here are some top options to consider:
+
+*Emoji Libraries*
+- *Emojilib*: A lightweight JSON-based library with a comprehensive collection of emojis and associated keywords. It's easy to parse data and spritesheets for emoji, making it ideal for text-based emoji handling ¹.
+- *Twemoji*: A popular emoji library with a comprehensive set of emoji designs, including SVG and PNG formats. It's actively maintained by Twitter, but note that it has a larger file size and more complex implementation for web projects.
+- *Emoji-Mart*: A full-featured emoji picker component with search, customization, and cross-framework support. It's suitable for applications requiring a complete emoji selection interface, but has a larger package size and complex implementation.
+- *Emoji-Picker-React*: A popular React library for emoji selection, with 1,102 GitHub stars. It's a great option if you're building a React-based Expo project ².
+- *Emoji-Code*: A library with a simple search feature, allowing developers to search for emojis using relevant keywords ³.
+
+*Key Considerations*
+- *File Size and Complexity*: Consider the file size and implementation complexity of each library, especially if you're building a mobile app.
+- *Customization and Features*: Think about the level of customization and features you need, such as search functionality, emoji categories, and cross-platform support.
+- *Community Support*: Look for libraries with active communities and regular updates to ensure they stay compatible with Expo and React Native.
+
+*Installation and Usage*
+To get started, you can install your chosen library using npm or yarn. For example, to install Emojilib, run:
+Then, import the library in your JavaScript file:
+You can then access emojis and their associated keywords using the library's API.
+
+Hope this helps you find the perfect emoji library for your Expo project!
+4/11/25, 7:16 AM - Olasunkanmi IDRIS: https://www.makeitanimated.dev/
+4/11/25, 7:32 AM - Olasunkanmi IDRIS: https://app.bankan.tech/inbox
+4/12/25, 3:12 PM - Olasunkanmi IDRIS: https://nativewindui.com/
+4/14/25, 10:12 AM - Olasunkanmi IDRIS: https://www.npmjs.com/package/react-native-bundle-visualizer
+4/14/25, 9:34 PM - Olasunkanmi IDRIS: https://ui-avatars.com/
+4/14/25, 9:34 PM - Olasunkanmi IDRIS: https://ui-avatars.com/
+4/14/25, 9:34 PM - Olasunkanmi IDRIS: https://www.npmjs.com/package/react-native-bundle-visualizer
+4/18/25, 7:32 PM - Olasunkanmi IDRIS: This youTube video helped: https://www.youtube.com/watch?v=WUhb7UAtaPc
+4/19/25, 4:20 AM - Olasunkanmi IDRIS: https://t.co/VANrAgEuA7
+4/19/25, 4:26 AM - Olasunkanmi IDRIS: https://github.com/arekkubaczkowski/react-native-bottom-sheet-stack
+4/21/25, 1:55 AM - Olasunkanmi IDRIS: https://github.com/arunabhverma/expo-fuse-carousel
+4/21/25, 1:55 AM - Olasunkanmi IDRIS: https://x.com/iamarunabh/status/1913667222846804223
+4/26/25, 2:01 AM - Olasunkanmi IDRIS: https://expo.dev/blog/best-practices-for-reducing-lag-in-expo-apps
+4/26/25, 5:09 AM - Olasunkanmi IDRIS: https://shopify.engineering/mobilebridge-native-webviews#
+4/27/25, 1:13 PM - Olasunkanmi IDRIS: https://github.com/kanmi-idris/expo-android-native-menu/tree/main
+5/4/25, 7:34 AM - Olasunkanmi IDRIS: https://locationiq.com/
+5/4/25, 11:32 AM - Olasunkanmi IDRIS: https://bndkt.com/projects
+5/5/25, 6:23 AM - Olasunkanmi IDRIS: https://www.npmjs.com/package/expo-header
+5/5/25, 6:23 AM - Olasunkanmi IDRIS: https://www.npmjs.com/package/expo-drawer
+5/10/25, 1:35 PM - Olasunkanmi IDRIS: https://expo.dev/blog/offline-first-apps-with-expo-and-legend-state
+5/13/25, 9:30 AM - Olasunkanmi IDRIS: https://freedium.cfd/https://javascript.plainenglish.io/the-cleanest-way-to-use-react-query-5f023a351d7b
+5/13/25, 9:30 AM - Olasunkanmi IDRIS: https://freedium.cfd/https://javascript.plainenglish.io/the-cleanest-way-to-use-react-query-5f023a351d7b
+5/13/25, 9:30 AM - Olasunkanmi IDRIS: The Cleanest Way to Use React Query
+React Query is honestly one of the best things that's happened to frontend devs. If you've ever felt the pain of managing loading states…
+
+https://freedium.cfd/https://javascript.plainenglish.io/the-cleanest-way-to-use-react-query-5f023a351d7b
+5/14/25, 10:11 PM - Olasunkanmi IDRIS: https://gist.github.com/DmytroLisitsyn/1c31186e5b66f1d6c52da6b5c70b12ad
+
+json dataset, containing country code and flags as emojis
+6/3/25, 2:45 PM - Olasunkanmi IDRIS: https://expo.dev/blog/what-are-environment-variables
+6/12/25, 1:59 PM - Olasunkanmi IDRIS: https://mcpmarket.com/
+
+mcp tools
+6/14/25, 2:52 PM - Olasunkanmi IDRIS: https://lawsofux.com/
+
+Laws of UX by joN Yablonskis
+6/15/25, 9:29 AM - Olasunkanmi IDRIS: https://react-native-sortables-docs.vercel.app/
+6/20/25, 4:04 AM - Olasunkanmi IDRIS: expoai sdk stuff. https://t.co/NTgGKIGqSw
+6/21/25, 8:21 PM - Olasunkanmi IDRIS: https://www.instantdb.com/
+6/22/25, 9:57 PM - You added Olasukanmi Idris
+6/23/25, 1:34 AM - Olasunkanmi IDRIS: https://www.instantdb.com/
+6/23/25, 2:46 AM - Olasunkanmi IDRIS: https://github.com/arunabhverma/expo-fuse-carousel
+6/23/25, 2:46 AM - Olasunkanmi IDRIS: https://www.notion.so/blog/how-we-sped-up-notion-in-the-browser-with-wasm-sqlite
+
+Another storage option for web
+6/23/25, 2:46 AM - Olasunkanmi IDRIS: https://x.com/iamarunabh/status/1913667222846804223
+6/23/25, 2:46 AM - Olasunkanmi IDRIS: https://dev.to/koladev/how-senior-software-engineers-document-their-project-1nf4
+6/23/25, 2:46 AM - Olasunkanmi IDRIS: https://expo.dev/blog/best-practices-for-reducing-lag-in-expo-apps
+6/23/25, 2:46 AM - Olasunkanmi IDRIS: https://nextjs.org/learn-pages-router/seo/crawling-and-indexing
+6/23/25, 2:46 AM - Olasunkanmi IDRIS: https://shopify.engineering/mobilebridge-native-webviews#
+6/23/25, 2:46 AM - Olasunkanmi IDRIS: https://youtu.be/5GG-VUvruzE?si=Cakb72_b4en_0jM0
+6/23/25, 2:46 AM - Olasunkanmi IDRIS: https://github.com/kanmi-idris/expo-android-native-menu/tree/main
+6/23/25, 2:46 AM - Olasunkanmi IDRIS: https://youtu.be/BCCjGtKtBjE?si=uOUoSAsnOyEupwJ0
+6/23/25, 2:46 AM - Olasunkanmi IDRIS: https://locationiq.com/
+6/23/25, 2:46 AM - Olasunkanmi IDRIS: https://docs.expo.dev/versions/latest/sdk/notifications/#configuration
+6/23/25, 2:46 AM - Olasunkanmi IDRIS: https://bndkt.com/projects
+6/23/25, 2:46 AM - Olasunkanmi IDRIS: NOTE: 
+If you need immediate UI updates for a specific state change, you can force React to process updates by flushing the queue:
+import { flushSync } from 'react-dom';
+flushSync(() => {
+  setState(value);
+});
+6/23/25, 2:46 AM - Olasunkanmi IDRIS: https://www.npmjs.com/package/expo-header
+6/23/25, 2:46 AM - Olasunkanmi IDRIS: https://docs.livekit.io/home/get-started/intro-to-livekit/#how-livekit-works
+6/23/25, 2:46 AM - Olasunkanmi IDRIS: https://expo.dev/blog/offline-first-apps-with-expo-and-legend-state
+6/23/25, 2:46 AM - Olasunkanmi IDRIS: https://devtoys.app/
+6/23/25, 2:46 AM - Olasunkanmi IDRIS: https://freedium.cfd/https://javascript.plainenglish.io/the-cleanest-way-to-use-react-query-5f023a351d7b
+6/23/25, 2:46 AM - Olasunkanmi IDRIS: https://rombo.co/tailwind/
+6/23/25, 2:46 AM - Olasunkanmi IDRIS: https://freedium.cfd/https://javascript.plainenglish.io/the-cleanest-way-to-use-react-query-5f023a351d7b
+6/23/25, 2:46 AM - Olasunkanmi IDRIS: https://github.com/calico-games/react-native-godot
+6/23/25, 2:46 AM - Olasunkanmi IDRIS: The Cleanest Way to Use React Query
+React Query is honestly one of the best things that's happened to frontend devs. If you've ever felt the pain of managing loading states…
+
+https://freedium.cfd/https://javascript.plainenglish.io/the-cleanest-way-to-use-react-query-5f023a351d7b
+6/23/25, 2:46 AM - Olasunkanmi IDRIS: https://github.com/lodev09/react-native-true-sheet
+6/23/25, 2:46 AM - Olasunkanmi IDRIS: https://gist.github.com/DmytroLisitsyn/1c31186e5b66f1d6c52da6b5c70b12ad
+
+json dataset, containing country code and flags as emojis
+6/23/25, 2:46 AM - Olasunkanmi IDRIS: https://gunnartorfis.github.io/sonner-native/
+6/23/25, 2:46 AM - Olasunkanmi IDRIS: https://expo.dev/blog/what-are-environment-variables
+6/23/25, 2:46 AM - Olasunkanmi IDRIS: [REDACTED}
+6/23/25, 2:46 AM - Olasunkanmi IDRIS: https://mcpmarket.com/
+
+mcp tools
+6/23/25, 2:46 AM - Olasunkanmi IDRIS: [REDACTED}
+6/23/25, 2:46 AM - Olasunkanmi IDRIS: https://lawsofux.com/
+
+Laws of UX by joN Yablonskis
+6/23/25, 2:46 AM - Olasunkanmi IDRIS: [REDACTED}
+6/23/25, 2:46 AM - Olasunkanmi IDRIS: https://react-native-sortables-docs.vercel.app/
+6/23/25, 2:46 AM - Olasunkanmi IDRIS: https://www.focusbuddy.ai/?utm_source=www.joinhorizon.ai&utm_medium=newsletter&utm_campaign=mistral-launches-new-ai-models-and-chat-features&_bhlid=a99397bf699c18cb616740701722b853cef19378
+6/23/25, 2:46 AM - Olasunkanmi IDRIS: expoai sdk stuff. https://t.co/NTgGKIGqSw
+6/23/25, 2:46 AM - Olasunkanmi IDRIS: https://www.turbolens.io/?utm_source=www.joinhorizon.ai&utm_medium=newsletter&utm_campaign=mistral-launches-new-ai-models-and-chat-features&_bhlid=1024a19c83281095c8ae7b1c21454a6798b9d244
+6/23/25, 2:46 AM - Olasunkanmi IDRIS: Fine-tune an ai model to understand handwritten text notes and convert it to readable text or speech
+6/23/25, 2:46 AM - Olasunkanmi IDRIS: Build a tool call writeAssist that uses realtime video capabilities with live kit.io understands handwriting, uses ollama Claude 3.5 sonnet and runs fully on device. Has advanced reasoning capabilities and is finetuned to education. It learns froms a dataset on files In realtime.remembers data from videos and text
+6/23/25, 2:46 AM - Olasunkanmi IDRIS: https://docs.swmansion.com/react-native-executorch/docs/fundamentals/getting-started
+
+A reactnative library for ondevice ai usage
+6/23/25, 2:46 AM - Olasunkanmi IDRIS: The write Assist has a model that constantly segments the handwriting and continually uses them to train itself based on input from the user, like a floating question that asks, what is the content of this picture, help me understand it better.
+6/23/25, 2:46 AM - Olasunkanmi IDRIS: Anthropic is proposing a new standard for connecting AI assistants to the systems where data resides.
+
+Called the Model Context Protocol, or MCP for short, Anthropic says the standard, which it open sourced today, could help AI models produce better, more relevant responses to queries.
+
+Read more on MCP here: https://tcrn.ch/3CVNbmk
+6/23/25, 2:46 AM - Olasunkanmi IDRIS: https://cursify.vercel.app/cursor-animations/
+6/23/25, 2:46 AM - Olasunkanmi IDRIS: *Data Structures/Algorithms to know :*
+
+Data Structures: Stack, Queue, Hashmap, Set, Graph, etc.
+
+Algorithms: Dynamic programming, Greedy algorithm, Recursion, etc.
+6/23/25, 2:46 AM - Olasunkanmi IDRIS: https://medium.com/volvo-cars-engineering/use-google-play-instant-to-handle-deep-links-a-real-world-scenario-c7b6b4db0aad
+6/23/25, 2:46 AM - Olasunkanmi IDRIS: https://svgl.app/
+6/23/25, 2:46 AM - Olasunkanmi IDRIS: Read more at:
+http://m.timesofindia.com/articleshow/115813370.cms?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst
+6/23/25, 2:46 AM - Olasunkanmi IDRIS: https://dev.appsflyer.com/hc
+
+appsFlyer developer hub for deeplinking and deferred deeplininking
+6/23/25, 2:46 AM - Olasunkanmi IDRIS: https://www.appsflyer.com/resources/guides/deep-linking-for-developers/
+6/23/25, 2:46 AM - Olasunkanmi IDRIS: https://www.appsflyer.com/solutions/zero-budget-marketing/
+6/23/25, 2:46 AM - Olasunkanmi IDRIS: https://www.youtube.com/watch?v=CxORa1tXMjw
+6/23/25, 2:46 AM - Olasunkanmi IDRIS: https://medium.com/doping-technology-blog/react-native-performance-optimisation-10-real-world-cases-and-solutions-1cc7cc931deb
+6/23/25, 2:46 AM - Olasunkanmi IDRIS: https://github.com/numandev1/react-native-compressor
+6/23/25, 2:46 AM - Olasunkanmi IDRIS: https://github.com/invertase/react-native-google-mobile-ads
+6/23/25, 2:46 AM - Olasunkanmi IDRIS: https://marceloprado.github.io/flash-calendar/
+6/23/25, 2:46 AM - Olasunkanmi IDRIS: https://freedium.cfd/https://levelup.gitconnected.com/context-vs-prior-knowledge-how-to-modify-llm-behavior-88016b2846ab
+6/23/25, 2:46 AM - Olasunkanmi IDRIS: https://freedium.cfd/https://jinlow.medium.com/master-document-preview-in-react-implementing-docx-pdf-excel-and-pptx-viewers-with-key-e0d3940b921f
+6/23/25, 2:46 AM - Olasunkanmi IDRIS: https://freedium.cfd/https://levelup.gitconnected.com/next-js-state-management-patterns-with-react-server-components-ep-4-c06c073ed517
+6/23/25, 2:46 AM - Olasunkanmi IDRIS: https://dev.to/apidog/how-to-mock-apis-in-40s-and-build-frontend-apps-10x-faster-4d3i?context=digest
+6/23/25, 2:46 AM - Olasunkanmi IDRIS: https://dev.to/peboycodes/9-javascript-one-liners-that-replace-50-lines-of-code-6j4?context=digest
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://github.com/ItzCrazyKns/Perplexica/
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://beeceptor.com/mock-api/index.html
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://mockapi.io/
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://fakend.fyi
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://freedium.cfd/https://levelup.gitconnected.com/context-vs-prior-knowledge-how-to-modify-llm-behavior-88016b2846ab
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://samwho.dev/load-balancing/
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://pixijs.com/
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://pixijs.com/
+2D graphics creator
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://www.youtube.com/watch?v=YtBOJKuEz9g
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://www.youtube.com/watch?v=_YBDHmpAduM&t=129s
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://cloudvisor.co/aws-for-startups/
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: Helps to better understand when and when to use the useEffect hook. 
+
+https://freedium.cfd/https://blog.stackademic.com/why-should-we-avoid-useeffect-bede7da22582
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://youtu.be/qNX1-T74kLI?si=Cd_nzpPyrOkgFGmq
+
+Watch this to learn how to build animated svgs like the svgs that move... Say a line growing into view
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://youtu.be/mhs9aRH_7uI?si=O3kVAU5Jt2eCUSzV
+
+Build on device ai and easily switch to remote
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://youtube.com/shorts/Kaeej-gvJd8?si=wRwn0D5RSIVDWjqC
+
+Tailoring your portfolio writeup to be better
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://www.reddit.com/r/LocalLLaMA/comments/1grcukd/react_native_executorch_library_is_out/
+
+On device ai for react native
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://www.youtube.com/watch?v=JVMiTexyp6U
+
+short 14 min video to implement push notification in PWA
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://www.youtube.com/watch?v=W-rlFj0d0RQ
+
+fire base push notification
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://reactiive.io/demos
+
+View demos of animations possible in expo
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: to startup an expo app quickly with nativewindUI, tamagyui etc.
+
+just run it and all is installed.
+
+https://createexpostack.com/
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://github.com/saulamsal/react-native-sheet-transitions?%20State%20of%20React%20Native%20-%2016011035
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://youtube.com/shorts/Zeeif8xSOnM?si=sVYvepqjyhf4l8q4
+
+Check here for tiny little details to make your portfolio website more better
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: Building an on-device AI mobile App with LLaMA 3.2
+https://blog.gopenai.com/building-an-on-device-ai-mobile-app-with-llama-3-2-20f7aa2e292c
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: using two githup profiles in VS CODE. 
+
+
+
+To switch the GitHub profile connected to your VSCode, follow these steps:
+
+Method 1: Using the VSCode GitHub Extension
+1. Open VSCode: Launch VSCode on your machine.
+2. Open the Command Palette: Press Ctrl + Shift + P (Windows/Linux) or Cmd + Shift + P (macOS).
+3. Type "GitHub: Manage Accounts": In the Command Palette, type "GitHub: Manage Accounts" and select the option.
+4. Add a New Account: Click the "+" button to add a new GitHub account.
+5. Authenticate the New Account: Follow the prompts to authenticate the new GitHub account.
+6. Switch to the New Account: Once authenticated, you can switch to the new account by clicking on the account name in the VSCode status bar.
+
+Method 2: Using the GitHub CLI
+1. Open a Terminal: Open a terminal in VSCode by pressing Ctrl + (Windows/Linux) or Cmd + (macOS).
+2. Login to the New Account: Run the command gh auth login and follow the prompts to authenticate the new GitHub account.
+3. Switch to the New Account: Once authenticated, you can switch to the new account by running the command gh config set default-user <new-username>.
+
+Method 3: Using the VSCode Settings
+1. Open the VSCode Settings: Press Ctrl + Shift + P (Windows/Linux) or Cmd + Shift + P (macOS) and type "Open Settings (JSON)".
+2. Update the GitHub Account: In the settings.json file, update the "github.accounts" setting to include the new GitHub account.
+3. Restart VSCode: Restart VSCode for the changes to take effect.
+
+After switching to the new GitHub account, you should be able to clone repositories from that account.
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://www.linkedin.com/feed/update/urn:li:activity:7275845780127526912?utm_source=share&utm_medium=member_desktop
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://www.linkedin.com/posts/fazlurshah_equity-compensation-guide-ugcPost-7275756167706910722-bTbw?utm_source=share&utm_medium=member_desktop
+
+use this method to share equity in startup
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://www.zdnet.com/article/no-one-wants-another-chatbot-this-is-the-ai-we-actually-need/
+
+Artificial General Intelligence
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: NOTE!!!: checkout browserbase and stagehand, for webserarch automation for ai, ai can search the web
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://www.linkedin.com/feed/update/urn:li:activity:7276292806581645312?utm_source=share&utm_medium=member_android
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://www.npmjs.com/package/modal-swipe-up
+
+Modal that falls in into the app
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://github.com/huggingface/transformers.js-examples/tree/main/llama-3.2-webgpu
+
+transformer js, place to find examples of ai running in web & js
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: [REDACTED}
+
+IOS simulator, 50 minutes per month
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: ***PMF***
+
+Here's what it actually looks like:
+
+• Your customers can't shut up about you
+• Growth feels effortless
+• Sales cycles get shorter, not longer
+• Support tickets change from "how to" to "what else"
+
+But here's the truth bomb 💣
+You don't find Product-Market Fit.
+It finds you.
+
+Think about Uber's early days:
+People were BEGGING for invite codes.
+Users became voluntary salespeople.
+Growth was impossible to stop.
+
+That's what PMF feels like.
+
+Here's my simple checklist to know if you've hit it:
+
+1. The Pull Test ⚡
+- Are customers coming to you?
+- Or are you chasing them?
+
+2. The Referral Test 🗣
+- Do users actively share your product?
+- Without rewards or incentives?
+
+3. The "Very Disappointed" Test 💔
+- Ask: "How would you feel if you could no longer use our product?"
+- If >40% say "very disappointed" - you're onto something
+
+4. The Sales Test 💪
+- Are deals closing faster?
+- Is price becoming less of an issue?
+
+5. The Sleep Test 😴
+- Do you wake up to more signups?
+- Instead of more problems?
+
+The brutal truth?
+If you're wondering whether you have Product-Market Fit...
+You probably don't.
+When you have it, you KNOW.
+It feels like riding a rocket ship 🚀
+Not pushing a boulder uphill.
+
+Remember:
+- PMF is not binary - it exists on a spectrum
+- It can be achieved in segments before full market
+- It needs to be maintained and can be lost
+- Different businesses show different PMF signals
+- Focus on trends over absolute numbers
+- Consider your specific market context
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: expo header package.
+https://www.npmjs.com/package/expo-header
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: expo-drawer
+https://www.npmjs.com/package/expo-drawer
+
+For super customized drawer navigation
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: Richtext editor resources.
+
+https://www.youtube.com/watch?v=CxORa1tXMjw
+
+https://docs.expo.dev/guides/editing-richtext/
+
+https://lexical.dev/gallery
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://www.youtube.com/watch?v=pg19Z8LL06w&t=115s
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://www.youtube.com/watch?v=s_o8dwzRlu4
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://piling.js.org/
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://www.thisdot.co/blog/build-facial-recognition-and-chatbot-ais-using-typescript-with-jack
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://x.com/jherr/status/1818011994647335093
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://modelfusion.dev/blog/llamacpp-nextjs-chatbot/
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://modelfusion.dev/blog/ollama-nextjs-chatbot
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: Yes, it is possible to create a peer-to-peer (P2P) network that leverages location data and Bluetooth Low Energy (BLE) to confirm proximity, such as for a classroom attendance system. This approach combines geolocation for rough distance calculations and BLE for more precise confirmation. Here's how you can implement it:
+
+---
+
+### **System Components**
+1. **Geolocation:**  
+   Use latitude and longitude to calculate approximate distances between users using the Haversine formula.  
+   - **Purpose:** Pre-filter users who are likely in the same class based on location.  
+
+2. **Bluetooth Low Energy (BLE):**  
+   Use BLE for device discovery and communication to confirm proximity.  
+   - **Purpose:** Ensure users are within a small physical radius, e.g., inside the same room.
+
+3. **P2P Communication:**  
+   Devices exchange information like user IDs, timestamps, or session tokens to verify attendance.  
+   - **Purpose:** Enable decentralized communication without a server dependency.
+
+---
+
+### **Steps to Implement**
+#### 1. **Location Filtering**
+   - Use the device's GPS to periodically get the user's location. 
+   - Calculate distances between users in the network using the **Haversine formula**:
+     ```javascript
+     const haversineDistance = (lat1, lon1, lat2, lon2) => {
+       const toRad = (value) => (value * Math.PI) / 180;
+       const R = 6371; // Earth's radius in km
+       const dLat = toRad(lat2 - lat1);
+       const dLon = toRad(lon2 - lon1);
+       const a =
+         Math.sin(dLat / 2) ** 2 +
+         Math.cos(toRad(lat1)) * Math.cos(toRad(lat2)) * Math.sin(dLon / 2) ** 2;
+       const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+       return R * c * 1000; // Distance in meters
+     };
+     ```
+
+#### 2. **BLE Setup**
+   - Enable BLE advertising and scanning on devices.
+   - Assign a unique identifier (e.g., UUID) to each device when the session starts.
+   - Use BLE libraries for the chosen platform:
+     - **Android/iOS:** [React Native BLE PLX](https://github.com/dotintent/react-native-ble-plx)
+     - **Native:** iOS CoreBluetooth or Android BLE APIs.
+
+#### 3. **Proximity Confirmation**
+   - Devices broadcast their presence via BLE (advertising).
+   - Nearby devices scan for BLE advertisements and validate:
+     - The presence of expected identifiers.
+     - The RSSI (Received Signal Strength Indicator) to estimate BLE proximity.
+
+#### 4. **Ping Requests**
+   - Use BLE to exchange ping requests to confirm:
+     - Presence.
+     - Session participation.
+   - Each ping can include encrypted data (e.g., session token) for security.
+
+#### 5. **Attendance Logic**
+   - After both geolocation and BLE confirmation, mark users as present.
+   - Optionally, synchronize this data with a central database if required.
+
+---
+
+### **Example Workflow**
+1. **User Location Check:**  
+   Devices share their latitude and longitude over a local P2P network or centralized server.
+2. **Pre-Filter by Distance:**  
+   Devices within a predefined distance (e.g., 50m) are shortlisted.
+3. **BLE Validation:**  
+   Shortlisted devices start BLE communication to verify they are in the same physical space.
+4. **Pinging:**  
+   Devices exchange pings to confirm and log their attendance.
+
+---
+
+### **Considerations**
+1. **Battery Usage:**  
+   GPS and BLE can drain battery if not optimized. Use smart intervals for location updates and BLE scanning.
+2. **Privacy:**  
+   - Encrypt communication.
+   - Avoid storing or sharing precise location data unnecessarily.
+3. **Interference:**  
+   BLE performance can be affected by obstacles or interference in the environment. Use signal processing techniques to filter noise.
+
+---
+
+### **Alternatives**
+- **WiFi P2P:** Use WiFi-Direct instead of BLE for device discovery.
+- **NFC:** For very close-range confirmation (requires tapping devices).
+- **Centralized Server:** For location sharing and BLE coordination if P2P is too complex.
+
+---
+
+### **Debugging and Optimization**
+- **Testing Tools:**  
+   Use tools like nRF Connect to debug BLE communication and test RSSI strength.
+- **Logging:**  
+   Log location, BLE advertisements, and pings to identify bottlenecks.
+- **Optimization:**  
+   Minimize GPS and BLE usage frequency to balance performance and power consumption.
+
+Would you like pseudocode or implementation details for a specific component of this system?
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://dev.to/thesohailjafri/the-must-have-seo-checklist-for-developers-192i
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://tavily.com/#pricing
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://www.nextafter.com/blog/3-lessons-from-analyzing-the-key-metrics-of-155-nonprofits/
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: Let’s get it straight so you never blank out in an interview. 👇 
+
+ 1/ What is CORS? 
+CORS stands for Cross-Origin Resource Sharing—a security feature built into browsers. 
+
+It blocks requests made from one origin (domain, protocol, or port) to another origin unless explicitly allowed by the server. 
+
+For example: 
+- Your frontend is hosted at `frontend.com`. 
+- Your backend API is hosted at `api.backend.com`. 
+
+The browser treats these as different origins and blocks the request unless it’s explicitly allowed. 
+
+ 2/ Why Does It Happen? 
+CORS errors are triggered by the Same-Origin Policy, which prevents malicious websites from making unauthorized API calls using your credentials. 
+
+When the backend server doesn’t include the right CORS headers, the browser refuses to share the response and throws this error: 
+
+> *Access to fetch at 'https://api.backend.com' from origin 'https://frontend.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present.* 
+
+In short, the browser isn’t blocking the request—it’s blocking the response for security reasons. 
+
+ 3/ The Real Problem Behind CORS 
+- It’s not a frontend issue. 
+- It’s not a browser bug. 
+- It’s a server-side configuration issue. 
+
+Most candidates panic and assume the browser is the problem. It’s not. 
+
+CORS is the server’s responsibility to allow or deny requests from other origins. 
+
+ 4/ How Do You Fix It? 
+
+Step 1: Update the Backend. 
+The server must send the right headers, like: 
+- `Access-Control-Allow-Origin: *` (Allows all origins). 
+- Or specify trusted domains like `Access-Control-Allow-Origin: https://frontend.com`. 
+
+Step 2: Handle Preflight Requests (OPTIONS). 
+For complex requests (like `POST` with custom headers), browsers send a preflight request before the actual call. 
+
+The server must respond to this with: 
+- `Access-Control-Allow-Methods: GET, POST, OPTIONS` 
+- `Access-Control-Allow-Headers: Content-Type, Authorization` 
+
+Step 3: Use a Proxy for Local Development. 
+If the backend isn’t updated yet, set up a proxy to forward requests through the same origin as your frontend. 
+
+ 5/ Can We Bypass CORS? 
+Short answer—No. 
+
+Any hacky workaround, like disabling CORS in the browser or using extensions, won’t work in production. 
+
+Fix it properly by configuring the server. That’s the only scalable solution. 
+
+ 6/ Why Is This Important in Interviews? 
+Because CORS tests whether you: 
+- Understand how the web works. 
+- Can debug issues logically. 
+- Know where the real problem lies (backend vs frontend).
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://freedium.cfd/https://pub.towardsai.net/transform-pdfs-into-llm-fine-tuned-dataset-for-free-a8a20219b31e
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://www.reactbits.dev/
+
+Check here for mad ass UI for react
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://finetunedb.com/?_bhlid=33fdda587f11e65d1f307c65e4342db84fcefb6f
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://www.gecko.security/?_bhlid=a6b89db762037efe79b63da7b9f201441011ede6
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://www.fancycomponents.dev/
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://www.youtube.com/live/iYX-3hCVmK8?si=nSycWM8XtkzFQVUp
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: Windows Suite Activation Cheats
+https://www.tiktok.com/@officialdevices/video/7423384635461078277
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://deepmind.google/about/education/
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://www.youtube.com/watch?v=wTGVHLyV09M
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://webflow-new.povio.com/blog/passing-app-store-reviews
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://youtu.be/F3KJNgINMIQ?si=pdeHovBmbq9wiiMu
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://www.youtube.com/watch?v=UIMG1kFiWa4
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://www.youtube.com/watch?v=90E4Z9ftHzA
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://codepen.io/jh3y/pen/zxOJdEe
+
+Curved Scrollbar
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://www.youtube.com/watch?v=fD0E57QYSPk
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://github.com/wodin/expo-ocr-example
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://openlit.io/?_bhlid=7623a3d1d0d4ef0b470583570c6cea7ffc579319
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://gist.github.com/anubhavshrimal/75f6183458db8c453306f93521e93d37
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://freedium.cfd/10%20Game-Changing%20React%20Native%20Tips%20for%20Better%20Mobile%20Development%20in%202025%20%F0%9F%9A%80%20https://javascript.plainenglish.io/10-game-changing-react-native-tips-for-better-mobile-development-in-2024-4bf31c5621da
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: Dr Prime just released a new article on Implementing WebCam Recording in a web app using JavaScript
+
+The article discusses the MediaRecorder API, MediaDevices API, how to record and save videos, add audio, and handle multiple videos and audio options.
+
+Read to find out more:
+https://dev.to/drprime01/how-to-implement-webcam-recording-on-the-web-using-javascript-1p4g
+
+Read 📖, Like 👍, Share 🔁, and Enjoy 🚀
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: I created this package in case anyone needs it.
+A GitHub star would be highly appreciated.
+
+https://www.npmjs.com/package/react-native-pdf-from-image
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: Here you go:
+
+https://huggingface.co/learn
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://www.nvidia.com/en-us/learn/
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://dev.to/michellebuchiokonicha/python-oop-made-easy-master-object-oriented-programming-with-ease-4h9e
+
+
+Trying to understand OOP?
+
+Well, this guide breaks it down in its easiest terms
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://freedium.cfd/https://medium.com/@mohantaankit2002/debugging-memory-leaks-in-react-native-apps-common-causes-and-fixes-e013405317fe
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://github.com/efstathiosntonas/react-native-style-libraries-benchmark?tab=readme-ov-file
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://www.ycombinator.com/launches/Mnc-assistant-ui-open-source-typescript-react-library-for-ai-chat
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://dev.to/silviaodwyer/10-open-source-documentation-frameworks-to-check-out-331f
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: Always use this to fix all Next JS 15 errors. it enters and fixes it like magic. it saved me. npx @next/codemod@canary next-async-request-api
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: List of React Native Concepts:
+
+1. Deep Linking in React Native
+
+2. Implementing QR Code Scanner and Generator
+
+3. Navigation in React Native (React Navigation)
+
+4. In-App Update Alerts in React Native
+
+5. Push Notifications (Firebase FCM, Notifee)
+
+6. Local Notifications in React Native
+
+7. State Management (Redux, Context API, Zustand)
+
+8. Animations in React Native (Reanimated, Lottie, Skia)
+
+9. Handling Permissions in React Native
+
+10. React Native Gesture Handling
+
+11. Offline Storage and Caching (AsyncStorage, MMKV)
+
+12. API Integration (Axios, Fetch, GraphQL)
+
+13. React Native Background Tasks
+
+14. Splash Screen and App Loading Optimization
+
+15. Dynamic Theming (Dark Mode, Custom Themes)
+
+16. Authentication in React Native (Firebase Auth, OAuth)
+
+17. Social Media Login (Google, Apple, Facebook)
+
+18. File Upload and Download in React Native
+
+19. Handling App Permissions (Camera, Location, Storage, Notification)
+
+20. Custom Bottom Sheet and Modals
+
+21. Real-time chat (WebSockets, Socket.io, GetStream.io)
+
+22. Multi-Language Support (i18n, Localization)
+
+23. Gesture-Based UI Interactions
+
+24. Working with Maps (Google Maps, Mapbox)
+
+25. Implementing Biometric Authentication (Fingerprint, Face ID)
+
+26. Payment Integration (Paystack, Flutterwave, Stripe)
+
+27. Background Services in React Native
+
+28. Implementing WebView for Hybrid Apps
+
+29. Debugging and Performance Optimization
+
+30. Custom Fonts and Icons in React Native
+
+31. Building Custom Native Modules
+
+32. Handling Deep Links and Universal Links
+
+33. App Version Management and Updates
+
+34. Working with Camera and Image Processing
+
+35. Voice Recognition and Text-to-Speech
+
+36. Realtime Database Integration
+
+37. Implementing Drag and Drop Functionality
+
+38. Video and Audio Streaming in React 
+
+39. Audio and Video transcription.
+
+40. App Store and Play Store Deployment
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://www.reddit.com/r/reactnative/comments/1ix1064/react_native_boost_make_your_app_up_to_50_faster/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://react-native-boost.oss.kuatsu.de/docs/introduction/how-it-works
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://freedium.cfd/https://medium.com/@mehdibafdil/hackers-love-these-common-mern-stack-mistakes-10c728d1759f
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://olmocr.allenai.org/
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://mistral.ai/en/news/mistral-ocr?utm_source=www.joinhorizon.ai&utm_medium=newsletter&utm_campaign=duckduckgo-s-new-ai-features&_bhlid=9548eb91c80946814d4c44994e4a38fa39a5100d
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: Next js package to easily enable A/B tests and new feature tests/flags in your platform. https://flags-sdk.dev/
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://www.youtube.com/watch?v=eZBsBMf5zuQ
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: An image viewer for React (+ Native). It works with any image component - bring your own image component 
+https://github.com/nandorojo/galeria/tree/v1.1.0
+https://x.com/FernandoTheRojo/status/1899905300028879067
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: Hi all, 
+
+I recently just wrote an article on how you can implement a face liveness Detection in realtime using Amazon rekognition, NextJS and expo.
+Please check it out here
+
+https://www.linkedin.com/posts/ayomide-bamigboye-a477b4171_hi-everyone-are-you-building-an-app-that-activity-7306299359191621632-tL9G?utm_medium=ios_app&rcm=ACoAACjf_9cBD9j_8qkbFPrjJtJn1xE1ZuGFwKY&utm_source=social_share_send&utm_campaign=copy_link
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://youtu.be/wnSArmbI6qw?si=Y0V63WcLywcOzBV_
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://x.com/mironcatalin/status/1900575428248539460
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://x.com/codewithshripal/status/1900184017183613195
+Web Performance Tip 💡
+
+Easily lazy load auto-playing videos which are not above the fold 🤩👇
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://codereader.dev/blog/react-native-uncontrolled-inputs
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://mateoguzmana.github.io/react-native-fiesta/docs/fiesta-context
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://silkhq.co/
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://github.com/IvanIhnatsiuk/react-native-advanced-input-mask?tab=readme-ov-file#phone
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://medium.com/@letscodefuture/top-8-react-libraries-tools-you-need-to-know-in-2025-2afdb6c33251
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://www.keycloak.org/documentation
+
+Backend you can host
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://www.frecall.org/aboutus
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://github.com/AppAndFlow/react-native-magic-scroll?utm_source=convertkit&utm_medium=email&utm_campaign=%F0%9F%9A%80%20Galactic%20News:%20Video%20Call%20&%20Chats,%20Podcast%20Change,%20Magic%20Scroll%20&%20Better%20Error%20Messages%20-%2017206846
+
+Why react-native-magic-scroll?
+The goal of the library is to seamlessly and precisely handle your keyboard, scrollview and inputs when interacting with forms. While other solutions offer plug-and-play functionalities, we wanted to have something more precise and with more flexibility so that it can be used in any situation.
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://github.com/pioner92/react-native-auto-skeleton?utm_source=convertkit&utm_medium=email&utm_campaign=%F0%9F%9A%80%20Galactic%20News:%20Video%20Call%20&%20Chats,%20Podcast%20Change,%20Magic%20Scroll%20&%20Better%20Error%20Messages%20-%2017206846
+
+react-native-auto-skeleton is a modern skeleton loader for React Native, designed to automatically render loading placeholders (shimmer-style) based on your existing layout.
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://github.com/AppAndFlow/react-native-magic-scroll?utm_source=convertkit&utm_medium=email&utm_campaign=%F0%9F%9A%80%20Galactic%20News:%20Video%20Call%20&%20Chats,%20Podcast%20Change,%20Magic%20Scroll%20&%20Better%20Error%20Messages%20-%2017206846
+
+Why react-native-magic-scroll?
+The goal of the library is to seamlessly and precisely handle your keyboard, scrollview and inputs when interacting with forms. While other solutions offer plug-and-play functionalities, we wanted to have something more precise and with more flexibility so that it can be used in any situation.
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://github.com/lharries/whatsapp-mcp
+
+WhatsApp MCP Server
+
+This is a Model Context Protocol (MCP) server for WhatsApp.
+
+With this you can search and read your personal Whatsapp messages (including images, videos, documents, and audio messages), search your contacts and send messages to either individuals or groups. You can also send media files including images, videos, documents, and audio messages.
+
+It connects to your personal WhatsApp account directly via the Whatsapp web multidevice API (using the whatsmeow library). All your messages are stored locally in a SQLite database and only sent to an LLM (such as Claude) when the agent accesses them through tools (which you control).
+
+Here's an example of what you can do when it's connected to Claude.
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: Hey, if you're looking for the best emoji library for your Expo CLI project, here are some top options to consider:
+
+*Emoji Libraries*
+- *Emojilib*: A lightweight JSON-based library with a comprehensive collection of emojis and associated keywords. It's easy to parse data and spritesheets for emoji, making it ideal for text-based emoji handling ¹.
+- *Twemoji*: A popular emoji library with a comprehensive set of emoji designs, including SVG and PNG formats. It's actively maintained by Twitter, but note that it has a larger file size and more complex implementation for web projects.
+- *Emoji-Mart*: A full-featured emoji picker component with search, customization, and cross-framework support. It's suitable for applications requiring a complete emoji selection interface, but has a larger package size and complex implementation.
+- *Emoji-Picker-React*: A popular React library for emoji selection, with 1,102 GitHub stars. It's a great option if you're building a React-based Expo project ².
+- *Emoji-Code*: A library with a simple search feature, allowing developers to search for emojis using relevant keywords ³.
+
+*Key Considerations*
+- *File Size and Complexity*: Consider the file size and implementation complexity of each library, especially if you're building a mobile app.
+- *Customization and Features*: Think about the level of customization and features you need, such as search functionality, emoji categories, and cross-platform support.
+- *Community Support*: Look for libraries with active communities and regular updates to ensure they stay compatible with Expo and React Native.
+
+*Installation and Usage*
+To get started, you can install your chosen library using npm or yarn. For example, to install Emojilib, run:
+Then, import the library in your JavaScript file:
+You can then access emojis and their associated keywords using the library's API.
+
+Hope this helps you find the perfect emoji library for your Expo project!
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://www.makeitanimated.dev/
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://app.bankan.tech/inbox
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://nativewindui.com/
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://www.npmjs.com/package/react-native-bundle-visualizer
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://ui-avatars.com/
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://ui-avatars.com/
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://www.npmjs.com/package/react-native-bundle-visualizer
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: This youTube video helped: https://www.youtube.com/watch?v=WUhb7UAtaPc
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://t.co/VANrAgEuA7
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://github.com/arekkubaczkowski/react-native-bottom-sheet-stack
+6/23/25, 2:47 AM - Olasunkanmi IDRIS: https://x.com/S0LARIN/status/1905829104600875025?utm_source=convertkit&utm_medium=email&utm_campaign=%F0%9F%9A%80%20Galactic%20News:%20Video%20Call%20&%20Chats,%20Podcast%20Change,%20Magic%20Scroll%20&%20Better%20Error%20Messages%20-%2017206846
+
+https://github.com/Solarin-Johnson/masked-splash-screen
+
+@⁨Meta AI⁩ add a description
+6/23/25, 2:47 AM - Meta AI: Looks like you've got a few links to share 🤔. Let's break 'em down:
+
+1. The X (formerly Twitter) link seems to be a tweet from S0LARIN, but I don't have access to external links or real-time content. What's the tweet about?
+
+2. The GitHub link appears to be a repo for a project called "masked-splash-screen" by Solarin Johnson. Are you looking for help with this project or just sharing?
+
+3. You'd like me to add a description for something - could you clarify what you need a description for? 🎉
+6/23/25, 3:51 PM - Olasunkanmi IDRIS: use the imagekit video api for realtime image optimizations over the air, basically use your desired player and connect the imagekit to your s3 bucket or storage for videos, then use the image kit link to the video in your app.
+
+you can use the m3u8 hls stream to convert to toggleable streams
+
+https://imagekit.io/blog/imagekit-video-api/ <This message was edited>
+6/30/25, 7:08 PM - Olasunkanmi IDRIS: Hey everyone👋🏽
+
+You know how we’re always copying and pasting code snippets all over the place or how we start scrambling through our previous projects to find a particular code snippet we wrote one time and now need it again? 😂
+I finally built something to fix that — it’s called SnipCity
+
+It’s a simple VS Code extension that lets you save, search, and reuse your code snippets right inside your editor. Super helpful for all those little things you don’t want to rewrite again.
+
+You can check it out here:
+👉🏽 [SnipCity on VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=johndiddles-snipcity.snipcity)
+
+There’s also a web version if you wanna access your snippets anywhere:
+🌍 [snipcity.vercel.app](https://snipcity.vercel.app)
+7/3/25, 7:37 AM - Olasunkanmi IDRIS: https://www.anthropic.com/research/project-vend-1
+7/4/25, 8:36 AM - Olasunkanmi IDRIS: https://foresightjs.com/
+
+auto prefetching
+7/5/25, 4:17 AM - Olasunkanmi IDRIS: https://typesense.org/docs/29.0/api/natural-language-search.html#debug-mode
+
+for natural language searches
+7/5/25, 4:17 AM - Olasunkanmi IDRIS: Reactnative animations best practices. https://x.com/reactiive_/status/1940822398963786033
+7/5/25, 4:34 AM - Olasunkanmi IDRIS: superfast image in RN
+https://github.com/mrousavy/react-native-nitro-image
+7/5/25, 4:37 AM - Olasunkanmi IDRIS: render 3D content in RN
+https://github.com/margelo/react-native-filament
+7/5/25, 4:38 AM - Olasunkanmi IDRIS: 400ms android TTI render
+https://gist.github.com/mrousavy/d8d15eb1b8cffe60765f7fa7d67d6767
+7/5/25, 6:58 PM - Olasunkanmi IDRIS: https://www.npmjs.com/package/@m-lab/ndt7#ndt7.downloadTest
+
+JS speedtest package
+9/25/25, 6:36 AM - Olasunkanmi IDRIS: Demos is now open source.
+
+https://github.com/enzomanuelmangano/demos?utm_source=reactiive.beehiiv.com&utm_medium=newsletter&utm_campaign=demos-is-now-open-source
+9/25/25, 6:37 AM - Olasunkanmi IDRIS: https://stackoverflow.com/questions/78372557/best-practices-for-storing-keys-and-public-urls-in-expo-react-native-project-ho
+9/25/25, 6:37 AM - Olasunkanmi IDRIS: https://www.youtube.com/watch?v=wtdcJlGgfqI
+9/25/25, 6:37 AM - Olasunkanmi IDRIS: https://www.forbes.com/sites/johnhall/2017/12/17/7-books-to-help-you-improve-your-business-networking-and-build-real-relationships/
+9/26/25, 5:18 PM - Olasunkanmi IDRIS: https://www.freecodecamp.org/news/fix-memory-leaks-in-react-apps/
+10/7/25, 5:27 PM - Olasunkanmi IDRIS: https://www.npmjs.com/package/react-native-enriched
+10/7/25, 5:28 PM - Olasunkanmi IDRIS: https://github.com/margelo/react-native-nitro-fetch
+10/7/25, 5:31 PM - Olasunkanmi IDRIS: https://github.com/software-mansion-labs/expo-live-activity
+10/9/25, 10:45 PM - Olasunkanmi IDRIS: https://rork.com/?utm_source=theo
+10/10/25, 12:48 AM - Olasunkanmi IDRIS: # How to use the `debugOptimized` build variant
+
+In React Native `0.81`, the team introduced a new build variant known as `debugOptimized`. It is aimed at improving the developer experience for those developing on low-end Android devices or emulators. 
+This is achieved by running C++ optimization on the debug build while still keeping the debugger enabled. 
+
+Starting from SDK 54, you can use this variant in your project.
+
+## Enabling the `debugOptimized` variant
+
+When building your project locally using `npx expo run:android`, you can pass an additional flag to choose the build variant. 
+
+Run the following command to build a debug version with optimized C++:
+
+```
+npx expo run:android --variant debugOptimized
+```
+
+When building your app using EAS Build, you need to change the Gradle command in your `eas.json` as follows:
+```json
+{
+  "build": {
+    "development": {
+      "android": {
+        "gradleCommand": ":app:assembleDebugOptimized"
+      }
+    }
+  }
+}
+```
+10/10/25, 5:14 AM - Olasunkanmi IDRIS: https://github.com/troberts-28/react-native-timer-picker
+10/11/25, 4:35 AM - Olasunkanmi IDRIS: https://openzl.org/
+10/16/25, 1:59 PM - Olasunkanmi IDRIS: https://googlefonts.github.io/noto-emoji-animation/?icon.query=:wave:
 
 Animated Emoji
-[19/10/2025, 11:36:24 AM] Olasukanmi Idris: ‎You added Olasukanmi Idris
-[23/10/2025, 6:21:38 AM] Olasunkanmi IDRIS: https://samwho.dev/
-[28/10/2025, 7:57:49 AM] Olasunkanmi IDRIS: [REDACTED}
+10/19/25, 11:36 AM - You added Olasukanmi Idris
+10/23/25, 6:21 AM - Olasunkanmi IDRIS: https://samwho.dev/
+10/28/25, 7:57 AM - Olasunkanmi IDRIS: [REDACTED}
 
 How to securely store a password in DB
-[28/10/2025, 12:42:15 PM] Olasunkanmi IDRIS: to show soft keyboard and physical system keyboard at the same time, click the ALt i from the keybord options and then click the keyboard settings, turn off voice typing and glide typing and write in stylus and turn on show overlay keyboard when typing
-[04/11/2025, 8:36:24 AM] Olasunkanmi IDRIS: *Free Oil & Gas Certification Courses* 🚨🚨 
+10/28/25, 12:42 PM - Olasunkanmi IDRIS: to show soft keyboard and physical system keyboard at the same time, click the ALt i from the keybord options and then click the keyboard settings, turn off voice typing and glide typing and write in stylus and turn on show overlay keyboard when typing
+11/4/25, 8:36 AM - Olasunkanmi IDRIS: *Free Oil & Gas Certification Courses* 🚨🚨 
 
 Ten Oil & Gas Free Courses Online to boost your Skills and to give your CV more weight. Looking to strengthen your technical knowledge in the oil and gas sector? Here is a curated list of free courses from trusted provided perfect for Students, Fresh Graduates & Professionals.
 
@@ -51,46 +1429,45 @@ Covers exploration, drilling and production within the Upstream Sector.
 *Link:* https://www.edx.org/course/upstream-oil-gas-operations
 
 Most of these platforms allow free access to course contents with optional paid certificates. A great way to keep learning and stay competitive in the energy sector 🚀
-[08/11/2025, 7:29:38 AM] Olasunkanmi IDRIS: https://github.com/l2hyunwoo/react-native-nitro-device-info?utm_source=chatgpt.com
-[08/11/2025, 7:31:41 AM] Olasunkanmi IDRIS: https://github.com/calico-games/react-native-godot
-[10/11/2025, 7:01:58 PM] Olasunkanmi IDRIS: https://commoncrawl.org/blog/october-2025-crawl-archive-now-available
+11/8/25, 7:29 AM - Olasunkanmi IDRIS: https://github.com/l2hyunwoo/react-native-nitro-device-info?utm_source=chatgpt.com
+11/8/25, 7:31 AM - Olasunkanmi IDRIS: https://github.com/calico-games/react-native-godot
+11/10/25, 7:01 PM - Olasunkanmi IDRIS: 
+11/10/25, 7:01 PM - Olasunkanmi IDRIS: https://commoncrawl.org/blog/october-2025-crawl-archive-now-available
 
 
 Crawling the internet
-[12/11/2025, 9:11:25 AM] Olasunkanmi IDRIS: https://learn.deeplearning.ai/courses/design-develop-and-deploy-multi-agent-systems-with-crewai/lesson/6y63p/course-overview
-[16/11/2025, 11:06:20 PM] Olasunkanmi IDRIS: https://github.com/jonasstrehle/supercookie/
+11/12/25, 9:11 AM - Olasunkanmi IDRIS: https://learn.deeplearning.ai/courses/design-develop-and-deploy-multi-agent-systems-with-crewai/lesson/6y63p/course-overview
+11/16/25, 11:06 PM - Olasunkanmi IDRIS: https://github.com/jonasstrehle/supercookie/
 
 Supercookie uses favicons to assign a unique identifier to website visitors.
 Unlike traditional tracking methods, this ID can be stored almost persistently and cannot be easily cleared by the user.
 
 The tracking method works even in the browser's incognito mode and is not cleared by flushing the cache, closing the browser or restarting the operating system, using a VPN or installing AdBlockers. 🍿 Live demo.
-‎[16/11/2025, 11:31:25 PM] Olasunkanmi IDRIS: https://github.com/mahdidavoodi7/draggable-video-control
-
-liquid glass video control ‎image omitted
-[16/11/2025, 11:38:05 PM] Olasunkanmi IDRIS: Get free domain names. https://www.opensourceprojects.dev/post/1959600649026302372
-[16/11/2025, 11:52:23 PM] Olasunkanmi IDRIS: https://github.com/harvard-edge/cs249r_book
+11/16/25, 11:31 PM - Olasunkanmi IDRIS: <Media omitted>
+11/16/25, 11:38 PM - Olasunkanmi IDRIS: Get free domain names. https://www.opensourceprojects.dev/post/1959600649026302372
+11/16/25, 11:52 PM - Olasunkanmi IDRIS: https://github.com/harvard-edge/cs249r_book
 
 ML course
-[18/11/2025, 7:07:15 PM] Olasunkanmi IDRIS: https://t.co/f5RI3Iv4BU
+11/18/25, 7:07 PM - Olasunkanmi IDRIS: https://t.co/f5RI3Iv4BU
 
 retrive sms for OTP in RN
-[20/11/2025, 5:10:37 PM] Olasunkanmi IDRIS: https://www.techstars.com/blog/advice/techstars-fundraising-series-prepping-your-materials?utm_campaign=7170195-1e_Universal%20Newsletter&utm_medium=email&_hsenc=p2ANqtz-_sZ50ehYfBLMRXaTLTN6Q4-ZRRoJ6cP308IBu8NEm-oi_gB6TgR4sxoIu8FPOQ1RlegA_4dBPKGAq8U71eHCEVFT4jpGuGy0BVdTEWK6tVJA3GiLE&_hsmi=100212283946&utm_content=390601746&utm_source=hs_email
-[20/11/2025, 5:10:52 PM] Olasunkanmi IDRIS: https://www.techstars.com/blog/advice/techstars-fundraising-series-ready-to-raise-essential-tips-for-startups?utm_campaign=7170195-1e_Universal%20Newsletter&utm_medium=email&_hsenc=p2ANqtz--dsjMKt1iNCuDX0O8yqNYNd3OWvQOnr7-KAycviW5mZnzW6RpVujugpXNHDwmlXPg4dpvM_kMIwGM2AWqDzzCac0pe5lMG6Na_KqXnY00XmAp-BUw&_hsmi=100212283946&utm_content=390601746&utm_source=hs_email
+11/20/25, 5:10 PM - Olasunkanmi IDRIS: https://www.techstars.com/blog/advice/techstars-fundraising-series-prepping-your-materials?utm_campaign=7170195-1e_Universal%20Newsletter&utm_medium=email&_hsenc=p2ANqtz-_sZ50ehYfBLMRXaTLTN6Q4-ZRRoJ6cP308IBu8NEm-oi_gB6TgR4sxoIu8FPOQ1RlegA_4dBPKGAq8U71eHCEVFT4jpGuGy0BVdTEWK6tVJA3GiLE&_hsmi=100212283946&utm_content=390601746&utm_source=hs_email
+11/20/25, 5:10 PM - Olasunkanmi IDRIS: https://www.techstars.com/blog/advice/techstars-fundraising-series-ready-to-raise-essential-tips-for-startups?utm_campaign=7170195-1e_Universal%20Newsletter&utm_medium=email&_hsenc=p2ANqtz--dsjMKt1iNCuDX0O8yqNYNd3OWvQOnr7-KAycviW5mZnzW6RpVujugpXNHDwmlXPg4dpvM_kMIwGM2AWqDzzCac0pe5lMG6Na_KqXnY00XmAp-BUw&_hsmi=100212283946&utm_content=390601746&utm_source=hs_email
 
 
 Techstars Fundraising Series: Ready to Raise? Essential Tips for Startup Fundraising
-[20/11/2025, 6:59:29 PM] Olasunkanmi IDRIS: https://svcg.education.gov.ng/
+11/20/25, 6:59 PM - Olasunkanmi IDRIS: https://svcg.education.gov.ng/
 
 students venture capital
-[20/11/2025, 7:25:26 PM] Olasunkanmi IDRIS: https://github.com/killserver/react-native-screenshot-prevent
-[25/11/2025, 11:01:04 PM] Olasunkanmi IDRIS: https://www.linkedin.com/posts/punitweb_uxui-design-portfolio-secrets-ugcPost-7398654204799574016-hzsW?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAC_wyToBMOsMrggQJz5xqL6k7f2J_VediLw
-[26/11/2025, 8:51:58 PM] Olasunkanmi IDRIS: https://www.x402.org/
+11/20/25, 7:25 PM - Olasunkanmi IDRIS: https://github.com/killserver/react-native-screenshot-prevent
+11/25/25, 11:01 PM - Olasunkanmi IDRIS: https://www.linkedin.com/posts/punitweb_uxui-design-portfolio-secrets-ugcPost-7398654204799574016-hzsW?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAC_wyToBMOsMrggQJz5xqL6k7f2J_VediLw
+11/26/25, 8:51 PM - Olasunkanmi IDRIS: https://www.x402.org/
 
 micropayments for apis
-uses only crypto ‎<This message was edited>
-[27/11/2025, 1:14:02 AM] Olasunkanmi IDRIS: https://vert.sh/
+uses only crypto <This message was edited>
+11/27/25, 1:14 AM - Olasunkanmi IDRIS: https://vert.sh/
 fully local file converter
-[30/11/2025, 4:44:25 AM] Olasunkanmi IDRIS: https://www.npmjs.com/package/next-themes
+11/30/25, 4:44 AM - Olasunkanmi IDRIS: https://www.npmjs.com/package/next-themes
 
 An abstraction for themes in your React app.
 
@@ -104,7 +1481,7 @@ An abstraction for themes in your React app.
 ✅ Force pages to specific themes
 ✅ Class or data attribute selector
 ✅ useTheme hook
-[02/12/2025, 8:19:48 AM] Olasunkanmi IDRIS: ***
+12/2/25, 8:19 AM - Olasunkanmi IDRIS: ***
 
 ### Copy and Paste this Prompt
 
@@ -172,24 +1549,24 @@ Once the AI generates this breakdown, here is how you turn it into a dollar amou
     *   If they want "High Fidelity with Logic/Variables" (like in Figma Pro), add 25-30%.
 
 **Pro Tip:** If the AI points out vague areas in the PRD (under the "Context" instruction), use those questions to ask the client for clarification *before* you quote. This makes you look extremely professional and detailed.
-[02/12/2025, 11:58:19 PM] Olasunkanmi IDRIS: https://docs.swmansion.com/detour/
-[03/12/2025, 5:39:10 AM] Olasunkanmi IDRIS: https://github.com/Gautham495/react-native-nitro-cloud-uploader
-[03/12/2025, 8:52:38 AM] Olasunkanmi IDRIS: https://github.com/heroui-inc/heroui-native
+12/2/25, 11:58 PM - Olasunkanmi IDRIS: https://docs.swmansion.com/detour/
+12/3/25, 5:39 AM - Olasunkanmi IDRIS: https://github.com/Gautham495/react-native-nitro-cloud-uploader
+12/3/25, 8:52 AM - Olasunkanmi IDRIS: https://github.com/heroui-inc/heroui-native
 
 toast package
-[08/12/2025, 7:03:10 PM] Olasunkanmi IDRIS: https://github.com/alexbrazier/react-native-network-logger
-[09/12/2025, 4:54:51 AM] Olasunkanmi IDRIS: Next JS background tasks.https://github.com/triggerdotdev/trigger.dev
-[09/12/2025, 5:00:00 AM] Olasunkanmi IDRIS: https://github.com/garmeeh/next-seo
-[11/12/2025, 12:02:52 PM] Olasunkanmi IDRIS: https://github.com/mobile-next/mobile-mcp
-[11/12/2025, 8:28:43 PM] Olasunkanmi IDRIS: https://elysiajs.com/
+12/8/25, 7:03 PM - Olasunkanmi IDRIS: https://github.com/alexbrazier/react-native-network-logger
+12/9/25, 4:54 AM - Olasunkanmi IDRIS: Next JS background tasks.https://github.com/triggerdotdev/trigger.dev
+12/9/25, 4:59 AM - Olasunkanmi IDRIS: https://github.com/garmeeh/next-seo
+12/11/25, 12:02 PM - Olasunkanmi IDRIS: https://github.com/mobile-next/mobile-mcp
+12/11/25, 8:28 PM - Olasunkanmi IDRIS: https://elysiajs.com/
 
 bun framework
-[12/12/2025, 5:47:12 PM] Olasunkanmi IDRIS: https://www.actionstatelabs.com/
-[13/12/2025, 8:17:25 AM] Olasunkanmi IDRIS: https://schimizu.com/simian-army-netflixs-chaos-engineering-tools-6ae2e4baa9d5
-[13/12/2025, 8:38:49 AM] Olasunkanmi IDRIS: https://principlesofchaos.org/
-[13/12/2025, 8:39:13 AM] Olasunkanmi IDRIS: https://github.com/netflix/chaosmonkey
-[16/12/2025, 10:21:38 PM] Olasunkanmi IDRIS: https://github.com/actionstatelabs/android-action-kernel
-[21/12/2025, 12:09:24 PM] Olasunkanmi IDRIS: https://www.triplit.dev/docs
+12/12/25, 5:47 PM - Olasunkanmi IDRIS: https://www.actionstatelabs.com/
+12/13/25, 8:17 AM - Olasunkanmi IDRIS: https://schimizu.com/simian-army-netflixs-chaos-engineering-tools-6ae2e4baa9d5
+12/13/25, 8:38 AM - Olasunkanmi IDRIS: https://principlesofchaos.org/
+12/13/25, 8:39 AM - Olasunkanmi IDRIS: https://github.com/netflix/chaosmonkey
+12/16/25, 10:21 PM - Olasunkanmi IDRIS: https://github.com/actionstatelabs/android-action-kernel
+12/21/25, 12:09 PM - Olasunkanmi IDRIS: https://www.triplit.dev/docs
 
 Triplit is an open-source database that syncs data between server and browser in real-time:
 🔄 Real-time sync with incremental updates and conflict resolution at the property level
@@ -204,21 +1581,21 @@ Triplit is an open-source database that syncs data between server and browser in
 🤝 Collaboration/Multiplayer powered by CRDTs
 🏎️ Low latency with minimal network traffic using delta patches
 📝 Simple API for querying and mutating data in both vanilla Javascript and frameworks like React
-‎[25/12/2025, 4:50:15 PM] Olasunkanmi IDRIS: https://x.com/_avichawla/status/2004077473575981309 ‎image omitted
-‎[25/12/2025, 5:21:41 PM] Olasunkanmi IDRIS: https://github.com/tw93/Mole ‎image omitted
-[25/12/2025, 5:22:18 PM] Olasunkanmi IDRIS: Features
+12/25/25, 4:50 PM - Olasunkanmi IDRIS: <Media omitted>
+12/25/25, 5:21 PM - Olasunkanmi IDRIS: <Media omitted>
+12/25/25, 5:22 PM - Olasunkanmi IDRIS: Features
 Unified toolkit: Consolidated features of CleanMyMac, AppCleaner, DaisyDisk, and iStat into a single binary
 Deep cleaning: Scans and removes caches, logs, and browser leftovers to reclaim gigabytes of space
 Smart uninstaller: Thoroughly removes apps along with launch agents, preferences, and hidden remnants
 Disk insights: Visualizes usage, manages large files, rebuilds caches, and refreshes system services
 Live monitoring: Real-time stats for CPU, GPU, memory, disk, and network to diagnose performance issues
-[25/12/2025, 5:33:32 PM] Olasunkanmi IDRIS: https://nursabilly.medium.com/i-just-switched-to-mole-a-lightweight-cleaning-tool-for-my-mac-aea1d69ac773
-[25/12/2025, 8:50:10 PM] Olasunkanmi IDRIS: https://offers.hubspot.com/thank-you/matg-ai-landing-page-prompts?hubs_signup-url=offers.hubspot.com/matg-ai-landing-page-prompts&hubs_signup-cta=submit&hubs_offer=offers.hubspot.com/matg-ai-landing-page-prompts
-[30/12/2025, 6:36:46 PM] Olasunkanmi IDRIS: https://www.rnsec.dev/
-[01/01/2026, 8:35:02 AM] Olasunkanmi IDRIS: [REDACTED}
-[01/01/2026, 8:37:53 AM] Olasunkanmi IDRIS: https://medium.com/@suhailpatel94/how-to-automate-apk-sharing-with-diawi-and-telegram-bot-a-simple-and-cheap-solution-8b8fef563786
-[01/01/2026, 8:38:31 AM] Olasunkanmi IDRIS: [REDACTED}
-[04/01/2026, 5:12:50 AM] Olasunkanmi IDRIS: # Architecture Document: High-Scale Real-Time Ride Sharing System
+12/25/25, 5:33 PM - Olasunkanmi IDRIS: https://nursabilly.medium.com/i-just-switched-to-mole-a-lightweight-cleaning-tool-for-my-mac-aea1d69ac773
+12/25/25, 8:50 PM - Olasunkanmi IDRIS: https://offers.hubspot.com/thank-you/matg-ai-landing-page-prompts?hubs_signup-url=offers.hubspot.com/matg-ai-landing-page-prompts&hubs_signup-cta=submit&hubs_offer=offers.hubspot.com/matg-ai-landing-page-prompts
+12/30/25, 6:36 PM - Olasunkanmi IDRIS: https://www.rnsec.dev/
+1/1/26, 8:35 AM - Olasunkanmi IDRIS: [REDACTED}
+1/1/26, 8:37 AM - Olasunkanmi IDRIS: https://medium.com/@suhailpatel94/how-to-automate-apk-sharing-with-diawi-and-telegram-bot-a-simple-and-cheap-solution-8b8fef563786
+1/1/26, 8:38 AM - Olasunkanmi IDRIS: [REDACTED}
+1/4/26, 5:12 AM - Olasunkanmi IDRIS: # Architecture Document: High-Scale Real-Time Ride Sharing System
 
 ## Executive Summary
 This document outlines the technical architecture of the Uber platform, focusing on the transition from high-latency polling systems to a real-time, push-based infrastructure. The system is designed to handle millions of concurrent connections, synchronize state between riders and drivers in near real-time, and ensure smooth UI performance despite variable network conditions.
@@ -298,25 +1675,25 @@ To match riders with drivers efficiently, the server cannot calculate the distan
 4.  **Dispatch (RAMEN):** Fireball sends the payload to **RAMEN**. RAMEN locates the open socket for Rider X.
 5.  **Delivery (Edge -> Mobile):** The update is pushed to Rider X's device.
 6.  **Smoothing (Mobile):** Rider X's app receives the coordinate. The **Kalman Filter** blends this new point with the current **Dead Reckoning** prediction to smoothly animate the car icon on the map.
-[05/01/2026, 11:06:15 AM] Olasunkanmi IDRIS: https://github.com/callstack/react-native-pager-view#preview
+1/5/26, 11:06 AM - Olasunkanmi IDRIS: https://github.com/callstack/react-native-pager-view#preview
 
 React native pager view, views as each page, like book style
-‎[05/01/2026, 11:11:09 AM] Olasunkanmi IDRIS: Android ViewPager Vertical.gif ‎document omitted
-‎[05/01/2026, 11:11:29 AM] Olasunkanmi IDRIS: React Native ViewPager.gif ‎document omitted
-[05/01/2026, 11:16:02 AM] Olasunkanmi IDRIS: https://github.com/JoaoPauloCMarra/react-native-nitro-markdown
+1/5/26, 11:11 AM - Olasunkanmi IDRIS: <Media omitted>
+1/5/26, 11:11 AM - Olasunkanmi IDRIS: <Media omitted>
+1/5/26, 11:16 AM - Olasunkanmi IDRIS: https://github.com/JoaoPauloCMarra/react-native-nitro-markdown
 
 react-native-nitro-markdown is a high-performance Markdown parser built on md4c (C++) and Nitro Modules. It parses complex Markdown, GFM, and LaTeX Math into a structured AST synchronously via JSI, bypassing the React Native Bridge entirely.
-[05/01/2026, 11:35:38 AM] Olasunkanmi IDRIS: https://github.com/wassgha/react-native-zoom-grid
+1/5/26, 11:35 AM - Olasunkanmi IDRIS: https://github.com/wassgha/react-native-zoom-grid
 
 A high-performance, zoomable grid component for React Native, built on top of @shopify/flash-list. It provides seamless pinch-to-zoom transitions between different grid layouts, mimicking the native iOS Photos app experience.
-‎[07/01/2026, 3:36:24 PM] Olasunkanmi IDRIS: Zhongda Invoice.pdf • ‎1 page ‎document omitted
-[13/01/2026, 11:34:50 PM] Olasunkanmi IDRIS: https://t.co/3IoOnIH9F1
-[14/01/2026, 7:58:48 AM] Olasunkanmi IDRIS: https://www.use-voltra.dev/getting-started
+1/7/26, 3:36 PM - Olasunkanmi IDRIS: <Media omitted>
+1/13/26, 11:34 PM - Olasunkanmi IDRIS: https://t.co/3IoOnIH9F1
+1/14/26, 7:58 AM - Olasunkanmi IDRIS: https://www.use-voltra.dev/getting-started
 
 Adding live activities to your iOS app has traditionally been a time-consuming and complex process. JavaScript developers need to learn Xcode, master SwiftUI, understand how to start live activities, and figure out how to manage them throughout their lifecycle. This creates barriers between your app development and these dynamic features.
-[15/01/2026, 9:38:21 PM] Olasunkanmi IDRIS: ~ / bunx add-skill expo/skills
-[15/01/2026, 10:39:27 PM] Olasunkanmi IDRIS: https://x.com/vercel_dev/status/2011821717425930407
-[15/01/2026, 11:14:09 PM] Olasunkanmi IDRIS: generate a [idea] landing page with this json style
+1/15/26, 9:38 PM - Olasunkanmi IDRIS: ~ / bunx add-skill expo/skills
+1/15/26, 10:39 PM - Olasunkanmi IDRIS: https://x.com/vercel_dev/status/2011821717425930407
+1/15/26, 11:14 PM - Olasunkanmi IDRIS: generate a [idea] landing page with this json style
 
 {
 
@@ -734,14 +2111,14 @@ Adding live activities to your iOS app has traditionally been a time-consuming a
 ]
 }
 }
-‎[19/01/2026, 10:10:42 PM] Olasunkanmi IDRIS: ‎image omitted
-[20/01/2026, 7:22:05 AM] Olasunkanmi IDRIS: Top three things to optimise list performance in React Native:
+1/19/26, 10:10 PM - Olasunkanmi IDRIS: <Media omitted>
+1/20/26, 7:22 AM - Olasunkanmi IDRIS: Top three things to optimise list performance in React Native:
 
 1.  Use LegendList
 2. Load thumbnails first, defer full-res images
 3. Prefetch real images when needed
-[20/01/2026, 7:22:14 AM] Olasunkanmi IDRIS: A very nice trick is using RCTView and RCTText directly instead of Text and View to squeeze out even the last bit of performance
-[20/01/2026, 7:22:45 AM] Olasunkanmi IDRIS: Pro tip for Android 📱
+1/20/26, 7:22 AM - Olasunkanmi IDRIS: A very nice trick is using RCTView and RCTText directly instead of Text and View to squeeze out even the last bit of performance
+1/20/26, 7:22 AM - Olasunkanmi IDRIS: Pro tip for Android 📱
 
 When using the DateTimePicker, prefer the imperative API instead of the component-based one.
 
@@ -751,9 +2128,9 @@ When using the DateTimePicker, prefer the imperative API instead of the componen
 ✅ You can fully customize the native look using the config plugin
 
 Master React Native
-[23/01/2026, 6:51:44 AM] Olasunkanmi IDRIS: https://inlang.com/m/gerre34r/library-inlang-paraglideJs/architecture/
-[24/01/2026, 12:58:24 PM] Olasunkanmi IDRIS: https://www.remotion.dev/
-[26/01/2026, 8:13:02 AM] Olasunkanmi IDRIS: use to prevent XSS attacks on the client side
+1/23/26, 6:51 AM - Olasunkanmi IDRIS: https://inlang.com/m/gerre34r/library-inlang-paraglideJs/architecture/
+1/24/26, 12:58 PM - Olasunkanmi IDRIS: https://www.remotion.dev/
+1/26/26, 8:13 AM - Olasunkanmi IDRIS: use to prevent XSS attacks on the client side
 
 https://github.com/cure53/DOMPurify
 
@@ -770,27 +2147,27 @@ const loginSchema = z.object({
   // and cause login failures.
   password: z.string().min(8),
 });
-[26/01/2026, 8:14:27 AM] Olasunkanmi IDRIS: 2. The Necessary Secondary Defenses (2026 Standards)
+1/26/26, 8:14 AM - Olasunkanmi IDRIS: 2. The Necessary Secondary Defenses (2026 Standards)
 To truly secure your app, you must pair DOMPurify with these modern browser features:
 Content Security Policy (CSP): Acts as a safety net. Even if a malicious script bypasses your sanitizer, a strict CSP can block it from executing or sending data to an external server.
 Trusted Types API: A powerful browser security standard that enforces sanitization at the browser level. Once enabled, the browser will throw a TypeError if you try to pass a raw string to a dangerous "sink" (like innerHTML) without going through a trusted policy (like one using DOMPurify).
 Contextual Output Encoding: Always use your framework’s native rendering (e.g., {username} in React or {{username}} in Vue), which automatically escapes data for the specific context it is being placed in.
-[26/01/2026, 8:14:53 AM] Olasunkanmi IDRIS: 3. Summary of Best Practices
+1/26/26, 8:14 AM - Olasunkanmi IDRIS: 3. Summary of Best Practices
 Measure 	Role
 DOMPurify	The Filter: Cleans malicious HTML from untrusted strings.
 Trusted Types	The Enforcer: Ensures all data must be filtered before hitting the DOM.
 CSP	The Safety Net: Blocks unauthorized scripts if filters fail.
 Server Validation	The Gatekeeper: Sanitizes data before it ever hits your database.
-[27/01/2026, 7:32:52 AM] Olasunkanmi IDRIS: https://github.com/EvanBacon/expo-mdx
+1/27/26, 7:32 AM - Olasunkanmi IDRIS: https://github.com/EvanBacon/expo-mdx
 
 remote markdown in expo
-[27/01/2026, 12:39:16 PM] Olasunkanmi IDRIS: https://freedium-mirror.cfd/levelup.gitconnected.com/building-human-like-agents-with-right-memory-3436b75815ba?gi=47187a69dd6b
-[27/01/2026, 12:39:38 PM] Olasunkanmi IDRIS: https://www.dailydoseofds.com/p/hands-on-build-an-ai-agent-with-human-like-memory/
-[07/02/2026, 3:57:47 PM] Olasunkanmi IDRIS: https://reactnative.directory/package/react-native-live-detect-edges
-[07/02/2026, 3:58:13 PM] Olasunkanmi IDRIS: https://reactnative.directory/package/markdown-to-jsx
-[10/02/2026, 6:26:38 PM] Olasunkanmi IDRIS: https://www.reacticx.com/docs/components/bottom-sheet-stack
-[10/02/2026, 6:29:02 PM] Olasunkanmi IDRIS: https://github.com/callstackincubator/agent-device?%20AI%20Control%20-%2020672699
-[17/03/2026, 2:38:38 PM] Olasunkanmi IDRIS: NODE_ENV=development
+1/27/26, 12:39 PM - Olasunkanmi IDRIS: https://freedium-mirror.cfd/levelup.gitconnected.com/building-human-like-agents-with-right-memory-3436b75815ba?gi=47187a69dd6b
+1/27/26, 12:39 PM - Olasunkanmi IDRIS: https://www.dailydoseofds.com/p/hands-on-build-an-ai-agent-with-human-like-memory/
+2/7/26, 3:57 PM - Olasunkanmi IDRIS: https://reactnative.directory/package/react-native-live-detect-edges
+2/7/26, 3:58 PM - Olasunkanmi IDRIS: https://reactnative.directory/package/markdown-to-jsx
+2/10/26, 6:26 PM - Olasunkanmi IDRIS: https://www.reacticx.com/docs/components/bottom-sheet-stack
+2/10/26, 6:29 PM - Olasunkanmi IDRIS: https://github.com/callstackincubator/agent-device?%20AI%20Control%20-%2020672699
+3/17/26, 2:38 PM - Olasunkanmi IDRIS: NODE_ENV=development
 PORT=3002
  
 # Database (Supabase)
@@ -839,7 +2216,7 @@ RATE_LIMIT_MAX=200
 AZURE_STORAGE_ACCOUNT_NAME=kkdcommsplatformrg8d19
 AZURE_STORAGE_CONNECTION_STRING=[REDACTED}
 AZURE_STORAGE_BLOB_ENDPOINT=[REDACTED}
-[17/03/2026, 2:38:58 PM] Olasunkanmi IDRIS: # API Configuration
+3/17/26, 2:38 PM - Olasunkanmi IDRIS: # API Configuration
 #
 # NEXT_PUBLIC_API_URL — used by the browser-side axios client.
 # In development this must be relative ('/api/proxy') so the proxy route
@@ -868,23 +2245,24 @@ NODE_ENV=development
 NEXT_PUBLIC_LOGGING=true
 
 NEXT_PUBLIC_ENABLE_DEBUG_TOOLS=true%
-[18/03/2026, 8:02:42 AM] Olasunkanmi IDRIS: https://github.com/callstackincubator/react-native-grab
-[22/03/2026, 9:07:59 PM] Olasunkanmi IDRIS: https://www.navigatr.dev/
-[27/03/2026, 8:40:52 AM] Olasunkanmi IDRIS: This might help https://refactoring.guru/design-patterns
-[31/03/2026, 8:57:24 AM] Olasunkanmi IDRIS: https://github.com/chenglou/pretext
-[31/03/2026, 10:06:03 AM] Olasunkanmi IDRIS: Ace and Triple A App are in production now
-[31/03/2026, 10:06:03 AM] Olasunkanmi IDRIS: https://play.google.com/store/apps/details?id=com.acemobile.app
-[31/03/2026, 10:06:03 AM] Olasunkanmi IDRIS: https://play.google.com/store/apps/details?id=com.triplea.app
-[31/03/2026, 2:08:37 PM] Olasunkanmi IDRIS: Apple small business program
-[03/04/2026, 5:01:31 AM] Olasunkanmi IDRIS: https://expo.dev/blog/build-an-ai-qa-agent-for-expo-apps-with-eas-workflows-in-minutes-today
-[03/04/2026, 5:03:08 AM] Olasunkanmi IDRIS: https://github.com/gunnartorfis/sonner-native-toasts
-[03/04/2026, 5:12:13 AM] Olasunkanmi IDRIS: https://github.com/0xGF/boneyard
-[03/04/2026, 6:09:03 AM] Olasunkanmi IDRIS: https://nigerian-markets-api-docs.vercel.app/docs/openapi/listStates
-[04/04/2026, 7:54:47 AM] Olasunkanmi IDRIS: https://github.com/callstack/liquid-glass
-[04/04/2026, 8:51:31 AM] Olasunkanmi IDRIS: https://threejs-spinners.web.app/
-[05/04/2026, 10:45:43 AM] Olasunkanmi IDRIS: https://github.com/capcom6/android-sms-gateway
-[05/04/2026, 11:06:28 AM] Olasunkanmi IDRIS: https://github.com/adobe/react-spectrum/blob/main/packages/%40react-spectrum/s2/src/Skeleton.tsx
-[10/04/2026, 4:23:20 AM] Olasunkanmi IDRIS: https://jina.ai/
-[10/04/2026, 4:26:11 AM] Olasunkanmi IDRIS: https://codewithbeto.dev/blog/react-native-styles-you-didnt-know-existed
-[12/04/2026, 6:46:21 AM] Olasunkanmi IDRIS: ‎You deleted this message.
-[12/04/2026, 6:48:05 AM] Olasunkanmi IDRIS: ‎You deleted this message.
+3/18/26, 8:02 AM - Olasunkanmi IDRIS: https://github.com/callstackincubator/react-native-grab
+3/22/26, 9:07 PM - Olasunkanmi IDRIS: https://www.navigatr.dev/
+3/27/26, 8:40 AM - Olasunkanmi IDRIS: This might help https://refactoring.guru/design-patterns
+3/31/26, 8:57 AM - Olasunkanmi IDRIS: https://github.com/chenglou/pretext
+3/31/26, 10:06 AM - Olasunkanmi IDRIS: Ace and Triple A App are in production now
+3/31/26, 10:06 AM - Olasunkanmi IDRIS: https://play.google.com/store/apps/details?id=com.acemobile.app
+3/31/26, 10:06 AM - Olasunkanmi IDRIS: https://play.google.com/store/apps/details?id=com.triplea.app
+3/31/26, 2:08 PM - Olasunkanmi IDRIS: Apple small business program
+4/3/26, 5:01 AM - Olasunkanmi IDRIS: https://expo.dev/blog/build-an-ai-qa-agent-for-expo-apps-with-eas-workflows-in-minutes-today
+4/3/26, 5:03 AM - Olasunkanmi IDRIS: https://github.com/gunnartorfis/sonner-native-toasts
+4/3/26, 5:12 AM - Olasunkanmi IDRIS: https://github.com/0xGF/boneyard
+4/3/26, 6:09 AM - Olasunkanmi IDRIS: https://nigerian-markets-api-docs.vercel.app/docs/openapi/listStates
+4/4/26, 7:54 AM - Olasunkanmi IDRIS: https://github.com/callstack/liquid-glass
+4/4/26, 8:51 AM - Olasunkanmi IDRIS: https://threejs-spinners.web.app/
+4/5/26, 10:45 AM - Olasunkanmi IDRIS: https://github.com/capcom6/android-sms-gateway
+4/5/26, 11:06 AM - Olasunkanmi IDRIS: https://github.com/adobe/react-spectrum/blob/main/packages/%40react-spectrum/s2/src/Skeleton.tsx
+4/10/26, 4:23 AM - Olasunkanmi IDRIS: https://jina.ai/
+4/10/26, 4:26 AM - Olasunkanmi IDRIS: https://codewithbeto.dev/blog/react-native-styles-you-didnt-know-existed
+4/12/26, 6:46 AM - Olasunkanmi IDRIS: You deleted this message
+4/12/26, 6:48 AM - Olasunkanmi IDRIS: You deleted this message
+4/25/26, 9:38 AM - Olasunkanmi IDRIS: ..
