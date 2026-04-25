@@ -191,3 +191,6 @@
 
 ## [2026-04-25 08:29] maintenance | Recreated missing raw WhatsApp export
 - Recreated vault/raw/articles/2026-04-12-whatsapp-chat-with-tools-cheatsheet.txt from src-2026-04-12-006 and preserved sensitive URL and key redaction with [REDACTED}.
+
+## [2026-04-25 08:36] maintenance | Restored raw WhatsApp export from archive
+- Replaced the reconstructed placeholder at vault/raw/articles/2026-04-12-whatsapp-chat-with-tools-cheatsheet.txt with a redacted copy extracted from the original WhatsApp export ZIP, masking sensitive URLs and key-like values as [REDACTED}.

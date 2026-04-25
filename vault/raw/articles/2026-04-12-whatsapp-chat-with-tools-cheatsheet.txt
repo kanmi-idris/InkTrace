@@ -1,48 +1,890 @@
-WhatsApp Chat with Tools Cheatsheet
+[16/10/2025, 1:59:24 PM] Olasunkanmi IDRIS: https://googlefonts.github.io/noto-emoji-animation/?icon.query=:wave:
 
-Reconstructed on 2026-04-25 from the canonical source record `src-2026-04-12-006.md` because the original raw export file referenced by that record was missing from the vault.
+Animated Emoji
+[19/10/2025, 11:36:24 AM] Olasukanmi Idris: ‎You added Olasukanmi Idris
+[23/10/2025, 6:21:38 AM] Olasunkanmi IDRIS: https://samwho.dev/
+[28/10/2025, 7:57:49 AM] Olasunkanmi IDRIS: [REDACTED}
 
-This reconstructed raw artifact is intentionally conservative. It preserves the source record's high-level description of the export and selected non-sensitive note content, but it does not attempt to recreate the full original chat transcript.
+How to securely store a password in DB
+[28/10/2025, 12:42:15 PM] Olasunkanmi IDRIS: to show soft keyboard and physical system keyboard at the same time, click the ALt i from the keybord options and then click the keyboard settings, turn off voice typing and glide typing and write in stylus and turn on show overlay keyboard when typing
+[04/11/2025, 8:36:24 AM] Olasunkanmi IDRIS: *Free Oil & Gas Certification Courses* 🚨🚨 
 
-Sensitive URLs, credential-like strings, and key-like values are redacted as `[REDACTED}`.
+Ten Oil & Gas Free Courses Online to boost your Skills and to give your CV more weight. Looking to strengthen your technical knowledge in the oil and gas sector? Here is a curated list of free courses from trusted provided perfect for Students, Fresh Graduates & Professionals.
+
+1. IWCF 1 - International Well Control Forum 
+*Link:* https://www.iwcf.org/programmes/level-1/
+
+2. Introduction to Well Servicing and Intervention - *LearnToDrill* covers the basics of wireline, coil tubing, snubbing and well servicing operations.
+*Link:* https://www.learntodrill.com/intro-well-servicing-intervention
+
+3. Introduction to Drilling - *LearnToDrill*
+Step-by-step process of the drilling process, from rig setup to production. 
+*Link:* 
+https://www.learntodrill.com/introduction-to-drilling
+
+4. Gas Engineering: Concepts and Technologies - *Alison*
+Understanding Natural Gas Production, Processes and Storage Systems.
+*Link:* https://alison.com/course/gas-engineering-concepts-and-technologies
+
+5. Well Intervention (Well testing, Coil tubing, wireline) - *KWS*
+Technical Insights into Intervention methods for well Maintenance & Optimization.
+*Link:* https://www.kws.tn/
+
+6. Introduction to Production - *Norwell EDGE*
+Learn the fundamentals of Oil and Gas fundamental processes.
+*Link:* https://www.norwelledge.com/for-you/item/4/norwelledge/Introduction-to-Production-I-FREE/
+
+7. Drilling Fluid System - Components, Functions and Soil Control Equipment *@Class Central*
+Comprehensive look at drilling Fluid types, properties and solid Control system.
+*Link:* https://www.classcentral.com/course/drilling-fluid-system-components-functions-solid-control-equipment
+
+8. Earth's Physical Resources: Fossil Fuels - *The Open University.*
+Explore the science, extraction and use it fossil fuels.
+*Link:* https://www.open.edu/openlearn/science-maths-technology/geology/earths-physical-resources-fossil-fuels
+
+9. Petroleum Refining: Basic Distillation - *Alison*
+Introduction to refining operations with focus on Crude Distillation Units.
+*Link:* https://alison.com/course/petroleum-refining-basic-distillation
+
+10. Upstream Oil and Gas Operations - *EdX/TU delft.* 
+Covers exploration, drilling and production within the Upstream Sector. 
+*Link:* https://www.edx.org/course/upstream-oil-gas-operations
+
+Most of these platforms allow free access to course contents with optional paid certificates. A great way to keep learning and stay competitive in the energy sector 🚀
+[08/11/2025, 7:29:38 AM] Olasunkanmi IDRIS: https://github.com/l2hyunwoo/react-native-nitro-device-info?utm_source=chatgpt.com
+[08/11/2025, 7:31:41 AM] Olasunkanmi IDRIS: https://github.com/calico-games/react-native-godot
+[10/11/2025, 7:01:58 PM] Olasunkanmi IDRIS: https://commoncrawl.org/blog/october-2025-crawl-archive-now-available
+
+
+Crawling the internet
+[12/11/2025, 9:11:25 AM] Olasunkanmi IDRIS: https://learn.deeplearning.ai/courses/design-develop-and-deploy-multi-agent-systems-with-crewai/lesson/6y63p/course-overview
+[16/11/2025, 11:06:20 PM] Olasunkanmi IDRIS: https://github.com/jonasstrehle/supercookie/
+
+Supercookie uses favicons to assign a unique identifier to website visitors.
+Unlike traditional tracking methods, this ID can be stored almost persistently and cannot be easily cleared by the user.
+
+The tracking method works even in the browser's incognito mode and is not cleared by flushing the cache, closing the browser or restarting the operating system, using a VPN or installing AdBlockers. 🍿 Live demo.
+‎[16/11/2025, 11:31:25 PM] Olasunkanmi IDRIS: https://github.com/mahdidavoodi7/draggable-video-control
+
+liquid glass video control ‎image omitted
+[16/11/2025, 11:38:05 PM] Olasunkanmi IDRIS: Get free domain names. https://www.opensourceprojects.dev/post/1959600649026302372
+[16/11/2025, 11:52:23 PM] Olasunkanmi IDRIS: https://github.com/harvard-edge/cs249r_book
+
+ML course
+[18/11/2025, 7:07:15 PM] Olasunkanmi IDRIS: https://t.co/f5RI3Iv4BU
+
+retrive sms for OTP in RN
+[20/11/2025, 5:10:37 PM] Olasunkanmi IDRIS: https://www.techstars.com/blog/advice/techstars-fundraising-series-prepping-your-materials?utm_campaign=7170195-1e_Universal%20Newsletter&utm_medium=email&_hsenc=p2ANqtz-_sZ50ehYfBLMRXaTLTN6Q4-ZRRoJ6cP308IBu8NEm-oi_gB6TgR4sxoIu8FPOQ1RlegA_4dBPKGAq8U71eHCEVFT4jpGuGy0BVdTEWK6tVJA3GiLE&_hsmi=100212283946&utm_content=390601746&utm_source=hs_email
+[20/11/2025, 5:10:52 PM] Olasunkanmi IDRIS: https://www.techstars.com/blog/advice/techstars-fundraising-series-ready-to-raise-essential-tips-for-startups?utm_campaign=7170195-1e_Universal%20Newsletter&utm_medium=email&_hsenc=p2ANqtz--dsjMKt1iNCuDX0O8yqNYNd3OWvQOnr7-KAycviW5mZnzW6RpVujugpXNHDwmlXPg4dpvM_kMIwGM2AWqDzzCac0pe5lMG6Na_KqXnY00XmAp-BUw&_hsmi=100212283946&utm_content=390601746&utm_source=hs_email
+
+
+Techstars Fundraising Series: Ready to Raise? Essential Tips for Startup Fundraising
+[20/11/2025, 6:59:29 PM] Olasunkanmi IDRIS: https://svcg.education.gov.ng/
+
+students venture capital
+[20/11/2025, 7:25:26 PM] Olasunkanmi IDRIS: https://github.com/killserver/react-native-screenshot-prevent
+[25/11/2025, 11:01:04 PM] Olasunkanmi IDRIS: https://www.linkedin.com/posts/punitweb_uxui-design-portfolio-secrets-ugcPost-7398654204799574016-hzsW?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAC_wyToBMOsMrggQJz5xqL6k7f2J_VediLw
+[26/11/2025, 8:51:58 PM] Olasunkanmi IDRIS: https://www.x402.org/
+
+micropayments for apis
+uses only crypto ‎<This message was edited>
+[27/11/2025, 1:14:02 AM] Olasunkanmi IDRIS: https://vert.sh/
+fully local file converter
+[30/11/2025, 4:44:25 AM] Olasunkanmi IDRIS: https://www.npmjs.com/package/next-themes
+
+An abstraction for themes in your React app.
+
+✅ Perfect dark mode in 2 lines of code
+✅ System setting with prefers-color-scheme
+✅ Themed browser UI with color-scheme
+✅ Support for Next.js 13 appDir
+✅ No flash on load (both SSR and SSG)
+✅ Sync theme across tabs and windows
+✅ Disable flashing when changing themes
+✅ Force pages to specific themes
+✅ Class or data attribute selector
+✅ useTheme hook
+[02/12/2025, 8:19:48 AM] Olasunkanmi IDRIS: ***
+
+### Copy and Paste this Prompt
+
+**Role:**
+Act as a Senior UI/UX Designer and Project Manager with extensive experience in scoping, estimating, and pricing digital products.
+
+**Objective:**
+I will provide you with a Product Requirements Document (PRD). Your goal is to analyze this document and break it down into a detailed Scope of Work (SoW) that I can use to calculate a fixed-price quotation for UI/UX Design (High Fidelity) and Prototyping.
+
+**Instructions:**
+Please analyze the PRD and generate a report using the following structure:
+
+**1. Project Overview & Complexity Assessment**
+*   Give a brief summary of the product goal.
+*   Rate the overall project complexity (Low/Medium/High) and explain why (e.g., "High complexity due to custom data visualization requirements").
+
+**2. Discovery & UX Research Phase**
+*   List the necessary preparatory work before UI design begins (e.g., Competitor Analysis, User Personas, User Journey Maps, Information Architecture/Sitemap).
+*   Estimate the relative effort for this phase (Low/Medium/High).
+
+**3. Defined User Flows**
+*   Based on the features, list the core user flows (e.g., "Onboarding Flow," "Checkout Flow," "Settings Management").
+
+**4. Screen Inventory & Workload Breakdown (The Core)**
+*   Create a table with the following columns:
+    *   **Screen Name:** (e.g., Dashboard, Login, Profile).
+    *   **Key Features/elements:** (What needs to be designed? e.g., "Data charts, filter dropdowns, export button").
+    *   **States/Edge Cases:** (e.g., "Empty state, Error state, Loading state").
+    *   **Interaction/Prototyping Level:** (e.g., "Static click-through" vs "Complex micro-interaction/animations").
+    *   **Complexity Rating:** (Low = <4 hrs, Medium = 4-8 hrs, High = 8+ hrs).
+
+**5. Design System & Assets**
+*   Identify if a design system needs to be built from scratch or if an existing library can be used.
+*   List required asset creation (e.g., custom iconography, illustrations, dark mode variants).
+
+**6. Timeline Estimation (Rough Draft)**
+*   Based on the breakdown above, estimate the total distinct screens.
+*   Provide a rough range of total hours needed for:
+    *   UX/Research
+    *   UI Design
+    *   Prototyping
+    *   Revisions (Buffer)
+
+**Context for the AI:**
+*   Be critical. If the PRD is vague about a feature, assume it requires a separate screen or modal and note it as an assumption.
+*   Focus on "effort" and "time-consumption."
+
+**[PASTE YOUR PRD CONTENT HERE]**
+
+***
+
+### How to interpret the output to make your Quote
+
+Once the AI generates this breakdown, here is how you turn it into a dollar amount:
+
+1.  **Assign Hours to Complexity:**
+    *   **Low Complexity Screen:** 2–4 hours.
+    *   **Medium Complexity Screen:** 5–8 hours.
+    *   **High Complexity Screen:** 10–15+ hours.
+2.  **Add the "Invisible Work":**
+    *   Take the AI's "Discovery/Research" estimation and assign a flat fee (e.g., 20 hours).
+    *   Add 20% to the total hours for **Project Management** (meetings, emails, feedback loops).
+3.  **Calculate Prototyping:**
+    *   If the client wants a "Clickable Dummy," add 10% to the total design time.
+    *   If they want "High Fidelity with Logic/Variables" (like in Figma Pro), add 25-30%.
+
+**Pro Tip:** If the AI points out vague areas in the PRD (under the "Context" instruction), use those questions to ask the client for clarification *before* you quote. This makes you look extremely professional and detailed.
+[02/12/2025, 11:58:19 PM] Olasunkanmi IDRIS: https://docs.swmansion.com/detour/
+[03/12/2025, 5:39:10 AM] Olasunkanmi IDRIS: https://github.com/Gautham495/react-native-nitro-cloud-uploader
+[03/12/2025, 8:52:38 AM] Olasunkanmi IDRIS: https://github.com/heroui-inc/heroui-native
+
+toast package
+[08/12/2025, 7:03:10 PM] Olasunkanmi IDRIS: https://github.com/alexbrazier/react-native-network-logger
+[09/12/2025, 4:54:51 AM] Olasunkanmi IDRIS: Next JS background tasks.https://github.com/triggerdotdev/trigger.dev
+[09/12/2025, 5:00:00 AM] Olasunkanmi IDRIS: https://github.com/garmeeh/next-seo
+[11/12/2025, 12:02:52 PM] Olasunkanmi IDRIS: https://github.com/mobile-next/mobile-mcp
+[11/12/2025, 8:28:43 PM] Olasunkanmi IDRIS: https://elysiajs.com/
+
+bun framework
+[12/12/2025, 5:47:12 PM] Olasunkanmi IDRIS: https://www.actionstatelabs.com/
+[13/12/2025, 8:17:25 AM] Olasunkanmi IDRIS: https://schimizu.com/simian-army-netflixs-chaos-engineering-tools-6ae2e4baa9d5
+[13/12/2025, 8:38:49 AM] Olasunkanmi IDRIS: https://principlesofchaos.org/
+[13/12/2025, 8:39:13 AM] Olasunkanmi IDRIS: https://github.com/netflix/chaosmonkey
+[16/12/2025, 10:21:38 PM] Olasunkanmi IDRIS: https://github.com/actionstatelabs/android-action-kernel
+[21/12/2025, 12:09:24 PM] Olasunkanmi IDRIS: https://www.triplit.dev/docs
+
+Triplit is an open-source database that syncs data between server and browser in real-time:
+🔄 Real-time sync with incremental updates and conflict resolution at the property level
+🏠 Local caching powered by a full-fledged client-side database
+💽 Durable server-side storage with an admin dashboard
+😃 Optimistic updates to make every interaction feel fast
+🔗 Relational querying for complex data models
+🛫 Offline-mode with automatic reconnection and consistency guarantees
+🔙 Rollback and retry management on failed updates
+🗂️ Schemas for data safety and Typescript autocompletion
+🔐 Authorization with row level granularity
+🤝 Collaboration/Multiplayer powered by CRDTs
+🏎️ Low latency with minimal network traffic using delta patches
+📝 Simple API for querying and mutating data in both vanilla Javascript and frameworks like React
+‎[25/12/2025, 4:50:15 PM] Olasunkanmi IDRIS: https://x.com/_avichawla/status/2004077473575981309 ‎image omitted
+‎[25/12/2025, 5:21:41 PM] Olasunkanmi IDRIS: https://github.com/tw93/Mole ‎image omitted
+[25/12/2025, 5:22:18 PM] Olasunkanmi IDRIS: Features
+Unified toolkit: Consolidated features of CleanMyMac, AppCleaner, DaisyDisk, and iStat into a single binary
+Deep cleaning: Scans and removes caches, logs, and browser leftovers to reclaim gigabytes of space
+Smart uninstaller: Thoroughly removes apps along with launch agents, preferences, and hidden remnants
+Disk insights: Visualizes usage, manages large files, rebuilds caches, and refreshes system services
+Live monitoring: Real-time stats for CPU, GPU, memory, disk, and network to diagnose performance issues
+[25/12/2025, 5:33:32 PM] Olasunkanmi IDRIS: https://nursabilly.medium.com/i-just-switched-to-mole-a-lightweight-cleaning-tool-for-my-mac-aea1d69ac773
+[25/12/2025, 8:50:10 PM] Olasunkanmi IDRIS: https://offers.hubspot.com/thank-you/matg-ai-landing-page-prompts?hubs_signup-url=offers.hubspot.com/matg-ai-landing-page-prompts&hubs_signup-cta=submit&hubs_offer=offers.hubspot.com/matg-ai-landing-page-prompts
+[30/12/2025, 6:36:46 PM] Olasunkanmi IDRIS: https://www.rnsec.dev/
+[01/01/2026, 8:35:02 AM] Olasunkanmi IDRIS: [REDACTED}
+[01/01/2026, 8:37:53 AM] Olasunkanmi IDRIS: https://medium.com/@suhailpatel94/how-to-automate-apk-sharing-with-diawi-and-telegram-bot-a-simple-and-cheap-solution-8b8fef563786
+[01/01/2026, 8:38:31 AM] Olasunkanmi IDRIS: [REDACTED}
+[04/01/2026, 5:12:50 AM] Olasunkanmi IDRIS: # Architecture Document: High-Scale Real-Time Ride Sharing System
+
+## Executive Summary
+This document outlines the technical architecture of the Uber platform, focusing on the transition from high-latency polling systems to a real-time, push-based infrastructure. The system is designed to handle millions of concurrent connections, synchronize state between riders and drivers in near real-time, and ensure smooth UI performance despite variable network conditions.
 
 ---
 
-Summary
+## Part 1: Mobile Architecture (Client-Side)
 
-This source was an exported WhatsApp chat used as a personal research log and link dump. According to the source record, it spanned from 2024-11-15 21:01 to 2026-04-12 06:46 and mixed public links, short notes, product ideas, and repeated tool references.
+The mobile client (Driver and Rider apps) focuses on efficient battery usage, low-latency connection termination, and predictive rendering to mask network instability.
 
-Recorded aggregate facts from the source record
+### 1.1 Network Communication Layer
+*   **Protocol:** **gRPC** (Bidirectional Streaming).
+    *   *Evolution:* Originally used HTTP Polling (inefficient), then Server-Sent Events (SSE), and finally migrated to gRPC.
+    *   *Benefit:* Allows messages to be sent from both client-to-server and server-to-client over a single persistent connection, reducing handshake overhead.
+*   **Connection Termination:** **Edge Servers**.
+    *   The app does not connect to a central data center (e.g., California). instead, it connects to the nearest geographical Edge Server (e.g., Frankfurt).
+    *   *Impact:* Reduces Round Trip Time (RTT) significantly (e.g., from ~130ms to ~30ms), improving responsiveness on cellular networks (4G/5G).
 
-- Parsed messages: 475
-- URL mentions: 463
-- Unique normalized URLs: 284
-- Most frequently linked hosts by raw mention count:
-  - github.com (73)
-  - www.youtube.com (43)
-  - www.npmjs.com (18)
-  - dev.to (14)
-  - x.com (14)
-  - medium.com (11)
-  - customer-cbeadsgr09pnsezs.cloudflarestream.com (11)
-  - www.linkedin.com (10)
-  - expo.dev (7)
-  - levelup.gitconnected.com (6)
+### 1.2 Rendering & Smoothness (The "Phantom Car" Solution)
+Real-time GPS updates are discrete and often delayed. To prevent cars from teleporting or "jumping" on the map, the client implements predictive logic.
 
-Selected non-link notes preserved in the source record
+*   **Dead Reckoning:**
+    *   The app calculates where the driver *should* be based on their last known position, speed, and heading (vector direction).
+    *   This fills the gaps between network packets (e.g., if packets arrive 20 seconds apart).
+*   **Kalman Filters:**
+    *   An algorithm used to smooth out the noise between the *predicted* position (Dead Reckoning) and the *actual* measured position when a network packet arrives.
+    *   *Result:* The car marker glides smoothly along the road rather than snapping to coordinates.
 
-- NOTE: If you need immediate UI updates for a specific state change, you can force React to process updates by flushing the queue: `import { flushSync } from 'react-dom'; flushSync(() => { setState(value); });`
-- Fine-tune an AI model to understand handwritten text notes and convert them to readable text or speech.
-- Build a tool call `writeAssist` that uses realtime video capabilities with [REDACTED} and understands handwriting, uses [REDACTED} and runs fully on device.
-- The `writeAssist` model learns from a dataset on files in realtime and remembers data from videos and text.
-- The `writeAssist` model constantly segments handwriting and uses user feedback to refine understanding, for example by asking what the content of a picture is and requesting clarification.
-- Data structures and algorithms to know: stack, queue, hashmap, set, graph, dynamic programming, greedy algorithm, recursion.
-- There was a pinned message on 2024-11-30 05:51.
-- A preserved note described how to switch between two GitHub profiles in VS Code using the GitHub extension, the GitHub CLI, or VS Code settings. Any sensitive account names, URLs, tokens, and credential-like values are treated as `[REDACTED}` in this reconstructed copy.
+### 1.3 Power Management
+*   **Push-Based Architecture:** By removing the need for the client to constantly poll the server ("Is there a new ride?", "Where is the driver?"), the radio antenna on the device is used less frequently, significantly reducing battery consumption.
 
-Reconstruction notes
+---
 
-- Duplicate URL mentions were normalized during the original import and tracked in reviewed source notes or unresolved-link tracking.
-- The source record explicitly states that the imported raw copy was redacted for credential-like values before being written into the vault.
-- This reconstructed file continues that policy by redacting sensitive URLs and key-like values as `[REDACTED}`.
-- For full interpretation and wiki links, see `vault/sources/src-2026-04-12-006.md`.
+## Part 2: Server Architecture (Backend)
+
+The backend handles the complexity of ingesting millions of location points, indexing them spatially, and determining *who* needs to receive updates.
+
+### 2.1 Communication Infrastructure: RAMEN
+**RAMEN (Realtime Asynchronous MEssaging Network)** is the proprietary service layer built to handle persistent connections.
+
+*   **Function:** Maintains the persistent gRPC connections with millions of mobile devices.
+*   **Reliability:** Guarantees **at-least-once delivery**. Even if a device temporarily disconnects, RAMEN ensures the message payload is delivered upon reconnection.
+*   **Payload Management:** Acts as the pipe. It receives payload instructions from the business logic layer (Fireball/Gateway) and pushes them to the specific user connection.
+
+### 2.2 Event Decisioning: Fireball
+**Fireball** is the microservice responsible for the "intelligence" of the push system. It decides *when* and *what* to push.
+
+*   **Change Detection:** It listens to event streams (driver location updates, ride acceptance, status changes).
+*   **Diffing Logic:** Fireball compares the new state against the previous state.
+    *   *Example:* If a driver moves 1 meter, it might not be worth a push. If they move 50 meters, Fireball triggers an update.
+*   **Optimization:** Reduces unnecessary network traffic by filtering out redundant or insignificant data before it reaches the transmission layer.
+
+### 2.3 Spatial Indexing: H3 (Hexagonal Hierarchical Spatial Index)
+To match riders with drivers efficiently, the server cannot calculate the distance between a rider and *every* driver globally ($O(N)$ complexity).
+
+*   **Spatial Partitioning:** The world is divided into a grid of hexagons.
+*   **Why Hexagons?**
+    *   Unlike squares, hexagons reduce **Corner Bias**. The distance from the center of a hexagon to the center of all six neighbors is uniform.
+    *   Square grids suffer from diagonal neighbors being further away than orthogonal neighbors.
+*   **The kRing Algorithm:**
+    *   To find nearby drivers, the server queries the Rider's hexagon and the surrounding "rings" of hexagons (k-steps away).
+    *   *Efficiency:* Reduces search complexity to $O(k^2 + m)$, where $k$ is the search radius and $m$ is the number of drivers in that small area.
+
+### 2.4 Data Aggregation: API Gateway
+*   Before a push occurs, the API Gateway gathers all necessary context (User Locale, Device OS, Trip Metadata) from downstream microservices to form a complete payload.
+*   This payload is handed to RAMEN for delivery.
+
+---
+
+## Part 3: Data Flow Summary
+
+### Scenario: A Driver is en route to a Rider
+
+1.  **Ingestion (Mobile -> Edge):** The Driver's app sends a GPS coordinate via **gRPC** to the nearest **Edge Server**.
+2.  **Indexing (Server):** The backend maps this coordinate to a specific **H3 Hexagon**.
+3.  **Decision (Fireball):** Fireball detects the location change. It determines that Rider X is subscribed to this Driver's location. It calculates if the change is significant enough to warrant an update.
+4.  **Dispatch (RAMEN):** Fireball sends the payload to **RAMEN**. RAMEN locates the open socket for Rider X.
+5.  **Delivery (Edge -> Mobile):** The update is pushed to Rider X's device.
+6.  **Smoothing (Mobile):** Rider X's app receives the coordinate. The **Kalman Filter** blends this new point with the current **Dead Reckoning** prediction to smoothly animate the car icon on the map.
+[05/01/2026, 11:06:15 AM] Olasunkanmi IDRIS: https://github.com/callstack/react-native-pager-view#preview
+
+React native pager view, views as each page, like book style
+‎[05/01/2026, 11:11:09 AM] Olasunkanmi IDRIS: Android ViewPager Vertical.gif ‎document omitted
+‎[05/01/2026, 11:11:29 AM] Olasunkanmi IDRIS: React Native ViewPager.gif ‎document omitted
+[05/01/2026, 11:16:02 AM] Olasunkanmi IDRIS: https://github.com/JoaoPauloCMarra/react-native-nitro-markdown
+
+react-native-nitro-markdown is a high-performance Markdown parser built on md4c (C++) and Nitro Modules. It parses complex Markdown, GFM, and LaTeX Math into a structured AST synchronously via JSI, bypassing the React Native Bridge entirely.
+[05/01/2026, 11:35:38 AM] Olasunkanmi IDRIS: https://github.com/wassgha/react-native-zoom-grid
+
+A high-performance, zoomable grid component for React Native, built on top of @shopify/flash-list. It provides seamless pinch-to-zoom transitions between different grid layouts, mimicking the native iOS Photos app experience.
+‎[07/01/2026, 3:36:24 PM] Olasunkanmi IDRIS: Zhongda Invoice.pdf • ‎1 page ‎document omitted
+[13/01/2026, 11:34:50 PM] Olasunkanmi IDRIS: https://t.co/3IoOnIH9F1
+[14/01/2026, 7:58:48 AM] Olasunkanmi IDRIS: https://www.use-voltra.dev/getting-started
+
+Adding live activities to your iOS app has traditionally been a time-consuming and complex process. JavaScript developers need to learn Xcode, master SwiftUI, understand how to start live activities, and figure out how to manage them throughout their lifecycle. This creates barriers between your app development and these dynamic features.
+[15/01/2026, 9:38:21 PM] Olasunkanmi IDRIS: ~ / bunx add-skill expo/skills
+[15/01/2026, 10:39:27 PM] Olasunkanmi IDRIS: https://x.com/vercel_dev/status/2011821717425930407
+[15/01/2026, 11:14:09 PM] Olasunkanmi IDRIS: generate a [idea] landing page with this json style
+
+{
+
+"brand_identity": {
+"description": "Ultra-clean monochrome design with cinematic video backgrounds and refined minimalist typography",
+"design_philosophy": "Pure black and white aesthetic with video-first approach, maximum clarity through simplicity"
+},
+"color_system": {
+"background": {
+"primary": "#000000",
+"note": "CRITICAL: Background color MUST ALWAYS be #000000 (pure black) on ALL sections. This is the ONLY background color allowed. Never use gradients. Non-negotiable."
+},
+"text": {
+"primary": "#F5F5F7",
+"secondary": "rgba(255, 255, 255, 0.8)",
+"muted": "rgba(134, 134, 139, 1.0)",
+"note": "Only white and white with opacity variations. NO other colors allowed."
+},
+"accent": {
+"primary": "#FFFFFF",
+"secondary": "rgba(255, 255, 255, 0.9)",
+"note": "ONLY WHITE for accents. Pure monochrome - no colors."
+},
+"interactive": {
+"button_bg": "rgba(42, 42, 45, 0.72)",
+"button_hover": "rgba(66, 66, 69, 0.72)",
+"button_text": "#FFFFFF",
+"backdrop_blur": "blur(20px)",
+"note": "Glass morphism with white text only"
+},
+"color_rules": {
+"allowed": [
+"#000000 (black - backgrounds only)",
+"#FFFFFF (white - text and UI)",
+"rgba(255, 255, 255, X) - white with opacity",
+"rgba(0, 0, 0, X) - black with opacity for overlays",
+"rgba(134, 134, 139, 1.0) - muted gray for secondary text",
+"rgba(42, 42, 45, 0.72) - dark translucent for UI",
+"rgba(66, 66, 69, 0.72) - slightly lighter for hover states"
+],
+"forbidden": [
+"NO gradients anywhere",
+"NO colors other than black and white",
+"NO colored accents",
+"NO gray backgrounds (only black #000000)"
+]
+}
+},
+"typography": {
+"philosophy": "Large, impactful headlines with clear hierarchy and generous spacing",
+"never_use_gradients": "NEVER apply gradient effects to text. Use solid white only.",
+"color_rule": "ALL TEXT MUST BE WHITE (#F5F5F7/#FFFFFF) or white with opacity. NO other colors.",
+"scale": {
+"hero_display": {
+"size": "80px",
+"weight": "600",
+"line_height": "1.05",
+"color": "#F5F5F7",
+"usage": "Main hero headlines",
+"responsive": "Scales down to 48px on mobile"
+},
+"large_heading": {
+"size": "56px",
+"weight": "600",
+"line_height": "1.1",
+"color": "#F5F5F7",
+"usage": "Section headlines",
+"responsive": "48px on tablet, 32px on mobile"
+},
+"medium_heading": {
+"size": "48px",
+"weight": "600",
+"line_height": "1.2",
+"color": "#F5F5F7",
+"usage": "Subsection titles"
+},
+"small_heading": {
+"size": "28px",
+"weight": "600",
+"line_height": "1.15",
+"color": "#F5F5F7",
+"usage": "Card titles, feature labels"
+},
+"body_large": {
+"size": "22px",
+"weight": "600",
+"line_height": "1.4",
+"color": "rgba(255, 255, 255, 0.9)",
+"usage": "Primary body text, descriptions"
+},
+"body_standard": {
+"size": "18px",
+"weight": "400",
+"line_height": "1.5",
+"color": "rgba(255, 255, 255, 0.8)",
+"usage": "Standard paragraphs, accordion content"
+},
+"body_muted": {
+"size": "18px",
+"weight": "600",
+"line_height": "1.5",
+"color": "rgba(134, 134, 139, 1.0)",
+"usage": "Secondary information, captions"
+},
+"navigation": {
+"size": "12px",
+"weight": "600",
+"letter_spacing": "normal",
+"color": "rgba(255, 255, 255, 0.8)"
+}
+}
+},
+"spacing_rhythm": {
+"philosophy": "Generous whitespace with clear sectional divisions",
+"vertical_spacing": {
+"section_padding_extra_large": "216px",
+"section_padding_large": "160px",
+"section_padding_medium": "124px",
+"section_padding_small": "64px",
+"content_gap_large": "80px",
+"content_gap_medium": "48px",
+"content_gap_small": "20px",
+"element_margin_large": "80px",
+"element_margin_medium": "48px",
+"element_margin_small": "20px"
+},
+"container": {
+"max_width": "1024px",
+"content_width": "87.5%",
+"constrained_width": "420px",
+"wide_width": "1680px"
+}
+},
+"video_system": {
+"philosophy": "Videos replace ALL images throughout the site. Every visual element uses video backgrounds.",
+"video_urls": [
+"[REDACTED}",
+"[REDACTED}",
+"[REDACTED}",
+"[REDACTED}",
+"[REDACTED}",
+"[REDACTED}",
+"[REDACTED}",
+"[REDACTED}",
+"[REDACTED}",
+"[REDACTED}",
+"[REDACTED}"
+],
+"usage_rules": [
+"NO static images anywhere on the site",
+"Hero section MUST use video background",
+"Feature sections use video backgrounds instead of images",
+"Product showcases use videos",
+"Card backgrounds use videos",
+"Gallery sections use multiple videos",
+"Randomly select different videos for each section/component",
+"Each visual element gets a random video from the pool"
+],
+"video_implementation": {
+"format": "HLS streams (.m3u8) for adaptive quality",
+"attributes": "autoplay loop muted playsinline",
+"object_fit": "cover or contain depending on context",
+"positioning": "absolute for backgrounds, relative for inline content",
+"z_index": "Background videos at z-index 1-3, text overlays at 10+",
+"performance": "Lazy load videos below fold, preload hero video"
+}
+},
+"layout_patterns": {
+"hero_section": {
+"structure": "Full-width video background with centered text overlay",
+"video_requirement": "MANDATORY - Randomly select one video from pool",
+"min_height": "min(1180px, calc(100vh - 0px))",
+"content_positioning": "Centered vertically and horizontally",
+"text_alignment": "Center-aligned",
+"padding": "64px top/bottom on desktop, scales down on mobile",
+"text_color": "#F5F5F7 (white)",
+"background": "#000000 with video overlay"
+},
+"navigation": {
+"style": "Fixed sticky top bar with blur background",
+"height": "44px",
+"background": "rgba(22, 22, 23, 1.0) with backdrop-filter blur",
+"behavior": "Position fixed, z-index 9999",
+"text_color": "rgba(255, 255, 255, 0.8)",
+"logo": "Apple logo SVG, 14px width",
+"menu_items": "12px font, 600 weight, evenly spaced",
+"max_width": "1024px centered"
+},
+"content_sections": {
+"structure": "Centered content with max-width constraints",
+"width": "87.5% of viewport",
+"max_width": "420px for text, 1680px for full-width",
+"alignment": "Center-aligned containers",
+"video_usage": "Videos replace all image placeholders",
+"text_video_split": "Flexible layouts - sometimes text over video, sometimes side-by-side"
+},
+"feature_cards": {
+"background": "Video backgrounds with dark overlays for readability",
+"video_selection": "Random from pool for each card",
+"text_overlay": "White text with rgba(0,0,0,0.4-0.6) overlay if needed",
+"border_radius": "28px",
+"padding": "32-48px",
+"min_height": "Varies - 213px-656px depending on card type"
+},
+"accordion_faq": {
+"style": "Collapsible sections with chevron icons",
+"border": "2px solid rgb(66, 66, 69) between items",
+"button_height": "auto with 1em padding top/bottom",
+"text_color": "#F5F5F7 for questions, rgba(255,255,255,0.8) for answers",
+"icon_color": "rgb(110, 110, 115) for chevrons",
+"font_size": "24px for questions, 18px for answers"
+}
+},
+"component_styles": {
+"buttons": {
+"primary": {
+"background": "rgba(42, 42, 45, 0.72)",
+"backdrop_filter": "blur(7px)",
+"border_radius": "28px",
+"min_height": "56px",
+"padding": "0 32px",
+"font_weight": "600",
+"color": "#FFFFFF",
+"hover": "background: rgba(66, 66, 69, 0.72)"
+},
+"icon_circular": {
+"size": "36px",
+"border_radius": "50%",
+"background": "rgba(66, 66, 69, 0.72)",
+"icon_color": "rgba(255, 255, 255, 0.8)",
+"hover": "opacity change, cursor pointer"
+},
+"accordion_toggle": {
+"background": "transparent",
+"padding": "1em top/bottom",
+"text_align": "left with space-between justify",
+"icon": "Chevron SVG in rgb(110, 110, 115)",
+"hover": "subtle opacity change"
+}
+},
+"cards": {
+"background": "VIDEO background (not static image or color)",
+"video_source": "Randomly selected from video pool",
+"border_radius": "28px",
+"padding": "24px-72px depending on card size",
+"text_overlay_bg": "rgba(0, 0, 0, 0.3-0.5) if needed for contrast",
+"text_color": "#FFFFFF",
+"min_height": "213px small, 300px medium, 656px large",
+"aspect_ratio": "Varies by context"
+},
+"video_containers": {
+"border_radius": "None for full-screen, 28px for contained videos",
+"aspect_ratio": "Flexible based on content",
+"loading": "Black placeholder or poster frame",
+"quality": "Adaptive HLS streaming",
+"note": "Videos replace ALL image placeholders"
+},
+"carousel_navigation": {
+"button_style": "Circular with SVG arrows",
+"size": "36px",
+"background": "rgba(66, 66, 69, 0.72)",
+"disabled_opacity": "0.36",
+"active_state": "Full opacity with cursor pointer",
+"positioning": "Absolute at bottom, centered horizontally",
+"gap": "18px between buttons"
+}
+},
+"interaction_patterns": {
+"scrolling": {
+"horizontal_carousels": "Snap scroll with navigation arrows, overflow-x scroll",
+"sticky_elements": "Navigation bar (z-index 9999), section headers",
+"parallax": "Minimal - focus on content clarity",
+"overflow": "Hidden on containers, scroll on carousels"
+},
+"hover_states": {
+"links": "Opacity to 0.6-0.8, underline on interaction",
+"buttons": "Background color change, cursor pointer",
+"cards": "Subtle opacity or brightness change on video",
+"navigation": "No underline, opacity change only"
+},
+"accordions": {
+"animation": "Smooth expand/collapse with overflow hidden",
+"icon_rotation": "Chevron rotates on expand",
+"content_reveal": "Padding and opacity fade in",
+"max_width": "83.33% for content"
+},
+"mobile_responsive": {
+"breakpoints": {
+"small": "< 734px",
+"medium": "734px - 1068px",
+"large": "1069px - 1440px",
+"extra_large": "> 1441px"
+},
+"adaptations": [
+"Stack layouts vertically below 734px",
+"Reduce heading sizes progressively",
+"Increase touch targets to 44px minimum",
+"Full-width carousels on mobile",
+"Videos remain responsive with 100% width",
+"Padding scales down: 64px \u2192 48px \u2192 32px"
+]
+}
+},
+"visual_hierarchy": {
+"information_density": "Low to medium - generous breathing room",
+"focal_points": [
+"Large white typography on black backgrounds",
+"Dynamic video content as primary visual",
+"High contrast monochrome palette",
+"Strategic use of translucent UI elements"
+],
+"reading_flow": "Center-aligned for hero, flexible for sections",
+"whitespace_strategy": "Generous section padding (160-216px), clear visual separation",
+"contrast": "Maximum - pure black (#000000) and white (#FFFFFF)"
+},
+"content_strategy": {
+"no_static_images": "NEVER use static images anywhere - only videos",
+"video_distribution": "Randomly assign videos from pool to all visual elements",
+"video_variety": "Use different videos across sections when possible",
+"hero_video": "Always present, autoplay, full-screen",
+"section_videos": "Replace product images, feature backgrounds, card backgrounds",
+"fallback": "Black background (#000000) with white text if video fails",
+"performance": "Lazy load below-fold videos, optimize with HLS adaptive streaming"
+},
+"animation_motion": {
+"philosophy": "Minimal, purposeful animations for clarity",
+"transitions": {
+"duration": "300-400ms",
+"easing": "ease-out, cubic-bezier",
+"properties": "opacity, transform, backdrop-filter"
+},
+"scroll_animations": "Minimal - focus on immediate content visibility",
+"micro_interactions": [
+"Button hover state changes",
+"Accordion expand/collapse",
+"Carousel navigation",
+"Video play controls"
+],
+"video_autoplay": "Respect prefers-reduced-motion for accessibility"
+},
+"accessibility_notes": {
+"contrast": "Maximum contrast - WCAG AAA compliant (black/white)",
+"focus_states": "Visible white outline, -6px offset",
+"touch_targets": "Minimum 44x44px on mobile, 36px on desktop",
+"video_accessibility": [
+"Muted by default",
+"Provide play/pause controls when needed",
+"Respect prefers-reduced-motion",
+"Ensure content readable without video"
+],
+"semantic_html": "Proper heading hierarchy (h1\u2192h2\u2192h3), nav landmarks, button vs link",
+"aria_labels": "Screen reader friendly labels for icon buttons and SVGs"
+},
+"implementation_guidelines": {
+"critical_rules": [
+"NEVER use gradients anywhere - solid colors only",
+"Background MUST ALWAYS be #000000 (pure black) on all sections",
+"ONLY use black (#000000) and white (#FFFFFF) colors",
+"NO colored accents, NO grays as backgrounds",
+"ALL images must be replaced with videos from the provided pool",
+"Hero section MUST include video background",
+"Randomly select videos for EVERY visual element",
+"Text must be white (#F5F5F7/#FFFFFF) or white with opacity",
+"Use large, impactful typography (80px hero, 56px sections)",
+"Generous spacing: 160-216px section padding",
+"Glass morphism: backdrop-filter blur(20px) on UI elements",
+"Border radius: 28px for buttons/cards, 50% for circular buttons",
+"Responsive breakpoints: 734px, 1068px, 1441px",
+"Navigation: Fixed at top, 44px height, dark translucent background"
+],
+"video_everywhere_implementation": {
+"hero": "Full-screen video background, randomly selected from pool",
+"features": "Video backgrounds for feature sections",
+"cards": "Video backgrounds for each card, different videos per card",
+"products": "Videos instead of product photos",
+"galleries": "Grid/carousel of videos, not images",
+"backgrounds": "Decorative sections use videos",
+"random_selection": "Each visual element randomly picks from 11 URLs",
+"video_element": "<video autoplay loop muted playsinline style='width:100%;height:100%;object-fit:cover;'><source src='[RANDOM_URL]' type='application/x-mpegURL'></video>"
+},
+"layout_specifics": {
+"hero_layout": "Centered content, min-height: min(1180px, 100vh)",
+"section_width": "87.5% viewport, max 420px for text",
+"text_alignment": "Center for hero, flexible for sections",
+"carousel_structure": "Horizontal scroll with snap, navigation dots/arrows",
+"accordion_structure": "Border between items, chevron icons, expandable content",
+"footer": "Simple links list, minimal styling"
+},
+"color_restrictions": {
+"allowed": [
+"#000000 (black backgrounds)",
+"#FFFFFF (white text/UI)",
+"rgba(255, 255, 255, X) - white opacity variations",
+"rgba(0, 0, 0, X) - black opacity for overlays",
+"rgba(134, 134, 139, 1.0) - muted gray for secondary text only",
+"rgba(42, 42, 45, 0.72) - dark translucent UI",
+"rgba(66, 66, 69, 0.72) - hover states",
+"rgb(22, 22, 23) - navigation background"
+],
+"forbidden": [
+"ANY color other than black and white variations",
+"Gradients of any kind",
+"Colored text or backgrounds",
+"Colorful imagery (use videos only)"
+]
+},
+"forbidden": [
+"Gradient effects anywhere",
+"Backgrounds other than #000000",
+"Any accent colors or colored elements",
+"Static images (use videos instead)",
+"Small typography (minimum 18px body)",
+"Cramped layouts without whitespace",
+"Complex color schemes"
+]
+}
+}
+‎[19/01/2026, 10:10:42 PM] Olasunkanmi IDRIS: ‎image omitted
+[20/01/2026, 7:22:05 AM] Olasunkanmi IDRIS: Top three things to optimise list performance in React Native:
+
+1.  Use LegendList
+2. Load thumbnails first, defer full-res images
+3. Prefetch real images when needed
+[20/01/2026, 7:22:14 AM] Olasunkanmi IDRIS: A very nice trick is using RCTView and RCTText directly instead of Text and View to squeeze out even the last bit of performance
+[20/01/2026, 7:22:45 AM] Olasunkanmi IDRIS: Pro tip for Android 📱
+
+When using the DateTimePicker, prefer the imperative API instead of the component-based one.
+
+✅ Way cleaner UI
+✅ No layout jumps
+✅ Easier control over when it opens
+✅ You can fully customize the native look using the config plugin
+
+Master React Native
+[23/01/2026, 6:51:44 AM] Olasunkanmi IDRIS: https://inlang.com/m/gerre34r/library-inlang-paraglideJs/architecture/
+[24/01/2026, 12:58:24 PM] Olasunkanmi IDRIS: https://www.remotion.dev/
+[26/01/2026, 8:13:02 AM] Olasunkanmi IDRIS: use to prevent XSS attacks on the client side
+
+https://github.com/cure53/DOMPurify
+
+import { z } from 'zod';
+import DOMPurify from 'dompurify';
+
+const loginSchema = z.object({
+  // Sanitize the username to strip any malicious HTML
+  username: z.string()
+    .min(1, "Username is required")
+    .transform((val) => DOMPurify.sanitize(val)),
+    
+  // DO NOT sanitize passwords, as it can corrupt special characters 
+  // and cause login failures.
+  password: z.string().min(8),
+});
+[26/01/2026, 8:14:27 AM] Olasunkanmi IDRIS: 2. The Necessary Secondary Defenses (2026 Standards)
+To truly secure your app, you must pair DOMPurify with these modern browser features:
+Content Security Policy (CSP): Acts as a safety net. Even if a malicious script bypasses your sanitizer, a strict CSP can block it from executing or sending data to an external server.
+Trusted Types API: A powerful browser security standard that enforces sanitization at the browser level. Once enabled, the browser will throw a TypeError if you try to pass a raw string to a dangerous "sink" (like innerHTML) without going through a trusted policy (like one using DOMPurify).
+Contextual Output Encoding: Always use your framework’s native rendering (e.g., {username} in React or {{username}} in Vue), which automatically escapes data for the specific context it is being placed in.
+[26/01/2026, 8:14:53 AM] Olasunkanmi IDRIS: 3. Summary of Best Practices
+Measure 	Role
+DOMPurify	The Filter: Cleans malicious HTML from untrusted strings.
+Trusted Types	The Enforcer: Ensures all data must be filtered before hitting the DOM.
+CSP	The Safety Net: Blocks unauthorized scripts if filters fail.
+Server Validation	The Gatekeeper: Sanitizes data before it ever hits your database.
+[27/01/2026, 7:32:52 AM] Olasunkanmi IDRIS: https://github.com/EvanBacon/expo-mdx
+
+remote markdown in expo
+[27/01/2026, 12:39:16 PM] Olasunkanmi IDRIS: https://freedium-mirror.cfd/levelup.gitconnected.com/building-human-like-agents-with-right-memory-3436b75815ba?gi=47187a69dd6b
+[27/01/2026, 12:39:38 PM] Olasunkanmi IDRIS: https://www.dailydoseofds.com/p/hands-on-build-an-ai-agent-with-human-like-memory/
+[07/02/2026, 3:57:47 PM] Olasunkanmi IDRIS: https://reactnative.directory/package/react-native-live-detect-edges
+[07/02/2026, 3:58:13 PM] Olasunkanmi IDRIS: https://reactnative.directory/package/markdown-to-jsx
+[10/02/2026, 6:26:38 PM] Olasunkanmi IDRIS: https://www.reacticx.com/docs/components/bottom-sheet-stack
+[10/02/2026, 6:29:02 PM] Olasunkanmi IDRIS: https://github.com/callstackincubator/agent-device?%20AI%20Control%20-%2020672699
+[17/03/2026, 2:38:38 PM] Olasunkanmi IDRIS: NODE_ENV=development
+PORT=3002
+ 
+# Database (Supabase)
+DATABASE_URL=[REDACTED}
+DIRECT_URL=[REDACTED}
+ 
+# JWT (required)
+JWT_SECRET=[REDACTED}
+REFRESH_JWT_SECRET=[REDACTED}
+JWT_EXPIRES_IN=15m
+REFRESH_JWT_EXPIRES_IN=30d
+ 
+# CORS (frontend)
+CORS_ORIGIN=[REDACTED}
+ 
+# Logging
+LOG_LEVEL=debug
+ 
+# AI (only if you want AI endpoints to work)
+LOGO_URL=[REDACTED}
+ 
+#Open Router
+OPENROUTER_API_KEY=[REDACTED}
+OPENROUTER_APP_NAME= StGatherly
+OPENROUTER_SITE_URL=[REDACTED}
+OPENROUTER_BASE_URL=[REDACTED}
+AGENT_MODEL=anthropic/claude-3.5-sonnet
+OPENROUTER_MODEL=openai/gpt-4o-mini
+INTENT_MODEL=openai/gpt-4o
+#Open Ai
+OPENAI_API_KEY=[REDACTED}
+OPENAI_MODEL=gpt-4-turbo
+ 
+BREVO_API_KEY=[REDACTED}
+KKD_CAMPAIGNS_EMAIL=campaigns@kokoodi.com
+ 
+RECAPTCHA_SECRET_KEY=[REDACTED}
+RECAPTCHA_MIN_SCORE=0.5
+ 
+ANTHROPIC_API_KEY=[REDACTED}
+ 
+#Rate Limiting
+RATE_LIMIT_WINDOW_MS=900000
+RATE_LIMIT_MAX=200
+ 
+AZURE_STORAGE_ACCOUNT_NAME=kkdcommsplatformrg8d19
+AZURE_STORAGE_CONNECTION_STRING=[REDACTED}
+AZURE_STORAGE_BLOB_ENDPOINT=[REDACTED}
+[17/03/2026, 2:38:58 PM] Olasunkanmi IDRIS: # API Configuration
+#
+# NEXT_PUBLIC_API_URL — used by the browser-side axios client.
+# In development this must be relative ('/api/proxy') so the proxy route
+# handler is invoked. The proxy then forwards to INTERNAL_API_URL.
+#
+# INTERNAL_API_URL — server-only (NOT prefixed with NEXT_PUBLIC_).
+# Used by Next.js server components / route handlers that call the backend
+# directly (session.ts, logout.ts). Never sent to the browser.
+#
+# Production:
+# NEXT_PUBLIC_API_URL=/api/proxy
+# INTERNAL_API_URL=[REDACTED}
+# NEXT_PUBLIC_WS_URL=[REDACTED}
+
+NEXT_PUBLIC_API_URL=/api/proxy
+INTERNAL_API_URL=[REDACTED}
+NEXT_PUBLIC_WS_URL=[REDACTED}
+
+# Frontend Port (to avoid conflicts with backend)
+PORT=3000
+ 
+# Environment
+NODE_ENV=development
+
+# Logging (set to 'true' to enable dev logging)
+NEXT_PUBLIC_LOGGING=true
+
+NEXT_PUBLIC_ENABLE_DEBUG_TOOLS=true%
+[18/03/2026, 8:02:42 AM] Olasunkanmi IDRIS: https://github.com/callstackincubator/react-native-grab
+[22/03/2026, 9:07:59 PM] Olasunkanmi IDRIS: https://www.navigatr.dev/
+[27/03/2026, 8:40:52 AM] Olasunkanmi IDRIS: This might help https://refactoring.guru/design-patterns
+[31/03/2026, 8:57:24 AM] Olasunkanmi IDRIS: https://github.com/chenglou/pretext
+[31/03/2026, 10:06:03 AM] Olasunkanmi IDRIS: Ace and Triple A App are in production now
+[31/03/2026, 10:06:03 AM] Olasunkanmi IDRIS: https://play.google.com/store/apps/details?id=com.acemobile.app
+[31/03/2026, 10:06:03 AM] Olasunkanmi IDRIS: https://play.google.com/store/apps/details?id=com.triplea.app
+[31/03/2026, 2:08:37 PM] Olasunkanmi IDRIS: Apple small business program
+[03/04/2026, 5:01:31 AM] Olasunkanmi IDRIS: https://expo.dev/blog/build-an-ai-qa-agent-for-expo-apps-with-eas-workflows-in-minutes-today
+[03/04/2026, 5:03:08 AM] Olasunkanmi IDRIS: https://github.com/gunnartorfis/sonner-native-toasts
+[03/04/2026, 5:12:13 AM] Olasunkanmi IDRIS: https://github.com/0xGF/boneyard
+[03/04/2026, 6:09:03 AM] Olasunkanmi IDRIS: https://nigerian-markets-api-docs.vercel.app/docs/openapi/listStates
+[04/04/2026, 7:54:47 AM] Olasunkanmi IDRIS: https://github.com/callstack/liquid-glass
+[04/04/2026, 8:51:31 AM] Olasunkanmi IDRIS: https://threejs-spinners.web.app/
+[05/04/2026, 10:45:43 AM] Olasunkanmi IDRIS: https://github.com/capcom6/android-sms-gateway
+[05/04/2026, 11:06:28 AM] Olasunkanmi IDRIS: https://github.com/adobe/react-spectrum/blob/main/packages/%40react-spectrum/s2/src/Skeleton.tsx
+[10/04/2026, 4:23:20 AM] Olasunkanmi IDRIS: https://jina.ai/
+[10/04/2026, 4:26:11 AM] Olasunkanmi IDRIS: https://codewithbeto.dev/blog/react-native-styles-you-didnt-know-existed
+[12/04/2026, 6:46:21 AM] Olasunkanmi IDRIS: ‎You deleted this message.
+[12/04/2026, 6:48:05 AM] Olasunkanmi IDRIS: ‎You deleted this message.
