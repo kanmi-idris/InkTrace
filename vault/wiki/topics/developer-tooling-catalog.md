@@ -3,7 +3,7 @@ id: topic-developer-tooling-catalog
 type: topic
 status: active
 confidence: medium
-source_ids: [src-2026-04-12-006, src-2026-04-12-014, src-2026-04-12-024, src-2026-04-12-027, src-2026-04-12-045, src-2026-04-12-047, src-2026-04-12-050, src-2026-04-12-051, src-2026-04-12-056, src-2026-04-13-001, src-2026-04-13-002, src-2026-04-23-002, src-2026-04-25-002]
+source_ids: [src-2026-04-12-006, src-2026-04-12-014, src-2026-04-12-024, src-2026-04-12-027, src-2026-04-12-045, src-2026-04-12-047, src-2026-04-12-050, src-2026-04-12-051, src-2026-04-12-056, src-2026-04-13-001, src-2026-04-13-002, src-2026-04-23-002, src-2026-04-25-002, src-2026-04-25-005]
 updated_at: 2026-04-25
 ---
 
@@ -18,6 +18,7 @@ Outside the strongest AI and React Native clusters, the reviewed links still for
 - The catalog also now includes an audio-creation utility layer through MiniMax Audio, which spans multilingual text-to-speech, voice browsing, voice cloning, downloadable outputs, and music-creation or project-oriented audio workflows. [src-2026-04-13-001]
 - A later discussion source adds an operational-risk lens to the Bun or Elysia ecosystem: the DX and performance story is attractive, but the thread repeatedly favors established runtimes for critical infrastructure because of perceived maturity, compatibility, approval, and fallback concerns. [src-2026-04-23-002]
 - `metadata-gen` adds a local branding-and-metadata automation layer to the catalog by scanning existing project files for title, colors, and logo assets, then generating OG-image variants plus a full favicon set with a local preview-and-download flow. [src-2026-04-25-002]
+- `TypeGPU` adds a typed graphics-and-compute layer to the catalog by wrapping WebGPU resources, bind groups, linking, and future shader-authoring workflows in TypeScript-first abstractions, with explicit positioning as lower-level building blocks rather than a full rendering framework. [src-2026-04-25-005]
 - Other links serve as broader design or product heuristics instead of hard technical guidance, including Laws of UX, App Store review guidance, and HubSpot's landing-page prompt asset. [src-2026-04-12-014][src-2026-04-12-027][src-2026-04-12-047]
 - The export therefore works as a mixed reference shelf rather than a purely engineering backlog: it holds technical building blocks next to UX and go-to-market material. [src-2026-04-12-006][src-2026-04-12-027][src-2026-04-12-047]
 

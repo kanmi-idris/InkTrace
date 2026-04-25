@@ -1,0 +1,48 @@
+WhatsApp Chat with Tools Cheatsheet
+
+Reconstructed on 2026-04-25 from the canonical source record `src-2026-04-12-006.md` because the original raw export file referenced by that record was missing from the vault.
+
+This reconstructed raw artifact is intentionally conservative. It preserves the source record's high-level description of the export and selected non-sensitive note content, but it does not attempt to recreate the full original chat transcript.
+
+Sensitive URLs, credential-like strings, and key-like values are redacted as `[REDACTED}`.
+
+---
+
+Summary
+
+This source was an exported WhatsApp chat used as a personal research log and link dump. According to the source record, it spanned from 2024-11-15 21:01 to 2026-04-12 06:46 and mixed public links, short notes, product ideas, and repeated tool references.
+
+Recorded aggregate facts from the source record
+
+- Parsed messages: 475
+- URL mentions: 463
+- Unique normalized URLs: 284
+- Most frequently linked hosts by raw mention count:
+  - github.com (73)
+  - www.youtube.com (43)
+  - www.npmjs.com (18)
+  - dev.to (14)
+  - x.com (14)
+  - medium.com (11)
+  - customer-cbeadsgr09pnsezs.cloudflarestream.com (11)
+  - www.linkedin.com (10)
+  - expo.dev (7)
+  - levelup.gitconnected.com (6)
+
+Selected non-link notes preserved in the source record
+
+- NOTE: If you need immediate UI updates for a specific state change, you can force React to process updates by flushing the queue: `import { flushSync } from 'react-dom'; flushSync(() => { setState(value); });`
+- Fine-tune an AI model to understand handwritten text notes and convert them to readable text or speech.
+- Build a tool call `writeAssist` that uses realtime video capabilities with [REDACTED} and understands handwriting, uses [REDACTED} and runs fully on device.
+- The `writeAssist` model learns from a dataset on files in realtime and remembers data from videos and text.
+- The `writeAssist` model constantly segments handwriting and uses user feedback to refine understanding, for example by asking what the content of a picture is and requesting clarification.
+- Data structures and algorithms to know: stack, queue, hashmap, set, graph, dynamic programming, greedy algorithm, recursion.
+- There was a pinned message on 2024-11-30 05:51.
+- A preserved note described how to switch between two GitHub profiles in VS Code using the GitHub extension, the GitHub CLI, or VS Code settings. Any sensitive account names, URLs, tokens, and credential-like values are treated as `[REDACTED}` in this reconstructed copy.
+
+Reconstruction notes
+
+- Duplicate URL mentions were normalized during the original import and tracked in reviewed source notes or unresolved-link tracking.
+- The source record explicitly states that the imported raw copy was redacted for credential-like values before being written into the vault.
+- This reconstructed file continues that policy by redacting sensitive URLs and key-like values as `[REDACTED}`.
+- For full interpretation and wiki links, see `vault/sources/src-2026-04-12-006.md`.

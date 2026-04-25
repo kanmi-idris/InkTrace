@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sources/src-2026-04-12-012.md",
-                "mode": "source",
+                "file": "sources/src-2026-04-12-006.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "src-2026-04-12-012"
+              "title": "src-2026-04-12-006"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "whatsapp-chat-with-tools-cheatsheet.txt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -185,6 +186,8 @@
   },
   "active": "f06cdfc54e1dcb68",
   "lastOpenFiles": [
+    "raw/articles/2026-04-12-whatsapp-chat-with-tools-cheatsheet.txt",
+    "sources/src-2026-04-12-012.md",
     "sources/src-2026-04-13-003.md",
     "raw/articles/2026-04-13-expo-app-blocker-src-2026-04-13-003.md",
     "sources/src-2026-04-13-002.md",
@@ -209,9 +212,6 @@
     "raw/articles/2026-04-12-list-all-states-iya-oloja-docs-src-2026-04-12-057.md",
     "sources/src-2026-04-12-056.md",
     "raw/articles/2026-04-12-design-patterns-src-2026-04-12-056.md",
-    "sources/src-2026-04-12-055.md",
-    "raw/articles/2026-04-12-bottom-sheet-stack-reactix-src-2026-04-12-055.md",
-    "raw/articles/2026-04-12-whatsapp-chat-with-tools-cheatsheet.txt",
     "inbox/processed/paste",
     "inbox/processed/notes",
     "inbox/processed/files",

@@ -170,3 +170,24 @@
 
 ## [2026-04-25 07:18] lint | Vault lint
 - No issues found.
+
+## [2026-04-25 07:31] ingest | Follow-up source: expo-circular-reveal
+- Added src-2026-04-25-004 from the supplied repository summary and folded it into the React Native/Expo notes as a native circular reveal theme-transition utility.
+
+## [2026-04-25 07:31] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-04-25 07:31] lint | Vault lint
+- No issues found.
+
+## [2026-04-25 07:43] ingest | Follow-up source: MobSF
+- Added src-2026-04-25-006 from the supplied repository page and folded it into the React Native/Expo notes as a broader mobile static-and-dynamic security analysis platform.
+
+## [2026-04-25 07:43] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-04-25 07:43] lint | Vault lint
+- No issues found.
+
+## [2026-04-25 08:29] maintenance | Recreated missing raw WhatsApp export
+- Recreated vault/raw/articles/2026-04-12-whatsapp-chat-with-tools-cheatsheet.txt from src-2026-04-12-006 and preserved sensitive URL and key redaction with [REDACTED}.
