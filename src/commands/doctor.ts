@@ -5,6 +5,7 @@ export async function runDoctor(paths: ProjectPaths): Promise<string[]> {
   const checks: Array<[string, string]> = [
     ["Template directory", paths.templateDir],
     ["Vault directory", paths.vaultDir],
+    ["Inbox directory", paths.inboxDir],
     ["Index file", paths.indexFile],
     ["Log file", paths.logFile],
     ["System AGENTS file", `${paths.systemDir}/AGENTS.md`]

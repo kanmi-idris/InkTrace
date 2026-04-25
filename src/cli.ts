@@ -1,7 +1,10 @@
 #!/usr/bin/env node
 import path from "node:path";
+import { runCapture } from "./commands/capture";
 import { runDoctor } from "./commands/doctor";
+import { runIngestInbox } from "./commands/ingest";
 import { runInit } from "./commands/init";
+import { runInboxList, runInboxProcess } from "./commands/inbox";
 import { runLint } from "./commands/lint";
 import { runLog } from "./commands/log";
 import { runNewSource } from "./commands/new-source";
@@ -11,6 +14,7 @@ import { resolveProjectPaths } from "./utils/paths";
 
 interface ParsedArgs {
   command?: string;
+  subcommand?: string;
   options: Record<string, string | boolean>;
 }
 
@@ -30,6 +34,50 @@ async function main(): Promise<void> {
       const report = await runDoctor(paths);
       report.forEach((line) => info(line));
       return;
+    }
+    case "capture": {
+      if (!parsed.subcommand) {
+        throw new Error("Missing capture mode. Use `capture paste`, `capture note`, or `capture file`.");
+      }
+      const tags = typeof parsed.options.tags === "string"
+        ? parsed.options.tags.split(",").map((item) => item.trim()).filter(Boolean)
+        : [];
+      const lines = await runCapture(paths, parsed.subcommand, {
+        title: asOptionalString(parsed.options.title),
+        tags,
+        url: asOptionalString(parsed.options.url),
+        content: asOptionalString(parsed.options.content),
+        path: asOptionalString(parsed.options.path)
+      });
+      lines.forEach((line) => success(line));
+      return;
+    }
+    case "inbox": {
+      switch (parsed.subcommand) {
+        case "list": {
+          const lines = await runInboxList(paths);
+          lines.forEach((line) => info(line));
+          return;
+        }
+        case "process": {
+          const lines = await runInboxProcess(paths);
+          lines.forEach((line) => info(line));
+          return;
+        }
+        default:
+          throw new Error("Missing inbox action. Use `inbox list` or `inbox process`.");
+      }
+    }
+    case "ingest": {
+      switch (parsed.subcommand) {
+        case "inbox": {
+          const lines = await runIngestInbox(paths);
+          lines.forEach((line) => info(line));
+          return;
+        }
+        default:
+          throw new Error("Missing ingest action. Use `ingest inbox`.");
+      }
     }
     case "new-source": {
       const type = requireOption(parsed.options, "type");
@@ -78,7 +126,10 @@ async function main(): Promise<void> {
 }
 
 function parseArgs(argv: string[]): ParsedArgs {
-  const [command, ...rest] = argv;
+  const [command, maybeSubcommand, ...remaining] = argv;
+  const hasSubcommand = Boolean(maybeSubcommand && !maybeSubcommand.startsWith("--"));
+  const subcommand = hasSubcommand ? maybeSubcommand : undefined;
+  const rest = hasSubcommand ? remaining : argv.slice(1);
   const options: Record<string, string | boolean> = {};
 
   for (let index = 0; index < rest.length; index += 1) {
@@ -98,7 +149,7 @@ function parseArgs(argv: string[]): ParsedArgs {
     index += 1;
   }
 
-  return { command, options };
+  return { command, subcommand, options };
 }
 
 function requireOption(options: Record<string, string | boolean>, key: string): string {
@@ -119,6 +170,12 @@ function printHelp(): void {
 Usage:
   inktrace init [--vault PATH]
   inktrace doctor [--vault PATH]
+  inktrace capture paste --title TITLE [--tags a,b] [--url URL] [--content TEXT] [--vault PATH]
+  inktrace capture note --title TITLE [--tags a,b] [--url URL] [--content TEXT] [--vault PATH]
+  inktrace capture file --path FILE [--title TITLE] [--tags a,b] [--url URL] [--vault PATH]
+  inktrace inbox list [--vault PATH]
+  inktrace inbox process [--vault PATH]
+  inktrace ingest inbox [--vault PATH]
   inktrace new-source --type TYPE --title TITLE [--url URL] [--author NAME] [--tags a,b] [--file PATH] [--vault PATH]
   inktrace log --event EVENT --title TITLE --detail TEXT [--vault PATH]
   inktrace rebuild-index [--vault PATH]

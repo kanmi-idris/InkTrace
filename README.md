@@ -19,6 +19,44 @@ npm run bootstrap:vault
 npm run doctor
 ```
 
+## Super-simple capture
+
+Paste whatever is on your clipboard into the inbox:
+
+```bash
+node dist/src/cli.js capture paste --title "Interesting article" --tags ai,research
+```
+
+Create a quick tagged note:
+
+```bash
+node dist/src/cli.js capture note --title "Idea from conversation" --tags idea,follow-up --content "This might be useful later."
+```
+
+Drop a file into the inbox:
+
+```bash
+node dist/src/cli.js capture file --path "/path/to/file.pdf" --tags paper,ml
+```
+
+See what is waiting in the inbox:
+
+```bash
+node dist/src/cli.js inbox list
+```
+
+Normalize everything in the inbox into `raw/` and `sources/`:
+
+```bash
+node dist/src/cli.js inbox process
+```
+
+Or do the whole low-friction normalization cycle in one command:
+
+```bash
+node dist/src/cli.js ingest inbox
+```
+
 Create a source record:
 
 ```bash
@@ -36,6 +74,12 @@ node dist/src/cli.js lint
 
 - `inktrace init`
 - `inktrace doctor`
+- `inktrace capture paste`
+- `inktrace capture note`
+- `inktrace capture file`
+- `inktrace inbox list`
+- `inktrace inbox process`
+- `inktrace ingest inbox`
 - `inktrace new-source`
 - `inktrace log`
 - `inktrace rebuild-index`
@@ -43,10 +87,10 @@ node dist/src/cli.js lint
 
 ## Daily workflow
 
-1. Capture a source into `vault/raw/` or let `new-source` create a placeholder.
-2. Create a source record with `new-source`.
-3. Ask your LLM agent to ingest the source into the wiki.
-4. Run `rebuild-index` and `lint` after meaningful changes.
+1. Dump content into `vault/inbox/` using `capture paste`, `capture note`, or `capture file`.
+2. Use `inbox list` to review what is waiting.
+3. Run `ingest inbox` when you want InkTrace to normalize inbox items into `raw/` and `sources/`, refresh the index, and lint the vault in one pass.
+4. Ask your LLM agent to ingest the resulting source records into the wiki.
 
 ## Obsidian
 

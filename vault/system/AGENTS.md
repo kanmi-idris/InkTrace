@@ -2,6 +2,7 @@
 
 ## Core model
 
+- `inbox/` is the low-friction capture layer for pasted content, files, and quick notes.
 - `raw/` contains immutable source evidence.
 - `sources/` contains canonical source records that point at `raw/`.
 - `wiki/` contains synthesized, interlinked markdown pages.
@@ -10,6 +11,8 @@
 
 ## Writing rules
 
+- Allow fast capture into `inbox/` without requiring full normalization up front.
+- Treat `inbox/` as unprocessed intake until items are converted into `raw/` and `sources/`.
 - Never modify an existing file in `raw/`.
 - Every new source must get a source record in `sources/`.
 - Every factual claim in `wiki/` must cite one or more source IDs using `[src-YYYY-MM-DD-NNN]`.

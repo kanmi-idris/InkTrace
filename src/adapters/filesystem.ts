@@ -34,12 +34,31 @@ export async function copyFile(sourcePath: string, destinationPath: string): Pro
   await fs.copyFile(sourcePath, destinationPath);
 }
 
+export async function moveFile(sourcePath: string, destinationPath: string): Promise<void> {
+  await ensureDir(path.dirname(destinationPath));
+  await fs.rename(sourcePath, destinationPath);
+}
+
 export async function listFiles(dirPath: string): Promise<string[]> {
   if (!(await exists(dirPath))) {
     return [];
   }
   const entries = await fs.readdir(dirPath, { withFileTypes: true });
   return entries.map((entry) => path.join(dirPath, entry.name));
+}
+
+export async function listFileEntries(dirPath: string): Promise<Array<{ path: string; name: string; isDirectory: boolean; isFile: boolean }>> {
+  if (!(await exists(dirPath))) {
+    return [];
+  }
+
+  const entries = await fs.readdir(dirPath, { withFileTypes: true });
+  return entries.map((entry) => ({
+    path: path.join(dirPath, entry.name),
+    name: entry.name,
+    isDirectory: entry.isDirectory(),
+    isFile: entry.isFile()
+  }));
 }
 
 export async function listMarkdownFilesRecursive(dirPath: string): Promise<string[]> {
