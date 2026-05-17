@@ -770,3 +770,72 @@
 
 ## [2026-05-16 20:23] maintenance | Rebuilt index
 - Regenerated index.md from wiki pages.
+
+## [2026-05-17 16:35] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-05-17 16:35] lint | Vault lint
+- No issues found.
+
+## [2026-05-17 16:35] ingest | Added BitTorrent explainer
+- Added src-2026-05-17-001 from How-To Geek and folded it into the developer tooling catalog as protocol background covering swarms, trackers, seeders, leechers, and DHT-based trackerless torrents.
+
+## [2026-05-17 16:36] ingest | Added magnet link explainer
+- Added src-2026-05-17-002 from the user-supplied How-To Geek article text and folded it into the developer tooling catalog as companion background on magnet links, hash-based discovery, and the decline of standalone .torrent files.
+
+## [2026-05-17 16:36] lint | Vault lint
+- No issues found.
+
+## [2026-05-17 16:36] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-05-17 16:37] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-05-17 16:37] lint | Vault lint
+- No issues found.
+
+## [2026-05-17 16:39] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-05-17 16:39] lint | Vault lint
+- No issues found.
+
+## [2026-05-17 16:39] ingest | Added magnet-link backend architecture note
+- Added src-2026-05-17-003 from a user-supplied architecture note and folded it into the developer tooling catalog as a backend-systems lens on magnet links, content-addressed storage, and decentralized transport tradeoffs.
+
+## [2026-05-17 16:45] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-05-17 16:45] lint | Vault lint
+- No issues found.
+
+## [2026-05-17 16:45] ingest | Added Base64 media architecture note
+- Added src-2026-05-17-004 from a user-supplied architecture note and folded it into the developer tooling catalog as API and storage guidance on Base64, binary uploads, and external media storage.
+
+## [2026-05-17 16:48] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-05-17 16:48] ingest | Added TypeScript binary format comparison note
+- Added src-2026-05-17-005 from a user-supplied architecture note and folded it into the developer tooling catalog as guidance on Protobuf, CBOR, Avro, and layered serialization strategy.
+
+## [2026-05-17 16:48] lint | Vault lint
+- No issues found.
+
+## [2026-05-17 17:30] ingest | Added Frida runtime hooking article
+- Added src-2026-05-17-006 from a user-supplied Medium article and folded it into the developer tooling catalog as mobile reverse-engineering and runtime-hooking tooling background.
+
+## [2026-05-17 17:30] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-05-17 17:30] lint | Vault lint
+- No issues found.
+
+## [2026-05-17 17:43] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-05-17 17:43] lint | Vault lint
+- No issues found.
+
+## [2026-05-17 17:43] ingest | Added freerasp-react-native package
+- Added src-2026-05-17-007 from the referenced npm package page and folded it into the React Native and Expo notes as conservative mobile runtime-protection tooling coverage, noting that the pasted body did not match the URL.
