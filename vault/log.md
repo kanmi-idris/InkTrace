@@ -839,3 +839,390 @@
 
 ## [2026-05-17 17:43] ingest | Added freerasp-react-native package
 - Added src-2026-05-17-007 from the referenced npm package page and folded it into the React Native and Expo notes as conservative mobile runtime-protection tooling coverage, noting that the pasted body did not match the URL.
+
+## [2026-05-18 21:58] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-05-18 21:58] lint | Vault lint
+- No issues found.
+
+## [2026-05-18 21:58] ingest | Added OpenCut project
+- Added src-2026-05-18-001 from the OpenCut site and GitHub repository and folded it into the developer tooling catalog as open-source creator tooling and a cross-platform Rust-plus-WASM media-app architecture reference.
+
+## [2026-05-18 22:33] ingest | Added Free Faces gallery
+- Added src-2026-05-18-002 from the Free Faces site and folded it into the developer tooling catalog as a typography-discovery and license-reference utility.
+
+## [2026-05-18 22:33] lint | Vault lint
+- No issues found.
+
+## [2026-05-18 22:33] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-05-18 22:44] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-05-18 22:44] lint | Vault lint
+- No issues found.
+
+## [2026-05-18 22:44] ingest | Added Annot.io reference
+- Added src-2026-05-18-003 from a shortened link that resolved toward Annot.io and folded it into the developer tooling catalog as a conservative website-feedback and annotation tool reference.
+
+## [2026-05-18 22:55] ingest | Added Typesense project
+- Added src-2026-05-18-004 from the Typesense GitHub repository and folded it into the developer tooling catalog as search infrastructure and retrieval-system tooling.
+
+## [2026-05-18 22:55] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-05-18 22:55] lint | Vault lint
+- No issues found.
+
+## [2026-05-20 10:36] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-05-20 10:36] lint | Vault lint
+- No issues found.
+
+## [2026-05-20 10:36] ingest | Added react-native-teleport docs
+- Added src-2026-05-20-001 from the react-native-teleport docs and folded it into the React Native and Expo notes as native re-parenting and shared-transition infrastructure.
+
+## [2026-05-20 10:42] ingest | Added react-native-sandbox article
+- Added src-2026-05-20-002 from Callstack's article and folded it into the React Native and Expo notes as super-app runtime-isolation and plugin-sandbox infrastructure.
+
+## [2026-05-20 10:42] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-05-20 10:42] lint | Vault lint
+- No issues found.
+
+## [2026-05-21 09:03] ingest | Added Cloudflare R2 and HLS hosting note
+- Added src-2026-05-21-001 from Cloudflare R2 docs plus a user-supplied HLS video-hosting walkthrough and folded it into the developer tooling catalog as storage and media-delivery infrastructure guidance.
+
+## [2026-05-21 09:03] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-05-21 09:03] lint | Vault lint
+- No issues found.
+
+## [2026-05-21 09:06] ingest | Updated Cloudflare R2 and HLS hosting note
+- Expanded src-2026-05-21-001 with a second architecture variant that uses Cloudflare Stream as a temporary transcoding layer before moving generated multi-quality outputs into R2.
+
+## [2026-05-21 09:06] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-05-21 09:06] lint | Vault lint
+- No issues found.
+
+## [2026-05-21 19:23] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-05-21 19:23] ingest | Added react-native-nitro-biometrics
+- Added src-2026-05-21-002 from the nitro-biometrics subproject and folded it into the React Native and Expo notes as a focused Nitro Modules biometrics wrapper with Expo plugin support.
+
+## [2026-05-21 19:23] lint | Vault lint
+- No issues found.
+
+## [2026-05-21 19:25] ingest | Added web-ai-sdk site
+- Added src-2026-05-21-003 from the web-ai-sdk site and folded it into the developer tooling catalog as browser-native AI abstraction and WebMCP tooling.
+
+## [2026-05-21 19:25] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-05-21 19:25] lint | Vault lint
+- No issues found.
+
+## [2026-05-22 10:44] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-05-22 10:44] ingest | Added delphitools site
+- Added src-2026-05-22-001 from delphi.tools and folded it into the developer tooling catalog as a privacy-first browser-utility hub for design, developer, and print workflows.
+
+## [2026-05-22 10:44] lint | Vault lint
+- No issues found.
+
+## [2026-05-23 04:32] ingest | Added analytical design and Tufte principles note
+- Added src-2026-05-23-001 from a user-supplied note and created a new topic page for analytical design, sparklines, layering, micro/macro composition, and extended Tufte-style critique principles.
+
+## [2026-05-23 04:32] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-05-23 04:32] lint | Vault lint
+- No issues found.
+
+## [2026-05-23 04:41] ingest | Added Scrapling project
+- Added src-2026-05-23-002 from the Scrapling repository and folded it into the developer tooling catalog as adaptive scraping, crawling, and MCP-enabled extraction infrastructure.
+
+## [2026-05-23 04:41] lint | Vault lint
+- No issues found.
+
+## [2026-05-23 04:41] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-05-23 04:57] ingest | Added Software Mansion Agentic Engineering Guide
+- Added src-2026-05-23-003 from Software Mansion's public guide and folded it into the AI agent tooling topic as operational guidance on harness engineering, context management, evaluation, and parallel-agent workflows.
+
+## [2026-05-23 04:57] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-05-23 04:57] lint | Vault lint
+- No issues found.
+
+## [2026-05-24 12:26] ingest | Added Liquid DOM project
+- Added src-2026-05-24-001 from the Liquid DOM repository and folded it into the developer tooling catalog as experimental WebGPU rendering, layout-engine, and renderer-adapter infrastructure.
+
+## [2026-05-24 12:26] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-05-24 12:26] lint | Vault lint
+- No issues found.
+
+## [2026-05-24 12:29] ingest | Updated Liquid DOM source
+- Expanded src-2026-05-24-001 with the separate liquid-dom showcase URL as additional live-demo evidence for the existing project record.
+
+## [2026-05-24 12:29] lint | Vault lint
+- No issues found.
+
+## [2026-05-24 12:29] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-05-24 12:30] lint | Vault lint
+- No issues found.
+
+## [2026-05-24 12:30] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-05-24 12:30] ingest | Updated Liquid DOM source
+- Expanded src-2026-05-24-001 with the VideoControlsDemo showcase file as concrete evidence of animated media-control composition using @liquid-dom/react primitives and spring-driven interactions.
+
+## [2026-05-24 12:32] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-05-24 12:32] lint | Vault lint
+- No issues found.
+
+## [2026-05-24 12:32] ingest | Added Understand Anything source
+- Captured Lum1104/Understand-Anything as AI-assisted codebase-understanding and knowledge-graph tooling, then added it to the developer tooling catalog.
+
+## [2026-05-25 13:50] lint | Vault lint
+- No issues found.
+
+## [2026-05-25 13:50] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-05-25 13:50] ingest | Added Android logcat attach tip
+- Captured a CLI-first Android debugging command that attaches colorized logcat output to a specific app process via adb pid lookup, then added it to the developer tooling catalog.
+
+## [2026-05-26 13:28] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-05-26 13:28] lint | Vault lint
+- No issues found.
+
+## [2026-05-26 13:29] ingest | Added TanStack Query introduction source
+- Captured Neciu Dan’s TanStack Query article as frontend data-fetching architecture guidance and added it to the developer tooling catalog.
+
+## [2026-05-26 13:33] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-05-26 13:33] lint | Vault lint
+- No issues found.
+
+## [2026-05-26 13:34] ingest | Added Orval docs source
+- Captured the official Orval documentation as OpenAPI-driven frontend code-generation infrastructure and added it to the developer tooling catalog.
+
+## [2026-05-27 05:05] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-05-27 05:05] lint | Vault lint
+- No issues found.
+
+## [2026-05-27 05:05] ingest | Added mobile biometrics approaches source
+- Captured thoughtbot’s React Native and Expo biometrics article as mobile security architecture guidance and added it to the React Native and Expo notes topic.
+
+## [2026-05-27 05:35] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-05-27 05:35] lint | Vault lint
+- No issues found.
+
+## [2026-05-27 05:35] ingest | Added interface details article source
+- Captured Jakub Krehel’s interface-polish article as design-engineering guidance and added it to the developer tooling catalog.
+
+## [2026-05-28 10:49] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-05-28 10:49] lint | Vault lint
+- No issues found.
+
+## [2026-05-28 10:49] ingest | Added React Native keyboard handling source
+- Captured Margelo’s keyboard handling deep dive as React Native platform-behavior guidance and added it to the React Native and Expo notes topic.
+
+## [2026-05-28 10:59] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-05-28 10:59] lint | Vault lint
+- No issues found.
+
+## [2026-05-28 10:59] ingest | Added NativeScript source
+- Captured NativeScript and its snippets site as cross-platform native mobile tooling and added it to the developer tooling catalog.
+
+## [2026-05-28 11:03] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-05-28 11:03] lint | Vault lint
+- No issues found.
+
+## [2026-05-28 11:03] ingest | Added NativeScript Expo source
+- Captured DjDeveloperr/nativescript-expo as experimental NativeScript, JSI, and Expo bridge architecture, then added it to the developer tooling catalog and React Native/Expo notes.
+
+## [2026-05-28 11:07] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-05-28 11:07] lint | Vault lint
+- No issues found.
+
+## [2026-05-28 11:07] ingest | Added React Native Bottom Sheet source
+- Captured Software Mansion Labs’ react-native-bottom-sheet as native bottom-sheet implementation infrastructure and added it to the React Native and Expo notes topic.
+
+## [2026-05-30 11:00] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-05-30 11:00] lint | Vault lint
+- No issues found.
+
+## [2026-05-30 11:00] ingest | Added React Native performance tactics source
+- Captured Sentry’s React Native performance article as optimization and observability guidance, then added it to the React Native and Expo notes topic.
+
+## [2026-05-30 18:40] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-05-30 18:40] lint | Vault lint
+- No issues found.
+
+## [2026-05-30 18:40] ingest | Added SimDeck source
+- Captured SimDeck as agent-oriented mobile simulator and emulator infrastructure, then added it to the developer tooling catalog and React Native/Expo notes.
+
+## [2026-05-30 18:42] lint | Vault lint
+- No issues found.
+
+## [2026-05-30 18:42] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-05-30 18:42] ingest | Added Linux mouse unlock note
+- Captured a mouse-click pattern unlock idea as Linux desktop automation using evdev, loginctl, and systemd, with the weak-security caveat explicit in the source and catalog.
+
+## [2026-05-30 18:43] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-05-30 18:43] lint | Vault lint
+- No issues found.
+
+## [2026-05-30 18:44] ingest | Updated TanStack Query introduction source
+- Merged the second pasted copy of Neciu Dan’s TanStack Query article into src-2026-05-26-001, adding the talk/audience context and fuller setup/cache details without creating a duplicate source.
+
+## [2026-05-30 18:45] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-05-30 18:45] lint | Vault lint
+- No issues found.
+
+## [2026-05-30 18:45] ingest | Added CSS versus JavaScript animation source
+- Captured Josh W. Comeau’s animation performance article as frontend guidance on CSS, requestAnimationFrame, WAAPI, Motion, GSAP, and library selection tradeoffs.
+
+## [2026-05-31 11:42] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-05-31 11:42] lint | Vault lint
+- No issues found.
+
+## [2026-05-31 11:42] ingest | Added mapcn API reference source
+- Captured the mapcn API reference as a companion source documenting component anatomy, MapLibre access, controlled viewport state, markers, popups, routes, arcs, and clustering.
+
+## [2026-05-31 11:48] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-05-31 11:48] lint | Vault lint
+- No issues found.
+
+## [2026-05-31 11:48] ingest | Added Netguru source
+- Captured Netguru's official site as a software-consulting and product-development vendor reference and added it to the developer tooling catalog.
+
+## [2026-05-31 11:51] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-05-31 11:51] lint | Vault lint
+- No issues found.
+
+## [2026-05-31 11:51] ingest | Added Netguru fintech app guide
+- Captured Netguru's fintech app development guide as regulated-product architecture guidance and linked it to the developer tooling catalog and React Native notes.
+
+## [2026-05-31 13:33] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-05-31 13:33] lint | Vault lint
+- No issues found.
+
+## [2026-05-31 13:33] ingest | Added JavaScript libraries roundup
+- Captured Neciu Dan's roundup of Knip, Nuqs, ts-pattern, Orval, Zod, Biome, and ofetch as frontend tooling guidance and added it to the developer tooling catalog.
+
+## [2026-06-03 13:24] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-03 13:24] lint | Vault lint
+- No issues found.
+
+## [2026-06-03 13:24] ingest | Added ShadowCat source
+- Captured ShadowCat as offline optical file-transfer tooling using QR frame loops, missing-chunk tracking, optional compression, and CRC verification, then added it to the developer tooling catalog.
+
+## [2026-06-03 14:09] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-03 14:09] lint | Vault lint
+- No issues found.
+
+## [2026-06-03 14:09] ingest | Added Diffshub diff-rendering source
+- Captured Diffshub and Pierre's On Rendering Diffs article as browser-scale diff-rendering infrastructure, including CodeView virtualization, memory controls, worker highlighting, and no-markup CSS Custom Highlight API text diffs.
+
+## [2026-06-03 14:12] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-03 14:12] lint | Vault lint
+- No issues found.
+
+## [2026-06-03 14:12] ingest | Added Android phone dashcam source
+- Captured the XDA old-Android-phone dashcam article through a cached summary, noting DroidDashCam features, old-device reuse, and heat/battery tradeoffs, then added it to the developer tooling catalog.
+
+## [2026-06-03 14:13] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-03 14:13] lint | Vault lint
+- No issues found.
+
+## [2026-06-03 14:14] ingest | Updated Android phone dashcam source
+- Added the full XDA article text as an addendum to src-2026-06-03-003 and upgraded the source and catalog note beyond the earlier cached-summary capture.
+
+## [2026-06-03 15:04] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-03 15:04] lint | Vault lint
+- No issues found.
+
+## [2026-06-03 15:04] ingest | Added React Native runtimes and hooks notes
+- Captured Margelo's react-native-runtimes repository as multi-Hermes-runtime performance infrastructure and a short three-hook React Native checklist, then added both to the React Native and Expo notes topic.
+
+## [2026-06-06 06:19] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-06 06:20] lint | Vault lint
+- No issues found.
+
+## [2026-06-06 06:20] ingest | Added React Native Detour docs source
+- Captured the current Detour docs and react-native-detour repository as implementation guidance for deferred deep links, Expo Router, React Navigation, auth-gated links, link processing modes, and analytics.
+
+## [2026-06-07 11:53] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-07 11:53] lint | Vault lint
+- No issues found.
+
+## [2026-06-07 11:53] ingest | Added react-native-walkthrough source
+- Captured Ladeologun/react-native-walkthrough as React Native onboarding and spotlight UI infrastructure, then added it to the React Native and Expo notes.
