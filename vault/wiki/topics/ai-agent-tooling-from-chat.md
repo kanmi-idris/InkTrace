@@ -3,8 +3,8 @@ id: topic-ai-agent-tooling-from-chat
 type: topic
 status: active
 confidence: medium
-source_ids: [src-2026-04-12-006, src-2026-04-12-015, src-2026-04-12-019, src-2026-04-12-020, src-2026-04-12-031, src-2026-04-12-033, src-2026-04-12-040, src-2026-04-12-052, src-2026-04-12-053, src-2026-04-12-054, src-2026-04-13-005, src-2026-04-23-001, src-2026-05-01-009, src-2026-05-03-002, src-2026-05-03-003, src-2026-05-11-001, src-2026-05-23-003]
-updated_at: 2026-05-23
+source_ids: [src-2026-04-12-006, src-2026-04-12-015, src-2026-04-12-019, src-2026-04-12-020, src-2026-04-12-031, src-2026-04-12-033, src-2026-04-12-040, src-2026-04-12-052, src-2026-04-12-053, src-2026-04-12-054, src-2026-04-13-005, src-2026-04-23-001, src-2026-05-01-009, src-2026-05-03-002, src-2026-05-03-003, src-2026-05-11-001, src-2026-05-23-003, src-2026-06-10-016]
+updated_at: 2026-06-10
 ---
 
 # AI Agent Tooling From Chat
@@ -22,6 +22,7 @@ The reviewed AI portion of the WhatsApp export centers on operational tooling ra
 - Two Mastra-adjacent books add a more systematic agent-engineering layer to the topic: *Principles of Building AI Agents* surveys the stack from prompts and providers through tools, memory, MCP, workflows, RAG, and evals, while *Patterns for Building AI Agents* pushes further into production patterns around context engineering, evaluation design, and security controls. [src-2026-05-03-002][src-2026-05-03-003]
 - A newer open curriculum source broadens the topic from tools and frameworks into educational scaffolding: `AI Engineering from Scratch` frames agent systems as the far end of a longer path that also includes math, backprop, tokenization, attention, and test-driven implementation artifacts. [src-2026-05-11-001]
 - A newer Software Mansion guide sharpens the operational side of the topic: “agentic engineering” is framed as a discipline of harness design, context management, evaluation, worktree-based parallelism, and reviewable workflows rather than as prompt cleverness alone. [src-2026-05-23-003]
+- `agency-agents` adds a different layer to the same space: instead of teaching agent engineering from first principles, it packages a very large roster of role-specific markdown agents plus installers and converters for many coding-agent tools, which makes it evidence for agent-persona distribution and cross-tool packaging as an emerging product pattern. [src-2026-06-10-016]
 - Product pages such as Rork and Anthropic's Project Vend show interest in practical deployment shapes for agents: AI-generated app construction on one side and semi-autonomous task execution on the other. [src-2026-04-12-031][src-2026-04-12-033]
 
 ## Related
@@ -32,7 +33,7 @@ The reviewed AI portion of the WhatsApp export centers on operational tooling ra
 - [[unresolved-whatsapp-links]]
 
 ## Contradictions
-- None noted in the reviewed subset, but many early AI links from the export remain unresolved and could change the balance of this topic if later recovered. [src-2026-04-12-006]
+- None noted in the reviewed subset, but the newer `agency-agents` source introduces a practical tension between breadth and proof: it demonstrates strong packaging and adoption signals for specialized agent personas, while still leaving open how much outcome quality comes from the persona files themselves versus the underlying model, tool runtime, and user discipline. [src-2026-04-12-006][src-2026-06-10-016]
 
 ## Open Questions
 - Which of the unresolved GitHub, YouTube, and documentation links contain the strongest missing evidence for the handwriting, on-device AI, and tool-calling ideas described directly in the chat export? [src-2026-04-12-006]

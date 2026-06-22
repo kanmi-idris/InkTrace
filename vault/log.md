@@ -519,6 +519,57 @@
 ## [2026-05-04 10:16] lint | Vault lint
 - No issues found.
 
+## [2026-06-10 00:00] ingest | Follow-up source: QuantMind repository
+- Added src-2026-06-10-002 from the public GitHub repository, README, and project metadata, and folded it into the developer tooling catalog as finance-specific AI research-ingestion and retrieval infrastructure.
+
+## [2026-06-10 00:00] ingest | Follow-up source: Software Mansion hook trio tweet
+- Added src-2026-06-10-001 from the supplied X post and folded it into the React Native/Expo notes as a compact checklist covering navigation-loss prevention, keep-awake behavior, and MMKV-backed string persistence.
+
+## [2026-06-10 00:00] ingest | Follow-up source: Chioma Amadi remote work sites thread
+- Added src-2026-06-10-003 from the supplied X post as a low-confidence lead and created a question page because the public fetch exposed only teaser text and a linked advice thread, not the promised list of hiring sites.
+
+## [2026-06-10 00:00] ingest | Follow-up source: React Native duplicate JS bundle-size tweet
+- Added src-2026-06-10-004 from the supplied X post and folded it into the React Native/Expo notes as a low-confidence bundle-size optimization lead about duplicate JavaScript caused by hidden bundler configuration.
+
+## [2026-06-10 00:00] ingest | Follow-up source: Expo Kotlin compiler plugin startup article
+- Added src-2026-06-10-005 from the Expo blog and folded it into the React Native/Expo notes as an Android startup-performance source covering the SDK 56 K2 compiler plugin, reflection removal, faster Record conversion, and lower time to first render.
+
+## [2026-06-10 00:00] ingest | Follow-up source: Expo vector-icons deprecation tweet
+- Added src-2026-06-10-006 from the supplied X post and folded it into the React Native/Expo notes as a deprecation and migration signal from `expo/vector-icons` toward direct `react-native-vector-icons` plus `expo-font` usage.
+
+## [2026-06-10 00:00] ingest | Follow-up source: Expo vector-icons migration article
+- Added src-2026-06-10-007 from the Expo blog and folded it into the React Native/Expo notes as the primary source for moving away from `@expo/vector-icons`, including the `4 MB` repro-app bundle reduction, direct `@react-native-vector-icons` guidance, codemod, `expo doctor` checks, and `expo-font` migration caveats.
+
+## [2026-06-10 00:00] ingest | Follow-up source: Akintola Steve offline-first thread intro
+- Added src-2026-06-10-008 from the supplied X post and folded it into the developer tooling catalog as a short reinforcing offline-first principle source alongside the earlier stronger architecture thread.
+
+## [2026-06-10 00:00] ingest | Follow-up source: Pushmatrix Quick tweet
+- Added src-2026-06-10-009 from the supplied X post and folded it into the developer tooling catalog as a concise framing source for Shopify’s internal Quick platform.
+
+## [2026-06-10 00:00] ingest | Follow-up source: Shopify Quick article
+- Added src-2026-06-10-010 from Shopify Engineering and folded it into the developer tooling catalog as the primary source for Quick’s internal hosting architecture, zero-config shared APIs, adoption, and operating constraints.
+
+## [2026-06-10 00:00] ingest | Follow-up source: Design Engineer Tools directory
+- Added src-2026-06-10-011 from designengineer.tools and folded it into the developer tooling catalog as a curated directory of web-focused design-engineering tools and references.
+
+## [2026-06-10 00:00] ingest | Follow-up source: DESIGN.md format specification
+- Added src-2026-06-10-012 from the public design.md spec and folded it into the developer tooling catalog as a format-spec source for agent-readable design-system documents that combine tokens and prose guidance.
+
+## [2026-06-10 00:00] ingest | Follow-up source: Vivek X Article link tweet
+- Added src-2026-06-10-013 from the supplied X post as a low-confidence lead and created a question page because the tweet contained only a shortened link and the resolved X Article was blocked by a `403` in the available public fetch path.
+
+## [2026-06-10 00:00] ingest | Follow-up source: Claude Shannon Creative Thinking speech
+- Added src-2026-06-10-014 from James Clear's transcript page and created a new topic page for Shannon's creative problem-solving heuristics, centered on simplification, analogy, reframing, decomposition, generalization, and inversion.
+
+## [2026-06-10 00:00] ingest | Follow-up source: Founder fundraising documents checklist tweet
+- Added src-2026-06-10-015 from the supplied X post and created a startup-fundraising-readiness topic page for the checklist covering founder agreements, incorporation paperwork, cap table, ESOP, NDA, IP assignment, shareholder agreement, and co-founder exit terms.
+
+## [2026-06-10 00:00] ingest | Follow-up source: agency-agents repository
+- Added src-2026-06-10-016 from the public GitHub repository and folded it into AI agent tooling notes as evidence for role-specific agent libraries, cross-tool agent packaging, and installable markdown-agent rosters spanning Claude Code, Copilot, Cursor, Codex, Gemini CLI, and related tools.
+
+## [2026-06-11 00:00] ingest | Follow-up source: Layer 4 vs Layer 7 load balancers tweet
+- Added src-2026-06-11-001 from the supplied X post and folded it into the developer tooling catalog as a concise networking-infrastructure distinction source on transport-level (L4) versus application-level (L7) load-balancing context.
+
 ## [2026-05-04 10:17] ingest | Expanded IIFE source details
 - Updated src-2026-05-04-003 with the stronger follow-up explanation of IIFEs, including async variants, expression-context use, and the two-part structure of the idiom.
 
@@ -527,6 +578,15 @@
 
 ## [2026-05-04 10:17] lint | Vault lint
 - No issues found.
+
+## [2026-06-12 00:00] ingest | Livestreaming Protocol Architecture: HLS, WebRTC, MOQ
+- Added src-2026-06-12-001 from the Software Mansion blog article and created a new topic page for livestreaming protocol architecture. The trilemma framework (scale vs. latency vs. cost) shows HLS optimizes scale+cost but sacrifices latency, WebRTC optimizes latency but sacrifices scale+cost due to SFU overhead, and emerging Media over QUIC (MoQ) attempts to optimize all three via publish-subscribe relay model.
+
+## [2026-06-12 00:00] maintenance | Updated index with new topic
+- Added [[livestreaming-protocol-architecture]] to index.md Topics section and added entity references for [[ietf]], [[software-mansion]], [[media-over-quic]], [[hls-http-live-streaming]], and [[webrtc]].
+
+## [2026-06-12 00:00] lint | Vault lint
+- Validated livestreaming-protocol-architecture topic. All citations correct (src-2026-06-12-001 properly linked). 10 aspirational wikilinks noted (future topics: cdn-infrastructure, http-protocol-evolution, protocol-design-tradeoffs, real-time-communication-systems, video-codec-standardization; entities: Media over QUIC, HLS, WebRTC, IETF, Software Mansion). Zero citation errors.
 
 ## [2026-05-06 03:29] ingest | Added Vercel deepsec
 - Added src-2026-05-06-001 from the supplied Vercel blog post and folded it into the developer tooling catalog as agent-assisted security research and remediation infrastructure.
@@ -548,6 +608,12 @@
 
 ## [2026-05-06 08:45] ingest | Added ASCII Draw
 - Added src-2026-05-06-003 from the supplied ASCII Draw repository reference and folded it into the developer tooling catalog as a text-native diagramming utility.
+
+## [2026-06-13 00:00] ingest | Follow-up source: arc2zen repository
+- Added src-2026-06-13-001 from the public GitHub repository and folded it into the developer tooling catalog as browser-migration infrastructure that bridges Arc workspace data into Zen session storage with emphasis on fidelity for tabs, folders, ordering, icons, and themes.
+
+## [2026-06-13 00:00] lint | Vault lint
+- No new issues from src-2026-06-13-001. Existing warnings remain limited to aspirational wikilinks in livestreaming-protocol-architecture.
 
 ## [2026-05-06 08:45] maintenance | Rebuilt index
 - Regenerated index.md from wiki pages.
@@ -1226,3 +1292,396 @@
 
 ## [2026-06-07 11:53] ingest | Added react-native-walkthrough source
 - Captured Ladeologun/react-native-walkthrough as React Native onboarding and spotlight UI infrastructure, then added it to the React Native and Expo notes.
+
+## [2026-06-10 16:49] lint | Vault lint
+- No issues found.
+
+## [2026-06-10 16:53] lint | Vault lint
+- No issues found.
+
+## [2026-06-10 17:05] lint | Vault lint
+- No issues found.
+
+## [2026-06-10 17:06] lint | Vault lint
+- No issues found.
+
+## [2026-06-10 17:08] lint | Vault lint
+- No issues found.
+
+## [2026-06-10 17:09] lint | Vault lint
+- No issues found.
+
+## [2026-06-10 17:11] lint | Vault lint
+- No issues found.
+
+## [2026-06-10 17:12] lint | Vault lint
+- No issues found.
+
+## [2026-06-10 17:18] lint | Vault lint
+- No issues found.
+
+## [2026-06-10 17:21] lint | Vault lint
+- No issues found.
+
+## [2026-06-10 17:22] lint | Vault lint
+- No issues found.
+
+## [2026-06-10 17:23] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-06-10 17:23] lint | Vault lint
+- No issues found.
+
+## [2026-06-10 17:26] lint | Vault lint
+- No issues found.
+
+## [2026-06-10 17:31] lint | Vault lint
+- No issues found.
+
+## [2026-06-10 17:36] lint | Vault lint
+- No issues found.
+
+## [2026-06-11 11:49] lint | Vault lint
+- No issues found.
+
+## [2026-06-12 17:05] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-06-13 06:20] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-06-14 20:58] capture | Vector by zauth - AI-Powered Penetration Testing & Vulnerability Scanner
+- Stored pasted content in inbox/paste/2026-06-14-205838-vector-by-zauth-ai-powered-penetration-testing-vulnerability-scanner.md.
+
+## [2026-06-14 20:58] ingest | src-2026-06-14-001 | TOTP verification without storing the OTP
+- Created source record at sources/src-2026-06-14-001.md and raw source at raw/articles/2026-06-14-totp-verification-without-storing-the-otp.md.
+
+## [2026-06-14 20:58] ingest | src-2026-06-14-002 | react-native-fast-squircle
+- Created source record at sources/src-2026-06-14-002.md and raw source at raw/articles/2026-06-14-react-native-fast-squircle.md.
+
+## [2026-06-14 20:58] ingest | src-2026-06-14-003 | react-native-nitro-fetch
+- Created source record at sources/src-2026-06-14-003.md and raw source at raw/articles/2026-06-14-react-native-nitro-fetch.md.
+
+## [2026-06-14 20:58] ingest | src-2026-06-14-004 | EU age verification app PIN design flaw
+- Created source record at sources/src-2026-06-14-004.md and raw source at raw/articles/2026-06-14-eu-age-verification-app-pin-design-flaw.md.
+
+## [2026-06-14 20:58] ingest | src-2026-06-14-005 | conversation with grok on EU age verification and RN security
+- Created source record at sources/src-2026-06-14-005.md and raw source at raw/articles/2026-06-14-conversation-with-grok-on-eu-age-verification-and-rn-security.md.
+
+## [2026-06-14 20:58] ingest | src-2026-06-14-006 | data leakage in machine learning
+- Created source record at sources/src-2026-06-14-006.md and raw source at raw/articles/2026-06-14-data-leakage-in-machine-learning.md.
+
+## [2026-06-14 20:58] ingest | src-2026-06-14-007 | unpic react docs and customization notes
+- Created source record at sources/src-2026-06-14-007.md and raw source at raw/articles/2026-06-14-unpic-react-docs-and-customization-notes.md.
+
+## [2026-06-14 20:58] ingest | src-2026-06-14-008 | margelo on discord new architecture performance
+- Created source record at sources/src-2026-06-14-008.md and raw source at raw/articles/2026-06-14-margelo-on-discord-new-architecture-performance.md.
+
+## [2026-06-14 20:58] ingest | src-2026-06-14-009 | Vector by zauth - AI-Powered Penetration Testing & Vulnerability Scanner
+- Created source record at sources/src-2026-06-14-009.md and raw source at raw/articles/2026-06-14-vector-by-zauth-ai-powered-penetration-testing-vulnerability-scanner.md.
+
+## [2026-06-14 20:58] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-14 20:58] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-06-14 20:59] capture | Bruno - Git-Native API Client (Postman Alternative)
+- Stored pasted content in inbox/paste/2026-06-14-205903-bruno-git-native-api-client-postman-alternative.md.
+
+## [2026-06-14 20:59] ingest | src-2026-06-14-010 | Bruno - Git-Native API Client (Postman Alternative)
+- Created source record at sources/src-2026-06-14-010.md and raw source at raw/articles/2026-06-14-bruno-git-native-api-client-postman-alternative.md.
+
+## [2026-06-14 20:59] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-14 20:59] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-06-15 04:54] capture | Notchprompt - macOS Notch-Adjacent Teleprompter
+- Stored pasted content in inbox/paste/2026-06-15-045459-notchprompt-macos-notch-adjacent-teleprompter.md.
+
+## [2026-06-15 04:55] ingest | src-2026-06-15-001 | Notchprompt - macOS Notch-Adjacent Teleprompter
+- Created source record at sources/src-2026-06-15-001.md and raw source at raw/articles/2026-06-15-notchprompt-macos-notch-adjacent-teleprompter.md.
+
+## [2026-06-15 04:55] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-15 04:55] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-06-15 04:55] capture | Best Mac Notch Teleprompter Apps in 2026 - Comparison
+- Stored pasted content in inbox/paste/2026-06-15-045530-best-mac-notch-teleprompter-apps-in-2026-comparison.md.
+
+## [2026-06-15 04:55] ingest | src-2026-06-15-002 | Best Mac Notch Teleprompter Apps in 2026 - Comparison
+- Created source record at sources/src-2026-06-15-002.md and raw source at raw/articles/2026-06-15-best-mac-notch-teleprompter-apps-in-2026-comparison.md.
+
+## [2026-06-15 04:55] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-15 04:55] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-06-17 12:47] capture | Drivo - React Native Ride-Sharing App Template
+- Stored pasted content in inbox/paste/2026-06-17-124747-drivo-react-native-ride-sharing-app-template.md.
+
+## [2026-06-17 12:47] ingest | src-2026-06-17-001 | Drivo - React Native Ride-Sharing App Template
+- Created source record at sources/src-2026-06-17-001.md and raw source at raw/articles/2026-06-17-drivo-react-native-ride-sharing-app-template.md.
+
+## [2026-06-17 12:47] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-17 12:47] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-06-18 05:54] capture | react-native-call-audio - In-Call Audio Routing for React Native
+- Stored pasted content in inbox/paste/2026-06-18-055420-react-native-call-audio-in-call-audio-routing-for-react-native.md.
+
+## [2026-06-18 05:54] ingest | src-2026-06-18-001 | react-native-call-audio - In-Call Audio Routing for React Native
+- Created source record at sources/src-2026-06-18-001.md and raw source at raw/articles/2026-06-18-react-native-call-audio-in-call-audio-routing-for-react-native.md.
+
+## [2026-06-18 05:54] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-18 05:54] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-06-18 10:56] capture | DevSpace - Codex-Style Coding Workflow for ChatGPT via MCP
+- Stored pasted content in inbox/paste/2026-06-18-105637-devspace-codex-style-coding-workflow-for-chatgpt-via-mcp.md.
+
+## [2026-06-18 10:56] ingest | src-2026-06-18-002 | DevSpace - Codex-Style Coding Workflow for ChatGPT via MCP
+- Created source record at sources/src-2026-06-18-002.md and raw source at raw/articles/2026-06-18-devspace-codex-style-coding-workflow-for-chatgpt-via-mcp.md.
+
+## [2026-06-18 10:56] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-18 10:56] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-06-18 11:11] capture | KudiSMS - CPaaS Platform for Business Communication
+- Stored pasted content in inbox/paste/2026-06-18-111121-kudisms-cpaas-platform-for-business-communication.md.
+
+## [2026-06-18 11:11] ingest | src-2026-06-18-003 | KudiSMS - CPaaS Platform for Business Communication
+- Created source record at sources/src-2026-06-18-003.md and raw source at raw/articles/2026-06-18-kudisms-cpaas-platform-for-business-communication.md.
+
+## [2026-06-18 11:11] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-18 11:11] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-06-18 14:42] capture | react-native-data-detector - Cross-Platform Text Data Detection
+- Stored pasted content in inbox/paste/2026-06-18-144223-react-native-data-detector-cross-platform-text-data-detection.md.
+
+## [2026-06-18 14:42] ingest | src-2026-06-18-004 | react-native-data-detector - Cross-Platform Text Data Detection
+- Created source record at sources/src-2026-06-18-004.md and raw source at raw/articles/2026-06-18-react-native-data-detector-cross-platform-text-data-detection.md.
+
+## [2026-06-18 14:42] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-18 14:42] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-06-18 14:44] capture | Native Templates - Premium React Native Expo Templates by Thomino
+- Stored pasted content in inbox/paste/2026-06-18-144432-native-templates-premium-react-native-expo-templates-by-thomino.md.
+
+## [2026-06-18 14:44] ingest | src-2026-06-18-005 | Native Templates - Premium React Native Expo Templates by Thomino
+- Created source record at sources/src-2026-06-18-005.md and raw source at raw/articles/2026-06-18-native-templates-premium-react-native-expo-templates-by-thomino.md.
+
+## [2026-06-18 14:44] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-18 14:44] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-06-18 14:46] capture | Cardtonic 2026 Design Trends Report
+- Stored pasted content in inbox/paste/2026-06-18-144648-cardtonic-2026-design-trends-report.md.
+
+## [2026-06-18 14:46] ingest | src-2026-06-18-006 | Cardtonic 2026 Design Trends Report
+- Created source record at sources/src-2026-06-18-006.md and raw source at raw/articles/2026-06-18-cardtonic-2026-design-trends-report.md.
+
+## [2026-06-18 14:46] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-18 14:46] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-06-18 15:25] capture | Cardtonic 2026 Design Trends Report (Full PDF)
+- Stored pasted content in inbox/paste/2026-06-18-152519-cardtonic-2026-design-trends-report-full-pdf.md.
+
+## [2026-06-18 15:25] ingest | src-2026-06-18-007 | Cardtonic 2026 Design Trends Report (Full PDF)
+- Created source record at sources/src-2026-06-18-007.md and raw source at raw/articles/2026-06-18-cardtonic-2026-design-trends-report-full-pdf.md.
+
+## [2026-06-18 15:25] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-18 15:25] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-06-18 19:07] capture | react-native-collapsible-tab - Collapsible Header Tab View
+- Stored pasted content in inbox/paste/2026-06-18-190710-react-native-collapsible-tab-collapsible-header-tab-view.md.
+
+## [2026-06-18 19:07] ingest | src-2026-06-18-008 | react-native-collapsible-tab - Collapsible Header Tab View
+- Created source record at sources/src-2026-06-18-008.md and raw source at raw/articles/2026-06-18-react-native-collapsible-tab-collapsible-header-tab-view.md.
+
+## [2026-06-18 19:07] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-18 19:07] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-06-18 19:28] capture | Blueprint - Practice System Design Interviews on a Whiteboard
+- Stored pasted content in inbox/paste/2026-06-18-192854-blueprint-practice-system-design-interviews-on-a-whiteboard.md.
+
+## [2026-06-18 19:28] ingest | src-2026-06-18-009 | Blueprint - Practice System Design Interviews on a Whiteboard
+- Created source record at sources/src-2026-06-18-009.md and raw source at raw/articles/2026-06-18-blueprint-practice-system-design-interviews-on-a-whiteboard.md.
+
+## [2026-06-18 19:28] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-18 19:28] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-06-18 19:29] capture | Building a Video Call App with Filters - Margelo Blog
+- Stored pasted content in inbox/paste/2026-06-18-192919-building-a-video-call-app-with-filters-margelo-blog.md.
+
+## [2026-06-18 19:29] ingest | src-2026-06-18-010 | Building a Video Call App with Filters - Margelo Blog
+- Created source record at sources/src-2026-06-18-010.md and raw source at raw/articles/2026-06-18-building-a-video-call-app-with-filters-margelo-blog.md.
+
+## [2026-06-18 19:29] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-18 19:29] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-06-18 19:30] capture | Concurrent Gemma 4 - Run N Concurrent Gemma 4 Instances Locally
+- Stored pasted content in inbox/paste/2026-06-18-193037-concurrent-gemma-4-run-n-concurrent-gemma-4-instances-locally.md.
+
+## [2026-06-18 19:30] ingest | src-2026-06-18-011 | Concurrent Gemma 4 - Run N Concurrent Gemma 4 Instances Locally
+- Created source record at sources/src-2026-06-18-011.md and raw source at raw/articles/2026-06-18-concurrent-gemma-4-run-n-concurrent-gemma-4-instances-locally.md.
+
+## [2026-06-18 19:30] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-18 19:30] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-06-20 23:57] capture | React Native Security: Hermes, RASP, Attestation & Shielding
+- Stored pasted content in inbox/paste/2026-06-20-235751-react-native-security-hermes-rasp-attestation-shielding.md.
+
+## [2026-06-20 23:57] ingest | src-2026-06-20-001 | React Native Security: Hermes, RASP, Attestation & Shielding
+- Created source record at sources/src-2026-06-20-001.md and raw source at raw/articles/2026-06-20-react-native-security-hermes-rasp-attestation-shielding.md.
+
+## [2026-06-20 23:57] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-20 23:57] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-06-21 06:55] capture | Gemini-SQL2 Google Research Text-to-SQL BIRD Benchmark
+- Stored pasted content in inbox/paste/2026-06-21-065539-gemini-sql2-google-research-text-to-sql-bird-benchmark.md.
+
+## [2026-06-21 06:55] ingest | src-2026-06-21-001 | Gemini-SQL2 Google Research Text-to-SQL BIRD Benchmark
+- Created source record at sources/src-2026-06-21-001.md and raw source at raw/articles/2026-06-21-gemini-sql2-google-research-text-to-sql-bird-benchmark.md.
+
+## [2026-06-21 06:55] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-21 06:55] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-06-21 07:00] capture | PixelRAG Visual Retrieval-Augmented Generation (Berkeley SkyLab)
+- Stored pasted content in inbox/paste/2026-06-21-070009-pixelrag-visual-retrieval-augmented-generation-berkeley-skylab.md.
+
+## [2026-06-21 07:00] ingest | src-2026-06-21-002 | PixelRAG Visual Retrieval-Augmented Generation (Berkeley SkyLab)
+- Created source record at sources/src-2026-06-21-002.md and raw source at raw/articles/2026-06-21-pixelrag-visual-retrieval-augmented-generation-berkeley-skylab.md.
+
+## [2026-06-21 07:00] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-21 07:00] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-06-21 07:07] capture | Understand Anything by Egonex AI — Codebase Knowledge Graph
+- Stored pasted content in inbox/paste/2026-06-21-070734-understand-anything-by-egonex-ai-codebase-knowledge-graph.md.
+
+## [2026-06-21 07:07] ingest | src-2026-06-21-003 | Understand Anything by Egonex AI — Codebase Knowledge Graph
+- Created source record at sources/src-2026-06-21-003.md and raw source at raw/articles/2026-06-21-understand-anything-by-egonex-ai-codebase-knowledge-graph.md.
+
+## [2026-06-21 07:07] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-21 07:07] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-06-21 07:14] capture | SC-Datav 3D Map Visualization Dashboard (Three.js + React 19)
+- Stored pasted content in inbox/paste/2026-06-21-071441-sc-datav-3d-map-visualization-dashboard-three-js-react-19.md.
+
+## [2026-06-21 07:14] ingest | src-2026-06-21-004 | SC-Datav 3D Map Visualization Dashboard (Three.js + React 19)
+- Created source record at sources/src-2026-06-21-004.md and raw source at raw/articles/2026-06-21-sc-datav-3d-map-visualization-dashboard-three-js-react-19.md.
+
+## [2026-06-21 07:14] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-21 07:14] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-06-21 07:17] capture | 10 Open-Source GitHub Repos Curated List (recordly, Stirling-PDF, Excalidraw, etc)
+- Stored pasted content in inbox/paste/2026-06-21-071739-10-open-source-github-repos-curated-list-recordly-stirling-pdf-excalidraw-etc.md.
+
+## [2026-06-21 07:17] ingest | src-2026-06-21-005 | 10 Open-Source GitHub Repos Curated List (recordly, Stirling-PDF, Excalidraw, etc)
+- Created source record at sources/src-2026-06-21-005.md and raw source at raw/articles/2026-06-21-10-open-source-github-repos-curated-list-recordly-stirling-pdf-excalidraw-etc.md.
+
+## [2026-06-21 07:17] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-21 07:17] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-06-21 07:20] capture | How Modern Browsers Work — Addy Osmani Article
+- Stored pasted content in inbox/paste/2026-06-21-072029-how-modern-browsers-work-addy-osmani-article.md.
+
+## [2026-06-21 07:20] ingest | src-2026-06-21-006 | How Modern Browsers Work — Addy Osmani Article
+- Created source record at sources/src-2026-06-21-006.md and raw source at raw/articles/2026-06-21-how-modern-browsers-work-addy-osmani-article.md.
+
+## [2026-06-21 07:20] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-21 07:20] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-06-21 07:21] capture | Go Local AI Instead of Claude Subscription — Milady
+- Stored pasted content in inbox/paste/2026-06-21-072118-go-local-ai-instead-of-claude-subscription-milady.md.
+
+## [2026-06-21 07:21] ingest | src-2026-06-21-007 | Go Local AI Instead of Claude Subscription — Milady
+- Created source record at sources/src-2026-06-21-007.md and raw source at raw/articles/2026-06-21-go-local-ai-instead-of-claude-subscription-milady.md.
+
+## [2026-06-21 07:21] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-21 07:21] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-06-21 07:42] capture | Taste-Skill Anti-Slop Frontend Framework for AI Agents
+- Stored pasted content in inbox/paste/2026-06-21-074222-taste-skill-anti-slop-frontend-framework-for-ai-agents.md.
+
+## [2026-06-21 07:42] ingest | src-2026-06-21-008 | Taste-Skill Anti-Slop Frontend Framework for AI Agents
+- Created source record at sources/src-2026-06-21-008.md and raw source at raw/articles/2026-06-21-taste-skill-anti-slop-frontend-framework-for-ai-agents.md.
+
+## [2026-06-21 07:42] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-21 07:42] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-06-21 07:47] capture | Learn Harness Engineering — Walking Labs (AI Coding Agents Course)
+- Stored pasted content in inbox/paste/2026-06-21-074706-learn-harness-engineering-walking-labs-ai-coding-agents-course.md.
+
+## [2026-06-21 07:47] ingest | src-2026-06-21-009 | Learn Harness Engineering — Walking Labs (AI Coding Agents Course)
+- Created source record at sources/src-2026-06-21-009.md and raw source at raw/articles/2026-06-21-learn-harness-engineering-walking-labs-ai-coding-agents-course.md.
+
+## [2026-06-21 07:47] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-21 07:47] lint | Vault lint
+- Found 10 issue(s).
