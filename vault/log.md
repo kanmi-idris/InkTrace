@@ -1685,3 +1685,267 @@
 
 ## [2026-06-21 07:47] lint | Vault lint
 - Found 10 issue(s).
+
+## [2026-06-22 06:10] capture | Vercel deepsec — Open-Source Security Harness for Codebases
+- Stored pasted content in inbox/paste/2026-06-22-061040-vercel-deepsec-open-source-security-harness-for-codebases.md.
+
+## [2026-06-22 06:10] ingest | src-2026-06-22-001 | Vercel deepsec — Open-Source Security Harness for Codebases
+- Created source record at sources/src-2026-06-22-001.md and raw source at raw/articles/2026-06-22-vercel-deepsec-open-source-security-harness-for-codebases.md.
+
+## [2026-06-22 06:10] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-22 06:10] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-06-22 06:27] capture | Agent Harnesses — Standardized Open Format for AI Agent Context
+- Stored pasted content in inbox/paste/2026-06-22-062709-agent-harnesses-standardized-open-format-for-ai-agent-context.md.
+
+## [2026-06-22 06:27] ingest | src-2026-06-22-002 | Agent Harnesses — Standardized Open Format for AI Agent Context
+- Created source record at sources/src-2026-06-22-002.md and raw source at raw/articles/2026-06-22-agent-harnesses-standardized-open-format-for-ai-agent-context.md.
+
+## [2026-06-22 06:27] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-22 06:27] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-06-22 07:58] capture | Softaworks Agent Toolkit — 40+ Agent Skills for Coding Agents
+- Stored pasted content in inbox/paste/2026-06-22-075843-softaworks-agent-toolkit-40-agent-skills-for-coding-agents.md.
+
+## [2026-06-22 07:59] ingest | src-2026-06-22-003 | Softaworks Agent Toolkit — 40+ Agent Skills for Coding Agents
+- Created source record at sources/src-2026-06-22-003.md and raw source at raw/articles/2026-06-22-softaworks-agent-toolkit-40-agent-skills-for-coding-agents.md.
+
+## [2026-06-22 07:59] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-22 07:59] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-06-22 08:13] capture | The Anatomy of an Agent Harness — LangChain Blog (Vivek Trivedy)
+- Stored pasted content in inbox/paste/2026-06-22-081314-the-anatomy-of-an-agent-harness-langchain-blog-vivek-trivedy.md.
+
+## [2026-06-22 08:13] ingest | src-2026-06-22-004 | The Anatomy of an Agent Harness — LangChain Blog (Vivek Trivedy)
+- Created source record at sources/src-2026-06-22-004.md and raw source at raw/articles/2026-06-22-the-anatomy-of-an-agent-harness-langchain-blog-vivek-trivedy.md.
+
+## [2026-06-22 08:13] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-22 08:13] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-06-23 08:26] capture | I Stored a Website in a Favicon — Tim Wehrle
+- Stored pasted content in inbox/paste/2026-06-23-082658-i-stored-a-website-in-a-favicon-tim-wehrle.md.
+
+## [2026-06-23 08:27] ingest | src-2026-06-23-001 | I Stored a Website in a Favicon — Tim Wehrle
+- Created source record at sources/src-2026-06-23-001.md and raw source at raw/articles/2026-06-23-i-stored-a-website-in-a-favicon-tim-wehrle.md.
+
+## [2026-06-23 08:27] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-23 08:27] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-06-23 08:27] capture | Old Software Was Fast Because It Had No Choice — Yusuf Aytas
+- Stored pasted content in inbox/paste/2026-06-23-082717-old-software-was-fast-because-it-had-no-choice-yusuf-aytas.md.
+
+## [2026-06-23 08:27] ingest | src-2026-06-23-002 | Old Software Was Fast Because It Had No Choice — Yusuf Aytas
+- Created source record at sources/src-2026-06-23-002.md and raw source at raw/articles/2026-06-23-old-software-was-fast-because-it-had-no-choice-yusuf-aytas.md.
+
+## [2026-06-23 08:27] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-23 08:27] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-06-23 08:28] capture | pkg-skills — Callstack Incubator (CLI for agent skills from dependencies)
+- Stored pasted content in inbox/paste/2026-06-23-082801-pkg-skills-callstack-incubator-cli-for-agent-skills-from-dependencies.md.
+
+## [2026-06-23 08:28] ingest | src-2026-06-23-003 | pkg-skills — Callstack Incubator (CLI for agent skills from dependencies)
+- Created source record at sources/src-2026-06-23-003.md and raw source at raw/articles/2026-06-23-pkg-skills-callstack-incubator-cli-for-agent-skills-from-dependencies.md.
+
+## [2026-06-23 08:28] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-23 08:28] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-06-23 08:29] capture | 10 GitHub Repos That Let One Person Run a Startup Like a Team — Hasan Toor
+- Stored pasted content in inbox/paste/2026-06-23-082927-10-github-repos-that-let-one-person-run-a-startup-like-a-team-hasan-toor.md.
+
+## [2026-06-23 08:29] ingest | src-2026-06-23-004 | 10 GitHub Repos That Let One Person Run a Startup Like a Team — Hasan Toor
+- Created source record at sources/src-2026-06-23-004.md and raw source at raw/articles/2026-06-23-10-github-repos-that-let-one-person-run-a-startup-like-a-team-hasan-toor.md.
+
+## [2026-06-23 08:29] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-23 08:29] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-06-23 08:30] capture | The Ultimate Guide to Fine-Tuning — Comprehensive Reference (106 pages)
+- Stored pasted content in inbox/paste/2026-06-23-083042-the-ultimate-guide-to-fine-tuning-comprehensive-reference-106-pages.md.
+
+## [2026-06-23 08:30] ingest | src-2026-06-23-005 | The Ultimate Guide to Fine-Tuning — Comprehensive Reference (106 pages)
+- Created source record at sources/src-2026-06-23-005.md and raw source at raw/articles/2026-06-23-the-ultimate-guide-to-fine-tuning-comprehensive-reference-106-pages.md.
+
+## [2026-06-23 08:30] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-23 08:30] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-06-23 08:49] capture | When React Parent Components Need to Know Their Children — Jay Freestone + Dashboard Architecture Analysis
+- Stored pasted content in inbox/paste/2026-06-23-084950-when-react-parent-components-need-to-know-their-children-jay-freestone-dashboard-architecture-analysis.md.
+
+## [2026-06-23 08:49] ingest | src-2026-06-23-006 | When React Parent Components Need to Know Their Children — Jay Freestone + Dashboard Architecture Analysis
+- Created source record at sources/src-2026-06-23-006.md and raw source at raw/articles/2026-06-23-when-react-parent-components-need-to-know-their-children-jay-freestone-dashboard-architecture-analysis.md.
+
+## [2026-06-23 08:49] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-23 08:49] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-06-23 10:15] capture | Unlimited-OCR — Baidu Inc. (One-shot Long-horizon Document Parsing)
+- Stored pasted content in inbox/paste/2026-06-23-101505-unlimited-ocr-baidu-inc-one-shot-long-horizon-document-parsing.md.
+
+## [2026-06-23 10:15] ingest | src-2026-06-23-007 | Unlimited-OCR — Baidu Inc. (One-shot Long-horizon Document Parsing)
+- Created source record at sources/src-2026-06-23-007.md and raw source at raw/articles/2026-06-23-unlimited-ocr-baidu-inc-one-shot-long-horizon-document-parsing.md.
+
+## [2026-06-23 10:15] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-23 10:15] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-06-23 10:15] capture | Unlimited OCR Works — arXiv Paper (R-SWA Attention, Baidu)
+- Stored pasted content in inbox/paste/2026-06-23-101530-unlimited-ocr-works-arxiv-paper-r-swa-attention-baidu.md.
+
+## [2026-06-23 10:15] ingest | src-2026-06-23-008 | Unlimited OCR Works — arXiv Paper (R-SWA Attention, Baidu)
+- Created source record at sources/src-2026-06-23-008.md and raw source at raw/articles/2026-06-23-unlimited-ocr-works-arxiv-paper-r-swa-attention-baidu.md.
+
+## [2026-06-23 10:15] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-23 10:15] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-06-23 11:09] capture | Motion Graphics Skills for AI Coding Agents — iart.ai (50 skills, 14 packs)
+- Stored pasted content in inbox/paste/2026-06-23-110918-motion-graphics-skills-for-ai-coding-agents-iart-ai-50-skills-14-packs.md.
+
+## [2026-06-23 11:09] ingest | src-2026-06-23-009 | Motion Graphics Skills for AI Coding Agents — iart.ai (50 skills, 14 packs)
+- Created source record at sources/src-2026-06-23-009.md and raw source at raw/articles/2026-06-23-motion-graphics-skills-for-ai-coding-agents-iart-ai-50-skills-14-packs.md.
+
+## [2026-06-23 11:09] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-23 11:09] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-06-24 09:41] capture | TencentDB Agent Memory — Tencent Cloud (Local 4-Tier Long-Term Memory)
+- Stored pasted content in inbox/paste/2026-06-24-094142-tencentdb-agent-memory-tencent-cloud-local-4-tier-long-term-memory.md.
+
+## [2026-06-24 09:41] ingest | src-2026-06-24-001 | TencentDB Agent Memory — Tencent Cloud (Local 4-Tier Long-Term Memory)
+- Created source record at sources/src-2026-06-24-001.md and raw source at raw/articles/2026-06-24-tencentdb-agent-memory-tencent-cloud-local-4-tier-long-term-memory.md.
+
+## [2026-06-24 09:41] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-24 09:41] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-06-24 09:44] capture | AI Harness Engineering 101
+- Stored pasted content in inbox/paste/2026-06-24-094427-ai-harness-engineering-101.md.
+
+## [2026-06-24 09:44] ingest | src-2026-06-24-002 | AI Harness Engineering 101
+- Created source record at sources/src-2026-06-24-002.md and raw source at raw/articles/2026-06-24-ai-harness-engineering-101.md.
+
+## [2026-06-24 09:44] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-24 09:44] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-06-27 06:17] capture | Impeccable — The Missing Design Vocabulary for AI Agents
+- Stored pasted content in inbox/paste/2026-06-27-061748-impeccable-the-missing-design-vocabulary-for-ai-agents.md.
+
+## [2026-06-27 06:17] ingest | src-2026-06-27-001 | Impeccable — The Missing Design Vocabulary for AI Agents
+- Created source record at sources/src-2026-06-27-001.md and raw source at raw/articles/2026-06-27-impeccable-the-missing-design-vocabulary-for-ai-agents.md.
+
+## [2026-06-27 06:17] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-27 06:17] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-06-28 01:49] capture | Firebase Phone Number Verification — Carrier-Based Phone Verification
+- Stored pasted content in inbox/paste/2026-06-28-014910-firebase-phone-number-verification-carrier-based-phone-verification.md.
+
+## [2026-06-28 01:49] ingest | src-2026-06-28-001 | Firebase Phone Number Verification — Carrier-Based Phone Verification
+- Created source record at sources/src-2026-06-28-001.md and raw source at raw/articles/2026-06-28-firebase-phone-number-verification-carrier-based-phone-verification.md.
+
+## [2026-06-28 01:49] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-28 01:49] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-06-28 03:34] capture | BuilderIO/skills — Composable Skills for Coding Agents
+- Stored pasted content in inbox/paste/2026-06-28-033400-builderio-skills-composable-skills-for-coding-agents.md.
+
+## [2026-06-28 03:34] ingest | src-2026-06-28-002 | BuilderIO/skills — Composable Skills for Coding Agents
+- Created source record at sources/src-2026-06-28-002.md and raw source at raw/articles/2026-06-28-builderio-skills-composable-skills-for-coding-agents.md.
+
+## [2026-06-28 03:34] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-28 03:34] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-06-28 03:41] capture | agentOS by Rivet — In-Process Operating System for AI Agents
+- Stored pasted content in inbox/paste/2026-06-28-034135-agentos-by-rivet-in-process-operating-system-for-ai-agents.md.
+
+## [2026-06-28 03:41] ingest | src-2026-06-28-003 | agentOS by Rivet — In-Process Operating System for AI Agents
+- Created source record at sources/src-2026-06-28-003.md and raw source at raw/articles/2026-06-28-agentos-by-rivet-in-process-operating-system-for-ai-agents.md.
+
+## [2026-06-28 03:41] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-28 03:41] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-06-28 03:42] capture | react-native-better-clustering — C++ Marker Clustering via Nitro for react-native-maps
+- Stored pasted content in inbox/paste/2026-06-28-034231-react-native-better-clustering-c-marker-clustering-via-nitro-for-react-native-maps.md.
+
+## [2026-06-28 03:42] ingest | src-2026-06-28-004 | react-native-better-clustering — C++ Marker Clustering via Nitro for react-native-maps
+- Created source record at sources/src-2026-06-28-004.md and raw source at raw/articles/2026-06-28-react-native-better-clustering-c-marker-clustering-via-nitro-for-react-native-maps.md.
+
+## [2026-06-28 03:42] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-28 03:42] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-06-28 03:42] capture | Aside Browser Agent — SOTA Benchmark Results (Online-Mind2Web 99.0%)
+- Stored pasted content in inbox/paste/2026-06-28-034255-aside-browser-agent-sota-benchmark-results-online-mind2web-99-0.md.
+
+## [2026-06-28 03:42] ingest | src-2026-06-28-005 | Aside Browser Agent — SOTA Benchmark Results (Online-Mind2Web 99.0%)
+- Created source record at sources/src-2026-06-28-005.md and raw source at raw/articles/2026-06-28-aside-browser-agent-sota-benchmark-results-online-mind2web-99-0.md.
+
+## [2026-06-28 03:42] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-28 03:42] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-06-28 03:43] capture | Profiling Skia + Reanimated on Low-End Android — Margelo Blog
+- Stored pasted content in inbox/paste/2026-06-28-034322-profiling-skia-reanimated-on-low-end-android-margelo-blog.md.
+
+## [2026-06-28 03:43] ingest | src-2026-06-28-006 | Profiling Skia + Reanimated on Low-End Android — Margelo Blog
+- Created source record at sources/src-2026-06-28-006.md and raw source at raw/articles/2026-06-28-profiling-skia-reanimated-on-low-end-android-margelo-blog.md.
+
+## [2026-06-28 03:43] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-28 03:43] lint | Vault lint
+- Found 10 issue(s).
