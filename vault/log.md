@@ -1949,3 +1949,459 @@
 
 ## [2026-06-28 03:43] lint | Vault lint
 - Found 10 issue(s).
+
+## [2026-06-28 03:47] capture | Designing Data-Intensive Applications
+- Stored file capture in inbox/files/2026-06-28-034758-designing-data-intensive-applications.pdf.
+
+## [2026-06-28 03:48] ingest | src-2026-06-28-007 | Designing Data-Intensive Applications
+- Created source record at sources/src-2026-06-28-007.md and raw source at raw/pdfs/2026-06-28-designing-data-intensive-applications.pdf.
+
+## [2026-06-28 03:48] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-28 03:48] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-06-28 03:48] capture | Designing Data-Intensive Applications
+- Captured and ingested DDIA full PDF (4.2MB) from 0-lucas.github.io. Source: src-2026-06-28-007. PDF stored in vault/raw/pdfs/, source record created with tags: book, distributed-systems, database.
+
+## [2026-06-28 04:36] capture | CodexMax Pricing — Codex-only Plans (Plus, Max 5x, Max 20x)
+- Stored pasted content in inbox/paste/2026-06-28-043627-codexmax-pricing-codex-only-plans-plus-max-5x-max-20x.md.
+
+## [2026-06-28 04:36] ingest | src-2026-06-28-008 | CodexMax Pricing — Codex-only Plans (Plus, Max 5x, Max 20x)
+- Created source record at sources/src-2026-06-28-008.md and raw source at raw/articles/2026-06-28-codexmax-pricing-codex-only-plans-plus-max-5x-max-20x.md.
+
+## [2026-06-28 04:36] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-28 04:36] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-06-28 05:33] capture | Nigeria NIMC Act 2026 — Digital Identity Overhaul (Root CA, PKI, NIN as Identity Root)
+- Stored pasted content in inbox/paste/2026-06-28-053358-nigeria-nimc-act-2026-digital-identity-overhaul-root-ca-pki-nin-as-identity-root.md.
+
+## [2026-06-28 05:34] ingest | src-2026-06-28-009 | Nigeria NIMC Act 2026 — Digital Identity Overhaul (Root CA, PKI, NIN as Identity Root)
+- Created source record at sources/src-2026-06-28-009.md and raw source at raw/articles/2026-06-28-nigeria-nimc-act-2026-digital-identity-overhaul-root-ca-pki-nin-as-identity-root.md.
+
+## [2026-06-28 05:34] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-28 05:34] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-06-28 05:55] capture | How Expensify Uses Agent-Device for Mobile Bug Evidence and Profiling
+- Stored pasted content in inbox/paste/2026-06-28-055548-how-expensify-uses-agent-device-for-mobile-bug-evidence-and-profiling.md.
+
+## [2026-06-28 05:55] ingest | src-2026-06-28-010 | How Expensify Uses Agent-Device for Mobile Bug Evidence and Profiling
+- Created source record at sources/src-2026-06-28-010.md and raw source at raw/articles/2026-06-28-how-expensify-uses-agent-device-for-mobile-bug-evidence-and-profiling.md.
+
+## [2026-06-28 05:55] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-28 05:55] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-06-28 06:08] capture | Expensify agent-device-evidence Skill — Autonomous Mobile Bug Evidence Collection
+- Stored pasted content in inbox/paste/2026-06-28-060817-expensify-agent-device-evidence-skill-autonomous-mobile-bug-evidence-collection.md.
+
+## [2026-06-28 06:08] ingest | src-2026-06-28-011 | Expensify agent-device-evidence Skill — Autonomous Mobile Bug Evidence Collection
+- Created source record at sources/src-2026-06-28-011.md and raw source at raw/articles/2026-06-28-expensify-agent-device-evidence-skill-autonomous-mobile-bug-evidence-collection.md.
+
+## [2026-06-28 06:08] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-28 06:08] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-06-28 06:11] capture | PDFx — Multi-Document PDF Bundler (Open Format + Desktop Viewer)
+- Stored pasted content in inbox/paste/2026-06-28-061152-pdfx-multi-document-pdf-bundler-open-format-desktop-viewer.md.
+
+## [2026-06-28 06:11] ingest | src-2026-06-28-012 | PDFx — Multi-Document PDF Bundler (Open Format + Desktop Viewer)
+- Created source record at sources/src-2026-06-28-012.md and raw source at raw/articles/2026-06-28-pdfx-multi-document-pdf-bundler-open-format-desktop-viewer.md.
+
+## [2026-06-28 06:11] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-28 06:11] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-06-28 06:13] capture | 500+ Anime-Style Sound Effects (SFX Pack)
+- Stored file capture in inbox/files/2026-06-28-061337-500-anime-style-sound-effects-sfx-pack.zip.
+
+## [2026-06-28 06:13] ingest | src-2026-06-28-013 | 500+ Anime-Style Sound Effects (SFX Pack)
+- Created source record at sources/src-2026-06-28-013.md and raw source at raw/assets/2026-06-28-500-anime-style-sound-effects-sfx-pack.zip.
+
+## [2026-06-28 06:13] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-28 06:13] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-06-28 06:14] capture | Its Hover — Animated Icon Library (React + Motion, 186+ Icons)
+- Stored pasted content in inbox/paste/2026-06-28-061405-its-hover-animated-icon-library-react-motion-186-icons.md.
+
+## [2026-06-28 06:14] ingest | src-2026-06-28-014 | Its Hover — Animated Icon Library (React + Motion, 186+ Icons)
+- Created source record at sources/src-2026-06-28-014.md and raw source at raw/articles/2026-06-28-its-hover-animated-icon-library-react-motion-186-icons.md.
+
+## [2026-06-28 06:14] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-28 06:14] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-06-28 06:18] capture | Driver.js — Product Tours & Highlights Library (Vanilla JS, 25.8k Stars)
+- Stored pasted content in inbox/paste/2026-06-28-061812-driver-js-product-tours-highlights-library-vanilla-js-25-8k-stars.md.
+
+## [2026-06-28 06:18] capture | 10 Free University-Built Tools That Beat Paid SaaS (Zotero, Gephi, QGIS, etc.)
+- Stored pasted content in inbox/paste/2026-06-28-061816-10-free-university-built-tools-that-beat-paid-saas-zotero-gephi-qgis-etc.md.
+
+## [2026-06-28 06:18] ingest | src-2026-06-28-015 | Driver.js — Product Tours & Highlights Library (Vanilla JS, 25.8k Stars)
+- Created source record at sources/src-2026-06-28-015.md and raw source at raw/articles/2026-06-28-driver-js-product-tours-highlights-library-vanilla-js-25-8k-stars.md.
+
+## [2026-06-28 06:18] ingest | src-2026-06-28-016 | 10 Free University-Built Tools That Beat Paid SaaS (Zotero, Gephi, QGIS, etc.)
+- Created source record at sources/src-2026-06-28-016.md and raw source at raw/articles/2026-06-28-10-free-university-built-tools-that-beat-paid-saas-zotero-gephi-qgis-etc.md.
+
+## [2026-06-28 06:18] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-28 06:18] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-06-28 06:24] capture | check-if-email-exists — Email Verification Tool in Rust (8.9k Stars)
+- Stored pasted content in inbox/paste/2026-06-28-062430-check-if-email-exists-email-verification-tool-in-rust-8-9k-stars.md.
+
+## [2026-06-28 06:24] ingest | src-2026-06-28-017 | check-if-email-exists — Email Verification Tool in Rust (8.9k Stars)
+- Created source record at sources/src-2026-06-28-017.md and raw source at raw/articles/2026-06-28-check-if-email-exists-email-verification-tool-in-rust-8-9k-stars.md.
+
+## [2026-06-28 06:24] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-28 06:24] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-06-28 06:25] capture | TraceDR — Ahrefs Domain Rating Tracker
+- Stored pasted content in inbox/paste/2026-06-28-062511-tracedr-ahrefs-domain-rating-tracker.md.
+
+## [2026-06-28 06:25] ingest | src-2026-06-28-018 | TraceDR — Ahrefs Domain Rating Tracker
+- Created source record at sources/src-2026-06-28-018.md and raw source at raw/articles/2026-06-28-tracedr-ahrefs-domain-rating-tracker.md.
+
+## [2026-06-28 06:25] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-28 06:25] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-06-28 06:25] capture | SSLRadar — Free SSL Certificate Checker & Expiry Monitoring
+- Stored pasted content in inbox/paste/2026-06-28-062530-sslradar-free-ssl-certificate-checker-expiry-monitoring.md.
+
+## [2026-06-28 06:25] ingest | src-2026-06-28-019 | SSLRadar — Free SSL Certificate Checker & Expiry Monitoring
+- Created source record at sources/src-2026-06-28-019.md and raw source at raw/articles/2026-06-28-sslradar-free-ssl-certificate-checker-expiry-monitoring.md.
+
+## [2026-06-28 06:25] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-28 06:25] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-06-28 06:28] capture | Fabric Materials Cheat Sheet — Clothing Shopping Guide
+- Stored pasted content in inbox/paste/2026-06-28-062804-fabric-materials-cheat-sheet-clothing-shopping-guide.md.
+
+## [2026-06-28 06:28] ingest | src-2026-06-28-020 | Fabric Materials Cheat Sheet — Clothing Shopping Guide
+- Created source record at sources/src-2026-06-28-020.md and raw source at raw/articles/2026-06-28-fabric-materials-cheat-sheet-clothing-shopping-guide.md.
+
+## [2026-06-28 06:28] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-28 06:28] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-06-28 06:29] capture | Rare UI — Animated React Components Collection (shadcn Registry)
+- Stored pasted content in inbox/paste/2026-06-28-062928-rare-ui-animated-react-components-collection-shadcn-registry.md.
+
+## [2026-06-28 06:29] ingest | src-2026-06-28-021 | Rare UI — Animated React Components Collection (shadcn Registry)
+- Created source record at sources/src-2026-06-28-021.md and raw source at raw/articles/2026-06-28-rare-ui-animated-react-components-collection-shadcn-registry.md.
+
+## [2026-06-28 06:29] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-28 06:29] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-06-28 06:34] capture | WhisperX — 70x Real-Time Transcription with Speaker Diarization
+- Stored pasted content in inbox/paste/2026-06-28-063413-whisperx-70x-real-time-transcription-with-speaker-diarization.md.
+
+## [2026-06-28 06:34] ingest | src-2026-06-28-022 | WhisperX — 70x Real-Time Transcription with Speaker Diarization
+- Created source record at sources/src-2026-06-28-022.md and raw source at raw/articles/2026-06-28-whisperx-70x-real-time-transcription-with-speaker-diarization.md.
+
+## [2026-06-28 06:34] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-28 06:34] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-06-28 06:37] capture | Exercises Dataset — 1,324 Fitness Exercises with GIFs, Images & Bilingual Instructions
+- Stored pasted content in inbox/paste/2026-06-28-063734-exercises-dataset-1-324-fitness-exercises-with-gifs-images-bilingual-instructions.md.
+
+## [2026-06-28 06:37] ingest | src-2026-06-28-023 | Exercises Dataset — 1,324 Fitness Exercises with GIFs, Images & Bilingual Instructions
+- Created source record at sources/src-2026-06-28-023.md and raw source at raw/articles/2026-06-28-exercises-dataset-1-324-fitness-exercises-with-gifs-images-bilingual-instructions.md.
+
+## [2026-06-28 06:37] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-28 06:37] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-06-28 06:39] capture | Agent Reach — AI Agent Social Media Search Tool (14+ Platforms, 42.7k Stars)
+- Stored pasted content in inbox/paste/2026-06-28-063955-agent-reach-ai-agent-social-media-search-tool-14-platforms-42-7k-stars.md.
+
+## [2026-06-28 06:39] ingest | src-2026-06-28-024 | Agent Reach — AI Agent Social Media Search Tool (14+ Platforms, 42.7k Stars)
+- Created source record at sources/src-2026-06-28-024.md and raw source at raw/articles/2026-06-28-agent-reach-ai-agent-social-media-search-tool-14-platforms-42-7k-stars.md.
+
+## [2026-06-28 06:39] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-28 06:39] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-06-28 06:44] capture | Fluid Functionalism — Surface System (8-Level Nested Elevation)
+- Stored pasted content in inbox/paste/2026-06-28-064422-fluid-functionalism-surface-system-8-level-nested-elevation.md.
+
+## [2026-06-28 06:44] ingest | src-2026-06-28-025 | Fluid Functionalism — Surface System (8-Level Nested Elevation)
+- Created source record at sources/src-2026-06-28-025.md and raw source at raw/articles/2026-06-28-fluid-functionalism-surface-system-8-level-nested-elevation.md.
+
+## [2026-06-28 06:44] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-28 06:44] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-06-30 13:58] capture | React Navigation 8 Typed Hooks — Less Boilerplate, More Type Safety
+- Stored pasted content in inbox/paste/2026-06-30-135809-react-navigation-8-typed-hooks-less-boilerplate-more-type-safety.md.
+
+## [2026-06-30 14:00] capture | Greenlight — Pre-submission compliance scanner for the Apple App Store
+- Stored pasted content in inbox/paste/2026-06-30-140051-greenlight-pre-submission-compliance-scanner-for-the-apple-app-store.md.
+
+## [2026-06-30 14:53] capture | TaxHacker — Self-Hosted AI Accounting App by vas3k
+- Stored pasted content in inbox/paste/2026-06-30-145303-taxhacker-self-hosted-ai-accounting-app-by-vas3k.md.
+
+## [2026-06-30 14:53] ingest | src-2026-06-30-001 | React Navigation 8 Typed Hooks — Less Boilerplate, More Type Safety
+- Created source record at sources/src-2026-06-30-001.md and raw source at raw/articles/2026-06-30-react-navigation-8-typed-hooks-less-boilerplate-more-type-safety.md.
+
+## [2026-06-30 14:53] ingest | src-2026-06-30-002 | Greenlight — Pre-submission compliance scanner for the Apple App Store
+- Created source record at sources/src-2026-06-30-002.md and raw source at raw/articles/2026-06-30-greenlight-pre-submission-compliance-scanner-for-the-apple-app-store.md.
+
+## [2026-06-30 14:53] ingest | src-2026-06-30-003 | TaxHacker — Self-Hosted AI Accounting App by vas3k
+- Created source record at sources/src-2026-06-30-003.md and raw source at raw/articles/2026-06-30-taxhacker-self-hosted-ai-accounting-app-by-vas3k.md.
+
+## [2026-06-30 14:53] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-30 14:53] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-06-30 14:54] capture | Puter — Open-Source Internet Computer (Web Desktop / Cloud OS)
+- Stored pasted content in inbox/paste/2026-06-30-145408-puter-open-source-internet-computer-web-desktop-cloud-os.md.
+
+## [2026-06-30 14:54] ingest | src-2026-06-30-004 | Puter — Open-Source Internet Computer (Web Desktop / Cloud OS)
+- Created source record at sources/src-2026-06-30-004.md and raw source at raw/articles/2026-06-30-puter-open-source-internet-computer-web-desktop-cloud-os.md.
+
+## [2026-06-30 14:54] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-30 14:54] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-06-30 14:55] capture | AI Builder Club Skills — Claude Code Plugin Marketplace for Loop Engineers
+- Stored pasted content in inbox/paste/2026-06-30-145511-ai-builder-club-skills-claude-code-plugin-marketplace-for-loop-engineers.md.
+
+## [2026-06-30 14:55] ingest | src-2026-06-30-005 | AI Builder Club Skills — Claude Code Plugin Marketplace for Loop Engineers
+- Created source record at sources/src-2026-06-30-005.md and raw source at raw/articles/2026-06-30-ai-builder-club-skills-claude-code-plugin-marketplace-for-loop-engineers.md.
+
+## [2026-06-30 14:55] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-30 14:55] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-06-30 14:55] capture | Codebase Memory MCP — Graph-based Codebase Indexing for Coding Agents
+- Stored pasted content in inbox/paste/2026-06-30-145559-codebase-memory-mcp-graph-based-codebase-indexing-for-coding-agents.md.
+
+## [2026-06-30 14:56] ingest | src-2026-06-30-006 | Codebase Memory MCP — Graph-based Codebase Indexing for Coding Agents
+- Created source record at sources/src-2026-06-30-006.md and raw source at raw/articles/2026-06-30-codebase-memory-mcp-graph-based-codebase-indexing-for-coding-agents.md.
+
+## [2026-06-30 14:56] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-30 14:56] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-06-30 14:57] capture | Borrow Don't Sell — Tax-Free Wealth Transfer Strategy
+- Stored note in inbox/notes/2026-06-30-145723-borrow-don-t-sell-tax-free-wealth-transfer-strategy.md.
+
+## [2026-06-30 14:57] capture | olmOCR — AI2 Toolkit for Linearizing PDFs for LLM Datasets/Training
+- Stored pasted content in inbox/paste/2026-06-30-145745-olmocr-ai2-toolkit-for-linearizing-pdfs-for-llm-datasets-training.md.
+
+## [2026-06-30 14:57] ingest | src-2026-06-30-007 | Borrow Don't Sell — Tax-Free Wealth Transfer Strategy
+- Created source record at sources/src-2026-06-30-007.md and raw source at raw/journals/2026-06-30-borrow-don-t-sell-tax-free-wealth-transfer-strategy.md.
+
+## [2026-06-30 14:57] ingest | src-2026-06-30-008 | olmOCR — AI2 Toolkit for Linearizing PDFs for LLM Datasets/Training
+- Created source record at sources/src-2026-06-30-008.md and raw source at raw/articles/2026-06-30-olmocr-ai2-toolkit-for-linearizing-pdfs-for-llm-datasets-training.md.
+
+## [2026-06-30 14:57] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-30 14:57] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-06-30 15:56] capture | Revolut/QuantumLight Talent Playbook — Hiring & Performance Management System
+- Stored pasted content in inbox/paste/2026-06-30-155635-revolut-quantumlight-talent-playbook-hiring-performance-management-system.md.
+
+## [2026-06-30 15:56] capture | QuantumLight Playbook — Performance Framework: Scorecards, Deliverables, Skills, Culture
+- Stored pasted content in inbox/paste/2026-06-30-155650-quantumlight-playbook-performance-framework-scorecards-deliverables-skills-culture.md.
+
+## [2026-06-30 15:56] capture | QuantumLight Playbook — Performance Bonuses: Exponential Rewards for A-Players
+- Stored pasted content in inbox/paste/2026-06-30-155654-quantumlight-playbook-performance-bonuses-exponential-rewards-for-a-players.md.
+
+## [2026-06-30 15:56] capture | QuantumLight Playbook — Hiring Playbook Example: Data Engineers
+- Stored pasted content in inbox/paste/2026-06-30-155657-quantumlight-playbook-hiring-playbook-example-data-engineers.md.
+
+## [2026-06-30 15:57] ingest | src-2026-06-30-009 | Revolut/QuantumLight Talent Playbook — Hiring & Performance Management System
+- Created source record at sources/src-2026-06-30-009.md and raw source at raw/articles/2026-06-30-revolut-quantumlight-talent-playbook-hiring-performance-management-system.md.
+
+## [2026-06-30 15:57] ingest | src-2026-06-30-010 | QuantumLight Playbook — Performance Framework: Scorecards, Deliverables, Skills, Culture
+- Created source record at sources/src-2026-06-30-010.md and raw source at raw/articles/2026-06-30-quantumlight-playbook-performance-framework-scorecards-deliverables-skills-culture.md.
+
+## [2026-06-30 15:57] ingest | src-2026-06-30-011 | QuantumLight Playbook — Performance Bonuses: Exponential Rewards for A-Players
+- Created source record at sources/src-2026-06-30-011.md and raw source at raw/articles/2026-06-30-quantumlight-playbook-performance-bonuses-exponential-rewards-for-a-players.md.
+
+## [2026-06-30 15:57] ingest | src-2026-06-30-012 | QuantumLight Playbook — Hiring Playbook Example: Data Engineers
+- Created source record at sources/src-2026-06-30-012.md and raw source at raw/articles/2026-06-30-quantumlight-playbook-hiring-playbook-example-data-engineers.md.
+
+## [2026-06-30 15:57] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-30 15:57] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-06-30 15:58] capture | RevPDF — Free Offline Native PDF Editor (Desktop Free, Mobile .99)
+- Stored pasted content in inbox/paste/2026-06-30-155808-revpdf-free-offline-native-pdf-editor-desktop-free-mobile-99.md.
+
+## [2026-06-30 15:58] ingest | src-2026-06-30-013 | RevPDF — Free Offline Native PDF Editor (Desktop Free, Mobile .99)
+- Created source record at sources/src-2026-06-30-013.md and raw source at raw/articles/2026-06-30-revpdf-free-offline-native-pdf-editor-desktop-free-mobile-99.md.
+
+## [2026-06-30 15:58] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-06-30 15:58] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-01 04:13] capture | Chenosis — African API Marketplace & Data Infrastructure Platform
+- Stored pasted content in inbox/paste/2026-07-01-041346-chenosis-african-api-marketplace-data-infrastructure-platform.md.
+
+## [2026-07-01 04:13] ingest | src-2026-07-01-001 | Chenosis — African API Marketplace & Data Infrastructure Platform
+- Created source record at sources/src-2026-07-01-001.md and raw source at raw/articles/2026-07-01-chenosis-african-api-marketplace-data-infrastructure-platform.md.
+
+## [2026-07-01 04:13] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-01 04:13] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-01 04:17] capture | Nigeria Telecom Identity Risk — SIM Swap, Number Recycling & Fintech Architecture Gap
+- Stored pasted content in inbox/paste/2026-07-01-041702-nigeria-telecom-identity-risk-sim-swap-number-recycling-fintech-architecture-gap.md.
+
+## [2026-07-01 04:17] ingest | src-2026-07-01-002 | Nigeria Telecom Identity Risk — SIM Swap, Number Recycling & Fintech Architecture Gap
+- Created source record at sources/src-2026-07-01-002.md and raw source at raw/articles/2026-07-01-nigeria-telecom-identity-risk-sim-swap-number-recycling-fintech-architecture-gap.md.
+
+## [2026-07-01 04:17] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-01 04:17] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-01 20:00] capture | Paper Shaders — Zero-Dependency Canvas Shaders by Paper Design
+- Stored pasted content in inbox/paste/2026-07-01-200018-paper-shaders-zero-dependency-canvas-shaders-by-paper-design.md.
+
+## [2026-07-01 20:00] ingest | src-2026-07-01-003 | Paper Shaders — Zero-Dependency Canvas Shaders by Paper Design
+- Created source record at sources/src-2026-07-01-003.md and raw source at raw/articles/2026-07-01-paper-shaders-zero-dependency-canvas-shaders-by-paper-design.md.
+
+## [2026-07-01 20:00] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-01 20:00] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-01 20:13] capture | OpenUI — The Open Standard for Generative UI (OpenUI Lang)
+- Stored pasted content in inbox/paste/2026-07-01-201321-openui-the-open-standard-for-generative-ui-openui-lang.md.
+
+## [2026-07-01 20:13] ingest | src-2026-07-01-004 | OpenUI — The Open Standard for Generative UI (OpenUI Lang)
+- Created source record at sources/src-2026-07-01-004.md and raw source at raw/articles/2026-07-01-openui-the-open-standard-for-generative-ui-openui-lang.md.
+
+## [2026-07-01 20:13] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-01 20:13] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-02 12:08] capture | Pear by Holepunch — Peer-to-Peer Desktop App Framework (Hypercore/Hyperswarm)
+- Stored pasted content in inbox/paste/2026-07-02-120804-pear-by-holepunch-peer-to-peer-desktop-app-framework-hypercore-hyperswarm.md.
+
+## [2026-07-02 12:08] ingest | src-2026-07-02-001 | Pear by Holepunch — Peer-to-Peer Desktop App Framework (Hypercore/Hyperswarm)
+- Created source record at sources/src-2026-07-02-001.md and raw source at raw/articles/2026-07-02-pear-by-holepunch-peer-to-peer-desktop-app-framework-hypercore-hyperswarm.md.
+
+## [2026-07-02 12:08] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-02 12:08] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-02 12:44] capture | Web Workers for Data-Heavy Front-End — Main Thread Blocking vs Worker Offloading
+- Stored pasted content in inbox/paste/2026-07-02-124403-web-workers-for-data-heavy-front-end-main-thread-blocking-vs-worker-offloading.md.
+
+## [2026-07-02 12:44] ingest | src-2026-07-02-002 | Web Workers for Data-Heavy Front-End — Main Thread Blocking vs Worker Offloading
+- Created source record at sources/src-2026-07-02-002.md and raw source at raw/articles/2026-07-02-web-workers-for-data-heavy-front-end-main-thread-blocking-vs-worker-offloading.md.
+
+## [2026-07-02 12:44] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-02 12:44] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-03 14:23] capture | Ditther — Free Browser-Based Dither, Halftone & Pixel Effects Tool
+- Stored pasted content in inbox/paste/2026-07-03-142318-ditther-free-browser-based-dither-halftone-pixel-effects-tool.md.
+
+## [2026-07-03 14:23] ingest | src-2026-07-03-001 | Ditther — Free Browser-Based Dither, Halftone & Pixel Effects Tool
+- Created source record at sources/src-2026-07-03-001.md and raw source at raw/articles/2026-07-03-ditther-free-browser-based-dither-halftone-pixel-effects-tool.md.
+
+## [2026-07-03 14:23] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-03 14:23] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-03 14:24] capture | Prism — Background & Visual Studio for Designers by Ava Thiery
+- Stored pasted content in inbox/paste/2026-07-03-142429-prism-background-visual-studio-for-designers-by-ava-thiery.md.
+
+## [2026-07-03 14:24] ingest | src-2026-07-03-002 | Prism — Background & Visual Studio for Designers by Ava Thiery
+- Created source record at sources/src-2026-07-03-002.md and raw source at raw/articles/2026-07-03-prism-background-visual-studio-for-designers-by-ava-thiery.md.
+
+## [2026-07-03 14:24] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-03 14:24] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-03 14:29] capture | LogoSystem — The Biggest Logo Design Library for Inspiration
+- Stored pasted content in inbox/paste/2026-07-03-142919-logosystem-the-biggest-logo-design-library-for-inspiration.md.
+
+## [2026-07-03 14:29] ingest | src-2026-07-03-003 | LogoSystem — The Biggest Logo Design Library for Inspiration
+- Created source record at sources/src-2026-07-03-003.md and raw source at raw/articles/2026-07-03-logosystem-the-biggest-logo-design-library-for-inspiration.md.
+
+## [2026-07-03 14:29] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-03 14:29] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-03 14:56] capture | Kotlin Multiplatform vs React Native (2026 Benchmark) by Software Mansion
+- Stored pasted content in inbox/paste/2026-07-03-145658-kotlin-multiplatform-vs-react-native-2026-benchmark-by-software-mansion.md.
