@@ -2403,5 +2403,260 @@
 ## [2026-07-03 14:29] lint | Vault lint
 - Found 10 issue(s).
 
+## [2026-07-03 14:56] capture | src-2026-07-03-004 | KMP vs RN (2026 Benchmark) by SWM
+- Captured article summary to inbox. [src-2026-07-03-004]
+
+## [2026-07-03 15:25] ingest | src-2026-07-03-004 | KMP vs RN (2026 Benchmark) by SWM
+- Ingested to raw/ and sources/. Updated raw with full article text. Source record filled with key claims.
+
 ## [2026-07-03 14:56] capture | Kotlin Multiplatform vs React Native (2026 Benchmark) by Software Mansion
 - Stored pasted content in inbox/paste/2026-07-03-145658-kotlin-multiplatform-vs-react-native-2026-benchmark-by-software-mansion.md.
+
+## [2026-07-03 15:25] ingest | src-2026-07-03-004 | Kotlin Multiplatform vs React Native (2026 Benchmark) by Software Mansion
+- Created source record at sources/src-2026-07-03-004.md and raw source at raw/articles/2026-07-03-kotlin-multiplatform-vs-react-native-2026-benchmark-by-software-mansion.md.
+
+## [2026-07-03 15:25] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-03 15:25] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-03 15:33] capture | InstallOnAir — OTA iOS/Android App Distribution Platform
+- Stored pasted content in inbox/paste/2026-07-03-153315-installonair-ota-ios-android-app-distribution-platform.md.
+
+## [2026-07-03 15:35] capture | AppsOnAir vs InstallOnAir — OTA Distribution Alternative Comparison
+- Stored pasted content in inbox/paste/2026-07-03-153520-appsonair-vs-installonair-ota-distribution-alternative-comparison.md.
+
+## [2026-07-03 15:37] capture | Diawi — Development and In-house Apps Wireless Installation
+- Stored pasted content in inbox/paste/2026-07-03-153741-diawi-development-and-in-house-apps-wireless-installation.md.
+
+## [2026-07-03 15:39] capture | integrations.sh — Registry of Integration Specs for AI Agents
+- Stored pasted content in inbox/paste/2026-07-03-153902-integrations-sh-registry-of-integration-specs-for-ai-agents.md.
+
+## [2026-07-03 15:55] capture | Blume Sidecar — Watch and Manage Coding Agents
+- Stored pasted content in inbox/paste/2026-07-03-155528-blume-sidecar-watch-and-manage-coding-agents.md.
+
+## [2026-07-03 16:24] capture | B-trees and Database Indexes — PlanetScale Blog
+- Stored pasted content in inbox/paste/2026-07-03-162425-b-trees-and-database-indexes-planetscale-blog.md.
+
+## [2026-07-03 17:59] capture | The Problem with Using a UUID Primary Key in MySQL — PlanetScale
+- Stored pasted content in inbox/paste/2026-07-03-175942-the-problem-with-using-a-uuid-primary-key-in-mysql-planetscale.md.
+
+## [2026-07-03 18:00] ingest | src-2026-07-03-005 | InstallOnAir — OTA iOS/Android App Distribution Platform
+- Created source record at sources/src-2026-07-03-005.md and raw source at raw/articles/2026-07-03-installonair-ota-ios-android-app-distribution-platform.md.
+
+## [2026-07-03 18:00] ingest | src-2026-07-03-006 | AppsOnAir vs InstallOnAir — OTA Distribution Alternative Comparison
+- Created source record at sources/src-2026-07-03-006.md and raw source at raw/articles/2026-07-03-appsonair-vs-installonair-ota-distribution-alternative-comparison.md.
+
+## [2026-07-03 18:00] ingest | src-2026-07-03-007 | Diawi — Development and In-house Apps Wireless Installation
+- Created source record at sources/src-2026-07-03-007.md and raw source at raw/articles/2026-07-03-diawi-development-and-in-house-apps-wireless-installation.md.
+
+## [2026-07-03 18:00] ingest | src-2026-07-03-008 | integrations.sh — Registry of Integration Specs for AI Agents
+- Created source record at sources/src-2026-07-03-008.md and raw source at raw/articles/2026-07-03-integrations-sh-registry-of-integration-specs-for-ai-agents.md.
+
+## [2026-07-03 18:00] ingest | src-2026-07-03-009 | Blume Sidecar — Watch and Manage Coding Agents
+- Created source record at sources/src-2026-07-03-009.md and raw source at raw/articles/2026-07-03-blume-sidecar-watch-and-manage-coding-agents.md.
+
+## [2026-07-03 18:00] ingest | src-2026-07-03-010 | B-trees and Database Indexes — PlanetScale Blog
+- Created source record at sources/src-2026-07-03-010.md and raw source at raw/articles/2026-07-03-b-trees-and-database-indexes-planetscale-blog.md.
+
+## [2026-07-03 18:00] ingest | src-2026-07-03-011 | The Problem with Using a UUID Primary Key in MySQL — PlanetScale
+- Created source record at sources/src-2026-07-03-011.md and raw source at raw/articles/2026-07-03-the-problem-with-using-a-uuid-primary-key-in-mysql-planetscale.md.
+
+## [2026-07-03 18:00] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-03 18:00] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-03 19:13] capture | react-native-shiki-engine — Native Oniguruma Syntax Highlighting for React Native
+- Stored pasted content in inbox/paste/2026-07-03-191324-react-native-shiki-engine-native-oniguruma-syntax-highlighting-for-react-native.md.
+
+## [2026-07-03 19:13] ingest | src-2026-07-03-012 | react-native-shiki-engine — Native Oniguruma Syntax Highlighting for React Native
+- Created source record at sources/src-2026-07-03-012.md and raw source at raw/articles/2026-07-03-react-native-shiki-engine-native-oniguruma-syntax-highlighting-for-react-native.md.
+
+## [2026-07-03 19:13] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-03 19:13] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-03 19:59] capture | FingerprintJS — Open Source Browser Fingerprinting Library
+- Stored pasted content in inbox/paste/2026-07-03-195924-fingerprintjs-open-source-browser-fingerprinting-library.md.
+
+## [2026-07-03 19:59] ingest | src-2026-07-03-013 | FingerprintJS — Open Source Browser Fingerprinting Library
+- Created source record at sources/src-2026-07-03-013.md and raw source at raw/articles/2026-07-03-fingerprintjs-open-source-browser-fingerprinting-library.md.
+
+## [2026-07-03 19:59] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-03 19:59] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-03 20:07] capture | Fingerprint Identification — Product Demo, Webinar Transcript & Mobile SDK Docs
+- Stored pasted content in inbox/paste/2026-07-03-200742-fingerprint-identification-product-demo-webinar-transcript-mobile-sdk-docs.md.
+
+## [2026-07-03 20:08] ingest | src-2026-07-03-014 | Fingerprint Identification — Product Demo, Webinar Transcript & Mobile SDK Docs
+- Created source record at sources/src-2026-07-03-014.md and raw source at raw/articles/2026-07-03-fingerprint-identification-product-demo-webinar-transcript-mobile-sdk-docs.md.
+
+## [2026-07-03 20:08] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-03 20:08] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-04 03:45] capture | Reverse UI — Premium Animated UI Components for Modern Web Apps
+- Stored pasted content in inbox/paste/2026-07-04-034548-reverse-ui-premium-animated-ui-components-for-modern-web-apps.md.
+
+## [2026-07-04 03:46] ingest | src-2026-07-04-001 | Reverse UI — Premium Animated UI Components for Modern Web Apps
+- Created source record at sources/src-2026-07-04-001.md and raw source at raw/articles/2026-07-04-reverse-ui-premium-animated-ui-components-for-modern-web-apps.md.
+
+## [2026-07-04 03:46] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-04 03:46] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-04 14:21] capture | Responsive Viewer — Chrome Extension for Multi-Screen Responsive Testing
+- Stored pasted content in inbox/paste/2026-07-04-142154-responsive-viewer-chrome-extension-for-multi-screen-responsive-testing.md.
+
+## [2026-07-04 14:21] ingest | src-2026-07-04-002 | Responsive Viewer — Chrome Extension for Multi-Screen Responsive Testing
+- Created source record at sources/src-2026-07-04-002.md and raw source at raw/articles/2026-07-04-responsive-viewer-chrome-extension-for-multi-screen-responsive-testing.md.
+
+## [2026-07-04 14:21] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-04 14:21] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-06 21:52] capture | UI Skills — Design-Engineering Skills for AI Coding Agents
+- Stored pasted content in inbox/paste/2026-07-06-215201-ui-skills-design-engineering-skills-for-ai-coding-agents.md.
+
+## [2026-07-06 21:52] ingest | src-2026-07-06-001 | UI Skills — Design-Engineering Skills for AI Coding Agents
+- Created source record at sources/src-2026-07-06-001.md and raw source at raw/articles/2026-07-06-ui-skills-design-engineering-skills-for-ai-coding-agents.md.
+
+## [2026-07-06 21:52] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-06 21:52] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-06 21:52] capture | Unlumen UI — React Components with Motion & shadcn
+- Stored pasted content in inbox/paste/2026-07-06-215220-unlumen-ui-react-components-with-motion-shadcn.md.
+
+## [2026-07-06 21:52] ingest | src-2026-07-06-002 | Unlumen UI — React Components with Motion & shadcn
+- Created source record at sources/src-2026-07-06-002.md and raw source at raw/articles/2026-07-06-unlumen-ui-react-components-with-motion-shadcn.md.
+
+## [2026-07-06 21:52] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-06 21:52] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-06 21:52] capture | Sevalla — Ship Production Apps Without Infrastructure (by Kinsta)
+- Stored pasted content in inbox/paste/2026-07-06-215257-sevalla-ship-production-apps-without-infrastructure-by-kinsta.md.
+
+## [2026-07-06 21:52] ingest | src-2026-07-06-003 | Sevalla — Ship Production Apps Without Infrastructure (by Kinsta)
+- Created source record at sources/src-2026-07-06-003.md and raw source at raw/articles/2026-07-06-sevalla-ship-production-apps-without-infrastructure-by-kinsta.md.
+
+## [2026-07-06 21:52] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-06 21:52] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-06 21:53] capture | Plane — AI-Native Project Management (Open Source, Self-Hosted)
+- Stored pasted content in inbox/paste/2026-07-06-215319-plane-ai-native-project-management-open-source-self-hosted.md.
+
+## [2026-07-06 21:53] ingest | src-2026-07-06-004 | Plane — AI-Native Project Management (Open Source, Self-Hosted)
+- Created source record at sources/src-2026-07-06-004.md and raw source at raw/articles/2026-07-06-plane-ai-native-project-management-open-source-self-hosted.md.
+
+## [2026-07-06 21:53] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-06 21:53] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-06 21:53] capture | OpenStatus — Open Source Status Page & Uptime Monitoring
+- Stored pasted content in inbox/paste/2026-07-06-215340-openstatus-open-source-status-page-uptime-monitoring.md.
+
+## [2026-07-06 21:53] ingest | src-2026-07-06-005 | OpenStatus — Open Source Status Page & Uptime Monitoring
+- Created source record at sources/src-2026-07-06-005.md and raw source at raw/articles/2026-07-06-openstatus-open-source-status-page-uptime-monitoring.md.
+
+## [2026-07-06 21:53] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-06 21:53] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-07 14:31] capture | Originkit — Free Animated Component Library for Modern Websites
+- Stored pasted content in inbox/paste/2026-07-07-143149-originkit-free-animated-component-library-for-modern-websites.md.
+
+## [2026-07-07 14:31] ingest | src-2026-07-07-001 | Originkit — Free Animated Component Library for Modern Websites
+- Created source record at sources/src-2026-07-07-001.md and raw source at raw/articles/2026-07-07-originkit-free-animated-component-library-for-modern-websites.md.
+
+## [2026-07-07 14:31] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-07 14:31] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-07 14:40] capture | Rabbithole — Infinite Canvas MCP Server for AI Learning
+- Stored pasted content in inbox/paste/2026-07-07-144045-rabbithole-infinite-canvas-mcp-server-for-ai-learning.md.
+
+## [2026-07-07 14:40] ingest | src-2026-07-07-002 | Rabbithole — Infinite Canvas MCP Server for AI Learning
+- Created source record at sources/src-2026-07-07-002.md and raw source at raw/articles/2026-07-07-rabbithole-infinite-canvas-mcp-server-for-ai-learning.md.
+
+## [2026-07-07 14:40] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-07 14:40] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-07 14:51] capture | Pantalon Method — 7 Sales Questions by Scott Brooks
+- Stored pasted content in inbox/paste/2026-07-07-145151-pantalon-method-7-sales-questions-by-scott-brooks.md.
+
+## [2026-07-07 14:52] ingest | src-2026-07-07-003 | Pantalon Method — 7 Sales Questions by Scott Brooks
+- Created source record at sources/src-2026-07-07-003.md and raw source at raw/articles/2026-07-07-pantalon-method-7-sales-questions-by-scott-brooks.md.
+
+## [2026-07-07 14:52] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-07 14:52] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-07 14:53] capture | Pantalon Method — 7 Sales Questions (Full Thread by Scott Brooks)
+- Stored pasted content in inbox/paste/2026-07-07-145306-pantalon-method-7-sales-questions-full-thread-by-scott-brooks.md.
+
+## [2026-07-07 14:53] ingest | src-2026-07-07-004 | Pantalon Method — 7 Sales Questions (Full Thread by Scott Brooks)
+- Created source record at sources/src-2026-07-07-004.md and raw source at raw/articles/2026-07-07-pantalon-method-7-sales-questions-full-thread-by-scott-brooks.md.
+
+## [2026-07-07 14:53] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-07 14:53] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-08 11:02] capture | Deno Desktop — Build Desktop Apps with Deno (CLI + Guide)
+- Stored pasted content in inbox/paste/2026-07-08-110210-deno-desktop-build-desktop-apps-with-deno-cli-guide.md.
+
+## [2026-07-08 11:02] ingest | src-2026-07-08-001 | Deno Desktop — Build Desktop Apps with Deno (CLI + Guide)
+- Created source record at sources/src-2026-07-08-001.md and raw source at raw/articles/2026-07-08-deno-desktop-build-desktop-apps-with-deno-cli-guide.md.
+
+## [2026-07-08 11:02] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-08 11:02] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-08 11:02] capture | Electrobun — Ultra-Fast Desktop Apps with TypeScript (Guide, Docs, GitHub)
+- Stored pasted content in inbox/paste/2026-07-08-110237-electrobun-ultra-fast-desktop-apps-with-typescript-guide-docs-github.md.
+
+## [2026-07-08 11:02] ingest | src-2026-07-08-002 | Electrobun — Ultra-Fast Desktop Apps with TypeScript (Guide, Docs, GitHub)
+- Created source record at sources/src-2026-07-08-002.md and raw source at raw/articles/2026-07-08-electrobun-ultra-fast-desktop-apps-with-typescript-guide-docs-github.md.
+
+## [2026-07-08 11:02] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-08 11:02] lint | Vault lint
+- Found 10 issue(s).
