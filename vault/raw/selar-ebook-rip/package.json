@@ -1,0 +1,13 @@
+{
+  "name": "selar-ebook-rip",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Reference tool: reconstruct a Selar flipbook e-book into a PDF from the authenticated reader. For authorized/educational use only (see analysis.md).",
+  "scripts": {
+    "start": "node rip.mjs"
+  },
+  "dependencies": {
+    "playwright": "^1.45.0"
+  }
+}

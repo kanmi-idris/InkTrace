@@ -1,0 +1,19 @@
+[
+  {
+    "name": "session",
+    "value": "REPLACE_WITH_YOUR_SESSION_VALUE",
+    "domain": ".selar.com",
+    "path": "/",
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "XSRF-TOKEN",
+    "value": "REPLACE_IF_NEEDED",
+    "domain": ".selar.com",
+    "path": "/",
+    "secure": true,
+    "sameSite": "Lax"
+  }
+]
