@@ -3559,3 +3559,1690 @@
 
 ## [2026-07-18 01:29] lint | Vault lint
 - Found 10 issue(s).
+
+## [2026-07-18 05:36] capture | LiteRT for Web (LiteRT.js) — PyTorch conversion & WebGPU/WebNN inference
+- Stored pasted content in inbox/paste/2026-07-18-053639-litert-for-web-litert-js-pytorch-conversion-webgpu-webnn-inference.md.
+
+## [2026-07-18 05:36] capture | LiteRT.js: Google's high-performance Web AI inference (announcement)
+- Stored pasted content in inbox/paste/2026-07-18-053640-litert-js-google-s-high-performance-web-ai-inference-announcement.md.
+
+## [2026-07-18 05:36] capture | @litertjs/core (npm) — fetch blocked (403)
+- Stored pasted content in inbox/paste/2026-07-18-053646-litertjs-core-npm-fetch-blocked-403.md.
+
+## [2026-07-18 05:36] ingest | src-2026-07-18-008 | LiteRT for Web (LiteRT.js) — PyTorch conversion & WebGPU/WebNN inference
+- Created source record at sources/src-2026-07-18-008.md and raw source at raw/articles/2026-07-18-litert-for-web-litert-js-pytorch-conversion-webgpu-webnn-inference.md.
+
+## [2026-07-18 05:36] ingest | src-2026-07-18-009 | LiteRT.js: Google's high-performance Web AI inference (announcement)
+- Created source record at sources/src-2026-07-18-009.md and raw source at raw/articles/2026-07-18-litert-js-google-s-high-performance-web-ai-inference-announcement.md.
+
+## [2026-07-18 05:36] ingest | src-2026-07-18-010 | @litertjs/core (npm) — fetch blocked (403)
+- Created source record at sources/src-2026-07-18-010.md and raw source at raw/articles/2026-07-18-litertjs-core-npm-fetch-blocked-403.md.
+
+## [2026-07-18 05:36] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-18 05:36] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-20 09:56] capture | A Gentle Introduction to TanStack Query
+- Stored pasted content in inbox/paste/2026-07-20-095626-a-gentle-introduction-to-tanstack-query.md.
+
+## [2026-07-20 09:56] ingest | src-2026-07-20-001 | A Gentle Introduction to TanStack Query
+- Created source record at sources/src-2026-07-20-001.md and raw source at raw/articles/2026-07-20-a-gentle-introduction-to-tanstack-query.md.
+
+## [2026-07-20 09:56] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-20 09:56] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-20 13:03] capture | Run Codex app-server in the cloud + 'Sign in with ChatGPT' for zero API-cost AI
+- Stored pasted content in inbox/paste/2026-07-20-130352-run-codex-app-server-in-the-cloud-sign-in-with-chatgpt-for-zero-api-cost-ai.md.
+
+## [2026-07-20 13:03] ingest | src-2026-07-20-002 | Run Codex app-server in the cloud + 'Sign in with ChatGPT' for zero API-cost AI
+- Created source record at sources/src-2026-07-20-002.md and raw source at raw/articles/2026-07-20-run-codex-app-server-in-the-cloud-sign-in-with-chatgpt-for-zero-api-cost-ai.md.
+
+## [2026-07-20 13:03] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-20 13:03] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-20 13:06] capture | GPUI Component — Rust desktop UI library for GPUI (longbridge)
+- Stored pasted content in inbox/paste/2026-07-20-130631-gpui-component-rust-desktop-ui-library-for-gpui-longbridge.md.
+
+## [2026-07-20 13:06] capture | Use GPUI + Rust instead of hand-rolling a native macOS app (maddada)
+- Stored pasted content in inbox/paste/2026-07-20-130648-use-gpui-rust-instead-of-hand-rolling-a-native-macos-app-maddada.md.
+
+## [2026-07-20 13:06] ingest | src-2026-07-20-003 | GPUI Component — Rust desktop UI library for GPUI (longbridge)
+- Created source record at sources/src-2026-07-20-003.md and raw source at raw/articles/2026-07-20-gpui-component-rust-desktop-ui-library-for-gpui-longbridge.md.
+
+## [2026-07-20 13:06] ingest | src-2026-07-20-004 | Use GPUI + Rust instead of hand-rolling a native macOS app (maddada)
+- Created source record at sources/src-2026-07-20-004.md and raw source at raw/articles/2026-07-20-use-gpui-rust-instead-of-hand-rolling-a-native-macos-app-maddada.md.
+
+## [2026-07-20 13:06] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-20 13:06] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-20 13:08] capture | How to protect audit logs in production (append-only, immutable, signed)
+- Stored pasted content in inbox/paste/2026-07-20-130819-how-to-protect-audit-logs-in-production-append-only-immutable-signed.md.
+
+## [2026-07-20 13:08] ingest | src-2026-07-20-005 | How to protect audit logs in production (append-only, immutable, signed)
+- Created source record at sources/src-2026-07-20-005.md and raw source at raw/articles/2026-07-20-how-to-protect-audit-logs-in-production-append-only-immutable-signed.md.
+
+## [2026-07-20 13:08] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-20 13:08] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-20 13:08] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-20 13:08] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-20 13:08] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-20 13:08] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-20 13:08] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-20 13:08] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-20 13:10] capture | The real cost of React Native animations: benchmarking every approach (Expo)
+- Stored pasted content in inbox/paste/2026-07-20-131027-the-real-cost-of-react-native-animations-benchmarking-every-approach-expo.md.
+
+## [2026-07-20 13:10] ingest | src-2026-07-20-006 | The real cost of React Native animations: benchmarking every approach (Expo)
+- Created source record at sources/src-2026-07-20-006.md and raw source at raw/articles/2026-07-20-the-real-cost-of-react-native-animations-benchmarking-every-approach-expo.md.
+
+## [2026-07-20 13:10] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-20 13:10] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-20 13:11] capture | Akarso — social media management for AI agents (CLI + MCP + API)
+- Stored pasted content in inbox/paste/2026-07-20-131107-akarso-social-media-management-for-ai-agents-cli-mcp-api.md.
+
+## [2026-07-20 13:11] ingest | src-2026-07-20-007 | Akarso — social media management for AI agents (CLI + MCP + API)
+- Created source record at sources/src-2026-07-20-007.md and raw source at raw/articles/2026-07-20-akarso-social-media-management-for-ai-agents-cli-mcp-api.md.
+
+## [2026-07-20 13:11] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-20 13:11] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-20 13:27] capture | Reicon — Open-Source Icon Library
+- Stored pasted content in inbox/paste/2026-07-20-132746-reicon-open-source-icon-library.md.
+
+## [2026-07-20 13:27] ingest | src-2026-07-20-008 | Reicon — Open-Source Icon Library
+- Created source record at sources/src-2026-07-20-008.md and raw source at raw/articles/2026-07-20-reicon-open-source-icon-library.md.
+
+## [2026-07-20 13:27] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-20 13:27] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-20 13:27] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-20 13:27] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-20 13:28] capture | Ferome CLI — iOS builds without a Mac
+- Stored pasted content in inbox/paste/2026-07-20-132854-ferome-cli-ios-builds-without-a-mac.md.
+
+## [2026-07-20 13:28] ingest | src-2026-07-20-009 | Ferome CLI — iOS builds without a Mac
+- Created source record at sources/src-2026-07-20-009.md and raw source at raw/articles/2026-07-20-ferome-cli-ios-builds-without-a-mac.md.
+
+## [2026-07-20 13:28] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-20 13:28] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-20 13:28] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-20 13:28] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-20 13:45] capture | Pretext — text measurement & layout library
+- Stored pasted content in inbox/paste/2026-07-20-134520-pretext-text-measurement-layout-library.md.
+
+## [2026-07-20 13:45] ingest | src-2026-07-20-010 | Pretext — text measurement & layout library
+- Created source record at sources/src-2026-07-20-010.md and raw source at raw/articles/2026-07-20-pretext-text-measurement-layout-library.md.
+
+## [2026-07-20 13:45] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-20 13:45] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-20 13:45] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-20 13:45] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-20 13:54] capture | Akintola Steve thread — encrypting sensitive data & risk-matched security
+- Stored pasted content in inbox/paste/2026-07-20-135417-akintola-steve-thread-encrypting-sensitive-data-risk-matched-security.md.
+
+## [2026-07-20 13:54] ingest | src-2026-07-20-011 | Akintola Steve thread — encrypting sensitive data & risk-matched security
+- Created source record at sources/src-2026-07-20-011.md and raw source at raw/articles/2026-07-20-akintola-steve-thread-encrypting-sensitive-data-risk-matched-security.md.
+
+## [2026-07-20 13:54] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-20 13:54] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-20 13:54] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-20 13:54] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-20 13:59] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-20 14:35] capture | dax — HAR-file trick to derive website clients from @jlongster
+- Stored pasted content in inbox/paste/2026-07-20-143529-dax-har-file-trick-to-derive-website-clients-from-jlongster.md.
+
+## [2026-07-20 14:35] capture | Printing Press — agent-native CLIs from a single prompt
+- Stored pasted content in inbox/paste/2026-07-20-143529-printing-press-agent-native-clis-from-a-single-prompt.md.
+
+## [2026-07-20 14:35] ingest | src-2026-07-20-012 | dax — HAR-file trick to derive website clients from @jlongster
+- Created source record at sources/src-2026-07-20-012.md and raw source at raw/articles/2026-07-20-dax-har-file-trick-to-derive-website-clients-from-jlongster.md.
+
+## [2026-07-20 14:35] ingest | src-2026-07-20-013 | Printing Press — agent-native CLIs from a single prompt
+- Created source record at sources/src-2026-07-20-013.md and raw source at raw/articles/2026-07-20-printing-press-agent-native-clis-from-a-single-prompt.md.
+
+## [2026-07-20 14:35] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-20 14:35] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-20 14:35] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-20 14:35] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-20 14:37] capture | OpenShip — self-hosted deployment platform with built-in CI/CD
+- Stored pasted content in inbox/paste/2026-07-20-143722-openship-self-hosted-deployment-platform-with-built-in-ci-cd.md.
+
+## [2026-07-20 14:37] ingest | src-2026-07-20-014 | OpenShip — self-hosted deployment platform with built-in CI/CD
+- Created source record at sources/src-2026-07-20-014.md and raw source at raw/articles/2026-07-20-openship-self-hosted-deployment-platform-with-built-in-ci-cd.md.
+
+## [2026-07-20 14:37] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-20 14:37] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-20 14:37] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-20 14:37] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-20 14:41] capture | text-to-cad (CAD Skills) — agent skills for CAD, robotics & hardware design
+- Stored pasted content in inbox/paste/2026-07-20-144128-text-to-cad-cad-skills-agent-skills-for-cad-robotics-hardware-design.md.
+
+## [2026-07-20 14:41] ingest | src-2026-07-20-015 | text-to-cad (CAD Skills) — agent skills for CAD, robotics & hardware design
+- Created source record at sources/src-2026-07-20-015.md and raw source at raw/articles/2026-07-20-text-to-cad-cad-skills-agent-skills-for-cad-robotics-hardware-design.md.
+
+## [2026-07-20 14:41] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-20 14:41] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-20 14:41] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-20 14:41] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-20 14:44] capture | Passmark — AI browser regression testing for Playwright
+- Stored pasted content in inbox/paste/2026-07-20-144417-passmark-ai-browser-regression-testing-for-playwright.md.
+
+## [2026-07-20 14:44] ingest | src-2026-07-20-016 | Passmark — AI browser regression testing for Playwright
+- Created source record at sources/src-2026-07-20-016.md and raw source at raw/articles/2026-07-20-passmark-ai-browser-regression-testing-for-playwright.md.
+
+## [2026-07-20 14:44] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-20 14:44] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-20 14:44] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-20 14:44] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-20 20:52] capture | PrismML — Ultra-Dense On-Device LLMs (Bonsai 27B, 1-bit/Ternary)
+- Stored pasted content in inbox/paste/2026-07-20-205251-prismml-ultra-dense-on-device-llms-bonsai-27b-1-bit-ternary.md.
+
+## [2026-07-20 20:53] ingest | src-2026-07-20-017 | PrismML — Ultra-Dense On-Device LLMs (Bonsai 27B, 1-bit/Ternary)
+- Created source record at sources/src-2026-07-20-017.md and raw source at raw/articles/2026-07-20-prismml-ultra-dense-on-device-llms-bonsai-27b-1-bit-ternary.md.
+
+## [2026-07-20 20:53] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-20 20:53] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-20 20:53] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-20 20:53] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-21 09:01] capture | Flash Calendar — Fast Flexible React Native Calendar (FlashList-based)
+- Stored pasted content in inbox/paste/2026-07-21-090132-flash-calendar-fast-flexible-react-native-calendar-flashlist-based.md.
+
+## [2026-07-21 09:01] capture | Expo Blog — Build Fast Flexible Calendars with Flash Calendar
+- Stored pasted content in inbox/paste/2026-07-21-090138-expo-blog-build-fast-flexible-calendars-with-flash-calendar.md.
+
+## [2026-07-21 09:01] ingest | src-2026-07-21-001 | Flash Calendar — Fast Flexible React Native Calendar (FlashList-based)
+- Created source record at sources/src-2026-07-21-001.md and raw source at raw/articles/2026-07-21-flash-calendar-fast-flexible-react-native-calendar-flashlist-based.md.
+
+## [2026-07-21 09:01] ingest | src-2026-07-21-002 | Expo Blog — Build Fast Flexible Calendars with Flash Calendar
+- Created source record at sources/src-2026-07-21-002.md and raw source at raw/articles/2026-07-21-expo-blog-build-fast-flexible-calendars-with-flash-calendar.md.
+
+## [2026-07-21 09:01] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-21 09:01] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-21 09:01] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-21 09:01] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-21 09:21] capture | You Don't Need Lodash/Underscore — Native JS Alternatives + ESLint Plugin
+- Stored pasted content in inbox/paste/2026-07-21-092114-you-don-t-need-lodash-underscore-native-js-alternatives-eslint-plugin.md.
+
+## [2026-07-21 09:21] ingest | src-2026-07-21-003 | You Don't Need Lodash/Underscore — Native JS Alternatives + ESLint Plugin
+- Created source record at sources/src-2026-07-21-003.md and raw source at raw/articles/2026-07-21-you-don-t-need-lodash-underscore-native-js-alternatives-eslint-plugin.md.
+
+## [2026-07-21 09:21] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-21 09:21] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-21 09:21] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-21 09:22] capture | brrr Push Notification Service — Developer Push Platform
+- Stored pasted content in inbox/paste/2026-07-21-092254-brrr-push-notification-service-developer-push-platform.md.
+
+## [2026-07-21 09:22] ingest | src-2026-07-21-004 | brrr Push Notification Service — Developer Push Platform
+- Created source record at sources/src-2026-07-21-004.md and raw source at raw/articles/2026-07-21-brrr-push-notification-service-developer-push-platform.md.
+
+## [2026-07-21 09:22] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-21 09:22] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-21 09:22] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-21 09:23] capture | brrr API Reference — Webhook Format, Payload, Architecture & Privacy
+- Stored pasted content in inbox/paste/2026-07-21-092339-brrr-api-reference-webhook-format-payload-architecture-privacy.md.
+
+## [2026-07-21 09:23] ingest | src-2026-07-21-005 | brrr API Reference — Webhook Format, Payload, Architecture & Privacy
+- Created source record at sources/src-2026-07-21-005.md and raw source at raw/articles/2026-07-21-brrr-api-reference-webhook-format-payload-architecture-privacy.md.
+
+## [2026-07-21 09:23] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-21 09:23] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-21 09:23] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-21 09:24] capture | LLM Visualization — Interactive 3D Transformer Inference Walkthrough
+- Stored pasted content in inbox/paste/2026-07-21-092457-llm-visualization-interactive-3d-transformer-inference-walkthrough.md.
+
+## [2026-07-21 09:25] capture | Andrej Karpathy — AI Researcher, Educator, OpenAI Founding Member, Tesla AI
+- Stored pasted content in inbox/paste/2026-07-21-092500-andrej-karpathy-ai-researcher-educator-openai-founding-member-tesla-ai.md.
+
+## [2026-07-21 09:25] capture | What Is An LLM? — Beginner's Guide to Large Language Models
+- Stored pasted content in inbox/paste/2026-07-21-092503-what-is-an-llm-beginner-s-guide-to-large-language-models.md.
+
+## [2026-07-21 09:25] capture | Complete Guide to AGENTS.md — Progressive Disclosure for AI Coding Agents
+- Stored pasted content in inbox/paste/2026-07-21-092506-complete-guide-to-agents-md-progressive-disclosure-for-ai-coding-agents.md.
+
+## [2026-07-21 09:25] capture | Hugging Face Agents Course — Unit 1: Fundamentals of AI Agents
+- Stored pasted content in inbox/paste/2026-07-21-092509-hugging-face-agents-course-unit-1-fundamentals-of-ai-agents.md.
+
+## [2026-07-21 09:25] capture | Neural Networks: Zero to Hero — Andrej Karpathy's Deep Learning Course
+- Stored pasted content in inbox/paste/2026-07-21-092514-neural-networks-zero-to-hero-andrej-karpathy-s-deep-learning-course.md.
+
+## [2026-07-21 09:25] ingest | src-2026-07-21-006 | LLM Visualization — Interactive 3D Transformer Inference Walkthrough
+- Created source record at sources/src-2026-07-21-006.md and raw source at raw/articles/2026-07-21-llm-visualization-interactive-3d-transformer-inference-walkthrough.md.
+
+## [2026-07-21 09:25] ingest | src-2026-07-21-007 | Andrej Karpathy — AI Researcher, Educator, OpenAI Founding Member, Tesla AI
+- Created source record at sources/src-2026-07-21-007.md and raw source at raw/articles/2026-07-21-andrej-karpathy-ai-researcher-educator-openai-founding-member-tesla-ai.md.
+
+## [2026-07-21 09:25] ingest | src-2026-07-21-008 | What Is An LLM? — Beginner's Guide to Large Language Models
+- Created source record at sources/src-2026-07-21-008.md and raw source at raw/articles/2026-07-21-what-is-an-llm-beginner-s-guide-to-large-language-models.md.
+
+## [2026-07-21 09:25] ingest | src-2026-07-21-009 | Complete Guide to AGENTS.md — Progressive Disclosure for AI Coding Agents
+- Created source record at sources/src-2026-07-21-009.md and raw source at raw/articles/2026-07-21-complete-guide-to-agents-md-progressive-disclosure-for-ai-coding-agents.md.
+
+## [2026-07-21 09:25] ingest | src-2026-07-21-010 | Hugging Face Agents Course — Unit 1: Fundamentals of AI Agents
+- Created source record at sources/src-2026-07-21-010.md and raw source at raw/articles/2026-07-21-hugging-face-agents-course-unit-1-fundamentals-of-ai-agents.md.
+
+## [2026-07-21 09:25] ingest | src-2026-07-21-011 | Neural Networks: Zero to Hero — Andrej Karpathy's Deep Learning Course
+- Created source record at sources/src-2026-07-21-011.md and raw source at raw/articles/2026-07-21-neural-networks-zero-to-hero-andrej-karpathy-s-deep-learning-course.md.
+
+## [2026-07-21 09:25] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-21 09:25] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-21 09:25] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-21 14:30] capture | react-native-ease — Platform-Native Declarative Animations (App&Flow)
+- Stored pasted content in inbox/paste/2026-07-21-143058-react-native-ease-platform-native-declarative-animations-app-flow.md.
+
+## [2026-07-21 14:30] ingest | src-2026-07-21-012 | react-native-ease — Platform-Native Declarative Animations (App&Flow)
+- Created source record at sources/src-2026-07-21-012.md and raw source at raw/articles/2026-07-21-react-native-ease-platform-native-declarative-animations-app-flow.md.
+
+## [2026-07-21 14:30] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-21 14:30] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-21 14:30] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-21 16:17] capture | How Worklets Bundle Mode accidentally fixed Hermes V1 memory regression
+- Stored pasted content in inbox/paste/2026-07-21-161734-how-worklets-bundle-mode-accidentally-fixed-hermes-v1-memory-regression.md.
+
+## [2026-07-21 16:17] capture | T.J. Żelawski post on Hermes V1 memory regression fix via Worklets Bundle Mode
+- Stored pasted content in inbox/paste/2026-07-21-161737-t-j-elawski-post-on-hermes-v1-memory-regression-fix-via-worklets-bundle-mode.md.
+
+## [2026-07-21 16:17] ingest | src-2026-07-21-013 | How Worklets Bundle Mode accidentally fixed Hermes V1 memory regression
+- Created source record at sources/src-2026-07-21-013.md and raw source at raw/articles/2026-07-21-how-worklets-bundle-mode-accidentally-fixed-hermes-v1-memory-regression.md.
+
+## [2026-07-21 16:17] ingest | src-2026-07-21-014 | T.J. Żelawski post on Hermes V1 memory regression fix via Worklets Bundle Mode
+- Created source record at sources/src-2026-07-21-014.md and raw source at raw/articles/2026-07-21-t-j-elawski-post-on-hermes-v1-memory-regression-fix-via-worklets-bundle-mode.md.
+
+## [2026-07-21 16:17] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-21 16:17] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-21 16:18] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-21 16:18] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-21 16:18] capture | img2threejs — Agent Skill for Image-to-Procedural Three.js Models
+- Stored pasted content in inbox/paste/2026-07-21-161817-img2threejs-agent-skill-for-image-to-procedural-three-js-models.md.
+
+## [2026-07-21 16:18] ingest | src-2026-07-21-015 | img2threejs — Agent Skill for Image-to-Procedural Three.js Models
+- Created source record at sources/src-2026-07-21-015.md and raw source at raw/articles/2026-07-21-img2threejs-agent-skill-for-image-to-procedural-three-js-models.md.
+
+## [2026-07-21 16:18] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-21 16:18] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-21 16:18] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-21 16:23] capture | Anthropic Alignment Science — Distill Paraphrases
+- Captured raw article at raw/articles/2026-07-21-do-reasoning-models-use-their-scratchpad-like-we-do-evidence-from-distilling-paraphrases-src-2026-07-21-016.md.
+
+## [2026-07-21 16:23] ingest | src-2026-07-21-016 | Do reasoning models use their scratchpad like we do?
+- Created source record at sources/src-2026-07-21-016.md and raw source at raw/articles/2026-07-21-do-reasoning-models-use-their-scratchpad-like-we-do-evidence-from-distilling-paraphrases-src-2026-07-21-016.md.
+
+## [2026-07-21 16:28] capture | RSLab — React Native Micro-Interaction Experiments
+- Captured individual lab pages (card-expand, ink-toggle, island).
+
+## [2026-07-21 16:28] ingest | src-2026-07-21-017 | RSLab — React Native Micro-Interaction Experiments
+- Created source record at sources/src-2026-07-21-017.md and raw source at raw/articles/2026-07-21-rselmi-labs-react-native-micro-interaction-experiments-src-2026-07-21-017.md.
+
+## [2026-07-21 16:33] capture | vphone-cli — Boot virtual iPhone via Virtualization.framework
+- Captured README from Lakr233/vphone-cli GitHub repo (7.3k stars).
+
+## [2026-07-21 16:33] ingest | src-2026-07-21-018 | vphone-cli — Boot virtual iPhone
+- Created source record at sources/src-2026-07-21-018.md and raw source at raw/articles/2026-07-21-vphone-cli-boot-virtual-iphone-via-virtualization-framework-src-2026-07-21-018.md.
+
+## [2026-07-21 16:57] ingest | src-2026-07-21-019 | Thinking Orbs — Loading indicators for AI/agent UIs
+- Created source record at sources/src-2026-07-21-019.md and raw source at raw/articles/2026-07-21-thinking-orbs-ai-agent-loading-indicators-src-2026-07-21-019.md.
+- Six hand-tuned animated states (working, searching, solving, listening, composing, shaping) on plain 2D Canvas. By Jakub Antalik (transitions.dev). MIT, 342 stars.
+
+## [2026-07-21 16:57] ingest | src-2026-07-21-020 | World Monitor — Real-time global intelligence dashboard
+- Created source record at sources/src-2026-07-21-020.md and raw source at raw/articles/2026-07-21-worldmonitor-real-time-global-intelligence-dashboard-src-2026-07-21-020.md.
+- 67.2k stars AGPL-3.0 dashboard by Elie Habib. 500+ curated news feeds, CII v8 stress scoring, 29 stock exchanges, MCP server, Tauri 2 desktop app. Full-stack TypeScript + Rust.
+
+## [2026-07-21 16:57] ingest | src-2026-07-21-021 | PenEcho — AI canvas for handwriting, equations, diagrams
+- Created source record at sources/src-2026-07-21-021.md and raw source at raw/articles/2026-07-21-penecho-ai-canvas-for-handwriting-equations-diagrams-src-2026-07-21-021.md.
+- 639 stars AGPL-3.0. Shared 20,000x20,000 canvas. Works with Codex CLI, Claude CLI, or API (OpenAI/Anthropic). Official Kimi Open Source Friend. v0.6.0 with animation scenes.
+
+## [2026-07-21 17:23] ingest | src-2026-07-21-022 | YOLOvX — AI-Powered Visual Checklist for Assembly Lines
+- Created source record at sources/src-2026-07-21-022.md and raw source at raw/articles/2026-07-21-yolovx-ai-powered-visual-checklist-for-assembly-lines-src-2026-07-21-022.md.
+- PoC: real-time object detection (RF-DETR) tracks parts during assembly, auto-updates digital checklist. Work by Patrick Deschere.
+
+## [2026-07-21 17:26] ingest | src-2026-07-21-023 | Deskreen — Turn any device into a secondary screen
+- Created source record at sources/src-2026-07-21-023.md and raw source at raw/articles/2026-07-21-deskreen-turn-any-device-into-secondary-screen-src-2026-07-21-023.md.
+- Electron/WebRTC desktop app by Pavlo Buidenkov. 21.2k★, AGPL-3.0, v3.2.16. Streams screen to any browser device over WiFi. 2M+ downloads.
+
+## [2026-07-21 17:29] ingest | src-2026-07-21-024 | Multiset AI — Query Mode for VPS Localization
+- Created source record at sources/src-2026-07-21-024.md and raw source at raw/articles/2026-07-21-multiset-ai-query-mode-vps-localization-engine-src-2026-07-21-024.md.
+- Two visual positioning engines: vps-1 (fast, ~2s, default) and vps-2 (deep search, ~3-4s, +15% recall). Per-request tradeoff without map changes.
+
+## [2026-07-21 17:35] ingest | src-2026-07-21-025 | LatentMoE — NVIDIA MoE Architecture (arXiv 2601.18089)
+- Created source record at sources/src-2026-07-21-025.md and raw source at raw/articles/2026-07-21-latentmoe-nvidia-moe-architecture-arxiv-2601-18089-src-2026-07-21-025.md.
+- NVIDIA paper: project tokens into latent space before expert routing. α=4 compression, scale N+K by α at iso-cost. ℓ-MoE_acc variant: MMLU Pro 34.91 vs 29.26 baseline at 95B scale. Adopted by Nemotron-3 Super/Ultra. EPM ~1.35×. CC-BY 4.0.
+
+## [2026-07-21 17:37] ingest | src-2026-07-21-026 | Latent-MoE — PyTorch Implementation
+- Created source record at sources/src-2026-07-21-026.md and raw source at raw/articles/2026-07-21-kyegomez-latent-moe-pytorch-implementation-src-2026-07-21-026.md.
+- Single-file dependency-light PyTorch layer by kyegomez. `pip install latent-moe`. Apache-2.0. Supports both "eff" and "acc" variants.
+
+## [2026-07-21 17:50] ingest | src-2026-07-21-027 | QAosMonkey — Exploratory Mobile Testing Agent
+- Created source record at sources/src-2026-07-21-027.md and raw source at raw/articles/2026-07-21-qaosmonkey-exploratory-mobile-testing-agent-src-2026-07-21-027.md.
+- Agent-driven QA tool by schmidi000 (5★, MIT-0). Drives iOS/Android emulators via agent-device + VLM (Codex/Claude/OpenAI/Anthropic). LangGraph state machine, HITL breakpoints for Captcha/OTP/2FA, reproducible bug reports with screenshots & traces. npm: qaosmonkey.
+
+## [2026-07-22 03:11] ingest | src-2026-07-22-001 | react-native-screen-transitions
+
+## [2026-07-22 03:37] capture | src-2026-07-22-002 | Oval Interior Spaces
+- Created source record at sources/src-2026-07-22-002.md and raw source at raw/articles/2026-07-22-oval-interior-superSplat-gaussian-splat-scene-src-2026-07-22-002.md.
+- SuperSplat (PlayCanvas) 3DGS scene by nbvs — Unreal Engine → Gaussian Splats with voxel-based collision for walkable environments. Postshot software, 95.69 MB.
+- Created source record at sources/src-2026-07-22-001.md and raw source at raw/articles/2026-07-22-react-native-screen-transitions-customizable-screen-transitions-src-2026-07-22-001.md.
+- Customizable RN screen transitions by eds2002 (1,571★, MIT, v3.9.0). Gesture-driven, shared element, sheets, Bounds API zoom. Expo Router + React Navigation integration. Featured on React Navigation blog.
+
+## [2026-07-22 04:02] capture | src-2026-07-22-003 | NASA Earthdata
+- Created source record at sources/src-2026-07-22-003.md and raw source at raw/articles/2026-07-22-nasa-earthdata-gateway-earth-observation-data-src-2026-07-22-003.md.
+- NASA ESDS Program portal — 178+ PB archive, 12 DAACs, 10+ science topics, tools (Earthdata Search, Worldview, FIRMS, VEDA, GUARDIAN, Giovanni, AppEEARS). Web Unification Project consolidating all NASA Earth science data sites by end of 2026.
+
+## [2026-07-22 04:30] capture | src-2026-07-22-004 | Towards Automating Eval Engineering
+- Created source record at sources/src-2026-07-22-004.md and raw source at raw/articles/2026-07-22-towards-automating-eval-engineering-langchain-src-2026-07-22-004.md.
+- LangChain Eval Engineering Skill by Vivek Trivedy. Skill inspects agent surface, mines traces, interviews user, outputs Harbor evals. Cross-linked to "Anatomy of an Agent Harness" (src-2026-06-22-004). X post: 105.3K views.
+
+## [2026-07-22 05:01] capture | src-2026-07-22-005 | Codex Slides
+- Created source record at sources/src-2026-07-22-005.md and raw source at raw/articles/2026-07-22-codex-slides-ai-slide-studio-inside-codex-src-2026-07-22-005.md.
+- Open-source AI slide studio inside Codex by nexu-io (180★, MIT). 45 deck templates + 73 community styles + 24 scenarios. Fast parallel rendering (10+ slides/~4-5 min). Exports PPTX/PDF. Browser-first, zero extra API keys. 38 MCP tools.
+
+## [2026-07-22 05:02] capture | src-2026-07-22-006 | Rams Design Quality Engine
+- Created source record at sources/src-2026-07-22-006.md and raw source at raw/articles/2026-07-22-rams-ai-design-quality-engine-src-2026-07-22-006.md.
+- Rams is a design quality engine that reviews UI on every PR: 258 rules, 8 specialist reviewers, scores 0-100. Ships as free Skill (77,938 installs), MCP, or GitHub App. Pricing: Free → $499/mo. Supports React/Next.js/SwiftUI/Vue/Svelte/Angular/Tailwind.
+- Note: original URL http://rams.ai/scores did not resolve via webfetch; content retrieved via websearch instead.
+
+## [2026-07-22 05:03] capture | src-2026-07-22-007 | Firecrawl Most Accurate Search
+- Created source record at sources/src-2026-07-22-007.md and raw source at raw/articles/2026-07-22-firecrawl-most-accurate-search-yet-src-2026-07-22-007.md.
+- Firecrawl shipped a custom relevance model for /search: 94.7% on SimpleQA (SOTA), 10x fewer tokens, zero code changes. Blog by Eric Ciarla, published today. Evaluated against Exa, Claude native search with GPT-5.4 agent on 4,326 questions.
+
+## [2026-07-22 05:04] capture | src-2026-07-22-008 | No AI Slop
+- Created source record at sources/src-2026-07-22-008.md and raw source at raw/articles/2026-07-22-no-ai-slop-skill-petergyang-src-2026-07-22-008.md.
+- Skill by petergyang that removes 20+ patterns of AI slop from writing. Detects binary contrasts, throat-clearing openers, faux-insight setups, weasel attribution, etc. MIT, 1.1K★, 90 forks. Includes SKILL.md + eval.md. Installable in Claude Code/Codex.
+
+## [2026-07-22 05:05] capture | src-2026-07-22-009 | No AI Slop Announcement (Peter Yang Substack)
+- Created source record at sources/src-2026-07-22-009.md and raw source at raw/articles/2026-07-22-no-ai-slop-announcement-peter-yang-src-2026-07-22-009.md.
+- Peter Yang's Substack post announcing /no-ai-slop skill. Introduced 25/50/50 rule for AI editing (human first draft → AI polish → human final pass). Listed 10 slop patterns. Argues slop hurts trust. Related to src-2026-07-22-008.
+
+## [2026-07-22 05:06] capture | src-2026-07-22-010 | LangChain Eval Engineering Skill (Official SKILL.md)
+- Created source record at sources/src-2026-07-22-010.md and raw source at raw/articles/2026-07-22-langchain-eval-engineering-skill-src-2026-07-22-010.md.
+- Official LangChain eval-engineering skill from langchain-skills repo (934★, 79 forks). 6-step iterative workflow (map → propose → approve → build → run → review). 5 reference docs. Related to src-2026-07-22-004.
+
+## [2026-07-22 05:07] capture | src-2026-07-22-011 | Harbor Eval Framework
+- Created source record at sources/src-2026-07-22-011.md and raw source at raw/articles/2026-07-22-harbor-eval-framework-src-2026-07-22-011.md.
+- Harbor is the agent eval framework from Terminal-Bench creators. 3.4K★, 1.4K forks, Apache-2.0, v0.20.0. Core concepts: Task/Dataset/Agent/Container/Trial/Job. 10 cloud sandbox providers. Pre-integrates Claude Code, OpenHands, Codex CLI. Official harness for Terminal-Bench-2.0. Related to src-2026-07-22-004 & src-2026-07-22-010.
+
+## [2026-07-22 05:08] capture | src-2026-07-22-012 | Meta-Harness / Don't Train the Model
+- Created source record at sources/src-2026-07-22-012.md and raw source at raw/articles/2026-07-22-meta-harness-dont-train-model-src-2026-07-22-012.md.
+- Joel Niklaus (HF) interactive demo applying Meta-Harness to Harvey's Legal Agent Benchmark. DeepSeek-V4-Pro frozen → 3.5%–80.1% across 5 harnesses (76-point gap). 22 auto-iterations matched Claude Sonnet 4.6 at 1/7 cost. Meta-Harness paper (Lee et al., Stanford/KRAFTON/MIT): filesystem-based harness optimization, 10M tok/step context. TB2: #1 Haiku 4.5 (37.6%), #2 Opus 4.6 (76.4%). Text classification +7.7pp, math +4.7pp. Related to Karpathy's Loop Engineering (700 auto-iterations). Related to src-2026-07-22-011 (Harbor).
+
+## [2026-07-22 05:09] capture | src-2026-07-22-013 | Graph Engineering with Claude
+- Created source record at sources/src-2026-07-22-013.md and raw source at raw/articles/2026-07-22-graph-engineering-claude-codez-src-2026-07-22-013.md.
+- Codez/Lev Deviatkin viral course: "Graph Engineering with Claude: 14-Step roadmap from 0 to graph architect." 1.3M+ views. Covers node/edge design, schema contracts, fan-out/in, code routing, verifier subgraphs, model tiering, dynamic workflows. Core: 9/10 multi-step agents are needlessly linear. Related to loop engineering (previous Codez article, 1.7M views) and Meta-Harness (src-2026-07-22-012).
+
+## [2026-07-22 05:10] capture | src-2026-07-22-014 | 10 GitHub repos too good to be free
+- Created source record at sources/src-2026-07-22-014.md and raw source at raw/articles/2026-07-22-10-github-repos-free-divyansh-src-2026-07-22-014.md.
+- Divyansh Tiwari curated list (11.7K views): OmniRoute (231 AI providers, 50+ free-tier), OfficeCLI (AI office suite), System Prompts Leaks, OpenCut, AI Job Search, Meetily (Rust+Whisper+Ollama), Vibe-Trading, Strix scanner, Superpower (250K★), Firecrawl. 2 already in vault (Firecrawl src-2026-07-22-007, OpenCut src-2026-05-18-001), 8 new.
+
+## [2026-07-23 00:00] ingest | src-2026-07-23-001 | From Loop Engineering to Graph Engineering? (Carlos E. Perez)
+- Created source record at sources/src-2026-07-23-001.md and raw source at raw/articles/2026-07-23-loop-engineering-to-graph-engineering-carlos-perez-src-2026-07-23-001.md.
+- Carlos E. Perez (@IntuitMachine) viral Medium essay (1.1M views, retweeted by a Turing Award winner). Argues the AI agent field is shifting from single-loop improvement cycles to graph-of-loops architectures. Covers Goodhart's law, blindness upward, loop conflict, measurement decay, paired metrics, audit loops, anchors, and grounded vs. ungrounded improvement. Cross-linked to src-2026-07-22-012 (Meta-Harness), src-2026-07-22-013 (Graph Engineering with Claude), src-2026-07-22-010 (LangChain Eval Engineering), and src-2026-07-22-011 (Harbor Eval Framework).
+
+## [2026-07-23 00:00] ingest | src-2026-07-23-002 | Buzz — Block's open-source team chat with AI agents (Jack Dorsey)
+- Created source record at sources/src-2026-07-23-002.md and raw source at raw/articles/2026-07-23-buzz-block-jack-dorsey-src-2026-07-23-002.md.
+- Jack Dorsey's Block launched Buzz (July 21, 2026), an open-source group chat platform that merges team chat, Git hosting, and AI agents into one Nostr-signed workspace. v0.4.21, Apache 2.0. Each human and AI agent gets a cryptographic identity with permissions. Competitors: Centaur (Paradigm), Anthropic hiring Zulip leadership. Key open problem: multiplayer agent permission model. Cross-linked to src-2026-07-23-001 (loop→graph shift), src-2026-06-22-002 (agent harnesses), and src-2026-07-20-007 (Akarso agent accounts).
+
+## [2026-07-23 04:40] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-23 04:40] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-23 04:45] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-23 04:45] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-23 05:49] ingest | src-2026-07-23-003 | How to master graph engineering (Full Course) — Machina (@EXM7777)
+- Created source record at sources/src-2026-07-23-003.md and raw source at raw/articles/2026-07-23-graph-engineering-full-course-machina-src-2026-07-23-003.md.
+- Full course on graph engineering via X Articles (268.9K views, Jul 22, 2026). Covers: what a graph is, the one pattern that pays for itself, the stop rule, and 3 builds (research desk, SEO content machine, go-to-market kit). Core framing: "a graph is a plan for your AI work, drawn out so you can see it." Machina (127K followers) runs weeklyaiops.com community. Cross-linked to src-2026-07-22-013 (Codez graph engineering), src-2026-07-23-001 (Perez loop→graph), src-2026-07-22-010/011 (evaluation).
+
+## [2026-07-23 05:49] ingest | src-2026-07-23-004 | Experience Memory Graph: One-Shot Error Correction for Agents (UESTC, KDD '27)
+- Created source record at sources/src-2026-07-23-004.md and raw source at raw/articles/2026-07-23-experience-memory-graph-uestc-kdd27-src-2026-07-23-004.md.
+- Full paper (arXiv:2607.13884, Jul 15, 2026) by Wenjun Wang et al., UESTC. Reformulates agent failure recovery as graph matching between failed exploration and expert trajectories. Converts trajectories into directed action decision graphs, extracts common subgraphs (successful workflows) and graph edit paths (correction instructions), stores in a memory graph with intra-task nodes and cross-task edges. One-shot test-time inference without iterative reflection. SOTA on ALFWorld (96.43/97.76 seen/unseen SR with DS-V4-Flash) and ScienceWorld (28.87/24.17). Cross-linked to src-2026-07-22-013 (Codez), src-2026-07-23-001 (Perez), src-2026-07-23-003 (Machina), src-2026-07-22-012 (Meta-Harness), src-2026-07-22-010/011 (evaluation).
+
+## [2026-07-23 05:49] ingest | src-2026-07-23-005 | expo-glass-tabs — Floating liquid-glass tab bar (David Mokos)
+- Created source record at sources/src-2026-07-23-005.md and raw source at raw/articles/2026-07-23-expo-glass-tabs-david-mokos-src-2026-07-23-005.md.
+- Pure TypeScript Expo package rebuilding iOS 26 Revolut-style liquid-glass tab bar on Expo Router headless tabs. Features: UIGlassEffect materials, minimize-on-scroll, sliding highlight (transform-only spring), finger scrubbing with haptics, progressive edge blur, UI-thread animations via Reanimated worklets. 26★, MIT, no custom native code. Cross-linked to src-2026-07-12-008 (maazjnr liquidglass).
+
+## [2026-07-23 05:49] ingest | src-2026-07-23-006 | train-llm-from-scratch — End-to-end LLM training (Fareed Khan)
+- Created source record at sources/src-2026-07-23-006.md and raw source at raw/articles/2026-07-23-train-llm-from-scratch-fareed-khan-src-2026-07-23-006.md.
+- Full from-scratch LLM training pipeline in plain PyTorch (8.5K★, 1.2K forks, MIT). Covers: tokenization (r50k_base), Transformer from Attention Is All You Need, pretraining on The Pile (77M base, loss 3.76 on dev), SFT, reward model (Bradley-Terry), DPO/ORPO/KTO, PPO (GAE), GRPO (DeepSeek-R1 style, group-relative advantage). All algorithms hand-written, no trl/peft/transformers. Config: JSON per stage + CLI overrides. Streamlit UI + mkdocs docs.
+
+## [2026-07-23 05:49] ingest | src-2026-07-23-007 | Firecrawl — Web data API for AI agents (open-source repo)
+- Created source record at sources/src-2026-07-23-007.md and raw source at raw/articles/2026-07-23-firecrawl-repo-src-2026-07-23-007.md.
+
+## [2026-07-23 05:49] ingest | src-2026-07-23-008 | Crawl4AI — Open-source LLM Friendly Web Crawler & Scraper (unclecode)
+- Created source record at sources/src-2026-07-23-008.md and raw source at raw/articles/2026-07-23-crawl4ai-unclecode-src-2026-07-23-008.md.
+- 74.3K★, Apache-2.0, Python-native web crawler turned web pages into clean, LLM-ready Markdown. Built by unclecode in "turbo anger mode" after being charged $16 for a web-to-markdown tool. Features: Clean/Fit Markdown with citations, LLM-driven extraction, CSS extraction, multi-browser (Chromium/Firefox/WebKit), Docker with monitoring dashboard, anti-bot detection, MCP integration. Cross-linked to src-2026-07-23-007 (Firecrawl).
+
+## [2026-07-23 05:49] ingest | src-2026-07-23-009 | browser-use — Make websites accessible for AI agents
+- Created source record at sources/src-2026-07-23-009.md and raw source at raw/articles/2026-07-23-browser-use-src-2026-07-23-009.md.
+- 106K★, MIT, Python/Playwright-based AI agent browser control library. #1 on Odysseys leaderboard (87.4%). Authors: Magnus Müller, Gregor Žunič. ChatBrowserUse LLM abstraction, skill system (`browser-use skill install`), Cloud API for production. Cross-linked to src-2026-07-23-007 (Firecrawl) and src-2026-07-23-008 (Crawl4AI).
+
+## [2026-07-23 05:49] ingest | src-2026-07-23-010 | Crawlee — Web scraping & browser automation for Node.js (Apify)
+- Created source record at sources/src-2026-07-23-010.md and raw source at raw/articles/2026-07-23-crawlee-apify-src-2026-07-23-010.md.
+- 24.9K★, Apache-2.0, Node.js web scraping framework by Apify. HTTP + headless browser crawling with single interface. Playwright, Puppeteer, Cheerio, JSDOM support. Persistent queues, proxy rotation, automatic scaling, TLS fingerprinting. v3.17.0, 5,390 commits. Cross-linked to src-2026-07-23-008 (Crawl4AI), src-2026-07-23-007 (Firecrawl), src-2026-05-23-002 (Scrapling).
+
+## [2026-07-23 05:49] ingest | src-2026-07-23-011 | Scrapy — Fast high-level web crawling & scraping framework for Python
+- Created source record at sources/src-2026-07-23-011.md and raw source at raw/articles/2026-07-23-scrapy-scrapy-src-2026-07-23-011.md.
+- 63.3K★, BSD-3-Clause, battle-tested Python web scraping framework maintained by Zyte (formerly Scrapinghub). 15+ years old, 11,220 commits. v2.17.0 (Jul 7, 2026). Async Twisted event loop, CSS/XPath selectors, item pipelines, middlewares, built-in exports. Cross-linked to Crawl4AI, Crawlee, Scrapling.
+
+## [2026-07-23 05:49] ingest | src-2026-07-23-012 | MarkItDown — Python tool for converting files & office documents to Markdown (Microsoft)
+- Created source record at sources/src-2026-07-23-012.md and raw source at raw/articles/2026-07-23-markitdown-microsoft-src-2026-07-23-012.md.
+- 168K★, MIT, Microsoft AutoGen Team's lightweight Python utility for file→Markdown conversion for LLMs. PDF, Office, images (OCR), audio (transcription), HTML, YouTube, EPUB. Plugin system with markitdown-ocr. Azure Document Intelligence + Content Understanding integrations. v0.1.6, 312 commits. Cross-linked to Crawl4AI, olmOCR.
+
+## [2026-07-23 06:45] ingest | src-2026-07-23-013 | scrcpy — Display and control Android devices (Genymobile / Romain Vimont)
+- Created source record at sources/src-2026-07-23-013.md and raw source at raw/articles/2026-07-23-scrcpy-genymobile-src-2026-07-23-013.md.
+- 146K★, 13.5K forks, Apache-2.0, Android screen mirroring and control over USB/TCP/IP. No root, no app install. C (63.1%), Java (32.7%). v4.1 (Jul 12, 2026), 3,139 commits, 52 releases. Audio forwarding (11+), camera mirroring (12+), virtual display, V4L2 webcam, HID keyboard/mouse/gamepad, OTG mode. Maintained by Romain Vimont (@rom1v). Cross-platform: Linux, Windows, macOS.
+
+## [2026-07-23 06:50] ingest | src-2026-07-23-014 | AutoScraper — Smart, automatic web scraper for Python (Alireza Mika)
+- Created source record at sources/src-2026-07-23-014.md and raw source at raw/articles/2026-07-23-autoscraper-alirezamika-src-2026-07-23-014.md.
+- 7.7K★, 788 forks, MIT, Python. Learns scraping rules by example (provide sample data, it deduces DOM patterns). No CSS/XPath writing needed. `get_result_similar` and `get_result_exact` modes. Save/load models. Lightweight, zero ML/LLM dependencies. Dormant since v1.1.14 (Jul 2022), 147 commits. Cross-linked to Scraping toolchain cluster (Crawl4AI, browser-use, Crawlee, Scrapy, Scrapling).
+
+## [2026-07-23 06:55] ingest | src-2026-07-23-015 | curl-impersonate — Special build of curl that impersonates Chrome, Edge, Safari & Firefox (lwthiker)
+- Created source record at sources/src-2026-07-23-015.md and raw source at raw/articles/2026-07-23-curl-impersonate-lwthiker-src-2026-07-23-015.md.
+- 6.6K★, 528 forks, MIT. Patches curl to produce TLS/HTTP/2 handshakes identical to real browsers. Two builds: BoringSSL (Chrome/Edge/Safari) and nss (Firefox). 20+ browser profiles (Chrome 99–116, Firefox 91ESR–117, Edge, Safari). Libcurl library with LD_PRELOAD support. v0.6.1 (Mar 2024), 270 commits. Foundation anti-bot tool for the scraping toolchain. Cross-linked to Scrapling, Crawl4AI, Crawlee, Scrapy, browser-use.
+
+## [2026-07-23 07:00] ingest | src-2026-07-23-016 | Graph Engineering — How to Run 1,000 AI Agents in Parallel From One Prompt (@0xWast3)
+- Created source record at sources/src-2026-07-23-016.md and raw source at raw/articles/2026-07-23-graph-engineering-1000-agents-parallel-0xwast3-src-2026-07-23-016.md.
+- Long-form X article on graph-based multi-agent orchestration. Core claim: bottleneck is execution topology, not model capability. Edge test (does next step read previous output?) separates real dependencies from wasted waits. 40-node chain = ~5min, same work as graph = ~15s (~20x speedup). Three failure modes: context collapse, false independence, silent node failure. Cross-linked to src-2026-07-23-001 (Perez) and src-2026-07-23-003 (Machina course).
+
+## [2026-07-23 07:05] ingest | src-2026-07-23-017 | The 14-Step Graph Engineering Roadmap (@0xCodez)
+- Created source record at sources/src-2026-07-23-017.md and raw source at raw/articles/2026-07-23-graph-engineering-14-step-roadmap-0xcodez-src-2026-07-23-017.md.
+- Long-form X article — 14-step roadmap for converting linear agents into graph-based coordinated fleets via Claude Code Dynamic Workflows. Covers: node contracts, data edges, parallel() fan-out, fan-in barriers, diamond topology, runtime routing, verifier patterns (adversarial/perspective-diverse/judge panel), isolation, convergent cycles (dedupe vs seen), model tiering, parallel vs pipeline topology cost, self-routing workflows. Strong companion to src-2026-07-23-016 (@0xWast3). Part of graph engineering cluster: src-2026-07-23-001, src-2026-07-23-003, src-2026-07-23-016.
+
+## [2026-07-24 06:08] ingest | src-2026-07-24-001 | 2026-07-23-10-agent-evals-for-ai-engineers
+- Created source record at sources/src-2026-07-24-001.md and raw source at raw/articles/2026-07-24-2026-07-23-10-agent-evals-for-ai-engineers.md.
+
+## [2026-07-24 06:08] ingest | src-2026-07-24-002 | 2026-07-23-almonk-quality-software-definition
+- Created source record at sources/src-2026-07-24-002.md and raw source at raw/articles/2026-07-24-2026-07-23-almonk-quality-software-definition.md.
+
+## [2026-07-24 06:08] ingest | src-2026-07-24-003 | 2026-07-23-cia-reading-improvement-course-1955
+- Created source record at sources/src-2026-07-24-003.md and raw source at raw/articles/2026-07-24-2026-07-23-cia-reading-improvement-course-1955.md.
+
+## [2026-07-24 06:08] ingest | src-2026-07-24-004 | 2026-07-23-deepmind-scaling-agent-systems-arxiv-2512-08296
+- Created source record at sources/src-2026-07-24-004.md and raw source at raw/articles/2026-07-24-2026-07-23-deepmind-scaling-agent-systems-arxiv-2512-08296.md.
+
+## [2026-07-24 06:08] ingest | src-2026-07-24-005 | 2026-07-23-exa-publications-search-blog
+- Created source record at sources/src-2026-07-24-005.md and raw source at raw/articles/2026-07-24-2026-07-23-exa-publications-search-blog.md.
+
+## [2026-07-24 06:08] ingest | src-2026-07-24-006 | 2026-07-23-structured-output-collapses-answer-diversity-arxiv-2607-18476
+- Created source record at sources/src-2026-07-24-006.md and raw source at raw/articles/2026-07-24-2026-07-23-structured-output-collapses-answer-diversity-arxiv-2607-18476.md.
+
+## [2026-07-24 06:08] ingest | src-2026-07-24-007 | 2026-07-23-workbench-agent-team-hq-doc
+- Created source record at sources/src-2026-07-24-007.md and raw source at raw/articles/2026-07-24-2026-07-23-workbench-agent-team-hq-doc.md.
+
+## [2026-07-24 06:08] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-24 06:08] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-24 06:10] ingest | src-2026-07-24-008 | 2026-07-24-thymikee-3-minutes-agent-9-seconds-replay
+- Created source record at sources/src-2026-07-24-008.md and raw source at raw/articles/2026-07-24-2026-07-24-thymikee-3-minutes-agent-9-seconds-replay.md.
+
+## [2026-07-24 06:10] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-24 06:10] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-24 06:11] ingest | src-2026-07-24-009 | 2026-07-24-swmansion-hermes-v1-memory-regression-worklets-bundle-mode
+- Created source record at sources/src-2026-07-24-009.md and raw source at raw/articles/2026-07-24-2026-07-24-swmansion-hermes-v1-memory-regression-worklets-bundle-mode.md.
+
+## [2026-07-24 06:11] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-24 06:11] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-24 06:13] ingest | src-2026-07-24-010 | 2026-07-24-leerob-understanding-ai-how-we-teach-ai-models
+- Created source record at sources/src-2026-07-24-010.md and raw source at raw/articles/2026-07-24-2026-07-24-leerob-understanding-ai-how-we-teach-ai-models.md.
+
+## [2026-07-24 06:13] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-24 06:13] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-24 06:14] ingest | src-2026-07-24-011 | 2026-07-24-sentient-10-free-tools-old-laptop-faster
+- Created source record at sources/src-2026-07-24-011.md and raw source at raw/articles/2026-07-24-2026-07-24-sentient-10-free-tools-old-laptop-faster.md.
+
+## [2026-07-24 06:14] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-24 06:14] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-24 06:35] capture | react-native-canvas-kit
+- Stored pasted content in inbox/paste/2026-07-24-063533-react-native-canvas-kit.md.
+
+## [2026-07-24 06:35] ingest | src-2026-07-24-012 | react-native-canvas-kit
+- Created source record at sources/src-2026-07-24-012.md and raw source at raw/articles/2026-07-24-react-native-canvas-kit.md.
+
+## [2026-07-24 06:35] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-24 06:35] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-24 06:36] capture | unstract
+- Stored pasted content in inbox/paste/2026-07-24-063603-unstract.md.
+
+## [2026-07-24 06:36] ingest | src-2026-07-24-013 | unstract
+- Created source record at sources/src-2026-07-24-013.md and raw source at raw/articles/2026-07-24-unstract.md.
+
+## [2026-07-24 06:36] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-24 06:36] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-24 06:36] capture | 10 agent evals for AI engineers
+- Stored pasted content in inbox/paste/2026-07-24-063620-10-agent-evals-for-ai-engineers.md.
+
+## [2026-07-24 06:36] ingest | src-2026-07-24-014 | 10 agent evals for AI engineers
+- Created source record at sources/src-2026-07-24-014.md and raw source at raw/articles/2026-07-24-10-agent-evals-for-ai-engineers.md.
+
+## [2026-07-24 06:36] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-24 06:36] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-24 06:36] capture | DeepMind agent teams research
+- Stored pasted content in inbox/paste/2026-07-24-063641-deepmind-agent-teams-research.md.
+
+## [2026-07-24 06:36] ingest | src-2026-07-24-015 | DeepMind agent teams research
+- Created source record at sources/src-2026-07-24-015.md and raw source at raw/articles/2026-07-24-deepmind-agent-teams-research.md.
+
+## [2026-07-24 06:36] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-24 06:36] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-24 06:37] capture | 8 ways to cut your agent bill
+- Stored pasted content in inbox/paste/2026-07-24-063708-8-ways-to-cut-your-agent-bill.md.
+
+## [2026-07-24 06:37] ingest | src-2026-07-24-016 | 8 ways to cut your agent bill
+- Created source record at sources/src-2026-07-24-016.md and raw source at raw/articles/2026-07-24-8-ways-to-cut-your-agent-bill.md.
+
+## [2026-07-24 06:37] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-24 06:37] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-24 06:37] capture | CIA Reading Improvement Course
+- Stored pasted content in inbox/paste/2026-07-24-063724-cia-reading-improvement-course.md.
+
+## [2026-07-24 06:37] ingest | src-2026-07-24-017 | CIA Reading Improvement Course
+- Created source record at sources/src-2026-07-24-017.md and raw source at raw/articles/2026-07-24-cia-reading-improvement-course.md.
+
+## [2026-07-24 06:37] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-24 06:37] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-24 06:37] capture | mysigmail
+- Stored pasted content in inbox/paste/2026-07-24-063752-mysigmail.md.
+
+## [2026-07-24 06:37] ingest | src-2026-07-24-018 | mysigmail
+- Created source record at sources/src-2026-07-24-018.md and raw source at raw/articles/2026-07-24-mysigmail.md.
+
+## [2026-07-24 06:37] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-24 06:37] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-24 06:38] capture | agent-device replay and e2e testing
+- Stored pasted content in inbox/paste/2026-07-24-063818-agent-device-replay-and-e2e-testing.md.
+
+## [2026-07-24 06:38] ingest | src-2026-07-24-019 | agent-device replay and e2e testing
+- Created source record at sources/src-2026-07-24-019.md and raw source at raw/articles/2026-07-24-agent-device-replay-and-e2e-testing.md.
+
+## [2026-07-24 06:38] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-24 06:38] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-24 06:39] capture | Prompt Caching In Agents - Earendil
+- Stored pasted content in inbox/paste/2026-07-24-063914-prompt-caching-in-agents-earendil.md.
+
+## [2026-07-24 06:39] ingest | src-2026-07-24-020 | Prompt Caching In Agents - Earendil
+- Created source record at sources/src-2026-07-24-020.md and raw source at raw/articles/2026-07-24-prompt-caching-in-agents-earendil.md.
+
+## [2026-07-24 06:39] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-24 06:39] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-24 06:39] capture | Native Bloom
+- Stored pasted content in inbox/paste/2026-07-24-063952-native-bloom.md.
+
+## [2026-07-24 06:40] ingest | src-2026-07-24-021 | Native Bloom
+- Created source record at sources/src-2026-07-24-021.md and raw source at raw/articles/2026-07-24-native-bloom.md.
+
+## [2026-07-24 06:40] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-24 06:40] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-24 06:40] capture | graph-engineering
+- Stored pasted content in inbox/paste/2026-07-24-064044-graph-engineering.md.
+
+## [2026-07-24 06:40] ingest | src-2026-07-24-022 | graph-engineering
+- Created source record at sources/src-2026-07-24-022.md and raw source at raw/articles/2026-07-24-graph-engineering.md.
+
+## [2026-07-24 06:40] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-24 06:40] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-24 06:41] capture | SEU Knowledge Graph Course
+- Stored pasted content in inbox/paste/2026-07-24-064120-seu-knowledge-graph-course.md.
+
+## [2026-07-24 06:41] ingest | src-2026-07-24-023 | SEU Knowledge Graph Course
+- Created source record at sources/src-2026-07-24-023.md and raw source at raw/articles/2026-07-24-seu-knowledge-graph-course.md.
+
+## [2026-07-24 06:41] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-24 06:41] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-24 06:41] capture | Gemini Android Computer Use Quickstart
+- Stored pasted content in inbox/paste/2026-07-24-064159-gemini-android-computer-use-quickstart.md.
+
+## [2026-07-24 06:42] ingest | src-2026-07-24-024 | Gemini Android Computer Use Quickstart
+- Created source record at sources/src-2026-07-24-024.md and raw source at raw/articles/2026-07-24-gemini-android-computer-use-quickstart.md.
+
+## [2026-07-24 06:42] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-24 06:42] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-24 06:45] capture | Gemini Computer Use API docs
+- Stored pasted content in inbox/paste/2026-07-24-064503-gemini-computer-use-api-docs.md.
+
+## [2026-07-24 06:45] ingest | src-2026-07-24-025 | Gemini Computer Use API docs
+- Created source record at sources/src-2026-07-24-025.md and raw source at raw/articles/2026-07-24-gemini-computer-use-api-docs.md.
+
+## [2026-07-24 06:45] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-24 06:45] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-24 06:45] capture | Email SDK by opencoredev
+- Stored pasted content in inbox/paste/2026-07-24-064551-email-sdk-by-opencoredev.md.
+
+## [2026-07-24 06:45] ingest | src-2026-07-24-026 | Email SDK by opencoredev
+- Created source record at sources/src-2026-07-24-026.md and raw source at raw/articles/2026-07-24-email-sdk-by-opencoredev.md.
+
+## [2026-07-24 06:45] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-24 06:45] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-24 06:46] capture | Bento - office suite that fits in a file
+- Stored pasted content in inbox/paste/2026-07-24-064642-bento-office-suite-that-fits-in-a-file.md.
+
+## [2026-07-24 06:46] ingest | src-2026-07-24-027 | Bento - office suite that fits in a file
+- Created source record at sources/src-2026-07-24-027.md and raw source at raw/articles/2026-07-24-bento-office-suite-that-fits-in-a-file.md.
+
+## [2026-07-24 06:46] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-24 06:46] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-24 06:47] capture | SendLib
+- Stored pasted content in inbox/paste/2026-07-24-064742-sendlib.md.
+
+## [2026-07-24 06:47] ingest | src-2026-07-24-028 | SendLib
+- Created source record at sources/src-2026-07-24-028.md and raw source at raw/articles/2026-07-24-sendlib.md.
+
+## [2026-07-24 06:47] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-24 06:47] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-24 08:36] capture | Canvas UI
+- Stored pasted content in inbox/paste/2026-07-24-083609-canvas-ui.md.
+
+## [2026-07-24 08:36] ingest | src-2026-07-24-029 | Canvas UI
+- Created source record at sources/src-2026-07-24-029.md and raw source at raw/articles/2026-07-24-canvas-ui.md.
+
+## [2026-07-24 08:36] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-24 08:36] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-24 08:36] capture | Inshellisense
+- Stored pasted content in inbox/paste/2026-07-24-083644-inshellisense.md.
+
+## [2026-07-24 08:36] ingest | src-2026-07-24-030 | Inshellisense
+- Created source record at sources/src-2026-07-24-030.md and raw source at raw/articles/2026-07-24-inshellisense.md.
+
+## [2026-07-24 08:36] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-24 08:36] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-24 08:37] capture | Canvas UI Website
+- Stored pasted content in inbox/paste/2026-07-24-083710-canvas-ui-website.md.
+
+## [2026-07-24 08:37] ingest | src-2026-07-24-031 | Canvas UI Website
+- Created source record at sources/src-2026-07-24-031.md and raw source at raw/articles/2026-07-24-canvas-ui-website.md.
+
+## [2026-07-24 08:37] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-24 08:37] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-24 08:37] capture | UniSE Speech Enhancement
+- Stored pasted content in inbox/paste/2026-07-24-083732-unise-speech-enhancement.md.
+
+## [2026-07-24 08:37] ingest | src-2026-07-24-032 | UniSE Speech Enhancement
+- Created source record at sources/src-2026-07-24-032.md and raw source at raw/articles/2026-07-24-unise-speech-enhancement.md.
+
+## [2026-07-24 08:37] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-24 08:37] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-24 08:38] capture | Expo Blog - Deferred Deep Linking the Right Way
+- Stored pasted content in inbox/paste/2026-07-24-083807-expo-blog-deferred-deep-linking-the-right-way.md.
+
+## [2026-07-24 08:38] ingest | src-2026-07-24-033 | Expo Blog - Deferred Deep Linking the Right Way
+- Created source record at sources/src-2026-07-24-033.md and raw source at raw/articles/2026-07-24-expo-blog-deferred-deep-linking-the-right-way.md.
+
+## [2026-07-24 08:38] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-24 08:38] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-24 08:38] capture | AMD DML Shim
+- Stored pasted content in inbox/paste/2026-07-24-083829-amd-dml-shim.md.
+
+## [2026-07-24 08:38] ingest | src-2026-07-24-034 | AMD DML Shim
+- Created source record at sources/src-2026-07-24-034.md and raw source at raw/articles/2026-07-24-amd-dml-shim.md.
+
+## [2026-07-24 08:38] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-24 08:38] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-24 08:38] capture | OpenFPM 5.2.0 PR - Metal GPU Backend
+- Stored pasted content in inbox/paste/2026-07-24-083854-openfpm-5-2-0-pr-metal-gpu-backend.md.
+
+## [2026-07-24 08:38] ingest | src-2026-07-24-035 | OpenFPM 5.2.0 PR - Metal GPU Backend
+- Created source record at sources/src-2026-07-24-035.md and raw source at raw/articles/2026-07-24-openfpm-5-2-0-pr-metal-gpu-backend.md.
+
+## [2026-07-24 08:38] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-24 08:38] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-24 08:53] capture | RNRepo - React Native Pre-Built Artifacts
+- Stored pasted content in inbox/paste/2026-07-24-085336-rnrepo-react-native-pre-built-artifacts.md.
+
+## [2026-07-24 08:53] ingest | src-2026-07-24-036 | RNRepo - React Native Pre-Built Artifacts
+- Created source record at sources/src-2026-07-24-036.md and raw source at raw/articles/2026-07-24-rnrepo-react-native-pre-built-artifacts.md.
+
+## [2026-07-24 08:53] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-24 08:53] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-24 09:03] capture | React Native Enriched HTML - Product Site
+- Stored pasted content in inbox/paste/2026-07-24-090342-react-native-enriched-html-product-site.md.
+
+## [2026-07-24 09:03] ingest | src-2026-07-24-037 | React Native Enriched HTML - Product Site
+- Created source record at sources/src-2026-07-24-037.md and raw source at raw/articles/2026-07-24-react-native-enriched-html-product-site.md.
+
+## [2026-07-24 09:03] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-24 09:03] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-24 09:04] capture | Interactive Textbook Specs
+- Stored pasted content in inbox/paste/2026-07-24-090403-interactive-textbook-specs.md.
+
+## [2026-07-24 09:04] ingest | src-2026-07-24-038 | Interactive Textbook Specs
+- Created source record at sources/src-2026-07-24-038.md and raw source at raw/articles/2026-07-24-interactive-textbook-specs.md.
+
+## [2026-07-24 09:04] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-24 09:04] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-24 19:29] capture | Arpit - CSS Chip Removal Transition
+- Stored pasted content in inbox/paste/2026-07-24-192910-arpit-css-chip-removal-transition.md.
+
+## [2026-07-24 19:29] ingest | src-2026-07-24-039 | Arpit - CSS Chip Removal Transition
+- Created source record at sources/src-2026-07-24-039.md and raw source at raw/articles/2026-07-24-arpit-css-chip-removal-transition.md.
+
+## [2026-07-24 19:29] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-24 19:29] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-24 19:39] capture | Google Magika - AI File Type Detection
+- Stored pasted content in inbox/paste/2026-07-24-193923-google-magika-ai-file-type-detection.md.
+
+## [2026-07-24 19:39] ingest | src-2026-07-24-040 | Google Magika - AI File Type Detection
+- Created source record at sources/src-2026-07-24-040.md and raw source at raw/articles/2026-07-24-google-magika-ai-file-type-detection.md.
+
+## [2026-07-24 19:39] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-24 19:39] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-24 19:39] capture | Bifrost - Enterprise Robotics Simulations
+- Stored pasted content in inbox/paste/2026-07-24-193947-bifrost-enterprise-robotics-simulations.md.
+
+## [2026-07-24 19:39] ingest | src-2026-07-24-041 | Bifrost - Enterprise Robotics Simulations
+- Created source record at sources/src-2026-07-24-041.md and raw source at raw/articles/2026-07-24-bifrost-enterprise-robotics-simulations.md.
+
+## [2026-07-24 19:39] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-24 19:39] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-25 19:50] capture | Cloudflare Nimbus - Docs for Humans and Agents
+- Stored pasted content in inbox/paste/2026-07-25-195023-cloudflare-nimbus-docs-for-humans-and-agents.md.
+
+## [2026-07-25 19:50] ingest | src-2026-07-25-001 | Cloudflare Nimbus - Docs for Humans and Agents
+- Created source record at sources/src-2026-07-25-001.md and raw source at raw/articles/2026-07-25-cloudflare-nimbus-docs-for-humans-and-agents.md.
+
+## [2026-07-25 19:50] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-25 19:50] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-25 19:51] capture | Kinetics - Spring-Physics Motion Library by Colorion
+- Stored pasted content in inbox/paste/2026-07-25-195136-kinetics-spring-physics-motion-library-by-colorion.md.
+
+## [2026-07-25 19:51] ingest | src-2026-07-25-002 | Kinetics - Spring-Physics Motion Library by Colorion
+- Created source record at sources/src-2026-07-25-002.md and raw source at raw/articles/2026-07-25-kinetics-spring-physics-motion-library-by-colorion.md.
+
+## [2026-07-25 19:51] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-25 19:51] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-25 19:52] capture | OpenMinis - Open Source AI Agent App
+- Stored pasted content in inbox/paste/2026-07-25-195205-openminis-open-source-ai-agent-app.md.
+
+## [2026-07-25 19:52] ingest | src-2026-07-25-003 | OpenMinis - Open Source AI Agent App
+- Created source record at sources/src-2026-07-25-003.md and raw source at raw/articles/2026-07-25-openminis-open-source-ai-agent-app.md.
+
+## [2026-07-25 19:52] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-25 19:52] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-25 19:52] capture | OSI² ONE Magnet - Open Source MRI Magnet
+- Stored pasted content in inbox/paste/2026-07-25-195227-osi-one-magnet-open-source-mri-magnet.md.
+
+## [2026-07-25 19:52] ingest | src-2026-07-25-004 | OSI² ONE Magnet - Open Source MRI Magnet
+- Created source record at sources/src-2026-07-25-004.md and raw source at raw/articles/2026-07-25-osi-one-magnet-open-source-mri-magnet.md.
+
+## [2026-07-25 19:52] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-25 19:52] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-25 19:52] capture | OSII Mini - Open Source Ultra Low-Field MRI for Education
+- Stored pasted content in inbox/paste/2026-07-25-195256-osii-mini-open-source-ultra-low-field-mri-for-education.md.
+
+## [2026-07-25 19:53] ingest | src-2026-07-25-005 | OSII Mini - Open Source Ultra Low-Field MRI for Education
+- Created source record at sources/src-2026-07-25-005.md and raw source at raw/articles/2026-07-25-osii-mini-open-source-ultra-low-field-mri-for-education.md.
+
+## [2026-07-25 19:53] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-25 19:53] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-25 19:53] capture | OSI² GitLab - Open Source Imaging Initiative
+- Stored pasted content in inbox/paste/2026-07-25-195332-osi-gitlab-open-source-imaging-initiative.md.
+
+## [2026-07-25 19:53] ingest | src-2026-07-25-006 | OSI² GitLab - Open Source Imaging Initiative
+- Created source record at sources/src-2026-07-25-006.md and raw source at raw/articles/2026-07-25-osi-gitlab-open-source-imaging-initiative.md.
+
+## [2026-07-25 19:53] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-25 19:53] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-25 19:54] capture | OSI² ONE MR Scanner - Open Source Low-Field MRI
+- Stored pasted content in inbox/paste/2026-07-25-195400-osi-one-mr-scanner-open-source-low-field-mri.md.
+
+## [2026-07-25 19:54] ingest | src-2026-07-25-007 | OSI² ONE MR Scanner - Open Source Low-Field MRI
+- Created source record at sources/src-2026-07-25-007.md and raw source at raw/articles/2026-07-25-osi-one-mr-scanner-open-source-low-field-mri.md.
+
+## [2026-07-25 19:54] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-25 19:54] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-25 19:54] capture | AndronixOrigin - Install Linux on Android
+- Stored pasted content in inbox/paste/2026-07-25-195437-andronixorigin-install-linux-on-android.md.
+
+## [2026-07-25 19:54] ingest | src-2026-07-25-008 | AndronixOrigin - Install Linux on Android
+- Created source record at sources/src-2026-07-25-008.md and raw source at raw/articles/2026-07-25-andronixorigin-install-linux-on-android.md.
+
+## [2026-07-25 19:54] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-25 19:54] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-25 19:55] capture | GeoLibre v2.3.0 Release
+- Stored pasted content in inbox/paste/2026-07-25-195513-geolibre-v2-3-0-release.md.
+
+## [2026-07-25 19:55] ingest | src-2026-07-25-009 | GeoLibre v2.3.0 Release
+- Created source record at sources/src-2026-07-25-009.md and raw source at raw/articles/2026-07-25-geolibre-v2-3-0-release.md.
+
+## [2026-07-25 19:55] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-25 19:55] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-25 19:55] capture | GeoLibre - Cloud-Native Open-Source GIS Platform
+- Stored pasted content in inbox/paste/2026-07-25-195548-geolibre-cloud-native-open-source-gis-platform.md.
+
+## [2026-07-25 19:55] ingest | src-2026-07-25-010 | GeoLibre - Cloud-Native Open-Source GIS Platform
+- Created source record at sources/src-2026-07-25-010.md and raw source at raw/articles/2026-07-25-geolibre-cloud-native-open-source-gis-platform.md.
+
+## [2026-07-25 19:55] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-25 19:55] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-25 19:56] capture | GeoLibre GitHub Repository
+- Stored pasted content in inbox/paste/2026-07-25-195624-geolibre-github-repository.md.
+
+## [2026-07-25 19:56] ingest | src-2026-07-25-011 | GeoLibre GitHub Repository
+- Created source record at sources/src-2026-07-25-011.md and raw source at raw/articles/2026-07-25-geolibre-github-repository.md.
+
+## [2026-07-25 19:56] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-25 19:56] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-25 19:57] capture | SendLib Website - Transactional Email API via Gmail OAuth
+- Stored pasted content in inbox/paste/2026-07-25-195712-sendlib-website-transactional-email-api-via-gmail-oauth.md.
+
+## [2026-07-25 19:57] ingest | src-2026-07-25-012 | SendLib Website - Transactional Email API via Gmail OAuth
+- Created source record at sources/src-2026-07-25-012.md and raw source at raw/articles/2026-07-25-sendlib-website-transactional-email-api-via-gmail-oauth.md.
+
+## [2026-07-25 19:57] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-25 19:57] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-25 19:57] capture | Human Typer - Auto Typer with Human-Like Keystrokes
+- Stored pasted content in inbox/paste/2026-07-25-195744-human-typer-auto-typer-with-human-like-keystrokes.md.
+
+## [2026-07-25 19:57] ingest | src-2026-07-25-013 | Human Typer - Auto Typer with Human-Like Keystrokes
+- Created source record at sources/src-2026-07-25-013.md and raw source at raw/articles/2026-07-25-human-typer-auto-typer-with-human-like-keystrokes.md.
+
+## [2026-07-25 19:57] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-25 19:57] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-25 19:58] capture | pay-kit - Unified Paystack/Flutterwave TypeScript SDK
+- Stored pasted content in inbox/paste/2026-07-25-195824-pay-kit-unified-paystack-flutterwave-typescript-sdk.md.
+
+## [2026-07-25 19:58] ingest | src-2026-07-25-014 | pay-kit - Unified Paystack/Flutterwave TypeScript SDK
+- Created source record at sources/src-2026-07-25-014.md and raw source at raw/articles/2026-07-25-pay-kit-unified-paystack-flutterwave-typescript-sdk.md.
+
+## [2026-07-25 19:58] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-25 19:58] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-25 19:58] capture | Visa Vulnerability Agentic Harness (VVAH)
+- Stored pasted content in inbox/paste/2026-07-25-195857-visa-vulnerability-agentic-harness-vvah.md.
+
+## [2026-07-25 19:59] ingest | src-2026-07-25-015 | Visa Vulnerability Agentic Harness (VVAH)
+- Created source record at sources/src-2026-07-25-015.md and raw source at raw/articles/2026-07-25-visa-vulnerability-agentic-harness-vvah.md.
+
+## [2026-07-25 19:59] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-25 19:59] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-25 19:59] capture | Vesperfall Asset Ledger - Game Asset Catalog
+- Stored pasted content in inbox/paste/2026-07-25-195932-vesperfall-asset-ledger-game-asset-catalog.md.
+
+## [2026-07-25 19:59] ingest | src-2026-07-25-016 | Vesperfall Asset Ledger - Game Asset Catalog
+- Created source record at sources/src-2026-07-25-016.md and raw source at raw/articles/2026-07-25-vesperfall-asset-ledger-game-asset-catalog.md.
+
+## [2026-07-25 19:59] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-25 19:59] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-25 20:00] capture | MengTo/Skills - Agent Skills Collection
+- Stored pasted content in inbox/paste/2026-07-25-200009-mengto-skills-agent-skills-collection.md.
+
+## [2026-07-25 20:00] ingest | src-2026-07-25-017 | MengTo/Skills - Agent Skills Collection
+- Created source record at sources/src-2026-07-25-017.md and raw source at raw/articles/2026-07-25-mengto-skills-agent-skills-collection.md.
+
+## [2026-07-25 20:00] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-25 20:00] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-25 20:00] capture | OOMWOO - Open-Source Robot Vacuum Cleaner
+- Stored pasted content in inbox/paste/2026-07-25-200044-oomwoo-open-source-robot-vacuum-cleaner.md.
+
+## [2026-07-25 20:00] ingest | src-2026-07-25-018 | OOMWOO - Open-Source Robot Vacuum Cleaner
+- Created source record at sources/src-2026-07-25-018.md and raw source at raw/articles/2026-07-25-oomwoo-open-source-robot-vacuum-cleaner.md.
+
+## [2026-07-25 20:00] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-25 20:00] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-25 20:08] capture | bitchat - Decentralized P2P Mesh Chat
+- Stored pasted content in inbox/paste/2026-07-25-200818-bitchat-decentralized-p2p-mesh-chat.md.
+
+## [2026-07-25 20:08] ingest | src-2026-07-25-019 | bitchat - Decentralized P2P Mesh Chat
+- Created source record at sources/src-2026-07-25-019.md and raw source at raw/articles/2026-07-25-bitchat-decentralized-p2p-mesh-chat.md.
+
+## [2026-07-25 20:08] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-25 20:08] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-25 20:11] capture | Facetpack - Rust-Powered React Native Toolkit
+- Stored pasted content in inbox/paste/2026-07-25-201151-facetpack-rust-powered-react-native-toolkit.md.
+
+## [2026-07-25 20:11] ingest | src-2026-07-25-020 | Facetpack - Rust-Powered React Native Toolkit
+- Created source record at sources/src-2026-07-25-020.md and raw source at raw/articles/2026-07-25-facetpack-rust-powered-react-native-toolkit.md.
+
+## [2026-07-25 20:11] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-25 20:11] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-25 20:14] capture | react-native-actions-sheet - Cross-Platform ActionSheet
+- Stored pasted content in inbox/paste/2026-07-25-201428-react-native-actions-sheet-cross-platform-actionsheet.md.
+
+## [2026-07-25 20:14] ingest | src-2026-07-25-021 | react-native-actions-sheet - Cross-Platform ActionSheet
+- Created source record at sources/src-2026-07-25-021.md and raw source at raw/articles/2026-07-25-react-native-actions-sheet-cross-platform-actionsheet.md.
+
+## [2026-07-25 20:14] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-25 20:14] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-25 21:11] capture | Oskar Kwasniewski - Stop Keeping Laptop Open for Agents
+- Stored pasted content in inbox/paste/2026-07-25-211142-oskar-kwasniewski-stop-keeping-laptop-open-for-agents.md.
+
+## [2026-07-25 21:11] ingest | src-2026-07-25-022 | Oskar Kwasniewski - Stop Keeping Laptop Open for Agents
+- Created source record at sources/src-2026-07-25-022.md and raw source at raw/articles/2026-07-25-oskar-kwasniewski-stop-keeping-laptop-open-for-agents.md.
+
+## [2026-07-25 21:11] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-25 21:11] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-25 21:17] capture | wigolo - Local-First Web Intelligence for AI Agents
+- Stored pasted content in inbox/paste/2026-07-25-211735-wigolo-local-first-web-intelligence-for-ai-agents.md.
+
+## [2026-07-25 21:17] ingest | src-2026-07-25-023 | wigolo - Local-First Web Intelligence for AI Agents
+- Created source record at sources/src-2026-07-25-023.md and raw source at raw/articles/2026-07-25-wigolo-local-first-web-intelligence-for-ai-agents.md.
+
+## [2026-07-25 21:17] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-25 21:17] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-25 21:19] capture | Paseo - Multi-Agent Orchestrator for Desktop & Mobile
+- Stored pasted content in inbox/paste/2026-07-25-211951-paseo-multi-agent-orchestrator-for-desktop-mobile.md.
+
+## [2026-07-25 21:19] ingest | src-2026-07-25-024 | Paseo - Multi-Agent Orchestrator for Desktop & Mobile
+- Created source record at sources/src-2026-07-25-024.md and raw source at raw/articles/2026-07-25-paseo-multi-agent-orchestrator-for-desktop-mobile.md.
+
+## [2026-07-25 21:19] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-25 21:19] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-25 21:34] capture | Valibot Comparison Guide + TypeBox - Schema Validation Libraries
+- Stored pasted content in inbox/paste/2026-07-25-213424-valibot-comparison-guide-typebox-schema-validation-libraries.md.
+
+## [2026-07-25 21:34] ingest | src-2026-07-25-025 | Valibot Comparison Guide + TypeBox - Schema Validation Libraries
+- Created source record at sources/src-2026-07-25-025.md and raw source at raw/articles/2026-07-25-valibot-comparison-guide-typebox-schema-validation-libraries.md.
+
+## [2026-07-25 21:34] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-25 21:34] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-25 21:35] capture | Exo - Recursive Self-Improving Agent Harness
+- Stored pasted content in inbox/paste/2026-07-25-213506-exo-recursive-self-improving-agent-harness.md.
+
+## [2026-07-25 21:35] ingest | src-2026-07-25-026 | Exo - Recursive Self-Improving Agent Harness
+- Created source record at sources/src-2026-07-25-026.md and raw source at raw/articles/2026-07-25-exo-recursive-self-improving-agent-harness.md.
+
+## [2026-07-25 21:35] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-25 21:35] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-25 21:40] capture | Flutter POS System - Open-Source Restaurant POS
+- Stored pasted content in inbox/paste/2026-07-25-214009-flutter-pos-system-open-source-restaurant-pos.md.
+
+## [2026-07-25 21:40] ingest | src-2026-07-25-027 | Flutter POS System - Open-Source Restaurant POS
+- Created source record at sources/src-2026-07-25-027.md and raw source at raw/articles/2026-07-25-flutter-pos-system-open-source-restaurant-pos.md.
+
+## [2026-07-25 21:40] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-25 21:40] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-25 21:58] capture | Autoresearch and Meta-Harness Primer
+- Stored pasted content in inbox/paste/2026-07-25-215835-autoresearch-and-meta-harness-primer.md.
+
+## [2026-07-25 21:58] ingest | src-2026-07-25-028 | Autoresearch and Meta-Harness Primer
+- Created source record at sources/src-2026-07-25-028.md and raw source at raw/articles/2026-07-25-autoresearch-and-meta-harness-primer.md.
+
+## [2026-07-25 21:58] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-25 21:58] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-25 21:58] capture | Hindsight - Agent Memory That Learns
+- Stored pasted content in inbox/paste/2026-07-25-215859-hindsight-agent-memory-that-learns.md.
+
+## [2026-07-25 21:59] ingest | src-2026-07-25-029 | Hindsight - Agent Memory That Learns
+- Created source record at sources/src-2026-07-25-029.md and raw source at raw/articles/2026-07-25-hindsight-agent-memory-that-learns.md.
+
+## [2026-07-25 21:59] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-25 21:59] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-25 22:03] capture | TrafficLab 3D - Digital Twin Traffic Visualization
+- Stored pasted content in inbox/paste/2026-07-25-220339-trafficlab-3d-digital-twin-traffic-visualization.md.
+
+## [2026-07-25 22:03] ingest | src-2026-07-25-030 | TrafficLab 3D - Digital Twin Traffic Visualization
+- Created source record at sources/src-2026-07-25-030.md and raw source at raw/articles/2026-07-25-trafficlab-3d-digital-twin-traffic-visualization.md.
+
+## [2026-07-25 22:03] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-25 22:03] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-25 22:07] capture | Web Font Fallback CLS Prevention
+- Stored pasted content in inbox/paste/2026-07-25-220731-web-font-fallback-cls-prevention.md.
+
+## [2026-07-25 22:07] ingest | src-2026-07-25-031 | Web Font Fallback CLS Prevention
+- Created source record at sources/src-2026-07-25-031.md and raw source at raw/articles/2026-07-25-web-font-fallback-cls-prevention.md.
+
+## [2026-07-25 22:07] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-25 22:07] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-25 23:08] capture | Checkmate - Open Source Uptime & Infrastructure Monitoring
+- Stored pasted content in inbox/paste/2026-07-25-230837-checkmate-open-source-uptime-infrastructure-monitoring.md.
+
+## [2026-07-25 23:08] ingest | src-2026-07-25-032 | Checkmate - Open Source Uptime & Infrastructure Monitoring
+- Created source record at sources/src-2026-07-25-032.md and raw source at raw/articles/2026-07-25-checkmate-open-source-uptime-infrastructure-monitoring.md.
+
+## [2026-07-25 23:08] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-25 23:08] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-26 20:22] capture | Expo Open OTA Railway Deployment
+- Stored pasted content in inbox/paste/2026-07-26-202202-expo-open-ota-railway-deployment.md.
+
+## [2026-07-26 20:22] capture | Expo Open OTA
+- Stored pasted content in inbox/paste/2026-07-26-202203-expo-open-ota.md.
+
+## [2026-07-26 20:22] ingest | src-2026-07-26-001 | Expo Open OTA Railway Deployment
+- Created source record at sources/src-2026-07-26-001.md and raw source at raw/articles/2026-07-26-expo-open-ota-railway-deployment.md.
+
+## [2026-07-26 20:22] ingest | src-2026-07-26-002 | Expo Open OTA
+- Created source record at sources/src-2026-07-26-002.md and raw source at raw/articles/2026-07-26-expo-open-ota.md.
+
+## [2026-07-26 20:22] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-26 20:22] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-26 20:22] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-26 20:22] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-26 20:22] capture | React Native Workers
+- Stored pasted content in inbox/paste/2026-07-26-202220-react-native-workers.md.
+
+## [2026-07-26 20:22] ingest | src-2026-07-26-003 | React Native Workers
+- Created source record at sources/src-2026-07-26-003.md and raw source at raw/articles/2026-07-26-react-native-workers.md.
+
+## [2026-07-26 20:22] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-26 20:22] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-26 20:22] capture | Codeflow
+- Stored pasted content in inbox/paste/2026-07-26-202233-codeflow.md.
+
+## [2026-07-26 20:22] ingest | src-2026-07-26-004 | Codeflow
+- Created source record at sources/src-2026-07-26-004.md and raw source at raw/articles/2026-07-26-codeflow.md.
+
+## [2026-07-26 20:22] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-26 20:22] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-26 20:22] capture | Crucix
+- Stored pasted content in inbox/paste/2026-07-26-202242-crucix.md.
+
+## [2026-07-26 20:22] ingest | src-2026-07-26-005 | Crucix
+- Created source record at sources/src-2026-07-26-005.md and raw source at raw/articles/2026-07-26-crucix.md.
+
+## [2026-07-26 20:22] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-26 20:22] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-26 21:59] capture | SurfSense Repository
+- Stored pasted content in inbox/paste/2026-07-26-215950-surfsense-repository.md.
+
+## [2026-07-26 21:59] ingest | src-2026-07-26-006 | SurfSense Repository
+- Created source record at sources/src-2026-07-26-006.md and raw source at raw/articles/2026-07-26-surfsense-repository.md.
+
+## [2026-07-26 21:59] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-26 21:59] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-26 21:59] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-26 21:59] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-27 16:34] capture | MEmu Play Website
+- Stored pasted content in inbox/paste/2026-07-27-163420-memu-play-website.md.
+
+## [2026-07-27 16:34] ingest | src-2026-07-27-001 | MEmu Play Website
+- Created source record at sources/src-2026-07-27-001.md and raw source at raw/articles/2026-07-27-memu-play-website.md.
+
+## [2026-07-27 16:34] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-27 16:34] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-27 16:34] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-27 16:34] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-27 16:36] ingest | src-2026-07-27-001 | MEmu Play
+- Created source record at sources/src-2026-07-27-001.md and raw source at raw/articles/2026-07-27-memu-play.md.
+
+## [2026-07-27 16:36] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-27 16:36] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-27 20:07] capture | McKinsey Issue Tree
+- Stored pasted content in inbox/paste/2026-07-27-200756-mckinsey-issue-tree.md.
+
+## [2026-07-27 20:07] ingest | src-2026-07-27-002 | McKinsey Issue Tree
+- Created source record at sources/src-2026-07-27-002.md and raw source at raw/articles/2026-07-27-mckinsey-issue-tree.md.
+
+## [2026-07-27 20:07] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-27 20:07] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-27 20:07] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-27 20:07] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-27 20:12] capture | React Native 0.87 backgroundImage Stable
+- Stored pasted content in inbox/paste/2026-07-27-201221-react-native-0-87-backgroundimage-stable.md.
+
+## [2026-07-27 20:12] ingest | src-2026-07-27-003 | React Native 0.87 backgroundImage Stable
+- Created source record at sources/src-2026-07-27-003.md and raw source at raw/articles/2026-07-27-react-native-0-87-backgroundimage-stable.md.
+
+## [2026-07-27 20:12] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-27 20:12] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-27 20:12] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-27 20:12] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-27 22:15] ingest | src-2026-07-27-004 | Introducing the Mapbox Places API
+- Created source record at sources/src-2026-07-27-004.md and raw source at raw/articles/2026-07-27-introducing-the-mapbox-places-api.md.
+
+## [2026-07-27 22:15] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-27 22:15] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-27 22:16] ingest | src-2026-07-27-005 | What Happens When Your State Library Stops Telling Components Something Changed
+- Created source record at sources/src-2026-07-27-005.md and raw source at raw/articles/2026-07-27-what-happens-when-your-state-library-stops-telling-components-something-changed.md.
+
+## [2026-07-27 22:16] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-27 22:16] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-28 06:02] ingest | src-2026-07-28-001 | WebHound Thesis
+- Created source record at sources/src-2026-07-28-001.md and raw source at raw/articles/2026-07-28-webhound-thesis.md.
+
+## [2026-07-28 06:02] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-28 06:02] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-28 06:02] ingest | src-2026-07-28-002 | WebHound
+- Created source record at sources/src-2026-07-28-002.md and raw source at raw/articles/2026-07-28-webhound.md.
+
+## [2026-07-28 06:02] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-28 06:02] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-28 09:46] capture | Social Validation & Student Agency Engine (Kayla Delzer / Duolingo)
+- Stored pasted content in inbox/paste/2026-07-28-094614-social-validation-student-agency-engine-kayla-delzer-duolingo.md.
+
+## [2026-07-28 09:46] ingest | src-2026-07-28-003 | Social Validation & Student Agency Engine (Kayla Delzer / Duolingo)
+- Created source record at sources/src-2026-07-28-003.md and raw source at raw/articles/2026-07-28-social-validation-student-agency-engine-kayla-delzer-duolingo.md.
+
+## [2026-07-28 09:46] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-28 09:46] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-28 09:46] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-28 09:46] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-28 14:07] ingest | src-2026-07-28-004 | BS-Roformer Leap Audio Separator
+- Created source record at sources/src-2026-07-28-004.md and raw source at raw/articles/2026-07-28-bs-roformer-leap-audio-separator.md.
+
+## [2026-07-28 14:07] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-28 14:07] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-28 14:07] ingest | src-2026-07-28-005 | Expo Backdrop
+- Created source record at sources/src-2026-07-28-005.md and raw source at raw/articles/2026-07-28-expo-backdrop.md.
+
+## [2026-07-28 14:07] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-28 14:07] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-28 15:10] ingest | src-2026-07-28-006 | Skill Set
+- Created source record at sources/src-2026-07-28-006.md and raw source at raw/articles/2026-07-28-skill-set.md.
+
+## [2026-07-28 15:10] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-28 15:10] lint | Vault lint
+- Found 10 issue(s).
+
+## [2026-07-28 15:10] ingest | src-2026-07-28-007 | Bakai Lab
+- Created source record at sources/src-2026-07-28-007.md and raw source at raw/articles/2026-07-28-bakai-lab.md.
+
+## [2026-07-28 15:10] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-07-28 15:10] lint | Vault lint
+- Found 10 issue(s).
