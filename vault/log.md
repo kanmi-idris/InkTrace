@@ -6221,3 +6221,207 @@
 
 ## [2026-08-11 17:05] lint | Vault lint
 - No issues found.
+
+## [2026-08-11 17:11] capture | TwiL-LM3: Formal-Logic Reasoning Model for Edge Hardware
+- Stored pasted content in inbox/paste/2026-08-11-171141-twil-lm3-formal-logic-reasoning-model-for-edge-hardware.md.
+
+## [2026-08-11 17:11] ingest | src-2026-08-11-003 | TwiL-LM3: Formal-Logic Reasoning Model for Edge Hardware
+- Created source record at sources/src-2026-08-11-003.md and raw source at raw/articles/2026-08-11-twil-lm3-formal-logic-reasoning-model-for-edge-hardware.md.
+
+## [2026-08-11 17:11] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-11 17:11] lint | Vault lint
+- No issues found.
+
+## [2026-08-11 17:11] lint | Vault lint
+- No issues found.
+
+## [2026-08-11 17:13] capture | react-native-nitro-theme-transition 1.0: Sixteen Native Theme Transitions
+- Stored pasted content in inbox/paste/2026-08-11-171344-react-native-nitro-theme-transition-1-0-sixteen-native-theme-transitions.md.
+
+## [2026-08-11 17:13] ingest | src-2026-08-11-004 | react-native-nitro-theme-transition 1.0: Sixteen Native Theme Transitions
+- Created source record at sources/src-2026-08-11-004.md and raw source at raw/articles/2026-08-11-react-native-nitro-theme-transition-1-0-sixteen-native-theme-transitions.md.
+
+## [2026-08-11 17:13] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-11 17:13] lint | Vault lint
+- No issues found.
+
+## [2026-08-11 17:13] lint | Vault lint
+- No issues found.
+
+## [2026-08-11 17:15] capture | MachOSwiftSection: Reconstructing Swift Interfaces from Mach-O Binaries
+- Stored pasted content in inbox/paste/2026-08-11-171502-machoswiftsection-reconstructing-swift-interfaces-from-mach-o-binaries.md.
+
+## [2026-08-11 17:15] ingest | src-2026-08-11-005 | MachOSwiftSection: Reconstructing Swift Interfaces from Mach-O Binaries
+- Created source record at sources/src-2026-08-11-005.md and raw source at raw/articles/2026-08-11-machoswiftsection-reconstructing-swift-interfaces-from-mach-o-binaries.md.
+
+## [2026-08-11 17:15] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-11 17:15] lint | Vault lint
+- No issues found.
+
+## [2026-08-11 17:15] lint | Vault lint
+- No issues found.
+
+## [2026-08-11 17:21] capture | LLM Text Watermarking: KGW, Robustness, and Detector Risks
+- Stored pasted content in inbox/paste/2026-08-11-172136-llm-text-watermarking-kgw-robustness-and-detector-risks.md.
+
+## [2026-08-11 17:21] ingest | src-2026-08-11-006 | LLM Text Watermarking: KGW, Robustness, and Detector Risks
+- Created source record at sources/src-2026-08-11-006.md and raw source at raw/articles/2026-08-11-llm-text-watermarking-kgw-robustness-and-detector-risks.md.
+
+## [2026-08-11 17:21] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-11 17:21] lint | Vault lint
+- No issues found.
+
+## [2026-08-11 17:21] lint | Vault lint
+- No issues found.
+
+## [2026-08-11 17:24] capture | Mobile Web Interaction Troubleshooting Reference
+- Stored file capture in inbox/files/2026-08-11-172424-mobile-web-interaction-troubleshooting-reference.png.
+
+## [2026-08-11 17:24] capture | Mobile Web Interaction Troubleshooting Reference: Searchable Notes
+- Stored pasted content in inbox/paste/2026-08-11-172424-mobile-web-interaction-troubleshooting-reference-searchable-notes.md.
+
+## [2026-08-11 17:24] ingest | src-2026-08-11-007 | Mobile Web Interaction Troubleshooting Reference
+- Created source record at sources/src-2026-08-11-007.md and raw source at raw/assets/2026-08-11-mobile-web-interaction-troubleshooting-reference.png.
+
+## [2026-08-11 17:24] ingest | src-2026-08-11-008 | Mobile Web Interaction Troubleshooting Reference: Searchable Notes
+- Created source record at sources/src-2026-08-11-008.md and raw source at raw/articles/2026-08-11-mobile-web-interaction-troubleshooting-reference-searchable-notes.md.
+
+## [2026-08-11 17:24] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-11 17:24] lint | Vault lint
+- No issues found.
+
+## [2026-08-11 17:24] lint | Vault lint
+- No issues found.
+
+## [2026-08-11 17:26] capture | Beautiful UI: Crafted Primitives for AI-Native Interfaces
+- Stored pasted content in inbox/paste/2026-08-11-172647-beautiful-ui-crafted-primitives-for-ai-native-interfaces.md.
+
+## [2026-08-11 17:26] ingest | src-2026-08-11-009 | Beautiful UI: Crafted Primitives for AI-Native Interfaces
+- Created source record at sources/src-2026-08-11-009.md and raw source at raw/articles/2026-08-11-beautiful-ui-crafted-primitives-for-ai-native-interfaces.md.
+
+## [2026-08-11 17:26] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-11 17:26] lint | Vault lint
+- No issues found.
+
+## [2026-08-11 17:26] lint | Vault lint
+- No issues found.
+
+## [2026-08-11 17:34] capture | Counter-Offer as Market-Value Evidence: Resignation Case Study
+- Stored pasted content in inbox/paste/2026-08-11-173428-counter-offer-as-market-value-evidence-resignation-case-study.md.
+
+## [2026-08-11 17:34] ingest | src-2026-08-11-010 | Counter-Offer as Market-Value Evidence: Resignation Case Study
+- Created source record at sources/src-2026-08-11-010.md and raw source at raw/articles/2026-08-11-counter-offer-as-market-value-evidence-resignation-case-study.md.
+
+## [2026-08-11 17:34] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-11 17:34] lint | Vault lint
+- No issues found.
+
+## [2026-08-11 17:34] lint | Vault lint
+- No issues found.
+
+## [2026-08-11 17:36] capture | Hugging Face Speech-to-Speech: Modular Voice Agents with Direct Audio Input
+- Stored pasted content in inbox/paste/2026-08-11-173607-hugging-face-speech-to-speech-modular-voice-agents-with-direct-audio-input.md.
+
+## [2026-08-11 17:36] ingest | src-2026-08-11-011 | Hugging Face Speech-to-Speech: Modular Voice Agents with Direct Audio Input
+- Created source record at sources/src-2026-08-11-011.md and raw source at raw/articles/2026-08-11-hugging-face-speech-to-speech-modular-voice-agents-with-direct-audio-input.md.
+
+## [2026-08-11 17:36] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-11 17:36] lint | Vault lint
+- No issues found.
+
+## [2026-08-11 17:36] lint | Vault lint
+- No issues found.
+
+## [2026-08-11 17:38] capture | SRT Whiteboard Animation: Subtitle-Driven Hand-Drawn MP4 Rendering
+- Stored pasted content in inbox/paste/2026-08-11-173847-srt-whiteboard-animation-subtitle-driven-hand-drawn-mp4-rendering.md.
+
+## [2026-08-11 17:38] ingest | src-2026-08-11-012 | SRT Whiteboard Animation: Subtitle-Driven Hand-Drawn MP4 Rendering
+- Created source record at sources/src-2026-08-11-012.md and raw source at raw/articles/2026-08-11-srt-whiteboard-animation-subtitle-driven-hand-drawn-mp4-rendering.md.
+
+## [2026-08-11 17:38] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-11 17:38] lint | Vault lint
+- No issues found.
+
+## [2026-08-11 17:39] lint | Vault lint
+- No issues found.
+
+## [2026-08-11 17:40] capture | Agents-cli: Define Quality Before Self-Improving Agent Loops
+- Stored pasted content in inbox/paste/2026-08-11-174036-agents-cli-define-quality-before-self-improving-agent-loops.md.
+
+## [2026-08-11 17:40] ingest | src-2026-08-11-013 | Agents-cli: Define Quality Before Self-Improving Agent Loops
+- Created source record at sources/src-2026-08-11-013.md and raw source at raw/articles/2026-08-11-agents-cli-define-quality-before-self-improving-agent-loops.md.
+
+## [2026-08-11 17:40] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-11 17:40] lint | Vault lint
+- No issues found.
+
+## [2026-08-11 17:40] lint | Vault lint
+- No issues found.
+
+## [2026-08-11 17:42] capture | React Native Barcode Scanning in 2026: Data Scanner, VisionCamera, and Expo
+- Stored pasted content in inbox/paste/2026-08-11-174227-react-native-barcode-scanning-in-2026-data-scanner-visioncamera-and-expo.md.
+
+## [2026-08-11 17:42] ingest | src-2026-08-11-014 | React Native Barcode Scanning in 2026: Data Scanner, VisionCamera, and Expo
+- Created source record at sources/src-2026-08-11-014.md and raw source at raw/articles/2026-08-11-react-native-barcode-scanning-in-2026-data-scanner-visioncamera-and-expo.md.
+
+## [2026-08-11 17:42] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-11 17:42] lint | Vault lint
+- No issues found.
+
+## [2026-08-11 17:42] lint | Vault lint
+- No issues found.
+
+## [2026-08-11 17:43] capture | Plantain Farming Revenue Claim: Nine-Month Yield Estimate
+- Stored pasted content in inbox/paste/2026-08-11-174332-plantain-farming-revenue-claim-nine-month-yield-estimate.md.
+
+## [2026-08-11 17:43] ingest | src-2026-08-11-015 | Plantain Farming Revenue Claim: Nine-Month Yield Estimate
+- Created source record at sources/src-2026-08-11-015.md and raw source at raw/articles/2026-08-11-plantain-farming-revenue-claim-nine-month-yield-estimate.md.
+
+## [2026-08-11 17:43] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-11 17:43] lint | Vault lint
+- No issues found.
+
+## [2026-08-11 17:43] lint | Vault lint
+- No issues found.
+
+## [2026-08-11 17:52] capture | Vaginal Candida and Sexual Contact: General Health Information
+- Stored pasted content in inbox/paste/2026-08-11-175250-vaginal-candida-and-sexual-contact-general-health-information.md.
+
+## [2026-08-11 17:52] ingest | src-2026-08-11-016 | Vaginal Candida and Sexual Contact: General Health Information
+- Created source record at sources/src-2026-08-11-016.md and raw source at raw/articles/2026-08-11-vaginal-candida-and-sexual-contact-general-health-information.md.
+
+## [2026-08-11 17:52] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-11 17:52] lint | Vault lint
+- No issues found.
+
+## [2026-08-11 17:53] lint | Vault lint
+- No issues found.
+
+## [2026-08-11 17:53] lint | Vault lint
+- No issues found.
