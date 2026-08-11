@@ -1,5 +1,5 @@
 import path from "node:path";
-import { copyFile, writeText } from "../adapters/filesystem";
+import { copyFileExclusive, writeTextExclusive } from "../adapters/filesystem";
 import { rawSubdirForType } from "../utils/paths";
 import { slugify } from "../utils/slug";
 import { formatDate } from "../utils/date";
@@ -20,12 +20,11 @@ export async function importRawSource(options: ImportSourceOptions): Promise<str
 
   if (options.inputFile) {
     const extension = path.extname(options.inputFile) || ".md";
-    const destinationPath = path.join(directory, `${date}-${slug}${extension}`);
-    await copyFile(path.resolve(options.inputFile), destinationPath);
-    return destinationPath;
+    const requestedPath = path.join(directory, `${date}-${slug}${extension}`);
+    return copyFileExclusive(path.resolve(options.inputFile), requestedPath);
   }
 
-  const destinationPath = path.join(directory, `${date}-${slug}.md`);
+  const requestedPath = path.join(directory, `${date}-${slug}.md`);
   const body = [
     `# ${options.title}`,
     "",
@@ -34,6 +33,5 @@ export async function importRawSource(options: ImportSourceOptions): Promise<str
     "",
     "Add the clipped content or transcript here."
   ].join("\n");
-  await writeText(destinationPath, body);
-  return destinationPath;
+  return writeTextExclusive(requestedPath, body);
 }

@@ -23,6 +23,46 @@ export async function writeText(filePath: string, content: string): Promise<void
   await fs.writeFile(filePath, content, "utf8");
 }
 
+export async function writeTextNoClobber(filePath: string, content: string): Promise<void> {
+  await ensureDir(path.dirname(filePath));
+  const handle = await fs.open(filePath, "wx");
+  try {
+    await handle.writeFile(content, "utf8");
+  } catch (error) {
+    await fs.unlink(filePath).catch(() => undefined);
+    throw error;
+  } finally {
+    await handle.close();
+  }
+}
+
+export async function writeTextExclusive(filePath: string, content: string): Promise<string> {
+  await ensureDir(path.dirname(filePath));
+
+  for (let index = 0; index < 10_000; index += 1) {
+    const candidatePath = withCollisionSuffix(filePath, index);
+    let handle: Awaited<ReturnType<typeof fs.open>> | undefined;
+
+    try {
+      handle = await fs.open(candidatePath, "wx");
+      await handle.writeFile(content, "utf8");
+      return candidatePath;
+    } catch (error) {
+      if (handle) {
+        await fs.unlink(candidatePath).catch(() => undefined);
+      }
+      if (isAlreadyExistsError(error)) {
+        continue;
+      }
+      throw error;
+    } finally {
+      await handle?.close();
+    }
+  }
+
+  throw new Error(`Could not create a unique file name for ${filePath}`);
+}
+
 export async function writeTextIfMissing(filePath: string, content: string): Promise<void> {
   if (!(await exists(filePath))) {
     await writeText(filePath, content);
@@ -34,17 +74,48 @@ export async function copyFile(sourcePath: string, destinationPath: string): Pro
   await fs.copyFile(sourcePath, destinationPath);
 }
 
+export async function copyFileExclusive(sourcePath: string, destinationPath: string): Promise<string> {
+  await ensureDir(path.dirname(destinationPath));
+
+  for (let index = 0; index < 10_000; index += 1) {
+    const candidatePath = withCollisionSuffix(destinationPath, index);
+    try {
+      await fs.copyFile(sourcePath, candidatePath, fs.constants.COPYFILE_EXCL);
+      return candidatePath;
+    } catch (error) {
+      if (isAlreadyExistsError(error)) {
+        continue;
+      }
+      throw error;
+    }
+  }
+
+  throw new Error(`Could not create a unique file name for ${destinationPath}`);
+}
+
 export async function moveFile(sourcePath: string, destinationPath: string): Promise<void> {
   await ensureDir(path.dirname(destinationPath));
   await fs.rename(sourcePath, destinationPath);
 }
 
-export async function listFiles(dirPath: string): Promise<string[]> {
-  if (!(await exists(dirPath))) {
-    return [];
+export async function moveFileExclusive(sourcePath: string, destinationPath: string): Promise<string> {
+  await ensureDir(path.dirname(destinationPath));
+
+  for (let index = 0; index < 10_000; index += 1) {
+    const candidatePath = withCollisionSuffix(destinationPath, index);
+    try {
+      await fs.link(sourcePath, candidatePath);
+      await fs.unlink(sourcePath);
+      return candidatePath;
+    } catch (error) {
+      if (isAlreadyExistsError(error)) {
+        continue;
+      }
+      throw error;
+    }
   }
-  const entries = await fs.readdir(dirPath, { withFileTypes: true });
-  return entries.map((entry) => path.join(dirPath, entry.name));
+
+  throw new Error(`Could not create a unique file name for ${destinationPath}`);
 }
 
 export async function listFileEntries(dirPath: string): Promise<Array<{ path: string; name: string; isDirectory: boolean; isFile: boolean }>> {
@@ -95,4 +166,18 @@ export async function copyDirectory(sourceDir: string, destinationDir: string): 
       await copyFile(sourcePath, destinationPath);
     }
   }
+}
+
+function withCollisionSuffix(filePath: string, index: number): string {
+  if (index === 0) {
+    return filePath;
+  }
+
+  const extension = path.extname(filePath);
+  const stem = extension ? filePath.slice(0, -extension.length) : filePath;
+  return `${stem}-${index + 1}${extension}`;
+}
+
+function isAlreadyExistsError(error: unknown): boolean {
+  return typeof error === "object" && error !== null && "code" in error && error.code === "EEXIST";
 }

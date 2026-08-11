@@ -2,8 +2,13 @@ import { lintVault } from "../services/lint-service";
 import { appendLogEntry } from "../services/log-service";
 import type { ProjectPaths } from "../utils/paths";
 
-export async function runLint(paths: ProjectPaths): Promise<string[]> {
-  const report = await lintVault(paths.wikiDir, paths.sourcesDir);
+export interface LintCommandResult {
+  lines: string[];
+  hasErrors: boolean;
+}
+
+export async function runLint(paths: ProjectPaths): Promise<LintCommandResult> {
+  const report = await lintVault(paths.wikiDir, paths.sourcesDir, paths.vaultDir);
   await appendLogEntry(paths.logFile, {
     event: "lint",
     title: "Vault lint",
@@ -11,8 +16,11 @@ export async function runLint(paths: ProjectPaths): Promise<string[]> {
   });
 
   if (report.findings.length === 0) {
-    return ["OK: No lint findings."];
+    return { lines: ["OK: No lint findings."], hasErrors: false };
   }
 
-  return report.findings.map((finding) => `${finding.level.toUpperCase()}: ${finding.filePath} -> ${finding.message}`);
+  return {
+    lines: report.findings.map((finding) => `${finding.level.toUpperCase()}: ${finding.filePath} -> ${finding.message}`),
+    hasErrors: report.findings.some((finding) => finding.level === "error")
+  };
 }

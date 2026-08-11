@@ -1,6 +1,7 @@
 import { execFileSync } from "node:child_process";
 import path from "node:path";
-import { copyFile, ensureDir, writeText } from "../adapters/filesystem";
+import { copyFileExclusive, ensureDir, writeTextExclusive } from "../adapters/filesystem";
+import { renderFrontmatter } from "../adapters/frontmatter";
 import { appendLogEntry } from "./log-service";
 import { formatFileTimestamp, formatTimestamp } from "../utils/date";
 import type { ProjectPaths } from "../utils/paths";
@@ -30,7 +31,7 @@ export async function capturePaste(paths: ProjectPaths, options: CapturePasteOpt
     throw new Error("No content provided. Pass --content, pipe text to stdin, or copy text to the clipboard first.");
   }
 
-  const filePath = path.join(paths.inboxPasteDir, `${formatFileTimestamp()}-${slugify(options.title || "capture")}.md`);
+  const requestedPath = path.join(paths.inboxPasteDir, `${formatFileTimestamp()}-${slugify(options.title || "capture")}.md`);
   const body = renderInboxMarkdown({
     title: options.title || "Pasted Capture",
     kind: "paste",
@@ -39,7 +40,7 @@ export async function capturePaste(paths: ProjectPaths, options: CapturePasteOpt
     content
   });
 
-  await writeText(filePath, body);
+  const filePath = await writeTextExclusive(requestedPath, body);
   await appendLogEntry(paths.logFile, {
     event: "capture",
     title: options.title || "Pasted Capture",
@@ -50,7 +51,7 @@ export async function capturePaste(paths: ProjectPaths, options: CapturePasteOpt
 
 export async function captureNote(paths: ProjectPaths, options: CaptureNoteOptions): Promise<string> {
   const content = (options.content ?? (await readStdin()) ?? "").trim();
-  const filePath = path.join(paths.inboxNotesDir, `${formatFileTimestamp()}-${slugify(options.title || "note")}.md`);
+  const requestedPath = path.join(paths.inboxNotesDir, `${formatFileTimestamp()}-${slugify(options.title || "note")}.md`);
   const body = renderInboxMarkdown({
     title: options.title || "Quick Note",
     kind: "note",
@@ -59,7 +60,7 @@ export async function captureNote(paths: ProjectPaths, options: CaptureNoteOptio
     content: content || "Add your note here."
   });
 
-  await writeText(filePath, body);
+  const filePath = await writeTextExclusive(requestedPath, body);
   await appendLogEntry(paths.logFile, {
     event: "capture",
     title: options.title || "Quick Note",
@@ -71,9 +72,9 @@ export async function captureNote(paths: ProjectPaths, options: CaptureNoteOptio
 export async function captureFile(paths: ProjectPaths, options: CaptureFileOptions): Promise<{ filePath: string; metadataPath: string }> {
   const extension = path.extname(options.filePath);
   const fileName = `${formatFileTimestamp()}-${slugify(options.title || path.basename(options.filePath, extension))}${extension}`;
-  const destinationPath = path.join(paths.inboxFilesDir, fileName);
+  const requestedPath = path.join(paths.inboxFilesDir, fileName);
   await ensureDir(paths.inboxFilesDir);
-  await copyFile(path.resolve(options.filePath), destinationPath);
+  const destinationPath = await copyFileExclusive(path.resolve(options.filePath), requestedPath);
 
   const metadataPath = `${destinationPath}.meta.md`;
   const metadata = renderInboxFileMetadata({
@@ -82,51 +83,40 @@ export async function captureFile(paths: ProjectPaths, options: CaptureFileOptio
     url: options.url,
     originalPath: path.resolve(options.filePath)
   });
-  await writeText(metadataPath, metadata);
+  const actualMetadataPath = await writeTextExclusive(metadataPath, metadata);
   await appendLogEntry(paths.logFile, {
     event: "capture",
     title: options.title || path.basename(options.filePath),
     detail: `Stored file capture in ${path.relative(paths.vaultDir, destinationPath)}.`
   });
-  return { filePath: destinationPath, metadataPath };
+  return { filePath: destinationPath, metadataPath: actualMetadataPath };
 }
 
 function renderInboxMarkdown(input: { title: string; kind: "paste" | "note"; tags: string[]; url?: string; content: string }): string {
-  return [
-    "---",
-    `title: ${input.title}`,
-    `kind: ${input.kind}`,
-    `captured_at: ${formatTimestamp()}`,
-    `tags: [${input.tags.join(", ")}]`,
-    `source_url: ${input.url ?? ""}`,
-    "status: inbox",
-    "---",
-    "",
-    `# ${input.title}`,
-    "",
-    input.content,
-    ""
-  ].join("\n");
+  const frontmatter = renderFrontmatter({
+    title: input.title,
+    kind: input.kind,
+    captured_at: formatTimestamp(),
+    tags: input.tags,
+    source_url: input.url ?? "",
+    status: "inbox"
+  });
+
+  return `${frontmatter}\n\n# ${input.title}\n\n${input.content}\n`;
 }
 
 function renderInboxFileMetadata(input: { title: string; tags: string[]; url?: string; originalPath: string }): string {
-  return [
-    "---",
-    `title: ${input.title}`,
-    "kind: file",
-    `captured_at: ${formatTimestamp()}`,
-    `tags: [${input.tags.join(", ")}]`,
-    `source_url: ${input.url ?? ""}`,
-    `original_path: ${input.originalPath}`,
-    "status: inbox",
-    "---",
-    "",
-    `# ${input.title}`,
-    "",
-    "## Notes",
-    "Add notes about this file before processing if needed.",
-    ""
-  ].join("\n");
+  const frontmatter = renderFrontmatter({
+    title: input.title,
+    kind: "file",
+    captured_at: formatTimestamp(),
+    tags: input.tags,
+    source_url: input.url ?? "",
+    original_path: input.originalPath,
+    status: "inbox"
+  });
+
+  return `${frontmatter}\n\n# ${input.title}\n\n## Notes\nAdd notes about this file before processing if needed.\n`;
 }
 
 async function readStdin(): Promise<string | undefined> {

@@ -13,10 +13,58 @@ export interface LintReport {
   findings: LintFinding[];
 }
 
-export async function lintVault(wikiDir: string, sourcesDir: string): Promise<LintReport> {
+export async function lintVault(wikiDir: string, sourcesDir: string, vaultDir?: string): Promise<LintReport> {
   const findings: LintFinding[] = [];
   const wikiFiles = await listMarkdownFilesRecursive(wikiDir);
-  const sourceIds = new Set((await listMarkdownFilesRecursive(sourcesDir)).map((filePath) => path.basename(filePath, ".md")));
+  const sourceFiles = await listMarkdownFilesRecursive(sourcesDir);
+  const sourceIds = new Set(sourceFiles.map((filePath) => path.basename(filePath, ".md")));
+
+  if (vaultDir) {
+    const validateSourcePath = async (sourceFile: string, sourcePath: string, fieldName: string): Promise<void> => {
+      const resolvedSourcePath = path.resolve(vaultDir, sourcePath);
+      const relativeToVault = path.relative(vaultDir, resolvedSourcePath);
+      if (relativeToVault.startsWith("..") || path.isAbsolute(relativeToVault)) {
+        findings.push({
+          level: "error",
+          filePath: sourceFile,
+          message: `${fieldName} escapes the vault: ${sourcePath}`
+        });
+        return;
+      }
+
+      try {
+        await readText(resolvedSourcePath);
+      } catch {
+        findings.push({
+          level: "error",
+          filePath: sourceFile,
+          message: `Missing raw source file: ${sourcePath}`
+        });
+      }
+    };
+
+    for (const sourceFile of sourceFiles) {
+      const content = await readText(sourceFile);
+      const { attributes } = parseFrontmatter(content);
+      const sourcePath = attributes.source_path;
+      if (typeof sourcePath !== "string" || !sourcePath.trim()) {
+        findings.push({
+          level: "error",
+          filePath: sourceFile,
+          message: "Source record is missing source_path"
+        });
+      } else {
+        await validateSourcePath(sourceFile, sourcePath, "Source path");
+      }
+
+      const additionalPaths = attributes.additional_source_paths;
+      if (Array.isArray(additionalPaths)) {
+        for (const additionalPath of additionalPaths) {
+          await validateSourcePath(sourceFile, additionalPath, "Additional source path");
+        }
+      }
+    }
+  }
   const wikiSlugs = new Set(wikiFiles.map((filePath) => path.basename(filePath, ".md")));
   const inboundLinkCount = new Map<string, number>();
 

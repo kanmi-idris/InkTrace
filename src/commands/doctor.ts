@@ -18,3 +18,7 @@ export async function runDoctor(paths: ProjectPaths): Promise<string[]> {
   }
   return report;
 }
+
+export function doctorHasProblems(report: string[]): boolean {
+  return report.some((line) => line.startsWith("MISSING:"));
+}

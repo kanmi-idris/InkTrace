@@ -1,6 +1,6 @@
 import path from "node:path";
 import { parseFrontmatter } from "../adapters/frontmatter";
-import { listFileEntries, moveFile, readText } from "../adapters/filesystem";
+import { listFileEntries, moveFileExclusive, readText } from "../adapters/filesystem";
 import { runNewSource } from "../commands/new-source";
 import type { ProjectPaths } from "../utils/paths";
 
@@ -121,14 +121,14 @@ function inferSourceType(item: InboxItem): string {
 
 async function archiveInboxItem(paths: ProjectPaths, item: InboxItem): Promise<void> {
   const destinationDir = path.join(paths.inboxProcessedDir, item.kind === "file" ? "files" : item.kind === "note" ? "notes" : "paste");
-  const destinationPath = path.join(destinationDir, path.basename(item.filePath));
-  await moveFile(item.filePath, destinationPath);
+  const requestedPath = path.join(destinationDir, path.basename(item.filePath));
+  const destinationPath = await moveFileExclusive(item.filePath, requestedPath);
 
   if (item.kind === "file") {
     const metaSource = `${item.filePath}.meta.md`;
     const metaDestination = `${destinationPath}.meta.md`;
     try {
-      await moveFile(metaSource, metaDestination);
+      await moveFileExclusive(metaSource, metaDestination);
     } catch {
       // no metadata file to move
     }

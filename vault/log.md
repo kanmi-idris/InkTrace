@@ -5780,3 +5780,444 @@
 
 ## [2026-08-08 22:27] lint | Vault lint
 - Found 10 issue(s).
+
+## [2026-08-09 00:08] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-09 00:08] lint | Vault lint
+- No issues found.
+
+## [2026-08-09 00:09] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-09 00:09] lint | Vault lint
+- No issues found.
+
+## [2026-08-09 07:58] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-09 07:58] lint | Vault lint
+- No issues found.
+
+## [2026-08-09 07:59] lint | Vault lint
+- No issues found.
+
+## [2026-08-09 08:06] capture | Mr. Panda's Psychologically Safe Portfolio
+- Stored pasted content in inbox/paste/2026-08-09-080647-mr-panda-s-psychologically-safe-portfolio.md.
+
+## [2026-08-09 08:06] capture | MengTo Skills: Agent Skills for Designers and Builders
+- Stored pasted content in inbox/paste/2026-08-09-080647-mengto-skills-agent-skills-for-designers-and-builders.md.
+
+## [2026-08-09 08:06] capture | Ponpon Mania - Interactive Comic
+- Stored pasted content in inbox/paste/2026-08-09-080647-ponpon-mania-interactive-comic.md.
+
+## [2026-08-09 08:06] capture | My Little Storybook
+- Stored pasted content in inbox/paste/2026-08-09-080647-my-little-storybook.md.
+
+## [2026-08-09 08:06] capture | MengTo/kage: Interactive Kyoto Mountain Temple
+- Stored pasted content in inbox/paste/2026-08-09-080647-mengto-kage-interactive-kyoto-mountain-temple.md.
+
+## [2026-08-09 08:06] capture | LiteReality/LiteReality-Agent
+- Stored pasted content in inbox/paste/2026-08-09-080647-litereality-litereality-agent.md.
+
+## [2026-08-09 08:06] capture | LiteReality-Agent: Technical Project Article
+- Stored pasted content in inbox/paste/2026-08-09-080647-litereality-agent-technical-project-article.md.
+
+## [2026-08-09 08:06] capture | LiteReality-Agent Project Site
+- Stored pasted content in inbox/paste/2026-08-09-080647-litereality-agent-project-site.md.
+
+## [2026-08-09 08:06] capture | LiteReality App - App Store
+- Stored pasted content in inbox/paste/2026-08-09-080647-litereality-app-app-store.md.
+
+## [2026-08-09 08:06] capture | Kage: Where Stillness Reveals the Unseen
+- Stored pasted content in inbox/paste/2026-08-09-080647-kage-where-stillness-reveals-the-unseen.md.
+
+## [2026-08-09 08:06] capture | Justine Soulié - Art Director and Illustrator
+- Stored pasted content in inbox/paste/2026-08-09-080647-justine-souli-art-director-and-illustrator.md.
+
+## [2026-08-09 08:06] capture | Iterate on UI with Live Mode - Impeccable
+- Stored pasted content in inbox/paste/2026-08-09-080647-iterate-on-ui-with-live-mode-impeccable.md.
+
+## [2026-08-09 08:06] capture | Cyber Security Course of Station X
+- Stored pasted content in inbox/paste/2026-08-09-080647-cyber-security-course-of-station-x.md.
+
+## [2026-08-09 08:06] ingest | src-2026-08-09-001 | Cyber Security Course of Station X
+- Created source record at sources/src-2026-08-09-001.md and raw source at raw/articles/2026-08-09-cyber-security-course-of-station-x.md.
+
+## [2026-08-09 08:06] ingest | src-2026-08-09-002 | Iterate on UI with Live Mode - Impeccable
+- Created source record at sources/src-2026-08-09-002.md and raw source at raw/articles/2026-08-09-iterate-on-ui-with-live-mode-impeccable.md.
+
+## [2026-08-09 08:06] ingest | src-2026-08-09-003 | Justine Soulié - Art Director and Illustrator
+- Created source record at sources/src-2026-08-09-003.md and raw source at raw/articles/2026-08-09-justine-souli-art-director-and-illustrator.md.
+
+## [2026-08-09 08:06] ingest | src-2026-08-09-004 | Kage: Where Stillness Reveals the Unseen
+- Created source record at sources/src-2026-08-09-004.md and raw source at raw/articles/2026-08-09-kage-where-stillness-reveals-the-unseen.md.
+
+## [2026-08-09 08:06] ingest | src-2026-08-09-005 | LiteReality-Agent Project Site
+- Created source record at sources/src-2026-08-09-005.md and raw source at raw/articles/2026-08-09-litereality-agent-project-site.md.
+
+## [2026-08-09 08:06] ingest | src-2026-08-09-006 | LiteReality-Agent: Technical Project Article
+- Created source record at sources/src-2026-08-09-006.md and raw source at raw/articles/2026-08-09-litereality-agent-technical-project-article.md.
+
+## [2026-08-09 08:06] ingest | src-2026-08-09-007 | LiteReality App - App Store
+- Created source record at sources/src-2026-08-09-007.md and raw source at raw/articles/2026-08-09-litereality-app-app-store.md.
+
+## [2026-08-09 08:06] ingest | src-2026-08-09-008 | LiteReality/LiteReality-Agent
+- Created source record at sources/src-2026-08-09-008.md and raw source at raw/articles/2026-08-09-litereality-litereality-agent.md.
+
+## [2026-08-09 08:06] ingest | src-2026-08-09-009 | MengTo/kage: Interactive Kyoto Mountain Temple
+- Created source record at sources/src-2026-08-09-009.md and raw source at raw/articles/2026-08-09-mengto-kage-interactive-kyoto-mountain-temple.md.
+
+## [2026-08-09 08:06] ingest | src-2026-08-09-010 | MengTo Skills: Agent Skills for Designers and Builders
+- Created source record at sources/src-2026-08-09-010.md and raw source at raw/articles/2026-08-09-mengto-skills-agent-skills-for-designers-and-builders.md.
+
+## [2026-08-09 08:06] ingest | src-2026-08-09-011 | Mr. Panda's Psychologically Safe Portfolio
+- Created source record at sources/src-2026-08-09-011.md and raw source at raw/articles/2026-08-09-mr-panda-s-psychologically-safe-portfolio.md.
+
+## [2026-08-09 08:06] ingest | src-2026-08-09-012 | My Little Storybook
+- Created source record at sources/src-2026-08-09-012.md and raw source at raw/articles/2026-08-09-my-little-storybook.md.
+
+## [2026-08-09 08:06] ingest | src-2026-08-09-013 | Ponpon Mania - Interactive Comic
+- Created source record at sources/src-2026-08-09-013.md and raw source at raw/articles/2026-08-09-ponpon-mania-interactive-comic.md.
+
+## [2026-08-09 08:06] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-09 08:06] lint | Vault lint
+- No issues found.
+
+## [2026-08-09 08:07] lint | Vault lint
+- No issues found.
+
+## [2026-08-09 08:22] capture | Creating Viral Short Form Content with Generative AI
+- Stored pasted content in inbox/paste/2026-08-09-082233-creating-viral-short-form-content-with-generative-ai.md.
+
+## [2026-08-09 08:22] capture | n8n Course
+- Stored pasted content in inbox/paste/2026-08-09-082233-n8n-course.md.
+
+## [2026-08-09 08:22] capture | UI/UX DESIGNING
+- Stored pasted content in inbox/paste/2026-08-09-082233-ui-ux-designing.md.
+
+## [2026-08-09 08:22] capture | Kakulukian/youtube-transcript
+- Stored pasted content in inbox/paste/2026-08-09-082233-kakulukian-youtube-transcript.md.
+
+## [2026-08-09 08:22] capture | Advanced CapCut Course: Professional Video Editing
+- Stored pasted content in inbox/paste/2026-08-09-082233-advanced-capcut-course-professional-video-editing.md.
+
+## [2026-08-09 08:22] capture | Afrikan Krafterz: Preserve and Share African Heritage
+- Stored pasted content in inbox/paste/2026-08-09-082233-afrikan-krafterz-preserve-and-share-african-heritage.md.
+
+## [2026-08-09 08:22] ingest | src-2026-08-09-014 | Advanced CapCut Course: Professional Video Editing
+- Created source record at sources/src-2026-08-09-014.md and raw source at raw/articles/2026-08-09-advanced-capcut-course-professional-video-editing.md.
+
+## [2026-08-09 08:22] ingest | src-2026-08-09-015 | Afrikan Krafterz: Preserve and Share African Heritage
+- Created source record at sources/src-2026-08-09-015.md and raw source at raw/articles/2026-08-09-afrikan-krafterz-preserve-and-share-african-heritage.md.
+
+## [2026-08-09 08:22] ingest | src-2026-08-09-016 | Creating Viral Short Form Content with Generative AI
+- Created source record at sources/src-2026-08-09-016.md and raw source at raw/articles/2026-08-09-creating-viral-short-form-content-with-generative-ai.md.
+
+## [2026-08-09 08:22] ingest | src-2026-08-09-017 | Kakulukian/youtube-transcript
+- Created source record at sources/src-2026-08-09-017.md and raw source at raw/articles/2026-08-09-kakulukian-youtube-transcript.md.
+
+## [2026-08-09 08:22] ingest | src-2026-08-09-018 | n8n Course
+- Created source record at sources/src-2026-08-09-018.md and raw source at raw/articles/2026-08-09-n8n-course.md.
+
+## [2026-08-09 08:22] ingest | src-2026-08-09-019 | UI/UX DESIGNING
+- Created source record at sources/src-2026-08-09-019.md and raw source at raw/articles/2026-08-09-ui-ux-designing.md.
+
+## [2026-08-09 08:22] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-09 08:22] lint | Vault lint
+- No issues found.
+
+## [2026-08-09 08:22] lint | Vault lint
+- No issues found.
+
+## [2026-08-09 19:59] capture | LiteParse Document Complexity
+- Stored pasted content in inbox/paste/2026-08-09-195915-liteparse-document-complexity.md.
+
+## [2026-08-09 19:59] capture | LiteParse Extraction Options
+- Stored pasted content in inbox/paste/2026-08-09-195915-liteparse-extraction-options.md.
+
+## [2026-08-09 19:59] capture | run-llama/liteparse
+- Stored pasted content in inbox/paste/2026-08-09-195915-run-llama-liteparse.md.
+
+## [2026-08-09 19:59] capture | WorldClaw: Agentic 3D Open-World Generation at Scale
+- Stored pasted content in inbox/paste/2026-08-09-195915-worldclaw-agentic-3d-open-world-generation-at-scale.md.
+
+## [2026-08-09 19:59] ingest | src-2026-08-09-020 | LiteParse Document Complexity
+- Created source record at sources/src-2026-08-09-020.md and raw source at raw/articles/2026-08-09-liteparse-document-complexity.md.
+
+## [2026-08-09 19:59] ingest | src-2026-08-09-021 | LiteParse Extraction Options
+- Created source record at sources/src-2026-08-09-021.md and raw source at raw/articles/2026-08-09-liteparse-extraction-options.md.
+
+## [2026-08-09 19:59] ingest | src-2026-08-09-022 | run-llama/liteparse
+- Created source record at sources/src-2026-08-09-022.md and raw source at raw/articles/2026-08-09-run-llama-liteparse.md.
+
+## [2026-08-09 19:59] ingest | src-2026-08-09-023 | WorldClaw: Agentic 3D Open-World Generation at Scale
+- Created source record at sources/src-2026-08-09-023.md and raw source at raw/articles/2026-08-09-worldclaw-agentic-3d-open-world-generation-at-scale.md.
+
+## [2026-08-09 19:59] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-09 19:59] lint | Vault lint
+- No issues found.
+
+## [2026-08-09 19:59] lint | Vault lint
+- No issues found.
+
+## [2026-08-09 20:11] capture | AppMap Visualiser
+- Stored pasted content in inbox/paste/2026-08-09-201141-appmap-visualiser.md.
+
+## [2026-08-09 20:11] ingest | src-2026-08-09-024 | AppMap Visualiser
+- Created source record at sources/src-2026-08-09-024.md and raw source at raw/articles/2026-08-09-appmap-visualiser.md.
+
+## [2026-08-09 20:11] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-09 20:11] lint | Vault lint
+- No issues found.
+
+## [2026-08-09 20:11] lint | Vault lint
+- No issues found.
+
+## [2026-08-09 20:12] capture | App Store Connect CLI
+- Stored pasted content in inbox/paste/2026-08-09-201241-app-store-connect-cli.md.
+
+## [2026-08-09 20:12] ingest | src-2026-08-09-025 | App Store Connect CLI
+- Created source record at sources/src-2026-08-09-025.md and raw source at raw/articles/2026-08-09-app-store-connect-cli.md.
+
+## [2026-08-09 20:12] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-09 20:12] lint | Vault lint
+- No issues found.
+
+## [2026-08-09 20:12] lint | Vault lint
+- No issues found.
+
+## [2026-08-09 20:29] capture | Microsoft TRELLIS.2: Native and Compact Structured Latents for 3D Generation
+- Stored pasted content in inbox/paste/2026-08-09-202936-microsoft-trellis-2-native-and-compact-structured-latents-for-3d-generation.md.
+
+## [2026-08-09 20:29] ingest | src-2026-08-09-026 | Microsoft TRELLIS.2: Native and Compact Structured Latents for 3D Generation
+- Created source record at sources/src-2026-08-09-026.md and raw source at raw/articles/2026-08-09-microsoft-trellis-2-native-and-compact-structured-latents-for-3d-generation.md.
+
+## [2026-08-09 20:29] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-09 20:29] lint | Vault lint
+- No issues found.
+
+## [2026-08-09 20:29] lint | Vault lint
+- No issues found.
+
+## [2026-08-09 20:30] capture | Polyfork: 3D Assets You Can Remix
+- Stored pasted content in inbox/paste/2026-08-09-203013-polyfork-3d-assets-you-can-remix.md.
+
+## [2026-08-09 20:30] ingest | src-2026-08-09-027 | Polyfork: 3D Assets You Can Remix
+- Created source record at sources/src-2026-08-09-027.md and raw source at raw/articles/2026-08-09-polyfork-3d-assets-you-can-remix.md.
+
+## [2026-08-09 20:30] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-09 20:30] lint | Vault lint
+- No issues found.
+
+## [2026-08-09 20:30] lint | Vault lint
+- No issues found.
+
+## [2026-08-09 20:31] capture | shuohao-skills: Novel Characters Skill for AI Coding Agents
+- Stored pasted content in inbox/paste/2026-08-09-203126-shuohao-skills-novel-characters-skill-for-ai-coding-agents.md.
+
+## [2026-08-09 20:31] ingest | src-2026-08-09-028 | shuohao-skills: Novel Characters Skill for AI Coding Agents
+- Created source record at sources/src-2026-08-09-028.md and raw source at raw/articles/2026-08-09-shuohao-skills-novel-characters-skill-for-ai-coding-agents.md.
+
+## [2026-08-09 20:31] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-09 20:31] lint | Vault lint
+- No issues found.
+
+## [2026-08-09 20:31] lint | Vault lint
+- No issues found.
+
+## [2026-08-09 20:32] capture | Top Welcome Screens: React Native Expo Onboarding UI Studies
+- Stored pasted content in inbox/paste/2026-08-09-203222-top-welcome-screens-react-native-expo-onboarding-ui-studies.md.
+
+## [2026-08-09 20:32] ingest | src-2026-08-09-029 | Top Welcome Screens: React Native Expo Onboarding UI Studies
+- Created source record at sources/src-2026-08-09-029.md and raw source at raw/articles/2026-08-09-top-welcome-screens-react-native-expo-onboarding-ui-studies.md.
+
+## [2026-08-09 20:32] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-09 20:32] lint | Vault lint
+- No issues found.
+
+## [2026-08-09 20:32] lint | Vault lint
+- No issues found.
+
+## [2026-08-09 20:55] capture | Mobile Experiments: React Native and Expo UI Studies
+- Stored pasted content in inbox/paste/2026-08-09-205527-mobile-experiments-react-native-and-expo-ui-studies.md.
+
+## [2026-08-09 20:55] ingest | src-2026-08-09-030 | Mobile Experiments: React Native and Expo UI Studies
+- Created source record at sources/src-2026-08-09-030.md and raw source at raw/articles/2026-08-09-mobile-experiments-react-native-and-expo-ui-studies.md.
+
+## [2026-08-09 20:55] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-09 20:55] lint | Vault lint
+- No issues found.
+
+## [2026-08-09 20:55] lint | Vault lint
+- No issues found.
+
+## [2026-08-09 20:56] capture | Thinking Outside the Box (Literally)
+- Stored pasted content in inbox/paste/2026-08-09-205622-thinking-outside-the-box-literally.md.
+
+## [2026-08-09 20:56] ingest | src-2026-08-09-031 | Thinking Outside the Box (Literally)
+- Created source record at sources/src-2026-08-09-031.md and raw source at raw/articles/2026-08-09-thinking-outside-the-box-literally.md.
+
+## [2026-08-09 20:56] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-09 20:56] lint | Vault lint
+- No issues found.
+
+## [2026-08-09 20:56] lint | Vault lint
+- No issues found.
+
+## [2026-08-09 20:57] capture | Diagram Design: Editorial Diagrams for Claude Code
+- Stored pasted content in inbox/paste/2026-08-09-205725-diagram-design-editorial-diagrams-for-claude-code.md.
+
+## [2026-08-09 20:57] ingest | src-2026-08-09-032 | Diagram Design: Editorial Diagrams for Claude Code
+- Created source record at sources/src-2026-08-09-032.md and raw source at raw/articles/2026-08-09-diagram-design-editorial-diagrams-for-claude-code.md.
+
+## [2026-08-09 20:57] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-09 20:57] lint | Vault lint
+- No issues found.
+
+## [2026-08-09 20:57] lint | Vault lint
+- No issues found.
+
+## [2026-08-09 21:05] capture | How to Import an EV Direct from China: XPeng G6 Playbook
+- Stored pasted content in inbox/paste/2026-08-09-210505-how-to-import-an-ev-direct-from-china-xpeng-g6-playbook.md.
+
+## [2026-08-09 21:05] ingest | src-2026-08-09-033 | How to Import an EV Direct from China: XPeng G6 Playbook
+- Created source record at sources/src-2026-08-09-033.md and raw source at raw/articles/2026-08-09-how-to-import-an-ev-direct-from-china-xpeng-g6-playbook.md.
+
+## [2026-08-09 21:05] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-09 21:05] lint | Vault lint
+- No issues found.
+
+## [2026-08-09 21:05] lint | Vault lint
+- No issues found.
+
+## [2026-08-09 21:25] capture | ASD-STE100 and Zinsser's Four Principles of Quality Writing
+- Stored pasted content in inbox/paste/2026-08-09-212510-asd-ste100-and-zinsser-s-four-principles-of-quality-writing.md.
+
+## [2026-08-09 21:25] ingest | src-2026-08-09-034 | ASD-STE100 and Zinsser's Four Principles of Quality Writing
+- Created source record at sources/src-2026-08-09-034.md and raw source at raw/articles/2026-08-09-asd-ste100-and-zinsser-s-four-principles-of-quality-writing.md.
+
+## [2026-08-09 21:25] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-09 21:25] lint | Vault lint
+- No issues found.
+
+## [2026-08-09 21:25] lint | Vault lint
+- No issues found.
+
+## [2026-08-09 22:41] capture | Mem0: Universal Memory Layer for AI Agents
+- Stored pasted content in inbox/paste/2026-08-09-224109-mem0-universal-memory-layer-for-ai-agents.md.
+
+## [2026-08-09 22:41] ingest | src-2026-08-09-035 | Mem0: Universal Memory Layer for AI Agents
+- Created source record at sources/src-2026-08-09-035.md and raw source at raw/articles/2026-08-09-mem0-universal-memory-layer-for-ai-agents.md.
+
+## [2026-08-09 22:41] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-09 22:41] lint | Vault lint
+- No issues found.
+
+## [2026-08-09 22:41] lint | Vault lint
+- No issues found.
+
+## [2026-08-10 21:14] capture | Open Screenshot Generator: Local App Store and Play Store Graphics
+- Stored pasted content in inbox/paste/2026-08-10-211412-open-screenshot-generator-local-app-store-and-play-store-graphics.md.
+
+## [2026-08-10 21:14] ingest | src-2026-08-10-001 | Open Screenshot Generator: Local App Store and Play Store Graphics
+- Created source record at sources/src-2026-08-10-001.md and raw source at raw/articles/2026-08-10-open-screenshot-generator-local-app-store-and-play-store-graphics.md.
+
+## [2026-08-10 21:14] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-10 21:14] lint | Vault lint
+- No issues found.
+
+## [2026-08-10 21:14] lint | Vault lint
+- No issues found.
+
+## [2026-08-10 21:16] capture | Elemental Sandbox: Three.js Procedural VFX Playground
+- Stored pasted content in inbox/paste/2026-08-10-211630-elemental-sandbox-three-js-procedural-vfx-playground.md.
+
+## [2026-08-10 21:16] ingest | src-2026-08-10-002 | Elemental Sandbox: Three.js Procedural VFX Playground
+- Created source record at sources/src-2026-08-10-002.md and raw source at raw/articles/2026-08-10-elemental-sandbox-three-js-procedural-vfx-playground.md.
+
+## [2026-08-10 21:16] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-10 21:16] lint | Vault lint
+- No issues found.
+
+## [2026-08-10 21:16] lint | Vault lint
+- No issues found.
+
+## [2026-08-10 21:37] capture | Muse Glimmer: Open-Weight Local Agent Model
+- Stored pasted content in inbox/paste/2026-08-10-213725-muse-glimmer-open-weight-local-agent-model.md.
+
+## [2026-08-10 21:38] ingest | src-2026-08-10-003 | Muse Glimmer: Open-Weight Local Agent Model
+- Created source record at sources/src-2026-08-10-003.md and raw source at raw/articles/2026-08-10-muse-glimmer-open-weight-local-agent-model.md.
+
+## [2026-08-10 21:38] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-10 21:38] lint | Vault lint
+- No issues found.
+
+## [2026-08-10 21:38] lint | Vault lint
+- No issues found.
+
+## [2026-08-11 16:52] capture | Needle 2: 14MB Agentic LLM for Edge Devices
+- Stored pasted content in inbox/paste/2026-08-11-165229-needle-2-14mb-agentic-llm-for-edge-devices.md.
+
+## [2026-08-11 16:52] ingest | src-2026-08-11-001 | Needle 2: 14MB Agentic LLM for Edge Devices
+- Created source record at sources/src-2026-08-11-001.md and raw source at raw/articles/2026-08-11-needle-2-14mb-agentic-llm-for-edge-devices.md.
+
+## [2026-08-11 16:52] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-11 16:52] lint | Vault lint
+- No issues found.
+
+## [2026-08-11 16:53] capture | Needle 2 Follow-up: Intended Use and Quantization Discussion
+- Stored pasted content in inbox/paste/2026-08-11-165359-needle-2-follow-up-intended-use-and-quantization-discussion.md.
+
+## [2026-08-11 16:54] ingest | src-2026-08-11-002 | Needle 2 Follow-up: Intended Use and Quantization Discussion
+- Created source record at sources/src-2026-08-11-002.md and raw source at raw/articles/2026-08-11-needle-2-follow-up-intended-use-and-quantization-discussion.md.
+
+## [2026-08-11 16:54] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-11 16:54] lint | Vault lint
+- No issues found.
+
+## [2026-08-11 16:54] lint | Vault lint
+- No issues found.
+
+## [2026-08-11 17:05] lint | Vault lint
+- No issues found.

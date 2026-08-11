@@ -1,20 +1,30 @@
 export function extractTitle(content: string): string {
-  const titleMatch = content.match(/^#\s+(.+)$/m);
-  return titleMatch ? titleMatch[1].trim() : "Untitled";
+  const lines = content.replace(/\r\n?/g, "\n").split("\n");
+  const title = lines.find((line) => /^#\s+/.test(line));
+  return title ? title.replace(/^#\s+/, "").trim() : "Untitled";
 }
 
 export function extractSummary(content: string): string {
-  const summaryMatch = content.match(/^## Summary\n([\s\S]*?)(\n## |$)/m);
-  if (!summaryMatch) {
+  const lines = content.replace(/\r\n?/g, "\n").split("\n");
+  const summaryIndex = lines.findIndex((line) => line.trim() === "## Summary");
+  const sectionIndex = summaryIndex === -1
+    ? lines.findIndex((line) => line.trim().startsWith("## "))
+    : summaryIndex;
+  if (sectionIndex === -1) {
     return "No summary yet.";
   }
 
-  const lines = summaryMatch[1]
-    .split("\n")
-    .map((line) => line.trim())
-    .filter(Boolean);
+  for (let index = sectionIndex + 1; index < lines.length; index += 1) {
+    const line = lines[index].trim();
+    if (line.startsWith("## ")) {
+      break;
+    }
+    if (line) {
+      return line;
+    }
+  }
 
-  return lines[0] ?? "No summary yet.";
+  return "No summary yet.";
 }
 
 export function extractCitations(content: string): string[] {

@@ -3,7 +3,12 @@ import { runRebuildIndex } from "./rebuild-index";
 import { runLint } from "./lint";
 import type { ProjectPaths } from "../utils/paths";
 
-export async function runIngestInbox(paths: ProjectPaths): Promise<string[]> {
+export interface IngestInboxResult {
+  lines: string[];
+  hasErrors: boolean;
+}
+
+export async function runIngestInbox(paths: ProjectPaths): Promise<IngestInboxResult> {
   const output: string[] = [];
 
   output.push("STEP 1: Processing inbox items...");
@@ -15,8 +20,8 @@ export async function runIngestInbox(paths: ProjectPaths): Promise<string[]> {
   output.push("Rebuilt index.");
 
   output.push("", "STEP 3: Running lint...");
-  const lintLines = await runLint(paths);
-  lintLines.forEach((line) => output.push(line));
+  const lintResult = await runLint(paths);
+  lintResult.lines.forEach((line) => output.push(line));
 
-  return output;
+  return { lines: output, hasErrors: lintResult.hasErrors };
 }

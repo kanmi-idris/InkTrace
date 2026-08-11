@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 import path from "node:path";
 import { runCapture } from "./commands/capture";
-import { runDoctor } from "./commands/doctor";
+import { doctorHasProblems, runDoctor } from "./commands/doctor";
 import { runIngestInbox } from "./commands/ingest";
 import { runInit } from "./commands/init";
 import { runInboxList, runInboxProcess } from "./commands/inbox";
@@ -33,6 +33,9 @@ async function main(): Promise<void> {
     case "doctor": {
       const report = await runDoctor(paths);
       report.forEach((line) => info(line));
+      if (doctorHasProblems(report)) {
+        process.exitCode = 1;
+      }
       return;
     }
     case "capture": {
@@ -71,8 +74,11 @@ async function main(): Promise<void> {
     case "ingest": {
       switch (parsed.subcommand) {
         case "inbox": {
-          const lines = await runIngestInbox(paths);
-          lines.forEach((line) => info(line));
+          const result = await runIngestInbox(paths);
+          result.lines.forEach((line) => info(line));
+          if (result.hasErrors) {
+            process.exitCode = 1;
+          }
           return;
         }
         default:
@@ -116,8 +122,11 @@ async function main(): Promise<void> {
       return;
     }
     case "lint": {
-      const lines = await runLint(paths);
-      lines.forEach((line) => info(line));
+      const result = await runLint(paths);
+      result.lines.forEach((line) => info(line));
+      if (result.hasErrors) {
+        process.exitCode = 1;
+      }
       return;
     }
     default:

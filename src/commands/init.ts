@@ -1,5 +1,5 @@
 import path from "node:path";
-import { copyDirectory, ensureDir, writeTextIfMissing } from "../adapters/filesystem";
+import { copyDirectory, ensureDir, readText, writeTextIfMissing } from "../adapters/filesystem";
 import { ensureLogFile, appendLogEntry } from "../services/log-service";
 import type { ProjectPaths } from "../utils/paths";
 
@@ -35,7 +35,7 @@ export async function runInit(paths: ProjectPaths): Promise<void> {
 
   await writeTextIfMissing(
     path.join(paths.systemDir, "AGENTS.md"),
-    await BunLike.readTemplate(path.join(paths.templateDir, "AGENTS.md"))
+    await readText(path.join(paths.templateDir, "AGENTS.md"))
   );
 
   await writeTextIfMissing(
@@ -70,11 +70,4 @@ export async function runInit(paths: ProjectPaths): Promise<void> {
     title: "InkTrace vault initialized",
     detail: "Created the base vault structure, copied templates, and installed AGENTS rules."
   });
-}
-
-class BunLike {
-  static async readTemplate(filePath: string): Promise<string> {
-    const { readText } = await import("../adapters/filesystem");
-    return readText(filePath);
-  }
 }

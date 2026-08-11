@@ -121,8 +121,8 @@ HLS and WebRTC have mature codec negotiation and player ecosystems (VLC, browser
 
 ## Related Entities
 
-- [[Media over QUIC (MoQ)]] - Protocol
-- [[HLS (HTTP Live Streaming)]] - Legacy competitor
-- [[WebRTC]] - Latency alternative
-- [[IETF]] - Standardization body
-- [[Software Mansion]] - Source author organization
+- [[media-over-quic-moq]] - Protocol
+- [[hls-http-live-streaming]] - Legacy competitor
+- [[webrtc]] - Latency alternative
+- [[ietf]] - Standardization body
+- [[software-mansion]] - Source author organization

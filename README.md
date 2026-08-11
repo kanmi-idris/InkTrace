@@ -15,9 +15,18 @@ InkTrace is a provenance-first personal knowledge system built for Obsidian, mar
 ```bash
 npm install
 npm run build
+npm test
 npm run bootstrap:vault
 npm run doctor
 ```
+
+Optional configuration uses `.env`:
+
+```bash
+cp .env.example .env
+```
+
+`INKTRACE_VAULT_PATH` selects the vault. `INKTRACE_TIMEZONE` controls capture dates and defaults to `Africa/Lagos`.
 
 ## Super-simple capture
 
@@ -69,6 +78,8 @@ Refresh the index and run lint checks:
 node dist/src/cli.js rebuild-index
 node dist/src/cli.js lint
 ```
+
+Lint returns a non-zero exit code when it finds errors. Warnings remain visible for review.
 
 ## Commands
 

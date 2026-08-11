@@ -6,31 +6,41 @@ This file is the primary navigation layer for the vault.
 
 - [[ai-agent-tooling-from-chat]] - AI Agent Tooling From Chat. The reviewed AI portion of the WhatsApp export centers on operational tooling rather than generic chat interfaces: observability, OCR and document understanding, agent memory, model-routing layers, and experiments where models act in more autonomous workflows. [src-2026-04-12-015][src-2026-04-12-019][src-2026-04-12-020][src-2026-04-12-031][src-2026-04-12-040][src-2026-04-12-052][src-2026-04-12-053][src-2026-04-12-054]
 - [[analytical-design-and-tufte-principles]] - Analytical Design And Tufte Principles. The reviewed note treats analytical design as more than chart minimalism. The strongest ideas are comparison, causality, multivariate structure, integrated evidence, and layered displays that reward both quick scanning and close reading. Sparklines, micro/macro composition, and explicit evidence documentation all appear as practical tools for making dense information both legible and trustworthy. [src-2026-05-23-001]
+- [[cdn-infrastructure]] - CDN Infrastructure. CDN infrastructure gives HLS scale and cost efficiency through origin servers and edge caches. [src-2026-06-12-001]
 - [[creative-problem-solving-heuristics]] - Creative Problem Solving Heuristics. Claude Shannon's "Creative Thinking" talk treats creative work as a set of trainable problem-solving moves rather than a mystical flash of inspiration. The core picture is that strong work needs both capability and drive, but that concrete heuristics such as simplification, analogy, reframing, decomposition, generalization, and inversion can materially improve how often useful solutions appear. [src-2026-06-10-014]
 - [[developer-tooling-catalog]] - Developer Tooling Catalog. Outside the strongest AI and React Native clusters, the reviewed links still form a useful secondary catalog: WebView integration patterns, framework ergonomics, localization architecture, programmatic video, UX heuristics, software design patterns, App Store review advice, and a smaller set of product or marketing references. [src-2026-04-12-014][src-2026-04-12-024][src-2026-04-12-027][src-2026-04-12-045][src-2026-04-12-047][src-2026-04-12-050][src-2026-04-12-051][src-2026-04-12-056]
 - [[frontend-code-quality-principles]] - Frontend Code Quality Principles. In the reviewed source, frontend code quality is defined primarily as ease of modification. The proposed framework evaluates that quality across four lenses: readability, predictability, cohesion, and coupling. [src-2026-04-14-003]
-- [[livestreaming-protocol-architecture]] - Livestreaming Protocol Architecture. No summary yet.
+- [[http-protocol-evolution]] - HTTP Protocol Evolution. The livestreaming source places MoQ on QUIC and the HTTP/3 transport foundation. [src-2026-06-12-001]
+- [[livestreaming-protocol-architecture]] - Livestreaming Protocol Architecture. Livestreaming infrastructure faces a fundamental trilemma: simultaneously optimizing for **scale** (concurrent viewers), **latency** (time-to-viewer), and **cost** (operational expense). Historical protocols each optimized two of the three. HLS/DASH achieve scale and cost-efficiency via CDN infrastructure but sacrifice latency (10-30 seconds). WebRTC achieves low latency (< 200ms) but sacrifices scale and cost due to per-viewer Selective Forwarding Unit (SFU) overhead. Media over QUIC (MoQ), a new IETF draft protocol, aims to optimize all three simultaneously through a publish-subscribe relay model that combines HLS's CDN scalability pattern with WebRTC's real-time transport semantics.
 - [[llm-wikis]] - LLM Wikis. LLM wikis are persistent, agent-maintained markdown knowledge bases that sit between raw sources and query-time answers, allowing knowledge synthesis to accumulate over time. [src-2026-04-12-001]
+- [[protocol-design-tradeoffs]] - Protocol Design Tradeoffs. Livestreaming protocols trade scale, latency, and cost. Different protocols optimize different pairs of these goals. [src-2026-06-12-001]
 - [[react-native-and-expo-notes]] - React Native And Expo Notes. The reviewed mobile-development slice of the export looks like a rolling toolbox for React Native and Expo work, with attention on editing rich text, motion and interaction patterns, deep linking, security review, Live Activities, bottom-sheet orchestration, and AI-assisted app creation. [src-2026-04-12-007][src-2026-04-12-023][src-2026-04-12-026][src-2026-04-12-033][src-2026-04-12-044][src-2026-04-12-048][src-2026-04-12-049][src-2026-04-12-055]
+- [[real-time-communication-systems]] - Real-Time Communication Systems. WebRTC provides low-latency communication, but per-viewer state and forwarding costs limit large-scale streaming. [src-2026-06-12-001]
 - [[startup-fundraising-readiness]] - Startup Fundraising Readiness. Even a short founder-facing checklist makes one durable point: fundraising readiness is not just pitch quality but document quality. Before investors begin diligence, founders benefit from having core legal, ownership, and incentive records organized enough that questions about incorporation, equity, IP ownership, confidentiality, and team-exit mechanics do not stall the process. [src-2026-06-10-015]
 - [[vertical-codebase-architecture]] - Vertical Codebase Architecture. Vertical codebase architecture groups code by what it does rather than by technical layer. Across the reviewed sources, this means colocating components, hooks, types, utilities, and other artifacts inside functionality-oriented verticals so that code that changes together also lives together. [src-2026-04-14-001][src-2026-04-14-002]
+- [[video-codec-standardization]] - Video Codec Standardization. Codec and player standardization remains an open adoption question for MoQ and live streaming systems. [src-2026-06-12-001]
 
 ## Entities
 
-- [[andrej-karpathy]] - Andrej Karpathy. No summary yet.
-- [[bun]] - Bun. No summary yet.
-- [[flipbook]] - Flipbook. No summary yet.
-- [[obsidian]] - Obsidian. No summary yet.
-- [[retrieval-augmented-generation]] - Retrieval-Augmented Generation. No summary yet.
+- [[andrej-karpathy]] - Andrej Karpathy. Andrej Karpathy is the author of the `LLM Wiki` gist that outlines the persistent wiki pattern used as the conceptual starting point for InkTrace. [src-2026-04-12-001]
+- [[bun]] - Bun. Bun is discussed here as a JavaScript runtime that offers strong developer ergonomics and attractive benchmark results, making it tempting for API gateway work. [src-2026-04-23-002]
+- [[flipbook]] - Flipbook. Flipbook is described as an experimental visual browser that generates each page as an image in real time, replacing conventional HTML elements with model-generated pixels. [src-2026-04-23-001]
+- [[hls-http-live-streaming]] - HLS (HTTP Live Streaming). HLS uses HTTP delivery and CDN caching to provide scalable, cost-efficient live streaming. [src-2026-06-12-001]
+- [[ietf]] - IETF. The IETF is the standardization context named by the source for the emerging MoQ protocol. [src-2026-06-12-001]
+- [[media-over-quic-moq]] - Media over QUIC (MoQ). MoQ is an emerging publish-subscribe protocol that aims to combine CDN scale with low-latency delivery. [src-2026-06-12-001]
+- [[obsidian]] - Obsidian. Obsidian is presented in the source as the live browsing surface where the user reads the evolving wiki while the LLM edits markdown files in the background. [src-2026-04-12-001]
+- [[retrieval-augmented-generation]] - Retrieval-Augmented Generation. Retrieval-augmented generation is described in the source as the dominant pattern where an LLM retrieves raw fragments at query time and synthesizes an answer on demand. [src-2026-04-12-001]
+- [[software-mansion]] - Software Mansion. Software Mansion is the organization that published the livestreaming trilemma source. [src-2026-06-12-001]
+- [[webrtc]] - WebRTC. WebRTC supports low-latency communication but requires stateful per-viewer forwarding resources for large streams. [src-2026-06-12-001]
 
 ## Synthesis
 
-- [[llm-wiki-vs-rag]] - LLM Wiki vs RAG. No summary yet.
+- [[llm-wiki-vs-rag]] - LLM Wiki vs RAG. How does the LLM wiki pattern differ from retrieval-augmented generation?
 - [[whatsapp-tools-cheatsheet-import]] - WhatsApp Tools Cheatsheet Import. The exported WhatsApp chat functions as a long-running personal research stream rather than a conventional conversation: it mixes repeated tool links, short implementation notes, and product ideas, with the reviewed subset clustering around AI tooling, React Native or Expo workflows, and practical developer references. [src-2026-04-12-006][src-2026-04-12-015][src-2026-04-12-023][src-2026-04-12-056]
 
 ## Questions
 
-- [[persistent-error-risk]] - Persistent Error Risk. No summary yet.
+- [[persistent-error-risk]] - Persistent Error Risk. How should InkTrace prevent a mistaken synthesis from becoming durable wiki truth?
 - [[remote-work-sites-follow-up]] - Remote Work Sites Follow-up. A June 2026 X post by Chioma Amadi claims there is a quick list of less popular sites that hire remote workers with relatively low competition and daily pay around `$130-$250`, but the publicly accessible fetch only revealed the teaser text and a link to an older general remote-work advice thread rather than the actual list. [src-2026-06-10-003]
 - [[unresolved-whatsapp-links]] - Unresolved WhatsApp Links. This page tracks links that appeared in the WhatsApp export but were not converted into reviewed source records during the import. In this pass, 233 normalized links remained unresolved after fetch and text-extraction attempts. [src-2026-04-12-006]
-- [[vivek-x-article-follow-up]] - Vivek X Article Follow Up. No summary yet.
+- [[vivek-x-article-follow-up]] - Vivek X Article Follow Up. What is the actual content of the X Article linked from Vivek’s post at `https://x.com/itsreallyvivek/status/2064686372737454155?s=20`, and is it worth turning into a durable topic note once recovered? [src-2026-06-10-013]

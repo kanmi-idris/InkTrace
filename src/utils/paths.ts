@@ -1,3 +1,4 @@
+import fs from "node:fs";
 import path from "node:path";
 
 export interface ProjectPaths {
@@ -18,10 +19,18 @@ export interface ProjectPaths {
 }
 
 export function resolveProjectPaths(rootDir: string, vaultOverride?: string): ProjectPaths {
-  const vaultDir = vaultOverride ? path.resolve(vaultOverride) : path.join(rootDir, "vault");
+  const projectRoot = findProjectRoot(rootDir);
+  loadEnvironmentFile(projectRoot, rootDir);
+  const configuredVault = process.env.INKTRACE_VAULT_PATH;
+  const vaultDir = vaultOverride
+    ? path.resolve(rootDir, vaultOverride)
+    : configuredVault
+      ? path.resolve(projectRoot, configuredVault)
+      : path.join(projectRoot, "vault");
+
   return {
-    rootDir,
-    templateDir: path.join(rootDir, "templates"),
+    rootDir: projectRoot,
+    templateDir: path.join(projectRoot, "templates"),
     vaultDir,
     rawDir: path.join(vaultDir, "raw"),
     inboxDir: path.join(vaultDir, "inbox"),
@@ -53,5 +62,50 @@ export function rawSubdirForType(rawDir: string, type: string): string {
       return path.join(rawDir, "audio");
     default:
       return path.join(rawDir, "assets");
+  }
+}
+
+function findProjectRoot(startDir: string): string {
+  let current = path.resolve(startDir);
+  while (true) {
+    if (fs.existsSync(path.join(current, "templates"))) {
+      return current;
+    }
+
+    const parent = path.dirname(current);
+    if (parent === current) {
+      break;
+    }
+    current = parent;
+  }
+
+  const moduleCandidates = [
+    path.resolve(__dirname, "../.."),
+    path.resolve(__dirname, "../../..")
+  ];
+  const moduleRoot = moduleCandidates.find((candidate) => fs.existsSync(path.join(candidate, "templates")));
+  return moduleRoot ?? path.resolve(startDir);
+}
+
+function loadEnvironmentFile(projectRoot: string, startDir: string): void {
+  const candidates = [path.join(startDir, ".env"), path.join(projectRoot, ".env")];
+  const envPath = candidates.find((candidate) => fs.existsSync(candidate));
+  if (!envPath) {
+    return;
+  }
+
+  const content = fs.readFileSync(envPath, "utf8");
+  for (const line of content.split(/\r?\n/)) {
+    const match = line.match(/^\s*(?:export\s+)?([A-Z_][A-Z0-9_]*)\s*=\s*(.*)\s*$/);
+    if (!match || process.env[match[1]] !== undefined) {
+      continue;
+    }
+
+    const value = match[2];
+    process.env[match[1]] = value.startsWith('"') && value.endsWith('"')
+      ? value.slice(1, -1)
+      : value.startsWith("'") && value.endsWith("'")
+        ? value.slice(1, -1)
+        : value;
   }
 }
