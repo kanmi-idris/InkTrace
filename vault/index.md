@@ -36,6 +36,7 @@ This file is the primary navigation layer for the vault.
 ## Synthesis
 
 - [[llm-wiki-vs-rag]] - LLM Wiki vs RAG. How does the LLM wiki pattern differ from retrieval-augmented generation?
+- [[themint-and-cbn-regulatory-sandbox]] - theMint and the CBN Regulatory Sandbox. How does theMint fit the CBN Regulatory Sandbox Cohort 2 announcement?
 - [[whatsapp-tools-cheatsheet-import]] - WhatsApp Tools Cheatsheet Import. The exported WhatsApp chat functions as a long-running personal research stream rather than a conventional conversation: it mixes repeated tool links, short implementation notes, and product ideas, with the reviewed subset clustering around AI tooling, React Native or Expo workflows, and practical developer references. [src-2026-04-12-006][src-2026-04-12-015][src-2026-04-12-023][src-2026-04-12-056]
 
 ## Questions

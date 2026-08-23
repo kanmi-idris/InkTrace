@@ -6425,3 +6425,240 @@
 
 ## [2026-08-11 17:53] lint | Vault lint
 - No issues found.
+
+## [2026-08-12 22:45] capture | TypeGPU 0.12: React Native Worklets, Typed GPU Commands, and WebGL Fallback
+- Stored pasted content in inbox/paste/2026-08-12-224538-typegpu-0-12-react-native-worklets-typed-gpu-commands-and-webgl-fallback.md.
+
+## [2026-08-12 22:45] ingest | src-2026-08-12-001 | TypeGPU 0.12: React Native Worklets, Typed GPU Commands, and WebGL Fallback
+- Created source record at sources/src-2026-08-12-001.md and raw source at raw/articles/2026-08-12-typegpu-0-12-react-native-worklets-typed-gpu-commands-and-webgl-fallback.md.
+
+## [2026-08-12 22:45] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-12 22:45] lint | Vault lint
+- No issues found.
+
+## [2026-08-12 22:45] lint | Vault lint
+- No issues found.
+
+## [2026-08-12 22:51] capture | watermarks-remover: Multi-Vendor AI Provenance and Metadata Cleaning
+- Stored pasted content in inbox/paste/2026-08-12-225120-watermarks-remover-multi-vendor-ai-provenance-and-metadata-cleaning.md.
+
+## [2026-08-12 22:51] ingest | src-2026-08-12-002 | watermarks-remover: Multi-Vendor AI Provenance and Metadata Cleaning
+- Created source record at sources/src-2026-08-12-002.md and raw source at raw/articles/2026-08-12-watermarks-remover-multi-vendor-ai-provenance-and-metadata-cleaning.md.
+
+## [2026-08-12 22:51] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-12 22:51] lint | Vault lint
+- No issues found.
+
+## [2026-08-12 22:51] lint | Vault lint
+- No issues found.
+
+## [2026-08-12 23:07] capture | React Native Animation Samples: 0.86.2 and Latest API Migration
+- Stored pasted content in inbox/paste/2026-08-12-230734-react-native-animation-samples-0-86-2-and-latest-api-migration.md.
+
+## [2026-08-12 23:07] ingest | src-2026-08-12-003 | React Native Animation Samples: 0.86.2 and Latest API Migration
+- Created source record at sources/src-2026-08-12-003.md and raw source at raw/articles/2026-08-12-react-native-animation-samples-0-86-2-and-latest-api-migration.md.
+
+## [2026-08-12 23:07] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-12 23:07] lint | Vault lint
+- No issues found.
+
+## [2026-08-12 23:07] lint | Vault lint
+- No issues found.
+
+## [2026-08-12 23:24] capture | How to Make AI Cartoon Animation Videos of Yourself
+- Stored pasted content in inbox/paste/2026-08-12-232433-how-to-make-ai-cartoon-animation-videos-of-yourself.md.
+
+## [2026-08-12 23:24] ingest | src-2026-08-12-004 | How to Make AI Cartoon Animation Videos of Yourself
+- Created source record at sources/src-2026-08-12-004.md and raw source at raw/articles/2026-08-12-how-to-make-ai-cartoon-animation-videos-of-yourself.md.
+
+## [2026-08-12 23:24] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-12 23:24] lint | Vault lint
+- No issues found.
+
+## [2026-08-12 23:24] lint | Vault lint
+- No issues found.
+
+## [2026-08-12 23:25] capture | Six Free IELTS Preparation Resources
+- Stored pasted content in inbox/paste/2026-08-12-232548-six-free-ielts-preparation-resources.md.
+
+## [2026-08-12 23:25] ingest | src-2026-08-12-005 | Six Free IELTS Preparation Resources
+- Created source record at sources/src-2026-08-12-005.md and raw source at raw/articles/2026-08-12-six-free-ielts-preparation-resources.md.
+
+## [2026-08-12 23:25] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-12 23:25] lint | Vault lint
+- No issues found.
+
+## [2026-08-12 23:25] lint | Vault lint
+- No issues found.
+
+## [2026-08-12 23:53] capture | Hunyuan3D 2.0: Open 3D Shape and Texture Generation
+- Stored pasted content in inbox/paste/2026-08-12-235346-hunyuan3d-2-0-open-3d-shape-and-texture-generation.md.
+
+## [2026-08-12 23:53] ingest | src-2026-08-12-006 | Hunyuan3D 2.0: Open 3D Shape and Texture Generation
+- Created source record at sources/src-2026-08-12-006.md and raw source at raw/articles/2026-08-12-hunyuan3d-2-0-open-3d-shape-and-texture-generation.md.
+
+## [2026-08-12 23:53] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-12 23:53] lint | Vault lint
+- No issues found.
+
+## [2026-08-12 23:53] lint | Vault lint
+- No issues found.
+
+## [2026-08-13] ingest | theMint and CBN Regulatory Sandbox Cohort 2
+- Captured a repository snapshot for `/Users/olaidris/Desktop/Code/theMint` as src-2026-08-13-001.
+- Captured the user-provided CBN Cohort 2 press release as src-2026-08-13-002.
+- Created the linked synthesis page `wiki/synthesis/themint-and-cbn-regulatory-sandbox.md`.
+- Updated `index.md` with the new synthesis entry.
+
+## [2026-08-18 13:17] ingest | src-2026-08-18-001 | Seeded Procedural Hand-Drawn Character Creator
+- Created source record at sources/src-2026-08-18-001.md and raw source at raw/articles/2026-08-18-seeded-procedural-hand-drawn-character-creator.html.
+
+## [2026-08-18 13:17] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-08-18 13:19] ingest | src-2026-08-18-002 | Hermes JavaScript Front End Ported to Rust
+- Created source record at sources/src-2026-08-18-002.md and raw source at raw/articles/2026-08-18-hermes-javascript-front-end-ported-to-rust.md.
+
+## [2026-08-18 13:19] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-08-18 13:21] ingest | src-2026-08-18-003 | Google Developer Documentation Style Guide
+- Created source record at sources/src-2026-08-18-003.md and raw source at raw/articles/2026-08-18-google-developer-documentation-style-guide.html.
+
+## [2026-08-18 13:21] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-08-18 20:24] capture | UI SFX: 936 Interface Sounds Across 78 Semantic Cues
+- Stored pasted content in inbox/paste/2026-08-18-202425-ui-sfx-936-interface-sounds-across-78-semantic-cues.md.
+
+## [2026-08-18 20:24] ingest | src-2026-08-18-004 | UI SFX: 936 Interface Sounds Across 78 Semantic Cues
+- Created source record at sources/src-2026-08-18-004.md and raw source at raw/articles/2026-08-18-ui-sfx-936-interface-sounds-across-78-semantic-cues.md.
+
+## [2026-08-18 20:24] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-18 20:24] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-08-18 20:24] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-08-23 20:15] capture | Koboyo Icons: 133,463 Free Hand-Drawn SVG Icons
+- Stored pasted content in inbox/paste/2026-08-23-201544-koboyo-icons-133-463-free-hand-drawn-svg-icons.md.
+
+## [2026-08-23 20:15] ingest | src-2026-08-23-001 | Koboyo Icons: 133,463 Free Hand-Drawn SVG Icons
+- Created source record at sources/src-2026-08-23-001.md and raw source at raw/articles/2026-08-23-koboyo-icons-133-463-free-hand-drawn-svg-icons.md.
+
+## [2026-08-23 20:15] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-23 20:15] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-08-23 20:15] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-08-23 20:16] capture | GPUix: React Bindings for Zed's GPU-Accelerated GPUI
+- Stored pasted content in inbox/paste/2026-08-23-201658-gpuix-react-bindings-for-zed-s-gpu-accelerated-gpui.md.
+
+## [2026-08-23 20:16] ingest | src-2026-08-23-002 | GPUix: React Bindings for Zed's GPU-Accelerated GPUI
+- Created source record at sources/src-2026-08-23-002.md and raw source at raw/articles/2026-08-23-gpuix-react-bindings-for-zed-s-gpu-accelerated-gpui.md.
+
+## [2026-08-23 20:16] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-23 20:16] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-08-23 20:17] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-08-23 20:20] capture | openGym: Self-Hosted Workout and Body-Weight Tracker
+- Stored pasted content in inbox/paste/2026-08-23-202043-opengym-self-hosted-workout-and-body-weight-tracker.md.
+
+## [2026-08-23 20:20] ingest | src-2026-08-23-003 | openGym: Self-Hosted Workout and Body-Weight Tracker
+- Created source record at sources/src-2026-08-23-003.md and raw source at raw/articles/2026-08-23-opengym-self-hosted-workout-and-body-weight-tracker.md.
+
+## [2026-08-23 20:20] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-23 20:20] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-08-23 20:20] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-08-23 20:26] capture | Seed Atlas: Interactive 3D Crop-Science Learning Atlas
+- Stored pasted content in inbox/paste/2026-08-23-202633-seed-atlas-interactive-3d-crop-science-learning-atlas.md.
+
+## [2026-08-23 20:26] ingest | src-2026-08-23-004 | Seed Atlas: Interactive 3D Crop-Science Learning Atlas
+- Created source record at sources/src-2026-08-23-004.md and raw source at raw/articles/2026-08-23-seed-atlas-interactive-3d-crop-science-learning-atlas.md.
+
+## [2026-08-23 20:26] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-23 20:26] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-08-23 20:26] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-08-23 20:35] capture | edulab: Exact Interactive Lessons for Geometry and Chemistry
+- Stored pasted content in inbox/paste/2026-08-23-203503-edulab-exact-interactive-lessons-for-geometry-and-chemistry.md.
+
+## [2026-08-23 20:35] ingest | src-2026-08-23-005 | edulab: Exact Interactive Lessons for Geometry and Chemistry
+- Created source record at sources/src-2026-08-23-005.md and raw source at raw/articles/2026-08-23-edulab-exact-interactive-lessons-for-geometry-and-chemistry.md.
+
+## [2026-08-23 20:35] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-23 20:35] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-08-23 20:35] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-08-23 20:35] capture | Manim Community: Programmatic Animation Engine for Explanatory Math
+- Stored pasted content in inbox/paste/2026-08-23-203546-manim-community-programmatic-animation-engine-for-explanatory-math.md.
+
+## [2026-08-23 20:35] ingest | src-2026-08-23-006 | Manim Community: Programmatic Animation Engine for Explanatory Math
+- Created source record at sources/src-2026-08-23-006.md and raw source at raw/articles/2026-08-23-manim-community-programmatic-animation-engine-for-explanatory-math.md.
+
+## [2026-08-23 20:35] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-23 20:35] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-08-23 20:35] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-08-23 20:36] capture | SRT Whiteboard Animation Follow-up: Reported High-Volume Production
+- Stored pasted content in inbox/paste/2026-08-23-203630-srt-whiteboard-animation-follow-up-reported-high-volume-production.md.
+
+## [2026-08-23 20:36] ingest | src-2026-08-23-007 | SRT Whiteboard Animation Follow-up: Reported High-Volume Production
+- Created source record at sources/src-2026-08-23-007.md and raw source at raw/articles/2026-08-23-srt-whiteboard-animation-follow-up-reported-high-volume-production.md.
+
+## [2026-08-23 20:36] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-23 20:36] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-08-23 20:36] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-08-23 21:07] lint | Vault lint
+- Found 1 issue(s).
