@@ -6662,3 +6662,237 @@
 
 ## [2026-08-23 21:07] lint | Vault lint
 - Found 1 issue(s).
+
+## [2026-08-24 10:23] capture | Shirei: Cross-Platform Declarative GUI Framework for Go
+- Stored pasted content in inbox/paste/2026-08-24-102309-shirei-cross-platform-declarative-gui-framework-for-go.md.
+
+## [2026-08-24 10:23] ingest | src-2026-08-24-001 | Shirei: Cross-Platform Declarative GUI Framework for Go
+- Created source record at sources/src-2026-08-24-001.md and raw source at raw/articles/2026-08-24-shirei-cross-platform-declarative-gui-framework-for-go.md.
+
+## [2026-08-24 10:23] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-24 10:23] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-08-24 10:23] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-08-24 10:38] capture | ReflectDB: Offline-First Real-Time TypeScript Sync Engine
+- Stored pasted content in inbox/paste/2026-08-24-103832-reflectdb-offline-first-real-time-typescript-sync-engine.md.
+
+## [2026-08-24 10:38] ingest | src-2026-08-24-002 | ReflectDB: Offline-First Real-Time TypeScript Sync Engine
+- Created source record at sources/src-2026-08-24-002.md and raw source at raw/articles/2026-08-24-reflectdb-offline-first-real-time-typescript-sync-engine.md.
+
+## [2026-08-24 10:38] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-24 10:38] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-08-24 10:38] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-08-24 14:31] capture | SketchForge 3D: Local-First Browser CAD Editor with AI MCP Bridge
+- Stored pasted content in inbox/paste/2026-08-24-143158-sketchforge-3d-local-first-browser-cad-editor-with-ai-mcp-bridge.md.
+
+## [2026-08-24 14:31] ingest | src-2026-08-24-003 | SketchForge 3D: Local-First Browser CAD Editor with AI MCP Bridge
+- Created source record at sources/src-2026-08-24-003.md and raw source at raw/articles/2026-08-24-sketchforge-3d-local-first-browser-cad-editor-with-ai-mcp-bridge.md.
+
+## [2026-08-24 14:31] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-24 14:31] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-08-24 14:32] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-08-24 14:33] capture | Bible Strong Avatar Lab: Procedural 2D Avatar Studio with Local JSON Export
+- Stored pasted content in inbox/paste/2026-08-24-143343-bible-strong-avatar-lab-procedural-2d-avatar-studio-with-local-json-export.md.
+
+## [2026-08-24 14:33] ingest | src-2026-08-24-004 | Bible Strong Avatar Lab: Procedural 2D Avatar Studio with Local JSON Export
+- Created source record at sources/src-2026-08-24-004.md and raw source at raw/articles/2026-08-24-bible-strong-avatar-lab-procedural-2d-avatar-studio-with-local-json-export.md.
+
+## [2026-08-24 14:33] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-24 14:33] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-08-24 14:33] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-08-25 06:19] capture | Workout Guide: Searchable Exercise Illustration Library and npm Package
+- Stored pasted content in inbox/paste/2026-08-25-061945-workout-guide-searchable-exercise-illustration-library-and-npm-package.md.
+
+## [2026-08-25 06:19] ingest | src-2026-08-25-001 | Workout Guide: Searchable Exercise Illustration Library and npm Package
+- Created source record at sources/src-2026-08-25-001.md and raw source at raw/articles/2026-08-25-workout-guide-searchable-exercise-illustration-library-and-npm-package.md.
+
+## [2026-08-25 06:19] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-25 06:19] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-08-25 06:19] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-08-26 04:19] capture | use-fs 2.0: React File Watcher for Local Files and OPFS
+- Stored pasted content in inbox/paste/2026-08-26-041926-use-fs-2-0-react-file-watcher-for-local-files-and-opfs.md.
+
+## [2026-08-26 04:19] ingest | src-2026-08-26-001 | use-fs 2.0: React File Watcher for Local Files and OPFS
+- Created source record at sources/src-2026-08-26-001.md and raw source at raw/articles/2026-08-26-use-fs-2-0-react-file-watcher-for-local-files-and-opfs.md.
+
+## [2026-08-26 04:19] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-26 04:19] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-08-26 04:19] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-08-26 04:23] capture | Pocket TTS Training Stack: Train a Small CPU-Deployable Speech Model
+- Stored pasted content in inbox/paste/2026-08-26-042343-pocket-tts-training-stack-train-a-small-cpu-deployable-speech-model.md.
+
+## [2026-08-26 04:23] ingest | src-2026-08-26-002 | Pocket TTS Training Stack: Train a Small CPU-Deployable Speech Model
+- Created source record at sources/src-2026-08-26-002.md and raw source at raw/articles/2026-08-26-pocket-tts-training-stack-train-a-small-cpu-deployable-speech-model.md.
+
+## [2026-08-26 04:23] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-26 04:23] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-08-26 04:23] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-08-26 04:24] capture | Floci: Local AWS, Azure, GCP, and OCI Cloud Emulators
+- Stored pasted content in inbox/paste/2026-08-26-042446-floci-local-aws-azure-gcp-and-oci-cloud-emulators.md.
+
+## [2026-08-26 04:24] ingest | src-2026-08-26-003 | Floci: Local AWS, Azure, GCP, and OCI Cloud Emulators
+- Created source record at sources/src-2026-08-26-003.md and raw source at raw/articles/2026-08-26-floci-local-aws-azure-gcp-and-oci-cloud-emulators.md.
+
+## [2026-08-26 04:24] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-26 04:24] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-08-26 04:24] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-08-26 04:25] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-26 04:25] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-08-26 04:26] capture | React Native OTA Release Management: Compatibility, Rollout, Activation, and Recovery
+- Stored pasted content in inbox/paste/2026-08-26-042604-react-native-ota-release-management-compatibility-rollout-activation-and-recovery.md.
+
+## [2026-08-26 04:26] ingest | src-2026-08-26-004 | React Native OTA Release Management: Compatibility, Rollout, Activation, and Recovery
+- Created source record at sources/src-2026-08-26-004.md and raw source at raw/articles/2026-08-26-react-native-ota-release-management-compatibility-rollout-activation-and-recovery.md.
+
+## [2026-08-26 04:26] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-26 04:26] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-08-26 04:26] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-08-26 05:38] capture | Expensify Networking with NitroFetch: Startup Prefetching, Auth, and Pinning
+- Stored pasted content in inbox/paste/2026-08-26-053847-expensify-networking-with-nitrofetch-startup-prefetching-auth-and-pinning.md.
+
+## [2026-08-26 05:38] ingest | src-2026-08-26-005 | Expensify Networking with NitroFetch: Startup Prefetching, Auth, and Pinning
+- Created source record at sources/src-2026-08-26-005.md and raw source at raw/articles/2026-08-26-expensify-networking-with-nitrofetch-startup-prefetching-auth-and-pinning.md.
+
+## [2026-08-26 05:38] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-26 05:38] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-08-26 05:38] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-08-26 05:48] capture | Apple Foundation Models on Private Cloud Compute for Small Developers
+- Stored pasted content in inbox/paste/2026-08-26-054841-apple-foundation-models-on-private-cloud-compute-for-small-developers.md.
+
+## [2026-08-26 05:48] ingest | src-2026-08-26-006 | Apple Foundation Models on Private Cloud Compute for Small Developers
+- Created source record at sources/src-2026-08-26-006.md and raw source at raw/articles/2026-08-26-apple-foundation-models-on-private-cloud-compute-for-small-developers.md.
+
+## [2026-08-26 05:48] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-26 05:48] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-08-26 05:48] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-08-26 05:51] capture | Godogen: Autonomous Game-Project Generation with Claude Code and Codex
+- Stored pasted content in inbox/paste/2026-08-26-055113-godogen-autonomous-game-project-generation-with-claude-code-and-codex.md.
+
+## [2026-08-26 05:51] ingest | src-2026-08-26-007 | Godogen: Autonomous Game-Project Generation with Claude Code and Codex
+- Created source record at sources/src-2026-08-26-007.md and raw source at raw/articles/2026-08-26-godogen-autonomous-game-project-generation-with-claude-code-and-codex.md.
+
+## [2026-08-26 05:51] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-26 05:51] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-08-26 05:51] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-08-26 08:32] capture | mapcn-rn: Ready-to-Use Expo and React Native Map Components
+- Stored pasted content in inbox/paste/2026-08-26-083215-mapcn-rn-ready-to-use-expo-and-react-native-map-components.md.
+
+## [2026-08-26 08:32] ingest | src-2026-08-26-008 | mapcn-rn: Ready-to-Use Expo and React Native Map Components
+- Created source record at sources/src-2026-08-26-008.md and raw source at raw/articles/2026-08-26-mapcn-rn-ready-to-use-expo-and-react-native-map-components.md.
+
+## [2026-08-26 08:32] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-26 08:32] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-08-26 08:32] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-08-26 08:33] capture | MapCN Installation: shadcn Map Component with MapLibre and CARTO Tiles
+- Stored pasted content in inbox/paste/2026-08-26-083305-mapcn-installation-shadcn-map-component-with-maplibre-and-carto-tiles.md.
+
+## [2026-08-26 08:33] ingest | src-2026-08-26-009 | MapCN Installation: shadcn Map Component with MapLibre and CARTO Tiles
+- Created source record at sources/src-2026-08-26-009.md and raw source at raw/articles/2026-08-26-mapcn-installation-shadcn-map-component-with-maplibre-and-carto-tiles.md.
+
+## [2026-08-26 08:33] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-26 08:33] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-08-26 08:33] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-08-26 09:37] capture | Atlas: Self-Hosted Maps Platform for African Road Networks
+- Stored pasted content in inbox/paste/2026-08-26-093725-atlas-self-hosted-maps-platform-for-african-road-networks.md.
+
+## [2026-08-26 09:37] ingest | src-2026-08-26-010 | Atlas: Self-Hosted Maps Platform for African Road Networks
+- Created source record at sources/src-2026-08-26-010.md and raw source at raw/articles/2026-08-26-atlas-self-hosted-maps-platform-for-african-road-networks.md.
+
+## [2026-08-26 09:37] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-26 09:37] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-08-26 09:37] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-08-26 10:15] lint | Vault lint
+- Found 1 issue(s).
