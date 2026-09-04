@@ -6896,3 +6896,348 @@
 
 ## [2026-08-26 10:15] lint | Vault lint
 - Found 1 issue(s).
+
+## [2026-08-26 10:20] capture | Valhalla: OpenStreetMap Routing and Network-Analysis Engine
+- Stored pasted content in inbox/paste/2026-08-26-102049-valhalla-openstreetmap-routing-and-network-analysis-engine.md.
+
+## [2026-08-26 10:20] ingest | src-2026-08-26-011 | Valhalla: OpenStreetMap Routing and Network-Analysis Engine
+- Created source record at sources/src-2026-08-26-011.md and raw source at raw/articles/2026-08-26-valhalla-openstreetmap-routing-and-network-analysis-engine.md.
+
+## [2026-08-26 10:20] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-26 10:20] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-08-26 10:21] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-08-27 00:16] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-27 00:16] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-08-27 00:17] capture | Fishjam React Native SDK VoIP Provider Integration
+- Stored pasted content in inbox/paste/2026-08-27-001725-fishjam-react-native-sdk-voip-provider-integration.md.
+
+## [2026-08-27 00:17] ingest | src-2026-08-27-001 | Fishjam React Native SDK VoIP Provider Integration
+- Created source record at sources/src-2026-08-27-001.md and raw source at raw/articles/2026-08-27-fishjam-react-native-sdk-voip-provider-integration.md.
+
+## [2026-08-27 00:17] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-27 00:17] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-08-27 00:17] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-08-27 00:19] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-27 00:19] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-08-27 00:20] capture | Email Application Handbook: 500 Templates to Get Applications Noticed
+- Stored pasted content in inbox/paste/2026-08-27-002038-email-application-handbook-500-templates-to-get-applications-noticed.md.
+
+## [2026-08-27 00:20] ingest | src-2026-08-27-002 | Email Application Handbook: 500 Templates to Get Applications Noticed
+- Created source record at sources/src-2026-08-27-002.md and raw source at raw/articles/2026-08-27-email-application-handbook-500-templates-to-get-applications-noticed.md.
+
+## [2026-08-27 00:20] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-27 00:20] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-08-27 00:34] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-08-27 00:35] capture | Jot: Gemini-Powered Push-to-Talk Dictation for macOS
+- Stored pasted content in inbox/paste/2026-08-27-003514-jot-gemini-powered-push-to-talk-dictation-for-macos.md.
+
+## [2026-08-27 00:35] ingest | src-2026-08-27-003 | Jot: Gemini-Powered Push-to-Talk Dictation for macOS
+- Created source record at sources/src-2026-08-27-003.md and raw source at raw/articles/2026-08-27-jot-gemini-powered-push-to-talk-dictation-for-macos.md.
+
+## [2026-08-27 00:35] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-27 00:35] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-08-27 00:35] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-08-27 22:42] capture | Isocons: CC BY 4.0 Isometric Icon Library with a Figma Plugin
+- Stored pasted content in inbox/paste/2026-08-27-224207-isocons-cc-by-4-0-isometric-icon-library-with-a-figma-plugin.md.
+
+## [2026-08-27 22:42] ingest | src-2026-08-27-004 | Isocons: CC BY 4.0 Isometric Icon Library with a Figma Plugin
+- Created source record at sources/src-2026-08-27-004.md and raw source at raw/articles/2026-08-27-isocons-cc-by-4-0-isometric-icon-library-with-a-figma-plugin.md.
+
+## [2026-08-27 22:42] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-27 22:42] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-08-27 22:42] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-08-28 08:56] capture | React Native Skia Loaders: 20 Parametric Curve Animations
+- Stored pasted content in inbox/paste/2026-08-28-085615-react-native-skia-loaders-20-parametric-curve-animations.md.
+
+## [2026-08-28 08:56] ingest | src-2026-08-28-001 | React Native Skia Loaders: 20 Parametric Curve Animations
+- Created source record at sources/src-2026-08-28-001.md and raw source at raw/articles/2026-08-28-react-native-skia-loaders-20-parametric-curve-animations.md.
+
+## [2026-08-28 08:56] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-28 08:56] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-08-28 08:56] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-08-28 22:20] capture | expo-paste-input: Native Paste Wrapper for React Native TextInput
+- Stored pasted content in inbox/paste/2026-08-28-222003-expo-paste-input-native-paste-wrapper-for-react-native-textinput.md.
+
+## [2026-08-28 22:20] ingest | src-2026-08-28-002 | expo-paste-input: Native Paste Wrapper for React Native TextInput
+- Created source record at sources/src-2026-08-28-002.md and raw source at raw/articles/2026-08-28-expo-paste-input-native-paste-wrapper-for-react-native-textinput.md.
+
+## [2026-08-28 22:20] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-28 22:20] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-08-28 22:20] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-08-28 22:34] capture | Firecrawl Keyless: No-API-Key Access to Search, Scrape, Parse, and Interact
+- Stored pasted content in inbox/paste/2026-08-28-223401-firecrawl-keyless-no-api-key-access-to-search-scrape-parse-and-interact.md.
+
+## [2026-08-28 22:34] ingest | src-2026-08-28-003 | Firecrawl Keyless: No-API-Key Access to Search, Scrape, Parse, and Interact
+- Created source record at sources/src-2026-08-28-003.md and raw source at raw/articles/2026-08-28-firecrawl-keyless-no-api-key-access-to-search-scrape-parse-and-interact.md.
+
+## [2026-08-28 22:34] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-28 22:34] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-08-28 22:34] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-08-30 06:15] capture | Google Play's February 2027 Android Memory and Code Optimization Requirements
+- Stored pasted content in inbox/paste/2026-08-30-061513-google-play-s-february-2027-android-memory-and-code-optimization-requirements.md.
+
+## [2026-08-30 06:15] ingest | src-2026-08-30-001 | Google Play's February 2027 Android Memory and Code Optimization Requirements
+- Created source record at sources/src-2026-08-30-001.md and raw source at raw/articles/2026-08-30-google-play-s-february-2027-android-memory-and-code-optimization-requirements.md.
+
+## [2026-08-30 06:15] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-30 06:15] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-08-30 06:15] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-08-30 06:24] capture | 12 UI Component Resources for AI-Assisted Frontend Workflows
+- Stored pasted content in inbox/paste/2026-08-30-062400-12-ui-component-resources-for-ai-assisted-frontend-workflows.md.
+
+## [2026-08-30 06:24] ingest | src-2026-08-30-002 | 12 UI Component Resources for AI-Assisted Frontend Workflows
+- Created source record at sources/src-2026-08-30-002.md and raw source at raw/articles/2026-08-30-12-ui-component-resources-for-ai-assisted-frontend-workflows.md.
+
+## [2026-08-30 06:24] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-30 06:24] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-08-30 06:24] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-08-30 20:35] capture | Animated Icon Resources for Codex/Claude Code Frontend Workflows
+- Stored pasted content in inbox/paste/2026-08-30-203530-animated-icon-resources-for-codex-claude-code-frontend-workflows.md.
+
+## [2026-08-30 20:35] ingest | src-2026-08-30-003 | Animated Icon Resources for Codex/Claude Code Frontend Workflows
+- Created source record at sources/src-2026-08-30-003.md and raw source at raw/articles/2026-08-30-animated-icon-resources-for-codex-claude-code-frontend-workflows.md.
+
+## [2026-08-30 20:35] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-30 20:35] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-08-30 20:35] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-08-31 21:46] capture | Speedflight: Agent-Driven Ad Hoc iOS Build Sharing via Safari Install Links
+- Stored pasted content in inbox/paste/2026-08-31-214651-speedflight-agent-driven-ad-hoc-ios-build-sharing-via-safari-install-links.md.
+
+## [2026-08-31 21:46] ingest | src-2026-08-31-001 | Speedflight: Agent-Driven Ad Hoc iOS Build Sharing via Safari Install Links
+- Created source record at sources/src-2026-08-31-001.md and raw source at raw/articles/2026-08-31-speedflight-agent-driven-ad-hoc-ios-build-sharing-via-safari-install-links.md.
+
+## [2026-08-31 21:46] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-31 21:46] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-08-31 21:46] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-08-31 22:26] capture | adb emu Console Commands for Testing Adaptive Android Layouts
+- Stored pasted content in inbox/paste/2026-08-31-222647-adb-emu-console-commands-for-testing-adaptive-android-layouts.md.
+
+## [2026-08-31 22:26] ingest | src-2026-08-31-002 | adb emu Console Commands for Testing Adaptive Android Layouts
+- Created source record at sources/src-2026-08-31-002.md and raw source at raw/articles/2026-08-31-adb-emu-console-commands-for-testing-adaptive-android-layouts.md.
+
+## [2026-08-31 22:26] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-08-31 22:26] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-08-31 22:26] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-01 20:33] capture | react-native-continued-task: Background Tasks That Survive App Backgrounding (iOS 26 + Android)
+- Stored pasted content in inbox/paste/2026-09-01-203306-react-native-continued-task-background-tasks-that-survive-app-backgrounding-ios-26-android.md.
+
+## [2026-09-01 20:33] ingest | src-2026-09-01-001 | react-native-continued-task: Background Tasks That Survive App Backgrounding (iOS 26 + Android)
+- Created source record at sources/src-2026-09-01-001.md and raw source at raw/articles/2026-09-01-react-native-continued-task-background-tasks-that-survive-app-backgrounding-ios-26-android.md.
+
+## [2026-09-01 20:33] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-09-01 20:33] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-01 20:33] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-02 22:49] capture | ScrapeGraphAI: AI-Powered Web Scraping API (Scrape, Extract, Search, Crawl, Monitor)
+- Stored pasted content in inbox/paste/2026-09-02-224919-scrapegraphai-ai-powered-web-scraping-api-scrape-extract-search-crawl-monitor.md.
+
+## [2026-09-02 22:49] ingest | src-2026-09-02-001 | ScrapeGraphAI: AI-Powered Web Scraping API (Scrape, Extract, Search, Crawl, Monitor)
+- Created source record at sources/src-2026-09-02-001.md and raw source at raw/articles/2026-09-02-scrapegraphai-ai-powered-web-scraping-api-scrape-extract-search-crawl-monitor.md.
+
+## [2026-09-02 22:49] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-09-02 22:49] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-02 22:49] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-03 00:00] capture | M3E Canvas: Browser Wireframing Tool for Material 3 Expressive That Exports AI Prompts
+- Stored pasted content in inbox/paste/2026-09-03-000049-m3e-canvas-browser-wireframing-tool-for-material-3-expressive-that-exports-ai-prompts.md.
+
+## [2026-09-03 00:00] ingest | src-2026-09-03-001 | M3E Canvas: Browser Wireframing Tool for Material 3 Expressive That Exports AI Prompts
+- Created source record at sources/src-2026-09-03-001.md and raw source at raw/articles/2026-09-03-m3e-canvas-browser-wireframing-tool-for-material-3-expressive-that-exports-ai-prompts.md.
+
+## [2026-09-03 00:00] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-09-03 00:00] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-03 00:00] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-03 00:01] capture | ML Kit GenAI APIs: On-Device Gemini Nano Features via AICore
+- Stored pasted content in inbox/paste/2026-09-03-000149-ml-kit-genai-apis-on-device-gemini-nano-features-via-aicore.md.
+
+## [2026-09-03 00:01] ingest | src-2026-09-03-002 | ML Kit GenAI APIs: On-Device Gemini Nano Features via AICore
+- Created source record at sources/src-2026-09-03-002.md and raw source at raw/articles/2026-09-03-ml-kit-genai-apis-on-device-gemini-nano-features-via-aicore.md.
+
+## [2026-09-03 00:01] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-09-03 00:01] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-03 00:01] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-03 05:47] capture | Amicro Update: React Micro-Interaction Library Details (Filling Prior Placeholder)
+- Stored pasted content in inbox/paste/2026-09-03-054722-amicro-update-react-micro-interaction-library-details-filling-prior-placeholder.md.
+
+## [2026-09-03 05:47] ingest | src-2026-09-03-003 | Amicro Update: React Micro-Interaction Library Details (Filling Prior Placeholder)
+- Created source record at sources/src-2026-09-03-003.md and raw source at raw/articles/2026-09-03-amicro-update-react-micro-interaction-library-details-filling-prior-placeholder.md.
+
+## [2026-09-03 05:47] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-09-03 05:47] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-03 05:47] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-03 16:01] capture | On-Device 3D Scanner: 8 Photos to a Gaussian-Splat Point Cloud, Fully On-Device in React Native
+- Stored pasted content in inbox/paste/2026-09-03-160102-on-device-3d-scanner-8-photos-to-a-gaussian-splat-point-cloud-fully-on-device-in-react-native.md.
+
+## [2026-09-03 16:01] ingest | src-2026-09-03-004 | On-Device 3D Scanner: 8 Photos to a Gaussian-Splat Point Cloud, Fully On-Device in React Native
+- Created source record at sources/src-2026-09-03-004.md and raw source at raw/articles/2026-09-03-on-device-3d-scanner-8-photos-to-a-gaussian-splat-point-cloud-fully-on-device-in-react-native.md.
+
+## [2026-09-03 16:01] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-09-03 16:01] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-03 16:01] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-04 02:56] capture | react-native-screen-choreography: Multi-Element Shared Transition Coordination for React Navigation
+- Stored pasted content in inbox/paste/2026-09-04-025643-react-native-screen-choreography-multi-element-shared-transition-coordination-for-react-navigation.md.
+
+## [2026-09-04 02:56] ingest | src-2026-09-04-001 | react-native-screen-choreography: Multi-Element Shared Transition Coordination for React Navigation
+- Created source record at sources/src-2026-09-04-001.md and raw source at raw/articles/2026-09-04-react-native-screen-choreography-multi-element-shared-transition-coordination-for-react-navigation.md.
+
+## [2026-09-04 02:56] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-09-04 02:56] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-04 02:56] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-04 03:17] capture | React Native Plain Text: Milestone Update (100+ Stars, ~16K Weekly Downloads) and Library Details
+- Stored pasted content in inbox/paste/2026-09-04-031712-react-native-plain-text-milestone-update-100-stars-16k-weekly-downloads-and-library-details.md.
+
+## [2026-09-04 03:17] ingest | src-2026-09-04-002 | React Native Plain Text: Milestone Update (100+ Stars, ~16K Weekly Downloads) and Library Details
+- Created source record at sources/src-2026-09-04-002.md and raw source at raw/articles/2026-09-04-react-native-plain-text-milestone-update-100-stars-16k-weekly-downloads-and-library-details.md.
+
+## [2026-09-04 03:17] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-09-04 03:17] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-04 03:18] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-04 03:21] capture | State of React Native Navigation: Cold Start, RAM, and FPS Across Four Navigation Libraries
+- Stored pasted content in inbox/paste/2026-09-04-032144-state-of-react-native-navigation-cold-start-ram-and-fps-across-four-navigation-libraries.md.
+
+## [2026-09-04 03:21] ingest | src-2026-09-04-003 | State of React Native Navigation: Cold Start, RAM, and FPS Across Four Navigation Libraries
+- Created source record at sources/src-2026-09-04-003.md and raw source at raw/articles/2026-09-04-state-of-react-native-navigation-cold-start-ram-and-fps-across-four-navigation-libraries.md.
+
+## [2026-09-04 03:21] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-09-04 03:21] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-04 03:21] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-04 03:22] lint | Vault lint
+- Found 1 issue(s).
