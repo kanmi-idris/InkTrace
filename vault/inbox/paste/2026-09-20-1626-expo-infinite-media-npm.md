@@ -2,14 +2,17 @@
 title: "expo-infinite-media npm package"
 kind: paste
 captured_at: "2026-09-20 16:26"
-tags: [expo, react-native, media, npm, video, caching, preloading, avfoundation, media3]
+tags: [expo, react-native, media, npm, video, caching, preloading, avfoundation, media3, dependents]
 source_url: "https://www.npmjs.com/package/@rbayuokt/expo-infinite-media"
+source_urls: ["https://www.npmjs.com/package/@rbayuokt/expo-infinite-media", "https://www.npmjs.com/package/@rbayuokt/expo-infinite-media?activeTab=dependents", "https://github.com/rbayuokt/expo-infinite-media"]
 status: inbox
 ---
 
 # expo-infinite-media npm package
 
 NPM: https://www.npmjs.com/package/@rbayuokt/expo-infinite-media
+
+NPM dependents view: https://www.npmjs.com/package/@rbayuokt/expo-infinite-media?activeTab=dependents
 
 Repository: https://github.com/rbayuokt/expo-infinite-media
 
@@ -77,6 +80,18 @@ These are project-published benchmark results and should be treated as the repos
 - Handle recoverable errors explicitly.
 - Profile release builds on real lower-end devices before shipping.
 
+## Dependents investigation
+
+The npm dependents tab was explicitly re-queried at:
+
+https://www.npmjs.com/package/@rbayuokt/expo-infinite-media?activeTab=dependents
+
+The direct web retriever is blocked from loading npmjs.com, so the npm-rendered dependents list could not be read from that page.
+
+As an alternate route, a GitHub-wide code search for exact references to `@rbayuokt/expo-infinite-media` outside the package's own repository was performed. No external repository references were found in the accessible GitHub search results; the only match was this InkTrace capture.
+
+This is not equivalent to npm's own dependents count, so do not interpret it as proof that the package has zero npm dependents. It only means no external GitHub code references were discoverable through the available GitHub search at capture time.
+
 ## Retrieval note
 
-The npm website itself was blocked by the direct web retriever. The package was located through GitHub and its README and package.json were retrieved directly from `rbayuokt/expo-infinite-media`, providing the package metadata and implementation details above.
+The npm website itself remains blocked by the direct web retriever. The package was located through GitHub and its README and package.json were retrieved directly from `rbayuokt/expo-infinite-media`, providing the package metadata and implementation details above.
