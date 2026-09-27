@@ -7241,3 +7241,741 @@
 
 ## [2026-09-04 03:22] lint | Vault lint
 - Found 1 issue(s).
+
+## [2026-09-04 03:32] capture | Social Media Thread: 10 Foods Marketed as Traditional Libido Boosters (Unverified Health Claims)
+- Stored pasted content in inbox/paste/2026-09-04-033216-social-media-thread-10-foods-marketed-as-traditional-libido-boosters-unverified-health-claims.md.
+
+## [2026-09-04 03:32] ingest | src-2026-09-04-004 | Social Media Thread: 10 Foods Marketed as Traditional Libido Boosters (Unverified Health Claims)
+- Created source record at sources/src-2026-09-04-004.md and raw source at raw/articles/2026-09-04-social-media-thread-10-foods-marketed-as-traditional-libido-boosters-unverified-health-claims.md.
+
+## [2026-09-04 03:32] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-09-04 03:32] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-04 03:32] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-04 11:21] capture | Raw Bits to React: A Self-Study Curriculum for Building a Browser, JS Engine, and React Clone from Scratch
+- Stored pasted content in inbox/paste/2026-09-04-112137-raw-bits-to-react-a-self-study-curriculum-for-building-a-browser-js-engine-and-react-clone-from-scratch.md.
+
+## [2026-09-04 11:21] ingest | src-2026-09-04-005 | Raw Bits to React: A Self-Study Curriculum for Building a Browser, JS Engine, and React Clone from Scratch
+- Created source record at sources/src-2026-09-04-005.md and raw source at raw/articles/2026-09-04-raw-bits-to-react-a-self-study-curriculum-for-building-a-browser-js-engine-and-react-clone-from-scratch.md.
+
+## [2026-09-04 11:21] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-09-04 11:21] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-04 11:22] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-04 22:59] capture | Motionary Sleep Timer Island: Progressive Blur in React Native via a Custom Expo Native Module
+- Stored pasted content in inbox/paste/2026-09-04-225909-motionary-sleep-timer-island-progressive-blur-in-react-native-via-a-custom-expo-native-module.md.
+
+## [2026-09-04 22:59] ingest | src-2026-09-04-006 | Motionary Sleep Timer Island: Progressive Blur in React Native via a Custom Expo Native Module
+- Created source record at sources/src-2026-09-04-006.md and raw source at raw/articles/2026-09-04-motionary-sleep-timer-island-progressive-blur-in-react-native-via-a-custom-expo-native-module.md.
+
+## [2026-09-04 22:59] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-09-04 22:59] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-04 22:59] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-04 23:43] capture | Social Media Post: Giving Junior Engineers Strategic, Low-Blast-Radius Ownership in the AI Era
+- Stored pasted content in inbox/paste/2026-09-04-234344-social-media-post-giving-junior-engineers-strategic-low-blast-radius-ownership-in-the-ai-era.md.
+
+## [2026-09-04 23:43] ingest | src-2026-09-04-007 | Social Media Post: Giving Junior Engineers Strategic, Low-Blast-Radius Ownership in the AI Era
+- Created source record at sources/src-2026-09-04-007.md and raw source at raw/articles/2026-09-04-social-media-post-giving-junior-engineers-strategic-low-blast-radius-ownership-in-the-ai-era.md.
+
+## [2026-09-04 23:43] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-09-04 23:43] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-04 23:43] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-05 06:57] capture | GPT-6 Astra's Experimental Context Management in Codex (config.toml Setting)
+- Stored pasted content in inbox/paste/2026-09-05-065754-gpt-6-astra-s-experimental-context-management-in-codex-config-toml-setting.md.
+
+## [2026-09-05 06:57] ingest | src-2026-09-05-001 | GPT-6 Astra's Experimental Context Management in Codex (config.toml Setting)
+- Created source record at sources/src-2026-09-05-001.md and raw source at raw/articles/2026-09-05-gpt-6-astra-s-experimental-context-management-in-codex-config-toml-setting.md.
+
+## [2026-09-05 06:57] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-09-05 06:57] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-05 06:58] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-05 06:59] capture | React Native Motion: Stack Toast Component and the Broader Animation Gallery
+- Stored pasted content in inbox/paste/2026-09-05-065906-react-native-motion-stack-toast-component-and-the-broader-animation-gallery.md.
+
+## [2026-09-05 06:59] ingest | src-2026-09-05-002 | React Native Motion: Stack Toast Component and the Broader Animation Gallery
+- Created source record at sources/src-2026-09-05-002.md and raw source at raw/articles/2026-09-05-react-native-motion-stack-toast-component-and-the-broader-animation-gallery.md.
+
+## [2026-09-05 06:59] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-09-05 06:59] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-05 06:59] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-05 07:03] capture | Annnimate: Morphing Tooltip and the GSAP-Based Animation Component Library
+- Stored pasted content in inbox/paste/2026-09-05-070323-annnimate-morphing-tooltip-and-the-gsap-based-animation-component-library.md.
+
+## [2026-09-05 07:03] ingest | src-2026-09-05-003 | Annnimate: Morphing Tooltip and the GSAP-Based Animation Component Library
+- Created source record at sources/src-2026-09-05-003.md and raw source at raw/articles/2026-09-05-annnimate-morphing-tooltip-and-the-gsap-based-animation-component-library.md.
+
+## [2026-09-05 07:03] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-09-05 07:03] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-05 07:03] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-05 07:08] capture | M3E Canvas Milestone Update: 500+ Stars Claim, Verified at 2,355 Stars Two Days After Initial Capture
+- Stored pasted content in inbox/paste/2026-09-05-070830-m3e-canvas-milestone-update-500-stars-claim-verified-at-2-355-stars-two-days-after-initial-capture.md.
+
+## [2026-09-05 07:08] ingest | src-2026-09-05-004 | M3E Canvas Milestone Update: 500+ Stars Claim, Verified at 2,355 Stars Two Days After Initial Capture
+- Created source record at sources/src-2026-09-05-004.md and raw source at raw/articles/2026-09-05-m3e-canvas-milestone-update-500-stars-claim-verified-at-2-355-stars-two-days-after-initial-capture.md.
+
+## [2026-09-05 07:08] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-09-05 07:08] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-05 07:08] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-05 14:40] capture | Margelo Joins Callstack: React Native Engineering Consultancy Merger (Valued Over EUR 20M)
+- Stored pasted content in inbox/paste/2026-09-05-144039-margelo-joins-callstack-react-native-engineering-consultancy-merger-valued-over-eur-20m.md.
+
+## [2026-09-05 14:40] ingest | src-2026-09-05-005 | Margelo Joins Callstack: React Native Engineering Consultancy Merger (Valued Over EUR 20M)
+- Created source record at sources/src-2026-09-05-005.md and raw source at raw/articles/2026-09-05-margelo-joins-callstack-react-native-engineering-consultancy-merger-valued-over-eur-20m.md.
+
+## [2026-09-05 14:40] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-09-05 14:40] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-05 14:40] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-05 14:57] capture | kugiri: A Text Splitter That Reads Browser-Painted Line Breaks Instead of Guessing Them
+- Stored pasted content in inbox/paste/2026-09-05-145750-kugiri-a-text-splitter-that-reads-browser-painted-line-breaks-instead-of-guessing-them.md.
+
+## [2026-09-05 14:57] ingest | src-2026-09-05-006 | kugiri: A Text Splitter That Reads Browser-Painted Line Breaks Instead of Guessing Them
+- Created source record at sources/src-2026-09-05-006.md and raw source at raw/articles/2026-09-05-kugiri-a-text-splitter-that-reads-browser-painted-line-breaks-instead-of-guessing-them.md.
+
+## [2026-09-05 14:57] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-09-05 14:57] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-05 14:57] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-06 06:24] capture | mobilecode: A Fork of opencode That Embeds Live iOS Simulator and Android Emulator Previews
+- Stored pasted content in inbox/paste/2026-09-06-062428-mobilecode-a-fork-of-opencode-that-embeds-live-ios-simulator-and-android-emulator-previews.md.
+
+## [2026-09-06 06:24] ingest | src-2026-09-06-001 | mobilecode: A Fork of opencode That Embeds Live iOS Simulator and Android Emulator Previews
+- Created source record at sources/src-2026-09-06-001.md and raw source at raw/articles/2026-09-06-mobilecode-a-fork-of-opencode-that-embeds-live-ios-simulator-and-android-emulator-previews.md.
+
+## [2026-09-06 06:24] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-09-06 06:24] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-06 06:24] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-06 06:26] capture | swiftui-logo-draw: A SwiftUI Component Plus a PNG-to-Shape Pipeline for Animated Logo Reveals
+- Stored pasted content in inbox/paste/2026-09-06-062628-swiftui-logo-draw-a-swiftui-component-plus-a-png-to-shape-pipeline-for-animated-logo-reveals.md.
+
+## [2026-09-06 06:26] ingest | src-2026-09-06-002 | swiftui-logo-draw: A SwiftUI Component Plus a PNG-to-Shape Pipeline for Animated Logo Reveals
+- Created source record at sources/src-2026-09-06-002.md and raw source at raw/articles/2026-09-06-swiftui-logo-draw-a-swiftui-component-plus-a-png-to-shape-pipeline-for-animated-logo-reveals.md.
+
+## [2026-09-06 06:26] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-09-06 06:26] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-06 06:26] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-06 06:27] capture | Social Media Post: Choosing SQS Over Kafka for a Notification System (Unverified Cost Claims)
+- Stored pasted content in inbox/paste/2026-09-06-062723-social-media-post-choosing-sqs-over-kafka-for-a-notification-system-unverified-cost-claims.md.
+
+## [2026-09-06 06:27] ingest | src-2026-09-06-003 | Social Media Post: Choosing SQS Over Kafka for a Notification System (Unverified Cost Claims)
+- Created source record at sources/src-2026-09-06-003.md and raw source at raw/articles/2026-09-06-social-media-post-choosing-sqs-over-kafka-for-a-notification-system-unverified-cost-claims.md.
+
+## [2026-09-06 06:27] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-09-06 06:27] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-06 06:27] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-06 06:36] capture | Social Media Thread: Using Reddit for Remote Job Hunting (Subreddits, Scam Detection, Karma Strategy)
+- Stored pasted content in inbox/paste/2026-09-06-063615-social-media-thread-using-reddit-for-remote-job-hunting-subreddits-scam-detection-karma-strategy.md.
+
+## [2026-09-06 06:36] ingest | src-2026-09-06-004 | Social Media Thread: Using Reddit for Remote Job Hunting (Subreddits, Scam Detection, Karma Strategy)
+- Created source record at sources/src-2026-09-06-004.md and raw source at raw/articles/2026-09-06-social-media-thread-using-reddit-for-remote-job-hunting-subreddits-scam-detection-karma-strategy.md.
+
+## [2026-09-06 06:36] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-09-06 06:36] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-06 06:36] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-09 22:03] capture | Legend Chat History v0.0.2: A macOS Demo for Browsing Local Codex/Claude Transcripts
+- Stored pasted content in inbox/paste/2026-09-09-220320-legend-chat-history-v0-0-2-a-macos-demo-for-browsing-local-codex-claude-transcripts.md.
+
+## [2026-09-09 22:03] ingest | src-2026-09-09-001 | Legend Chat History v0.0.2: A macOS Demo for Browsing Local Codex/Claude Transcripts
+- Created source record at sources/src-2026-09-09-001.md and raw source at raw/articles/2026-09-09-legend-chat-history-v0-0-2-a-macos-demo-for-browsing-local-codex-claude-transcripts.md.
+
+## [2026-09-09 22:03] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-09-09 22:03] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-09 22:03] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-09 22:24] capture | Legend Diff v0.0.4: Release Notes for the Native macOS Diff/PR Viewer
+- Stored pasted content in inbox/paste/2026-09-09-222446-legend-diff-v0-0-4-release-notes-for-the-native-macos-diff-pr-viewer.md.
+
+## [2026-09-09 22:24] ingest | src-2026-09-09-002 | Legend Diff v0.0.4: Release Notes for the Native macOS Diff/PR Viewer
+- Created source record at sources/src-2026-09-09-002.md and raw source at raw/articles/2026-09-09-legend-diff-v0-0-4-release-notes-for-the-native-macos-diff-pr-viewer.md.
+
+## [2026-09-09 22:24] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-09-09 22:24] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-09 22:24] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-10 10:09] capture | RevPDF Update: Version 5.0 Download Details (Filling Prior Placeholder)
+- Stored pasted content in inbox/paste/2026-09-10-100944-revpdf-update-version-5-0-download-details-filling-prior-placeholder.md.
+
+## [2026-09-10 10:09] ingest | src-2026-09-10-001 | RevPDF Update: Version 5.0 Download Details (Filling Prior Placeholder)
+- Created source record at sources/src-2026-09-10-001.md and raw source at raw/articles/2026-09-10-revpdf-update-version-5-0-download-details-filling-prior-placeholder.md.
+
+## [2026-09-10 10:09] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-09-10 10:09] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-10 10:09] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-10 13:15] capture | ADB Wi-Fi 2.0: Faster, More Reliable Wireless Debugging for Android
+- Stored pasted content in inbox/paste/2026-09-10-131510-adb-wi-fi-2-0-faster-more-reliable-wireless-debugging-for-android.md.
+
+## [2026-09-10 13:15] ingest | src-2026-09-10-002 | ADB Wi-Fi 2.0: Faster, More Reliable Wireless Debugging for Android
+- Created source record at sources/src-2026-09-10-002.md and raw source at raw/articles/2026-09-10-adb-wi-fi-2-0-faster-more-reliable-wireless-debugging-for-android.md.
+
+## [2026-09-10 13:15] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-09-10 13:15] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-10 13:15] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-10 14:38] capture | UI Pocket: Japanese Mobile/Web App UI Design Reference Gallery
+- Stored pasted content in inbox/paste/2026-09-10-143810-ui-pocket-japanese-mobile-web-app-ui-design-reference-gallery.md.
+
+## [2026-09-10 14:38] ingest | src-2026-09-10-003 | UI Pocket: Japanese Mobile/Web App UI Design Reference Gallery
+- Created source record at sources/src-2026-09-10-003.md and raw source at raw/articles/2026-09-10-ui-pocket-japanese-mobile-web-app-ui-design-reference-gallery.md.
+
+## [2026-09-10 14:38] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-09-10 14:38] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-10 14:38] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-12 11:17] capture | expo-share-link: Native Share Sheets with a Title and Icon Instead of a Generic Link Preview
+- Stored pasted content in inbox/paste/2026-09-12-111751-expo-share-link-native-share-sheets-with-a-title-and-icon-instead-of-a-generic-link-preview.md.
+
+## [2026-09-12 11:17] ingest | src-2026-09-12-001 | expo-share-link: Native Share Sheets with a Title and Icon Instead of a Generic Link Preview
+- Created source record at sources/src-2026-09-12-001.md and raw source at raw/articles/2026-09-12-expo-share-link-native-share-sheets-with-a-title-and-icon-instead-of-a-generic-link-preview.md.
+
+## [2026-09-12 11:17] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-09-12 11:17] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-12 11:20] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-17 04:18] capture | TypeSafe AI's RLCD Pitch: Calibrated Decision Models Instead of Chat, and What Outside Coverage Adds
+- Stored pasted content in inbox/paste/2026-09-17-041809-typesafe-ai-s-rlcd-pitch-calibrated-decision-models-instead-of-chat-and-what-outside-coverage-adds.md.
+
+## [2026-09-17 04:18] ingest | src-2026-09-17-001 | TypeSafe AI's RLCD Pitch: Calibrated Decision Models Instead of Chat, and What Outside Coverage Adds
+- Created source record at sources/src-2026-09-17-001.md and raw source at raw/articles/2026-09-17-typesafe-ai-s-rlcd-pitch-calibrated-decision-models-instead-of-chat-and-what-outside-coverage-adds.md.
+
+## [2026-09-17 04:18] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-09-17 04:18] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-17 04:18] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-17 04:45] capture | rn-story: Instagram-Style Stories for React Native (Post Describes 2.0/expo-av, Current Release Is 3.0/expo-video)
+- Stored pasted content in inbox/paste/2026-09-17-044537-rn-story-instagram-style-stories-for-react-native-post-describes-2-0-expo-av-current-release-is-3-0-expo-video.md.
+
+## [2026-09-17 04:45] ingest | src-2026-09-17-002 | rn-story: Instagram-Style Stories for React Native (Post Describes 2.0/expo-av, Current Release Is 3.0/expo-video)
+- Created source record at sources/src-2026-09-17-002.md and raw source at raw/articles/2026-09-17-rn-story-instagram-style-stories-for-react-native-post-describes-2-0-expo-av-current-release-is-3-0-expo-video.md.
+
+## [2026-09-17 04:45] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-09-17 04:45] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-17 04:45] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-17 04:49] capture | Fishjam VoIP Docs and Example App: Independently Verified Setup, Call-State Model, and Push Payload Contract
+- Stored pasted content in inbox/paste/2026-09-17-044932-fishjam-voip-docs-and-example-app-independently-verified-setup-call-state-model-and-push-payload-contract.md.
+
+## [2026-09-17 04:49] ingest | src-2026-09-17-003 | Fishjam VoIP Docs and Example App: Independently Verified Setup, Call-State Model, and Push Payload Contract
+- Created source record at sources/src-2026-09-17-003.md and raw source at raw/articles/2026-09-17-fishjam-voip-docs-and-example-app-independently-verified-setup-call-state-model-and-push-payload-contract.md.
+
+## [2026-09-17 04:49] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-09-17 04:49] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-17 04:49] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-17 04:51] capture | DocuLens AI: Offline React Native Document Scanner (DocAligner + Fast OpenCV + Fast TFLite + ML Kit)
+- Stored pasted content in inbox/paste/2026-09-17-045143-doculens-ai-offline-react-native-document-scanner-docaligner-fast-opencv-fast-tflite-ml-kit.md.
+
+## [2026-09-17 04:51] ingest | src-2026-09-17-004 | DocuLens AI: Offline React Native Document Scanner (DocAligner + Fast OpenCV + Fast TFLite + ML Kit)
+- Created source record at sources/src-2026-09-17-004.md and raw source at raw/articles/2026-09-17-doculens-ai-offline-react-native-document-scanner-docaligner-fast-opencv-fast-tflite-ml-kit.md.
+
+## [2026-09-17 04:51] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-09-17 04:51] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-17 04:51] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-18 13:11] capture | fast-jev-compaction: Using TypeSafe's Jev Model to Prune Claude Code Context Instead of Summarizing It
+- Stored pasted content in inbox/paste/2026-09-18-131122-fast-jev-compaction-using-typesafe-s-jev-model-to-prune-claude-code-context-instead-of-summarizing-it.md.
+
+## [2026-09-18 13:11] ingest | src-2026-09-18-001 | fast-jev-compaction: Using TypeSafe's Jev Model to Prune Claude Code Context Instead of Summarizing It
+- Created source record at sources/src-2026-09-18-001.md and raw source at raw/articles/2026-09-18-fast-jev-compaction-using-typesafe-s-jev-model-to-prune-claude-code-context-instead-of-summarizing-it.md.
+
+## [2026-09-18 13:11] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-09-18 13:11] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-18 13:11] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-18 13:14] capture | Margelo: Building End-to-End Encrypted Group Messaging in React Native with OpenMLS (Part 1)
+- Stored pasted content in inbox/paste/2026-09-18-131454-margelo-building-end-to-end-encrypted-group-messaging-in-react-native-with-openmls-part-1.md.
+
+## [2026-09-18 13:14] ingest | src-2026-09-18-002 | Margelo: Building End-to-End Encrypted Group Messaging in React Native with OpenMLS (Part 1)
+- Created source record at sources/src-2026-09-18-002.md and raw source at raw/articles/2026-09-18-margelo-building-end-to-end-encrypted-group-messaging-in-react-native-with-openmls-part-1.md.
+
+## [2026-09-18 13:14] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-09-18 13:14] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-18 13:15] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-19 07:45] capture | react-native-better-maps: A Nitro-Native MapView for Apple MapKit and Google Maps
+- Stored pasted content in inbox/paste/2026-09-19-074515-react-native-better-maps-a-nitro-native-mapview-for-apple-mapkit-and-google-maps.md.
+
+## [2026-09-19 07:45] ingest | src-2026-09-19-001 | react-native-better-maps: A Nitro-Native MapView for Apple MapKit and Google Maps
+- Created source record at sources/src-2026-09-19-001.md and raw source at raw/articles/2026-09-19-react-native-better-maps-a-nitro-native-mapview-for-apple-mapkit-and-google-maps.md.
+
+## [2026-09-19 07:45] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-09-19 07:45] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-19 07:45] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-19 15:03] capture | expo-dynamic-notifications: Skia-Based Dynamic Island-Style In-App Notifications
+- Stored pasted content in inbox/paste/2026-09-19-150305-expo-dynamic-notifications-skia-based-dynamic-island-style-in-app-notifications.md.
+
+## [2026-09-19 15:03] ingest | src-2026-09-19-002 | expo-dynamic-notifications: Skia-Based Dynamic Island-Style In-App Notifications
+- Created source record at sources/src-2026-09-19-002.md and raw source at raw/articles/2026-09-19-expo-dynamic-notifications-skia-based-dynamic-island-style-in-app-notifications.md.
+
+## [2026-09-19 15:03] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-09-19 15:03] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-19 15:04] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-21 18:06] capture | Internal Design Notes: 'Why Yet Another Agent' — A TypeSafe-Native Coding Agent Concept
+- Stored pasted content in inbox/paste/2026-09-21-180637-internal-design-notes-why-yet-another-agent-a-typesafe-native-coding-agent-concept.md.
+
+## [2026-09-21 18:06] ingest | src-2026-09-21-001 | Internal Design Notes: 'Why Yet Another Agent' — A TypeSafe-Native Coding Agent Concept
+- Created source record at sources/src-2026-09-21-001.md and raw source at raw/articles/2026-09-21-internal-design-notes-why-yet-another-agent-a-typesafe-native-coding-agent-concept.md.
+
+## [2026-09-21 18:06] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-09-21 18:06] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-21 19:14] capture | react-native-bottom-tabs: Native Platform Bottom Tabs (SwiftUI TabView / Android BottomNavigationView)
+- Stored pasted content in inbox/paste/2026-09-21-191414-react-native-bottom-tabs-native-platform-bottom-tabs-swiftui-tabview-android-bottomnavigationview.md.
+
+## [2026-09-21 19:14] ingest | src-2026-09-21-002 | react-native-bottom-tabs: Native Platform Bottom Tabs (SwiftUI TabView / Android BottomNavigationView)
+- Created source record at sources/src-2026-09-21-002.md and raw source at raw/articles/2026-09-21-react-native-bottom-tabs-native-platform-bottom-tabs-swiftui-tabview-android-bottomnavigationview.md.
+
+## [2026-09-21 19:14] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-09-21 19:14] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-23 02:54] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-09-23 02:54] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-23 02:55] capture | @rbayuokt/expo-adaptive-glass: Adaptive Native Glass Surfaces for Expo and React Native
+- Stored pasted content in inbox/paste/2026-09-23-025527-rbayuokt-expo-adaptive-glass-adaptive-native-glass-surfaces-for-expo-and-react-native.md.
+
+## [2026-09-23 02:55] ingest | src-2026-09-23-001 | @rbayuokt/expo-adaptive-glass: Adaptive Native Glass Surfaces for Expo and React Native
+- Created source record at sources/src-2026-09-23-001.md and raw source at raw/articles/2026-09-23-rbayuokt-expo-adaptive-glass-adaptive-native-glass-surfaces-for-expo-and-react-native.md.
+
+## [2026-09-23 02:55] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-09-23 02:55] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-23 02:55] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-23 02:56] capture | Nitro Direct Hermes APIs: Author-Reported Almost 2x Performance Gain in react-native-mmkv
+- Stored pasted content in inbox/paste/2026-09-23-025638-nitro-direct-hermes-apis-author-reported-almost-2x-performance-gain-in-react-native-mmkv.md.
+
+## [2026-09-23 02:56] ingest | src-2026-09-23-002 | Nitro Direct Hermes APIs: Author-Reported Almost 2x Performance Gain in react-native-mmkv
+- Created source record at sources/src-2026-09-23-002.md and raw source at raw/articles/2026-09-23-nitro-direct-hermes-apis-author-reported-almost-2x-performance-gain-in-react-native-mmkv.md.
+
+## [2026-09-23 02:56] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-09-23 02:56] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-23 02:56] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-23 02:57] capture | expo-backdrop Follow-up: Native BlurView, Gaussian Blur, and Progressive Blur for Expo
+- Stored pasted content in inbox/paste/2026-09-23-025738-expo-backdrop-follow-up-native-blurview-gaussian-blur-and-progressive-blur-for-expo.md.
+
+## [2026-09-23 02:57] ingest | src-2026-09-23-003 | expo-backdrop Follow-up: Native BlurView, Gaussian Blur, and Progressive Blur for Expo
+- Created source record at sources/src-2026-09-23-003.md and raw source at raw/articles/2026-09-23-expo-backdrop-follow-up-native-blurview-gaussian-blur-and-progressive-blur-for-expo.md.
+
+## [2026-09-23 02:57] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-09-23 02:57] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-23 02:57] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-23 04:58] capture | Appduct: Secure Function Calls into Running React Native, iOS, and Android Apps
+- Stored pasted content in inbox/paste/2026-09-23-045859-appduct-secure-function-calls-into-running-react-native-ios-and-android-apps.md.
+
+## [2026-09-23 04:59] ingest | src-2026-09-23-004 | Appduct: Secure Function Calls into Running React Native, iOS, and Android Apps
+- Created source record at sources/src-2026-09-23-004.md and raw source at raw/articles/2026-09-23-appduct-secure-function-calls-into-running-react-native-ios-and-android-apps.md.
+
+## [2026-09-23 04:59] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-09-23 04:59] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-23 04:59] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-23 18:33] capture | Xprem: Self-Hosted Expo OTA Updates, Rollouts, and Observability
+- Stored pasted content in inbox/paste/2026-09-23-183311-xprem-self-hosted-expo-ota-updates-rollouts-and-observability.md.
+
+## [2026-09-23 18:33] ingest | src-2026-09-23-005 | Xprem: Self-Hosted Expo OTA Updates, Rollouts, and Observability
+- Created source record at sources/src-2026-09-23-005.md and raw source at raw/articles/2026-09-23-xprem-self-hosted-expo-ota-updates-rollouts-and-observability.md.
+
+## [2026-09-23 18:33] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-09-23 18:33] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-23 18:33] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-24 09:34] capture | react-native-reserved-regions: Provider-Scoped Fold and Cutout Geometry for React Native
+- Stored pasted content in inbox/paste/2026-09-24-093404-react-native-reserved-regions-provider-scoped-fold-and-cutout-geometry-for-react-native.md.
+
+## [2026-09-24 09:34] ingest | src-2026-09-24-001 | react-native-reserved-regions: Provider-Scoped Fold and Cutout Geometry for React Native
+- Created source record at sources/src-2026-09-24-001.md and raw source at raw/articles/2026-09-24-react-native-reserved-regions-provider-scoped-fold-and-cutout-geometry-for-react-native.md.
+
+## [2026-09-24 09:34] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-09-24 09:34] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-24 09:34] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-24 11:30] capture | react-native-nitro-rtmp: Native RTMP and RTMPS Streaming Output for VisionCamera
+- Stored pasted content in inbox/paste/2026-09-24-113002-react-native-nitro-rtmp-native-rtmp-and-rtmps-streaming-output-for-visioncamera.md.
+
+## [2026-09-24 11:30] ingest | src-2026-09-24-002 | react-native-nitro-rtmp: Native RTMP and RTMPS Streaming Output for VisionCamera
+- Created source record at sources/src-2026-09-24-002.md and raw source at raw/articles/2026-09-24-react-native-nitro-rtmp-native-rtmp-and-rtmps-streaming-output-for-visioncamera.md.
+
+## [2026-09-24 11:30] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-09-24 11:30] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-24 11:30] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-24 13:06] capture | avdslim: Android Emulator RAM and CPU Optimizer for AVD Development
+- Stored pasted content in inbox/paste/2026-09-24-130624-avdslim-android-emulator-ram-and-cpu-optimizer-for-avd-development.md.
+
+## [2026-09-24 13:06] ingest | src-2026-09-24-003 | avdslim: Android Emulator RAM and CPU Optimizer for AVD Development
+- Created source record at sources/src-2026-09-24-003.md and raw source at raw/articles/2026-09-24-avdslim-android-emulator-ram-and-cpu-optimizer-for-avd-development.md.
+
+## [2026-09-24 13:06] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-09-24 13:06] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-24 13:06] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-25 15:18] capture | Margelo and Discord: Reanimated and Fabric Shadow Tree Performance Fix
+- Stored pasted content in inbox/paste/2026-09-25-151843-margelo-and-discord-reanimated-and-fabric-shadow-tree-performance-fix.md.
+
+## [2026-09-25 15:18] ingest | src-2026-09-25-001 | Margelo and Discord: Reanimated and Fabric Shadow Tree Performance Fix
+- Created source record at sources/src-2026-09-25-001.md and raw source at raw/articles/2026-09-25-margelo-and-discord-reanimated-and-fabric-shadow-tree-performance-fix.md.
+
+## [2026-09-25 15:18] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-09-25 15:18] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-25 15:18] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-25 15:20] capture | MargeloChat: Native-Feeling React Native AI Chat with WebSocket Streaming and Pinecone RAG
+- Stored pasted content in inbox/paste/2026-09-25-152059-margelochat-native-feeling-react-native-ai-chat-with-websocket-streaming-and-pinecone-rag.md.
+
+## [2026-09-25 15:20] ingest | src-2026-09-25-002 | MargeloChat: Native-Feeling React Native AI Chat with WebSocket Streaming and Pinecone RAG
+- Created source record at sources/src-2026-09-25-002.md and raw source at raw/articles/2026-09-25-margelochat-native-feeling-react-native-ai-chat-with-websocket-streaming-and-pinecone-rag.md.
+
+## [2026-09-25 15:20] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-09-25 15:21] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-25 15:21] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-25 15:26] capture | Supplement: Chasing a Phantom Jump in Skia and Reanimated on Low-End Android
+- Stored pasted content in inbox/paste/2026-09-25-152614-supplement-chasing-a-phantom-jump-in-skia-and-reanimated-on-low-end-android.md.
+
+## [2026-09-25 15:26] ingest | src-2026-09-25-003 | Supplement: Chasing a Phantom Jump in Skia and Reanimated on Low-End Android
+- Created source record at sources/src-2026-09-25-003.md and raw source at raw/articles/2026-09-25-supplement-chasing-a-phantom-jump-in-skia-and-reanimated-on-low-end-android.md.
+
+## [2026-09-25 15:26] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-09-25 15:26] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-25 15:26] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-25 15:28] capture | Four Years of React Native Quick Crypto: From Wallets to Node Parity
+- Stored pasted content in inbox/paste/2026-09-25-152845-four-years-of-react-native-quick-crypto-from-wallets-to-node-parity.md.
+
+## [2026-09-25 15:28] ingest | src-2026-09-25-004 | Four Years of React Native Quick Crypto: From Wallets to Node Parity
+- Created source record at sources/src-2026-09-25-004.md and raw source at raw/articles/2026-09-25-four-years-of-react-native-quick-crypto-from-wallets-to-node-parity.md.
+
+## [2026-09-25 15:28] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-09-25 15:28] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-25 15:28] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-25 15:30] capture | Part 2: Making JSI Faster with More Efficient Data Structures
+- Stored pasted content in inbox/paste/2026-09-25-153018-part-2-making-jsi-faster-with-more-efficient-data-structures.md.
+
+## [2026-09-25 15:30] ingest | src-2026-09-25-005 | Part 2: Making JSI Faster with More Efficient Data Structures
+- Created source record at sources/src-2026-09-25-005.md and raw source at raw/articles/2026-09-25-part-2-making-jsi-faster-with-more-efficient-data-structures.md.
+
+## [2026-09-25 15:30] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-09-25 15:30] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-25 15:30] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-25 15:31] capture | Part 1: How to Make Pure JSI Code Faster in React Native
+- Stored pasted content in inbox/paste/2026-09-25-153139-part-1-how-to-make-pure-jsi-code-faster-in-react-native.md.
+
+## [2026-09-25 15:31] ingest | src-2026-09-25-006 | Part 1: How to Make Pure JSI Code Faster in React Native
+- Created source record at sources/src-2026-09-25-006.md and raw source at raw/articles/2026-09-25-part-1-how-to-make-pure-jsi-code-faster-in-react-native.md.
+
+## [2026-09-25 15:31] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-09-25 15:31] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-25 15:31] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-26 06:57] capture | Supplement: Speeding up Expensify's Networking with NitroFetch
+- Stored pasted content in inbox/paste/2026-09-26-065740-supplement-speeding-up-expensify-s-networking-with-nitrofetch.md.
+
+## [2026-09-26 06:57] ingest | src-2026-09-26-001 | Supplement: Speeding up Expensify's Networking with NitroFetch
+- Created source record at sources/src-2026-09-26-001.md and raw source at raw/articles/2026-09-26-supplement-speeding-up-expensify-s-networking-with-nitrofetch.md.
+
+## [2026-09-26 06:57] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-09-26 06:57] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-26 06:57] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-26 06:59] capture | Google ARTEMIS: Natural-Language Android Automation and AI-Assisted Mobile Testing
+- Stored pasted content in inbox/paste/2026-09-26-065923-google-artemis-natural-language-android-automation-and-ai-assisted-mobile-testing.md.
+
+## [2026-09-26 06:59] ingest | src-2026-09-26-002 | Google ARTEMIS: Natural-Language Android Automation and AI-Assisted Mobile Testing
+- Created source record at sources/src-2026-09-26-002.md and raw source at raw/articles/2026-09-26-google-artemis-natural-language-android-automation-and-ai-assisted-mobile-testing.md.
+
+## [2026-09-26 06:59] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-09-26 06:59] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-26 06:59] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-26 07:54] capture | TraceSift: Local AI-Assisted CPU, Hermes, and React Profile Analysis
+- Stored pasted content in inbox/paste/2026-09-26-075445-tracesift-local-ai-assisted-cpu-hermes-and-react-profile-analysis.md.
+
+## [2026-09-26 07:54] ingest | src-2026-09-26-003 | TraceSift: Local AI-Assisted CPU, Hermes, and React Profile Analysis
+- Created source record at sources/src-2026-09-26-003.md and raw source at raw/articles/2026-09-26-tracesift-local-ai-assisted-cpu-hermes-and-react-profile-analysis.md.
+
+## [2026-09-26 07:54] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-09-26 07:54] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-26 07:54] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-26 08:34] capture | Supplement: react-native-nitro-biometrics npm 0.1.1
+- Stored pasted content in inbox/paste/2026-09-26-083406-supplement-react-native-nitro-biometrics-npm-0-1-1.md.
+
+## [2026-09-26 08:34] ingest | src-2026-09-26-004 | Supplement: react-native-nitro-biometrics npm 0.1.1
+- Created source record at sources/src-2026-09-26-004.md and raw source at raw/articles/2026-09-26-supplement-react-native-nitro-biometrics-npm-0-1-1.md.
+
+## [2026-09-26 08:34] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-09-26 08:34] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-26 08:34] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-27 15:50] capture | Supplement: AI Engineering from Scratch Current Curriculum and Learning Paths
+- Stored pasted content in inbox/paste/2026-09-27-155047-supplement-ai-engineering-from-scratch-current-curriculum-and-learning-paths.md.
+
+## [2026-09-27 15:50] ingest | src-2026-09-27-001 | Supplement: AI Engineering from Scratch Current Curriculum and Learning Paths
+- Created source record at sources/src-2026-09-27-001.md and raw source at raw/articles/2026-09-27-supplement-ai-engineering-from-scratch-current-curriculum-and-learning-paths.md.
+
+## [2026-09-27 15:50] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-09-27 15:50] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-27 15:50] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-27 15:59] lint | Vault lint
+- Found 1 issue(s).
