@@ -7979,3 +7979,888 @@
 
 ## [2026-09-27 15:59] lint | Vault lint
 - Found 1 issue(s).
+
+## [2026-09-27 16:38] capture | AppLlama: Top-Grossing iOS App Onboarding and Paywall Reference Library
+- Stored pasted content in inbox/paste/2026-09-27-163814-appllama-top-grossing-ios-app-onboarding-and-paywall-reference-library.md.
+
+## [2026-09-27 16:38] capture | ScreensDesign: Subscription-App Onboarding, Paywall, and Flow Research
+- Stored pasted content in inbox/paste/2026-09-27-163814-screensdesign-subscription-app-onboarding-paywall-and-flow-research.md.
+
+## [2026-09-27 16:38] capture | Page Flows: Annotated Real-World UX Flow Library
+- Stored pasted content in inbox/paste/2026-09-27-163814-page-flows-annotated-real-world-ux-flow-library.md.
+
+## [2026-09-27 16:38] capture | Mobbin: Current UI and UX Design Inspiration Library
+- Stored pasted content in inbox/paste/2026-09-27-163814-mobbin-current-ui-and-ux-design-inspiration-library.md.
+
+## [2026-09-27 16:38] capture | 60fps.design: App Interaction and Motion Reference Library
+- Stored pasted content in inbox/paste/2026-09-27-163814-60fps-design-app-interaction-and-motion-reference-library.md.
+
+## [2026-09-27 16:38] capture | Appkittie: Mobile App Market, Ads, and Onboarding Intelligence
+- Stored pasted content in inbox/paste/2026-09-27-163814-appkittie-mobile-app-market-ads-and-onboarding-intelligence.md.
+
+## [2026-09-27 16:38] capture | Appshots: Mobile and Web UX Research Library
+- Stored pasted content in inbox/paste/2026-09-27-163814-appshots-mobile-and-web-ux-research-library.md.
+
+## [2026-09-27 16:38] ingest | src-2026-09-27-002 | 60fps.design: App Interaction and Motion Reference Library
+- Created source record at sources/src-2026-09-27-002.md and raw source at raw/articles/2026-09-27-60fps-design-app-interaction-and-motion-reference-library.md.
+
+## [2026-09-27 16:38] ingest | src-2026-09-27-003 | Appkittie: Mobile App Market, Ads, and Onboarding Intelligence
+- Created source record at sources/src-2026-09-27-003.md and raw source at raw/articles/2026-09-27-appkittie-mobile-app-market-ads-and-onboarding-intelligence.md.
+
+## [2026-09-27 16:38] ingest | src-2026-09-27-004 | AppLlama: Top-Grossing iOS App Onboarding and Paywall Reference Library
+- Created source record at sources/src-2026-09-27-004.md and raw source at raw/articles/2026-09-27-appllama-top-grossing-ios-app-onboarding-and-paywall-reference-library.md.
+
+## [2026-09-27 16:38] ingest | src-2026-09-27-005 | Appshots: Mobile and Web UX Research Library
+- Created source record at sources/src-2026-09-27-005.md and raw source at raw/articles/2026-09-27-appshots-mobile-and-web-ux-research-library.md.
+
+## [2026-09-27 16:38] ingest | src-2026-09-27-006 | Mobbin: Current UI and UX Design Inspiration Library
+- Created source record at sources/src-2026-09-27-006.md and raw source at raw/articles/2026-09-27-mobbin-current-ui-and-ux-design-inspiration-library.md.
+
+## [2026-09-27 16:38] ingest | src-2026-09-27-007 | Page Flows: Annotated Real-World UX Flow Library
+- Created source record at sources/src-2026-09-27-007.md and raw source at raw/articles/2026-09-27-page-flows-annotated-real-world-ux-flow-library.md.
+
+## [2026-09-27 16:38] ingest | src-2026-09-27-008 | ScreensDesign: Subscription-App Onboarding, Paywall, and Flow Research
+- Created source record at sources/src-2026-09-27-008.md and raw source at raw/articles/2026-09-27-screensdesign-subscription-app-onboarding-paywall-and-flow-research.md.
+
+## [2026-09-27 16:38] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-09-27 16:38] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-27 16:51] capture | jevgrep: Semantic Repository Context Retrieval CLI for Coding Agents
+- Stored pasted content in inbox/paste/2026-09-27-165112-jevgrep-semantic-repository-context-retrieval-cli-for-coding-agents.md.
+
+## [2026-09-27 16:51] ingest | src-2026-09-27-009 | jevgrep: Semantic Repository Context Retrieval CLI for Coding Agents
+- Created source record at sources/src-2026-09-27-009.md and raw source at raw/articles/2026-09-27-jevgrep-semantic-repository-context-retrieval-cli-for-coding-agents.md.
+
+## [2026-09-27 16:51] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-09-27 16:51] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-27 17:29] capture | zANTI: Supplied Zimperium Link and Current Page Status
+- Stored pasted content in inbox/paste/2026-09-27-172949-zanti-supplied-zimperium-link-and-current-page-status.md.
+
+## [2026-09-27 17:29] capture | Stryker: Supplied Android Pentesting Link Unavailable
+- Stored pasted content in inbox/paste/2026-09-27-172949-stryker-supplied-android-pentesting-link-unavailable.md.
+
+## [2026-09-27 17:29] capture | Hijacker: Android Wi-Fi Auditing Interface
+- Stored pasted content in inbox/paste/2026-09-27-172949-hijacker-android-wi-fi-auditing-interface.md.
+
+## [2026-09-27 17:29] capture | Termux: Android Terminal and Linux Package Environment
+- Stored pasted content in inbox/paste/2026-09-27-172949-termux-android-terminal-and-linux-package-environment.md.
+
+## [2026-09-27 17:29] capture | WPSApp: Wi-Fi WPS Security Checker
+- Stored pasted content in inbox/paste/2026-09-27-172949-wpsapp-wi-fi-wps-security-checker.md.
+
+## [2026-09-27 17:29] capture | WIFI WPS WPA TESTER: Wi-Fi Security Assessment Toolkit
+- Stored pasted content in inbox/paste/2026-09-27-172949-wifi-wps-wpa-tester-wi-fi-security-assessment-toolkit.md.
+
+## [2026-09-27 17:29] capture | HTTP Tools: Mobile Web Reconnaissance and Diagnostics Toolkit
+- Stored pasted content in inbox/paste/2026-09-27-172949-http-tools-mobile-web-reconnaissance-and-diagnostics-toolkit.md.
+
+## [2026-09-27 17:29] capture | IoT Scanner: Supplied Google Play Link Unavailable
+- Stored pasted content in inbox/paste/2026-09-27-172949-iot-scanner-supplied-google-play-link-unavailable.md.
+
+## [2026-09-27 17:29] capture | Fing: Network Discovery and Home Network Diagnostics
+- Stored pasted content in inbox/paste/2026-09-27-172949-fing-network-discovery-and-home-network-diagnostics.md.
+
+## [2026-09-27 17:29] capture | Shodan.io App: Independent Mobile Client for Shodan Data
+- Stored pasted content in inbox/paste/2026-09-27-172949-shodan-io-app-independent-mobile-client-for-shodan-data.md.
+
+## [2026-09-27 17:29] capture | PentestKit Mobile: Authorized Security Research Toolkit
+- Stored pasted content in inbox/paste/2026-09-27-172949-pentestkit-mobile-authorized-security-research-toolkit.md.
+
+## [2026-09-27 17:29] capture | Vulners Scanner: Supplied Google Play Link Unavailable
+- Stored pasted content in inbox/paste/2026-09-27-172949-vulners-scanner-supplied-google-play-link-unavailable.md.
+
+## [2026-09-27 17:29] capture | NetMan: Supplied Google Play Link Unavailable
+- Stored pasted content in inbox/paste/2026-09-27-172949-netman-supplied-google-play-link-unavailable.md.
+
+## [2026-09-27 17:29] capture | nRF Connect for Mobile: Bluetooth LE Development and Diagnostics
+- Stored pasted content in inbox/paste/2026-09-27-172949-nrf-connect-for-mobile-bluetooth-le-development-and-diagnostics.md.
+
+## [2026-09-27 17:29] capture | BLE Sniffer: Supplied Google Play Link Unavailable
+- Stored pasted content in inbox/paste/2026-09-27-172949-ble-sniffer-supplied-google-play-link-unavailable.md.
+
+## [2026-09-27 17:29] capture | Dorks - Hack: Google Search and OSINT Learning App
+- Stored pasted content in inbox/paste/2026-09-27-172949-dorks-hack-google-search-and-osint-learning-app.md.
+
+## [2026-09-27 17:29] capture | Intercepter-NG: Legacy Android Network Capture and Analysis Tool
+- Stored pasted content in inbox/paste/2026-09-27-172949-intercepter-ng-legacy-android-network-capture-and-analysis-tool.md.
+
+## [2026-09-27 17:29] capture | Sniffer Wicap: Supplied Google Play Link Unavailable
+- Stored pasted content in inbox/paste/2026-09-27-172949-sniffer-wicap-supplied-google-play-link-unavailable.md.
+
+## [2026-09-27 17:29] capture | Rucky: Android USB HID Script Editor and Launcher
+- Stored pasted content in inbox/paste/2026-09-27-172949-rucky-android-usb-hid-script-editor-and-launcher.md.
+
+## [2026-09-27 17:29] capture | WHID Mobile Connector: Supplied Link Normalized to NetHunter Store
+- Stored pasted content in inbox/paste/2026-09-27-172949-whid-mobile-connector-supplied-link-normalized-to-nethunter-store.md.
+
+## [2026-09-27 17:29] capture | WiGLE WiFi Wardriving: Wireless Network Observation and Mapping
+- Stored pasted content in inbox/paste/2026-09-27-172949-wigle-wifi-wardriving-wireless-network-observation-and-mapping.md.
+
+## [2026-09-27 17:29] capture | Arkhota: Android HTTP Credential-Testing Tool
+- Stored pasted content in inbox/paste/2026-09-27-172949-arkhota-android-http-credential-testing-tool.md.
+
+## [2026-09-27 17:30] ingest | src-2026-09-27-010 | Arkhota: Android HTTP Credential-Testing Tool
+- Created source record at sources/src-2026-09-27-010.md and raw source at raw/articles/2026-09-27-arkhota-android-http-credential-testing-tool.md.
+
+## [2026-09-27 17:30] ingest | src-2026-09-27-011 | BLE Sniffer: Supplied Google Play Link Unavailable
+- Created source record at sources/src-2026-09-27-011.md and raw source at raw/articles/2026-09-27-ble-sniffer-supplied-google-play-link-unavailable.md.
+
+## [2026-09-27 17:30] ingest | src-2026-09-27-012 | Dorks - Hack: Google Search and OSINT Learning App
+- Created source record at sources/src-2026-09-27-012.md and raw source at raw/articles/2026-09-27-dorks-hack-google-search-and-osint-learning-app.md.
+
+## [2026-09-27 17:30] ingest | src-2026-09-27-013 | Fing: Network Discovery and Home Network Diagnostics
+- Created source record at sources/src-2026-09-27-013.md and raw source at raw/articles/2026-09-27-fing-network-discovery-and-home-network-diagnostics.md.
+
+## [2026-09-27 17:30] ingest | src-2026-09-27-014 | Hijacker: Android Wi-Fi Auditing Interface
+- Created source record at sources/src-2026-09-27-014.md and raw source at raw/articles/2026-09-27-hijacker-android-wi-fi-auditing-interface.md.
+
+## [2026-09-27 17:30] ingest | src-2026-09-27-015 | HTTP Tools: Mobile Web Reconnaissance and Diagnostics Toolkit
+- Created source record at sources/src-2026-09-27-015.md and raw source at raw/articles/2026-09-27-http-tools-mobile-web-reconnaissance-and-diagnostics-toolkit.md.
+
+## [2026-09-27 17:30] ingest | src-2026-09-27-016 | Intercepter-NG: Legacy Android Network Capture and Analysis Tool
+- Created source record at sources/src-2026-09-27-016.md and raw source at raw/articles/2026-09-27-intercepter-ng-legacy-android-network-capture-and-analysis-tool.md.
+
+## [2026-09-27 17:30] ingest | src-2026-09-27-017 | IoT Scanner: Supplied Google Play Link Unavailable
+- Created source record at sources/src-2026-09-27-017.md and raw source at raw/articles/2026-09-27-iot-scanner-supplied-google-play-link-unavailable.md.
+
+## [2026-09-27 17:30] ingest | src-2026-09-27-018 | NetMan: Supplied Google Play Link Unavailable
+- Created source record at sources/src-2026-09-27-018.md and raw source at raw/articles/2026-09-27-netman-supplied-google-play-link-unavailable.md.
+
+## [2026-09-27 17:30] ingest | src-2026-09-27-019 | nRF Connect for Mobile: Bluetooth LE Development and Diagnostics
+- Created source record at sources/src-2026-09-27-019.md and raw source at raw/articles/2026-09-27-nrf-connect-for-mobile-bluetooth-le-development-and-diagnostics.md.
+
+## [2026-09-27 17:30] ingest | src-2026-09-27-020 | PentestKit Mobile: Authorized Security Research Toolkit
+- Created source record at sources/src-2026-09-27-020.md and raw source at raw/articles/2026-09-27-pentestkit-mobile-authorized-security-research-toolkit.md.
+
+## [2026-09-27 17:30] ingest | src-2026-09-27-021 | Rucky: Android USB HID Script Editor and Launcher
+- Created source record at sources/src-2026-09-27-021.md and raw source at raw/articles/2026-09-27-rucky-android-usb-hid-script-editor-and-launcher.md.
+
+## [2026-09-27 17:30] ingest | src-2026-09-27-022 | Shodan.io App: Independent Mobile Client for Shodan Data
+- Created source record at sources/src-2026-09-27-022.md and raw source at raw/articles/2026-09-27-shodan-io-app-independent-mobile-client-for-shodan-data.md.
+
+## [2026-09-27 17:30] ingest | src-2026-09-27-023 | Sniffer Wicap: Supplied Google Play Link Unavailable
+- Created source record at sources/src-2026-09-27-023.md and raw source at raw/articles/2026-09-27-sniffer-wicap-supplied-google-play-link-unavailable.md.
+
+## [2026-09-27 17:30] ingest | src-2026-09-27-024 | Stryker: Supplied Android Pentesting Link Unavailable
+- Created source record at sources/src-2026-09-27-024.md and raw source at raw/articles/2026-09-27-stryker-supplied-android-pentesting-link-unavailable.md.
+
+## [2026-09-27 17:30] ingest | src-2026-09-27-025 | Termux: Android Terminal and Linux Package Environment
+- Created source record at sources/src-2026-09-27-025.md and raw source at raw/articles/2026-09-27-termux-android-terminal-and-linux-package-environment.md.
+
+## [2026-09-27 17:30] ingest | src-2026-09-27-026 | Vulners Scanner: Supplied Google Play Link Unavailable
+- Created source record at sources/src-2026-09-27-026.md and raw source at raw/articles/2026-09-27-vulners-scanner-supplied-google-play-link-unavailable.md.
+
+## [2026-09-27 17:30] ingest | src-2026-09-27-027 | WHID Mobile Connector: Supplied Link Normalized to NetHunter Store
+- Created source record at sources/src-2026-09-27-027.md and raw source at raw/articles/2026-09-27-whid-mobile-connector-supplied-link-normalized-to-nethunter-store.md.
+
+## [2026-09-27 17:30] ingest | src-2026-09-27-028 | WIFI WPS WPA TESTER: Wi-Fi Security Assessment Toolkit
+- Created source record at sources/src-2026-09-27-028.md and raw source at raw/articles/2026-09-27-wifi-wps-wpa-tester-wi-fi-security-assessment-toolkit.md.
+
+## [2026-09-27 17:30] ingest | src-2026-09-27-029 | WiGLE WiFi Wardriving: Wireless Network Observation and Mapping
+- Created source record at sources/src-2026-09-27-029.md and raw source at raw/articles/2026-09-27-wigle-wifi-wardriving-wireless-network-observation-and-mapping.md.
+
+## [2026-09-27 17:30] ingest | src-2026-09-27-030 | WPSApp: Wi-Fi WPS Security Checker
+- Created source record at sources/src-2026-09-27-030.md and raw source at raw/articles/2026-09-27-wpsapp-wi-fi-wps-security-checker.md.
+
+## [2026-09-27 17:30] ingest | src-2026-09-27-031 | zANTI: Supplied Zimperium Link and Current Page Status
+- Created source record at sources/src-2026-09-27-031.md and raw source at raw/articles/2026-09-27-zanti-supplied-zimperium-link-and-current-page-status.md.
+
+## [2026-09-27 17:30] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-09-27 17:30] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-27 17:37] capture | Proof Cafe: Oniru, Lekki Place Recommendation
+- Stored note in inbox/notes/2026-09-27-173748-proof-cafe-oniru-lekki-place-recommendation.md.
+
+## [2026-09-27 17:37] ingest | src-2026-09-27-032 | Proof Cafe: Oniru, Lekki Place Recommendation
+- Created source record at sources/src-2026-09-27-032.md and raw source at raw/journals/2026-09-27-proof-cafe-oniru-lekki-place-recommendation.md.
+
+## [2026-09-27 17:37] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-09-27 17:37] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-27 18:02] capture | Claude S40: Unofficial Claude Client for Nokia Series 40
+- Stored pasted content in inbox/paste/2026-09-27-180216-claude-s40-unofficial-claude-client-for-nokia-series-40.md.
+
+## [2026-09-27 18:02] ingest | src-2026-09-27-033 | Claude S40: Unofficial Claude Client for Nokia Series 40
+- Created source record at sources/src-2026-09-27-033.md and raw source at raw/articles/2026-09-27-claude-s40-unofficial-claude-client-for-nokia-series-40.md.
+
+## [2026-09-27 18:02] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-09-27 18:02] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-27 18:17] capture | react-native-file-hash: Native Streaming Hashes for React Native
+- Stored pasted content in inbox/paste/2026-09-27-181730-react-native-file-hash-native-streaming-hashes-for-react-native.md.
+
+## [2026-09-27 18:17] ingest | src-2026-09-27-034 | react-native-file-hash: Native Streaming Hashes for React Native
+- Created source record at sources/src-2026-09-27-034.md and raw source at raw/articles/2026-09-27-react-native-file-hash-native-streaming-hashes-for-react-native.md.
+
+## [2026-09-27 18:17] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-09-27 18:17] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-27 18:24] capture | Lucent: TypeScript-compiled React Native native modules
+- Stored pasted content in inbox/paste/2026-09-27-182425-lucent-typescript-compiled-react-native-native-modules.md.
+
+## [2026-09-27 18:24] ingest | src-2026-09-27-035 | Lucent: TypeScript-compiled React Native native modules
+- Created source record at sources/src-2026-09-27-035.md and raw source at raw/articles/2026-09-27-lucent-typescript-compiled-react-native-native-modules.md.
+
+## [2026-09-27 18:24] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-09-27 18:24] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-27 18:26] capture | apk-reverse: Agent skill for Android APK analysis
+- Stored pasted content in inbox/paste/2026-09-27-182614-apk-reverse-agent-skill-for-android-apk-analysis.md.
+
+## [2026-09-27 18:26] ingest | src-2026-09-27-036 | apk-reverse: Agent skill for Android APK analysis
+- Created source record at sources/src-2026-09-27-036.md and raw source at raw/articles/2026-09-27-apk-reverse-agent-skill-for-android-apk-analysis.md.
+
+## [2026-09-27 18:26] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-09-27 18:26] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-29 14:13] capture | NitroSQLite 10.0.0: Independent connections and native scheduling
+- Stored pasted content in inbox/paste/2026-09-29-141312-nitrosqlite-10-0-0-independent-connections-and-native-scheduling.md.
+
+## [2026-09-29 14:13] capture | PageIndex: Vectorless reasoning-based RAG
+- Stored pasted content in inbox/paste/2026-09-29-141312-pageindex-vectorless-reasoning-based-rag.md.
+
+## [2026-09-29 14:13] capture | FFrames Studio: Rust and SVG GPU video rendering
+- Stored pasted content in inbox/paste/2026-09-29-141312-fframes-studio-rust-and-svg-gpu-video-rendering.md.
+
+## [2026-09-29 14:13] ingest | src-2026-09-29-001 | FFrames Studio: Rust and SVG GPU video rendering
+- Created source record at sources/src-2026-09-29-001.md and raw source at raw/articles/2026-09-29-fframes-studio-rust-and-svg-gpu-video-rendering.md.
+
+## [2026-09-29 14:13] ingest | src-2026-09-29-002 | NitroSQLite 10.0.0: Independent connections and native scheduling
+- Created source record at sources/src-2026-09-29-002.md and raw source at raw/articles/2026-09-29-nitrosqlite-10-0-0-independent-connections-and-native-scheduling.md.
+
+## [2026-09-29 14:13] ingest | src-2026-09-29-003 | PageIndex: Vectorless reasoning-based RAG
+- Created source record at sources/src-2026-09-29-003.md and raw source at raw/articles/2026-09-29-pageindex-vectorless-reasoning-based-rag.md.
+
+## [2026-09-29 14:13] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-09-29 14:13] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-29 14:16] capture | GMAT Resources: Shared practice collection
+- Stored pasted content in inbox/paste/2026-09-29-141651-gmat-resources-shared-practice-collection.md.
+
+## [2026-09-29 14:16] capture | Free GMAT Tests and Video Tutorials: Historical link list
+- Stored pasted content in inbox/paste/2026-09-29-141651-free-gmat-tests-and-video-tutorials-historical-link-list.md.
+
+## [2026-09-29 14:16] ingest | src-2026-09-29-004 | Free GMAT Tests and Video Tutorials: Historical link list
+- Created source record at sources/src-2026-09-29-004.md and raw source at raw/articles/2026-09-29-free-gmat-tests-and-video-tutorials-historical-link-list.md.
+
+## [2026-09-29 14:16] ingest | src-2026-09-29-005 | GMAT Resources: Shared practice collection
+- Created source record at sources/src-2026-09-29-005.md and raw source at raw/articles/2026-09-29-gmat-resources-shared-practice-collection.md.
+
+## [2026-09-29 14:16] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-09-29 14:16] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-09-29 14:20] capture | Heirs Holdings assessment prep: SHL practice links
+- Stored pasted content in inbox/paste/2026-09-29-142028-heirs-holdings-assessment-prep-shl-practice-links.md.
+
+## [2026-09-29 14:20] capture | Jobberman and SHL assessment formats: Official context
+- Stored pasted content in inbox/paste/2026-09-29-142028-jobberman-and-shl-assessment-formats-official-context.md.
+
+## [2026-09-29 14:20] ingest | src-2026-09-29-006 | Heirs Holdings assessment prep: SHL practice links
+- Created source record at sources/src-2026-09-29-006.md and raw source at raw/articles/2026-09-29-heirs-holdings-assessment-prep-shl-practice-links.md.
+
+## [2026-09-29 14:20] ingest | src-2026-09-29-007 | Jobberman and SHL assessment formats: Official context
+- Created source record at sources/src-2026-09-29-007.md and raw source at raw/articles/2026-09-29-jobberman-and-shl-assessment-formats-official-context.md.
+
+## [2026-09-29 14:20] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-09-29 14:20] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-10-01 05:16] ingest | src-2026-10-01-001 | simdutf-swift: Swift bindings for SIMD-accelerated Unicode operations
+- Created source record at sources/src-2026-10-01-001.md and raw source at raw/articles/2026-10-01-simdutf-swift-swift-bindings-for-simd-accelerated-unicode-operations.md.
+
+## [2026-10-01 05:16] ingest | src-2026-10-01-002 | Duo Studio: iPhone Duo mockup studio
+- Created source record at sources/src-2026-10-01-002.md and raw source at raw/articles/2026-10-01-duo-studio-iphone-duo-mockup-studio.md.
+
+## [2026-10-01 05:16] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-10-01 05:17] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-10-01 05:36] ingest | src-2026-10-01-003 | Melies Cinematic Techniques: Film language for AI video production
+- Created source record at sources/src-2026-10-01-003.md and raw source at raw/articles/2026-10-01-melies-cinematic-techniques-film-language-for-ai-video-production.md.
+
+## [2026-10-01 05:36] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-10-01 16:08] ingest | src-2026-10-01-004 | expo-native-variants: Expo config plugin for native build variants
+- Created source record at sources/src-2026-10-01-004.md and raw source at raw/articles/2026-10-01-expo-native-variants-expo-config-plugin-for-native-build-variants.md.
+
+## [2026-10-01 16:08] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-10-01 16:38] ingest | src-2026-10-01-005 | Live Activities with Expo, End to End: Client and Backend
+- Created source record at sources/src-2026-10-01-005.md and raw source at raw/articles/2026-10-01-live-activities-with-expo-end-to-end-client-and-backend.md.
+
+## [2026-10-01 16:39] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-10-01 17:42] ingest | src-2026-10-01-006 | mini-AGI: Byte-level continual-learning language model
+- Created source record at sources/src-2026-10-01-006.md and raw source at raw/articles/2026-10-01-mini-agi-byte-level-continual-learning-language-model.md.
+
+## [2026-10-01 17:42] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-10-01 17:44] ingest | src-2026-10-01-007 | e2e: Open-source agentic testing framework for web and mobile apps
+- Created source record at sources/src-2026-10-01-007.md and raw source at raw/articles/2026-10-01-e2e-open-source-agentic-testing-framework-for-web-and-mobile-apps.md.
+
+## [2026-10-01 17:45] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-10-01 22:07] ingest | src-2026-10-01-008 | ZapFast: Native unofficial WhatsApp client in Rust
+- Created source record at sources/src-2026-10-01-008.md and raw source at raw/articles/2026-10-01-zapfast-native-unofficial-whatsapp-client-in-rust.md.
+
+## [2026-10-01 22:07] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-10-01 23:09] ingest | src-2026-10-01-009 | Workers KV Instant: Quicksilver-powered global key-value mode
+- Created source record at sources/src-2026-10-01-009.md and raw source at raw/articles/2026-10-01-workers-kv-instant-quicksilver-powered-global-key-value-mode.md.
+
+## [2026-10-01 23:10] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-10-03 14:02] ingest | src-2026-10-03-001 | Operational Safety Training Manual EXP-PR-DI020
+- Created source record at sources/src-2026-10-03-001.md and raw source at raw/pdfs/2026-10-03-operational-safety-training-manual-exp-pr-di020.pdf.
+
+## [2026-10-03 14:03] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-10-03 14:09] ingest | src-2026-10-03-002 | Mobile Dev for Codex: Callstack mobile development plugin
+- Created source record at sources/src-2026-10-03-002.md and raw source at raw/assets/2026-10-03-mobile-dev-for-codex-callstack-mobile-development-plugin.md.
+
+## [2026-10-03 14:10] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-10-03 14:18] ingest | src-2026-10-03-003 | React Native Deploy: EAS-compatible builds on GitHub Actions
+- Created source record at sources/src-2026-10-03-003.md and raw source at raw/assets/2026-10-03-react-native-deploy-eas-compatible-builds-on-github-actions.md.
+
+## [2026-10-03 14:18] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-10-03 22:30] ingest | src-2026-10-03-004 | BrewKeg: NGN-priced AI inference gateway
+- Created source record at sources/src-2026-10-03-004.md and raw source at raw/assets/2026-10-03-brewkeg-ngn-priced-ai-inference-gateway.md.
+
+## [2026-10-03 22:31] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-10-04 00:26] ingest | src-2026-10-04-001 | iOS Builder by MobAI: Remote iOS build and simulator CLI
+- Created source record at sources/src-2026-10-04-001.md and raw source at raw/assets/2026-10-04-ios-builder-by-mobai-remote-ios-build-and-simulator-cli.md.
+
+## [2026-10-04 00:26] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-10-04 01:29] ingest | src-2026-10-04-002 | Motif: Design guidance and checks for coding agents
+- Created source record at sources/src-2026-10-04-002.md and raw source at raw/assets/2026-10-04-motif-design-guidance-and-checks-for-coding-agents.md.
+
+## [2026-10-04 01:29] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-10-04 01:48] ingest | src-2026-10-04-003 | Oil UI: Open-source design skill and mobile app examples
+- Created source record at sources/src-2026-10-04-003.md and raw source at raw/assets/2026-10-04-oil-ui-open-source-design-skill-and-mobile-app-examples.md.
+
+## [2026-10-04 01:48] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-10-04 20:44] capture | Graduate Trainee Assessment Preparation Checklist
+- Stored pasted content in inbox/paste/2026-10-04-204423-graduate-trainee-assessment-preparation-checklist.md.
+
+## [2026-10-06 09:24] ingest | src-2026-10-06-001 | Trajectory Grading Engine: Step-level grading of AI agent tool calls
+- Created source record at sources/src-2026-10-06-001.md and raw source at raw/assets/2026-10-06-trajectory-grading-engine-step-level-grading-of-ai-agent-tool-calls.md.
+
+## [2026-10-06 09:24] ingest | src-2026-10-06-002 | Job search with a 90-day notice period
+- Created source record at sources/src-2026-10-06-002.md and raw source at raw/assets/2026-10-06-job-search-with-a-90-day-notice-period.md.
+
+## [2026-10-06 09:24] ingest | src-2026-10-06-003 | React Native clothing rack with WebGPU and Skia Graphite
+- Created source record at sources/src-2026-10-06-003.md and raw source at raw/assets/2026-10-06-react-native-clothing-rack-with-webgpu-and-skia-graphite.md.
+
+## [2026-10-06 09:24] ingest | src-2026-10-06-004 | Async History Stack: undo and redo for asynchronous changes
+- Created source record at sources/src-2026-10-06-004.md and raw source at raw/assets/2026-10-06-async-history-stack-undo-and-redo-for-asynchronous-changes.md.
+
+## [2026-10-06 09:24] ingest | src-2026-10-06-005 | REA: an agent toolkit for app and binary investigation
+- Created source record at sources/src-2026-10-06-005.md and raw source at raw/assets/2026-10-06-rea-an-agent-toolkit-for-app-and-binary-investigation.md.
+
+## [2026-10-06 09:24] ingest | src-2026-10-06-006 | LlamaIndex Extract: layered extraction from annotated scans
+- Created source record at sources/src-2026-10-06-006.md and raw source at raw/assets/2026-10-06-llamaindex-extract-layered-extraction-from-annotated-scans.md.
+
+## [2026-10-06 09:24] ingest | src-2026-10-06-007 | Awesome Opus 5.5 Videos: prompt collection and demos
+- Created source record at sources/src-2026-10-06-007.md and raw source at raw/assets/2026-10-06-awesome-opus-5-5-videos-prompt-collection-and-demos.md.
+
+## [2026-10-06 09:29] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-10-06 19:40] ingest | src-2026-10-06-008 | Morphlet: a morphing floating tray for React Native
+- Created source record at sources/src-2026-10-06-008.md and raw source at raw/assets/2026-10-06-morphlet-a-morphing-floating-tray-for-react-native.md.
+
+## [2026-10-06 19:40] ingest | src-2026-10-06-009 | Leviathan: a Rust indexer for agent search over large datasets
+- Created source record at sources/src-2026-10-06-009.md and raw source at raw/assets/2026-10-06-leviathan-a-rust-indexer-for-agent-search-over-large-datasets.md.
+
+## [2026-10-06 19:40] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-10-06 20:44] capture | AI-Built App Legal-Risk Checklist
+- Stored pasted content in inbox/paste/2026-10-06-204455-ai-built-app-legal-risk-checklist.md.
+
+## [2026-10-06 20:57] ingest | src-2026-10-06-010 | Watercolor: browser painting app with spectral pigments
+- Created source record at sources/src-2026-10-06-010.md and raw source at raw/assets/2026-10-06-watercolor-browser-painting-app-with-spectral-pigments.md.
+
+## [2026-10-06 20:57] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-10-06 21:15] ingest | src-2026-10-06-011 | scrcpy 5.0 release
+- Created source record at sources/src-2026-10-06-011.md and raw source at raw/assets/2026-10-06-scrcpy-5-0-release.md.
+
+## [2026-10-06 21:15] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-10-06 21:52] ingest | src-2026-10-06-012 | Agent Memory Repo: open spec for Git-based agent memory
+- Created source record at sources/src-2026-10-06-012.md and raw source at raw/assets/2026-10-06-agent-memory-repo-open-spec-for-git-based-agent-memory.md.
+
+## [2026-10-06 21:52] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-10-07 05:37] ingest | src-2026-10-07-001 | PhotoCraft: Rust-based Photoshop-style image editor
+- Created source record at sources/src-2026-10-07-001.md and raw source at raw/assets/2026-10-07-photocraft-rust-based-photoshop-style-image-editor.md.
+
+## [2026-10-07 05:37] ingest | src-2026-10-07-002 | munim-maps: 3D MapKit maps for Expo and React Native
+- Created source record at sources/src-2026-10-07-002.md and raw source at raw/assets/2026-10-07-munim-maps-3d-mapkit-maps-for-expo-and-react-native.md.
+
+## [2026-10-07 05:37] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-10-07 19:33] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-10-07 19:37] ingest | src-2026-10-07-003 | Bachs: payments and billing platform for internet businesses
+- Created source record at sources/src-2026-10-07-003.md and raw source at raw/assets/2026-10-07-bachs-payments-and-billing-platform-for-internet-businesses.md.
+
+## [2026-10-07 19:37] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-10-07 19:43] ingest | src-2026-10-07-004 | OpenQodex: AI code review before push
+- Created source record at sources/src-2026-10-07-004.md and raw source at raw/assets/2026-10-07-openqodex-ai-code-review-before-push.md.
+
+## [2026-10-07 19:43] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-10-07 19:59] ingest | src-2026-10-07-005 | React Native OTA Debug Screens for Expo
+- Created source record at sources/src-2026-10-07-005.md and raw source at raw/assets/2026-10-07-react-native-ota-debug-screens-for-expo.md.
+
+## [2026-10-07 20:00] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-10-07 20:09] ingest | src-2026-10-07-006 | Native crash reporting in Expo EAS Observe
+- Created source record at sources/src-2026-10-07-006.md and raw source at raw/articles/2026-10-07-native-crash-reporting-in-expo-eas-observe.md.
+
+## [2026-10-07 20:10] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-10-07 20:12] ingest | src-2026-10-07-007 | Next.js guide: Optimizing prefetching
+- Created source record at sources/src-2026-10-07-007.md and raw source at raw/articles/2026-10-07-next-js-guide-optimizing-prefetching.md.
+
+## [2026-10-07 20:12] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-10-07 20:47] ingest | src-2026-10-07-008 | ISO-GLOW: Claude skill for interactive isometric figures
+- Created source record at sources/src-2026-10-07-008.md and raw source at raw/assets/2026-10-07-iso-glow-claude-skill-for-interactive-isometric-figures.md.
+
+## [2026-10-07 20:48] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-10-07 21:01] ingest | src-2026-10-07-009 | OpenDocRouter: unified document-parsing API
+- Created source record at sources/src-2026-10-07-009.md and raw source at raw/assets/2026-10-07-opendocrouter-unified-document-parsing-api.md.
+
+## [2026-10-07 21:01] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-10-07 23:31] ingest | src-2026-10-07-010 | Telling: Flutter error tracking and analytics
+- Created source record at sources/src-2026-10-07-010.md and raw source at raw/assets/2026-10-07-telling-flutter-error-tracking-and-analytics.md.
+
+## [2026-10-07 23:31] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-10-07 23:31] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-10-07 23:34] ingest | src-2026-10-07-011 | Good CSS: modern CSS practices for agents
+- Created source record at sources/src-2026-10-07-011.md and raw source at raw/assets/2026-10-07-good-css-modern-css-practices-for-agents.md.
+
+## [2026-10-08 01:31] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-10-08 01:31] ingest | src-2026-10-07-011 | Good CSS: modern CSS practices for agents
+- Created source record at sources/src-2026-10-07-011.md and raw source at raw/assets/2026-10-07-good-css-modern-css-practices-for-agents.md.
+
+## [2026-10-08 01:31] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-10-08 01:36] ingest | src-2026-10-08-001 | Paradee: 8M-parameter single-voice text-to-speech model
+- Created source record at sources/src-2026-10-08-001.md and raw source at raw/assets/2026-10-08-paradee-8m-parameter-single-voice-text-to-speech-model.md.
+
+## [2026-10-08 01:36] ingest | src-2026-10-08-002 | Monid: pay-per-use tool gateway for AI agents
+- Created source record at sources/src-2026-10-08-002.md and raw source at raw/assets/2026-10-08-monid-pay-per-use-tool-gateway-for-ai-agents.md.
+
+## [2026-10-08 01:37] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-10-08 20:58] ingest | src-2026-10-08-003 | Santiago on X: Searching 32 million records in 30 milliseconds
+- Created source record at sources/src-2026-10-08-003.md and raw source at raw/articles/2026-10-08-santiago-on-x-searching-32-million-records-in-30-milliseconds.md.
+
+## [2026-10-08 20:58] ingest | src-2026-10-08-004 | Natural Language Search guide | Typesense
+- Created source record at sources/src-2026-10-08-004.md and raw source at raw/articles/2026-10-08-natural-language-search-guide-typesense.md.
+
+## [2026-10-08 20:59] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-10-08 20:59] lint | Vault lint
+- Found 1 issue: the existing orphan page `vault/wiki/synthesis/themint-and-cbn-regulatory-sandbox.md`.
+
+## [2026-10-08 21:12] ingest | src-2026-10-08-005 | Liquid Glass for React, web, and Electron
+- Created source record at sources/src-2026-10-08-005.md and raw source at raw/assets/2026-10-08-liquid-glass-for-react-web-and-electron.md.
+
+## [2026-10-08 21:13] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-10-09 18:51] ingest | src-2026-10-09-001 | Unsloth Qwen3.5-4B Decision-model notebook
+- Created source record at sources/src-2026-10-09-001.md and raw source at raw/articles/2026-10-09-unsloth-qwen3-5-4b-decision-model-notebook.md.
+
+## [2026-10-09 18:51] ingest | src-2026-10-09-002 | Train your own Decision Model with Unsloth
+- Created source record at sources/src-2026-10-09-002.md and raw source at raw/articles/2026-10-09-train-your-own-decision-model-with-unsloth.md.
+
+## [2026-10-09 18:52] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-10-09 19:19] ingest | src-2026-10-09-003 | OpenUI homepage: agent-driven interfaces and OpenUI Cloud
+- Created source record at sources/src-2026-10-09-003.md and raw source at raw/articles/2026-10-09-openui-homepage-agent-driven-interfaces-and-openui-cloud.md.
+
+## [2026-10-09 19:19] ingest | src-2026-10-09-004 | OpenUI generative UI benchmark and published methodology
+- Created source record at sources/src-2026-10-09-004.md and raw source at raw/articles/2026-10-09-openui-generative-ui-benchmark-and-published-methodology.md.
+
+## [2026-10-09 19:20] research | OpenUI homepage and benchmark evidence review
+- Inspected the homepage FAQ, benchmark methodology, public repository README, one raw generation, and its scored result. Captured homepage as src-2026-10-09-003 and benchmark evidence as src-2026-10-09-004. No dependencies were installed and the scorer was not run.
+
+## [2026-10-09 19:20] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-10-09 19:20] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-10-09 19:23] ingest | src-2026-10-09-005 | YouTube Playbook for Technical Creators
+- Created source record at sources/src-2026-10-09-005.md and raw source at raw/articles/2026-10-09-youtube-playbook-for-technical-creators.md.
+
+## [2026-10-09 19:23] research | YouTube Playbook for Technical Creators review
+- Captured howtoyoutube.dev as src-2026-10-09-005. The page attributes packaging advice to Theo and other advice to five calls; algorithm claims are marked as third-party heuristics. I did not open or analyze the linked video.
+
+## [2026-10-09 19:23] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-10-10 05:26] ingest | src-2026-10-10-001 | nanoMuse open-source cross-device personal agent
+- Created source record at sources/src-2026-10-10-001.md and raw source at raw/articles/2026-10-10-nanomuse-open-source-cross-device-personal-agent.md.
+
+## [2026-10-10 05:26] ingest | src-2026-10-10-002 | nanoMuse privacy and data controls
+- Created source record at sources/src-2026-10-10-002.md and raw source at raw/articles/2026-10-10-nanomuse-privacy-and-data-controls.md.
+
+## [2026-10-10 05:27] research | nanoMuse repository and privacy review
+- The supplied short link opened nano-muse/nanoMuse. Captured the README as src-2026-10-10-001 and its linked privacy policy as src-2026-10-10-002. Noted version-specific cloud data controls and did not clone, install, run, or audit the code.
+
+## [2026-10-10 05:27] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-10-11 14:49] ingest | src-2026-10-11-001 | ManimGX: Rust-powered animation engine for agents
+- Created source record at sources/src-2026-10-11-001.md and raw source at raw/articles/2026-10-11-manimgx-rust-powered-animation-engine-for-agents.md.
+
+## [2026-10-11 14:49] ingest | src-2026-10-11-002 | ManimGX benchmark methodology and speed results
+- Created source record at sources/src-2026-10-11-002.md and raw source at raw/articles/2026-10-11-manimgx-benchmark-methodology-and-speed-results.md.
+
+## [2026-10-11 14:49] ingest | src-2026-10-11-003 | ManimGX agent setup and rendering guide
+- Created source record at sources/src-2026-10-11-003.md and raw source at raw/articles/2026-10-11-manimgx-agent-setup-and-rendering-guide.md.
+
+## [2026-10-11 14:49] ingest | src-2026-10-11-004 | ManimGX differences from Manim Community Edition
+- Created source record at sources/src-2026-10-11-004.md and raw source at raw/articles/2026-10-11-manimgx-differences-from-manim-community-edition.md.
+
+## [2026-10-11 14:50] research | ManimGX announcement, benchmark, and agent docs review
+- Captured repository README, benchmark method, llms.txt agent guide, and ManimCE compatibility guide as src-2026-10-11-001 through src-2026-10-11-004. The 90.6x result is project-specific; benchmark run counts differ. Did not install or run the animation prompt.
+
+## [2026-10-11 14:50] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-10-11 14:50] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-10-11 14:53] ingest | src-2026-10-11-005 | DigUp announcement on Reddit
+- Created source record at sources/src-2026-10-11-005.md and raw source at raw/articles/2026-10-11-digup-announcement-on-reddit.md.
+
+## [2026-10-11 14:53] ingest | src-2026-10-11-006 | DigUp repository README and privacy claims
+- Created source record at sources/src-2026-10-11-006.md and raw source at raw/articles/2026-10-11-digup-repository-readme-and-privacy-claims.md.
+
+## [2026-10-11 14:53] ingest | src-2026-10-11-007 | DigUp 0.6.0 release metadata
+- Created source record at sources/src-2026-10-11-007.md and raw source at raw/articles/2026-10-11-digup-0-6-0-release-metadata.md.
+
+## [2026-10-11 14:54] research | DigUp Reddit post, README, and release review
+- Captured the author's post, repository README/privacy claims, and 0.6.0 appcast metadata as src-2026-10-11-005 through src-2026-10-11-007. Flagged the 250 MB vs 310 MB encoder-size difference and did not verify signed/notarized binary claims. Did not download or run the app.
+
+## [2026-10-11 14:54] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-10-11 14:55] ingest | src-2026-10-11-008 | Expo Demos directory
+- Created source record at sources/src-2026-10-11-008.md and raw source at raw/articles/2026-10-11-expo-demos-directory.md.
+
+## [2026-10-11 14:55] research | Expo Demos directory capture
+- Captured the 30 visible Expo demos and page category filters as src-2026-10-11-008. Recorded titles and author names only; did not inspect demo implementations or preview videos.
+
+## [2026-10-11 14:55] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-10-11 14:57] ingest | src-2026-10-11-009 | Shared Google Drive folder: PAST QUESTIONS
+- Created source record at sources/src-2026-10-11-009.md and raw source at raw/assets/2026-10-11-shared-google-drive-folder-past-questions.md.
+
+## [2026-10-11 14:57] research | Short link to shared PAST QUESTIONS folder
+- Resolved t.co/YRLTGRSACT to a shared Google Drive folder. Captured its title, visible owner, and sample filenames as src-2026-10-11-009. Did not open or download any files.
+
+## [2026-10-11 14:57] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-10-11 14:59] ingest | src-2026-10-11-010 | User-shared Anatomy announcement
+- Created source record at sources/src-2026-10-11-010.md and raw source at raw/journals/2026-10-11-user-shared-anatomy-announcement.md.
+
+## [2026-10-11 14:59] ingest | src-2026-10-11-011 | Anatomy skill website
+- Created source record at sources/src-2026-10-11-011.md and raw source at raw/articles/2026-10-11-anatomy-skill-website.md.
+
+## [2026-10-11 14:59] ingest | src-2026-10-11-012 | Anatomy GitHub repository and installation details
+- Created source record at sources/src-2026-10-11-012.md and raw source at raw/articles/2026-10-11-anatomy-github-repository-and-installation-details.md.
+
+## [2026-10-11 15:00] research | Anatomy agent skill announcement review
+- Captured the user-supplied announcement, creator website, and GitHub README as src-2026-10-11-010 through src-2026-10-11-012. Recorded the solid-object versus wireframe wording, Node 20.10+ requirement, MIT license, 3D beta status, and creator estimates. Did not install or run the skill.
+
+## [2026-10-11 15:00] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-10-12 18:28] ingest | src-2026-10-12-001 | Biometrics Don’t Authenticate Anyone
+- Created source record at sources/src-2026-10-12-001.md and raw source at raw/articles/2026-10-12-biometrics-don-t-authenticate-anyone.md.
+
+## [2026-10-12 18:28] ingest | src-2026-10-12-002 | react-native-biometrics package metadata and API guidance
+- Created source record at sources/src-2026-10-12-002.md and raw source at raw/articles/2026-10-12-react-native-biometrics-package-metadata-and-api-guidance.md.
+
+## [2026-10-12 18:28] ingest | src-2026-10-12-003 | Expo SecureStore authentication and persistence behavior
+- Created source record at sources/src-2026-10-12-003.md and raw source at raw/articles/2026-10-12-expo-securestore-authentication-and-persistence-behavior.md.
+
+## [2026-10-12 18:28] ingest | src-2026-10-12-004 | Apple biometryCurrentSet access-control flag
+- Created source record at sources/src-2026-10-12-004.md and raw source at raw/articles/2026-10-12-apple-biometrycurrentset-access-control-flag.md.
+
+## [2026-10-12 18:28] ingest | src-2026-10-12-005 | Android biometric prompts and cryptographic keys
+- Created source record at sources/src-2026-10-12-005.md and raw source at raw/articles/2026-10-12-android-biometric-prompts-and-cryptographic-keys.md.
+
+## [2026-10-12 18:28] ingest | src-2026-10-12-006 | Scoped react-native-biometrics package metadata
+- Created source record at sources/src-2026-10-12-006.md and raw source at raw/articles/2026-10-12-scoped-react-native-biometrics-package-metadata.md.
+
+## [2026-10-12 18:30] ingest | src-2026-10-12-007 | Biometrics Don’t Authenticate Anyone
+- Created source record at sources/src-2026-10-12-007.md and raw source at raw/articles/2026-10-12-biometrics-don-t-authenticate-anyone-2.md.
+
+## [2026-10-12 18:30] ingest | src-2026-10-12-008 | react-native-biometrics package metadata and API guidance
+- Created source record at sources/src-2026-10-12-008.md and raw source at raw/articles/2026-10-12-react-native-biometrics-package-metadata-and-api-guidance-2.md.
+
+## [2026-10-12 18:30] ingest | src-2026-10-12-009 | Expo SecureStore authentication and persistence behavior
+- Created source record at sources/src-2026-10-12-009.md and raw source at raw/articles/2026-10-12-expo-securestore-authentication-and-persistence-behavior-2.md.
+
+## [2026-10-12 18:30] ingest | src-2026-10-12-010 | Apple biometryCurrentSet access-control flag
+- Created source record at sources/src-2026-10-12-010.md and raw source at raw/articles/2026-10-12-apple-biometrycurrentset-access-control-flag-2.md.
+
+## [2026-10-12 18:30] ingest | src-2026-10-12-011 | Android biometric prompts and cryptographic keys
+- Created source record at sources/src-2026-10-12-011.md and raw source at raw/articles/2026-10-12-android-biometric-prompts-and-cryptographic-keys-2.md.
+
+## [2026-10-12 18:30] ingest | src-2026-10-12-012 | Scoped react-native-biometrics package metadata
+- Created source record at sources/src-2026-10-12-012.md and raw source at raw/articles/2026-10-12-scoped-react-native-biometrics-package-metadata-2.md.
+
+## [2026-10-12 18:31] maintenance | Biometrics capture metadata and duplicate-source corrections
+- Source-record notes document the incorrect 2026-10-11 raw timestamps and the corrected 2026-10-12 source references. Raw files remain unchanged. Accidental duplicate records src-2026-10-12-007 through -012 are marked superseded; canonical records are -001 through -006.
+
+## [2026-10-12 18:31] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-10-12 18:58] ingest | src-2026-10-12-013 | SnapCN GitHub repository README and license
+- Created source record at sources/src-2026-10-12-013.md and raw source at raw/articles/2026-10-12-snapcn-github-repository-readme-and-license.md.
+
+## [2026-10-12 18:58] ingest | src-2026-10-12-014 | SnapCN product website catalogue and pricing snapshot
+- Created source record at sources/src-2026-10-12-014.md and raw source at raw/articles/2026-10-12-snapcn-product-website-catalogue-and-pricing-snapshot.md.
+
+## [2026-10-12 18:58] research | SnapCN repository and product-site review
+- Captured GitHub README and MIT license as src-2026-10-12-013, and homepage catalogue and pricing snapshot as src-2026-10-12-014. Preserved the unresolved 21-component README versus 46 free / 51 Pro website counts. Did not install, run, purchase, or audit code.
+
+## [2026-10-12 18:58] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-10-12 18:59] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-10-12 18:59] maintenance | Preserved the supplied SnapCN site URL
+- Updated source record src-2026-10-12-014 with the full user-supplied tracking URL. Kept the canonical source URL in front matter and left the raw capture unchanged.
+
+## [2026-10-12 19:04] ingest | src-2026-10-12-015 | react-native-nano-icons current GitHub README snapshot
+- Created source record at sources/src-2026-10-12-015.md and raw source at raw/articles/2026-10-12-react-native-nano-icons-current-github-readme-snapshot.md.
+
+## [2026-10-12 19:04] research | Nano Icons README refresh
+- Added current direct README capture as src-2026-10-12-015. Marked src-2026-04-15-001 superseded as current guidance; its raw evidence remains unchanged. Current README lists React Native 0.81+ and tvOS 15.1+, and documents native symbols, OTA font delivery, and font-integrity checks. No install or benchmark run.
+
+## [2026-10-12 19:04] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-10-12 19:06] ingest | src-2026-10-12-016 | Nano Icons official website and FAQ snapshot
+- Created source record at sources/src-2026-10-12-016.md and raw source at raw/articles/2026-10-12-nano-icons-official-website-and-faq-snapshot.md.
+
+## [2026-10-12 19:06] ingest | src-2026-10-12-017 | Nano Icons official benchmark methodology
+- Created source record at sources/src-2026-10-12-017.md and raw source at raw/articles/2026-10-12-nano-icons-official-benchmark-methodology.md.
+
+## [2026-10-12 19:06] research | Nano Icons website and benchmark capture
+- Captured the official website as src-2026-10-12-016 and its linked benchmark methodology as src-2026-10-12-017. Updated src-2026-10-12-015 to reference the benchmark source. No package install or benchmark run.
+
+## [2026-10-12 19:06] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-10-12 19:07] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-10-12 19:37] ingest | src-2026-10-12-018 | Shapeshift GitHub README and architecture snapshot
+- Created source record at sources/src-2026-10-12-018.md and raw source at raw/articles/2026-10-12-shapeshift-github-readme-and-architecture-snapshot.md.
+
+## [2026-10-12 19:37] ingest | src-2026-10-12-019 | Shapeshift public demo site snapshot
+- Created source record at sources/src-2026-10-12-019.md and raw source at raw/articles/2026-10-12-shapeshift-public-demo-site-snapshot.md.
+
+## [2026-10-12 19:37] research | Shapeshift repository and live demo capture
+- Captured the GitHub README as src-2026-10-12-018 and the view-only website state as src-2026-10-12-019. Recorded 19 card types, offline and optional online Jev modes, deterministic parsing, localStorage claim, keyboard controls, and the UI confidence state machine. Did not enter text, install, run, or audit anything.
+
+## [2026-10-12 19:38] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-10-12 19:42] ingest | src-2026-10-12-020 | Plexo download manager website and release snapshot
+- Created source record at sources/src-2026-10-12-020.md and raw source at raw/articles/2026-10-12-plexo-download-manager-website-and-release-snapshot.md.
+
+## [2026-10-12 19:42] research | Plexo product website capture
+- Captured getplexo.app as src-2026-10-12-020. Recorded release v1.0.0-rc.15, platform build sizes, network aggregation scope, pre-release status, browser extension availability, and code-signing warnings. Did not download, install, or run the app.
+
+## [2026-10-12 19:42] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-10-12 19:43] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-10-14 14:18] ingest | src-2026-10-14-001 | One React Native and web framework homepage snapshot
+- Created source record at sources/src-2026-10-14-001.md and raw source at raw/articles/2026-10-14-one-react-native-and-web-framework-homepage-snapshot.md.
+
+## [2026-10-14 14:18] ingest | src-2026-10-14-002 | One documentation introduction
+- Created source record at sources/src-2026-10-14-002.md and raw source at raw/articles/2026-10-14-one-documentation-introduction.md.
+
+## [2026-10-14 14:18] ingest | src-2026-10-14-003 | One documentation status snapshot
+- Created source record at sources/src-2026-10-14-003.md and raw source at raw/articles/2026-10-14-one-documentation-status-snapshot.md.
+
+## [2026-10-14 14:18] research | OneStack homepage and documentation capture
+- Captured the homepage as src-2026-10-14-001, Introduction docs as -002, and live Status page as -003. Source records flag that raw notes mistakenly say 2026-10-12; actual inspection date was 2026-10-14. Raw files remain unchanged. No framework tests were run.
+
+## [2026-10-14 14:18] lint | Vault lint
+- Found 1 issue(s).
+
+
+## [2026-10-15 16:28] ingest | src-2026-10-15-001 | Yiwei Ho’s cinematic-shot announcement on X
+- Added the X post capture at `vault/raw/articles/2026-10-15-yiwei-ho-cinematic-shot-announcement-on-x.md` and its source record.
+
+## [2026-10-15 16:28] ingest | src-2026-10-15-002 | cinematic-shot GitHub repository and agent skill
+- Added the repository and skill capture at `vault/raw/articles/2026-10-15-cinematic-shot-github-repository-and-skill.md` and its source record.
+
+## [2026-10-15 16:28] research | cinematic-shot post and repository
+- Kept the X announcement and GitHub repository as separate sources. Inspected the README, `SKILL.md`, `references/look.md`, and `references/shot-list-example.md`. Did not run the install command or inspect the linked video.
+
+
+## [2026-10-15 16:33] ingest | src-2026-10-15-003 | Nate’s react-native-gpui announcement on X
+- Added the announcement capture and source record. Performance figures remain publisher claims; I did not reproduce them.
+
+## [2026-10-15 16:33] ingest | src-2026-10-15-004 | react-native-gpui GitHub repository snapshot
+- Added a separate repository capture. Recorded its macOS arm64 target, current README, package manifest, and architecture-document difference.
+
+## [2026-10-15 16:33] ingest | src-2026-10-15-005 | react-native-gpui npm registry listing
+- Added the registry capture. Recorded version `0.0.1` and the Hermes README, which differ from the current repository manifest and JavaScriptCore README.
+
+## [2026-10-15 16:33] ingest | src-2026-10-15-006 | Nate’s self-assessment of react-native-gpui on X
+- Captured the author's separate reply about project maturity. Marked it as opinion, not independent technical review.
+
+## [2026-10-15 16:33] research | react-native-gpui source review
+- Captured the announcement, repository, npm listing, and author reply as separate sources. Did not install, build, or test the project. Did not run InkTrace lint.
+
+
+## [2026-10-15 16:38] ingest | src-2026-10-15-007 | Desert Ant React Native Local AI SDK announcement on X
+- Added the exact announcement post as a separate source.
+
+## [2026-10-15 16:38] ingest | src-2026-10-15-008 | Desert Ant React Native local AI SDK GitHub repository
+- Captured the repository model table, install and platform notes, Android test status, and SDK/model license distinction.
+
+## [2026-10-15 16:38] ingest | src-2026-10-15-009 | Desert Ant React Native local AI product page
+- Captured the product page's model-readiness claims and noted its model-count, platform, and license distinctions from the repository.
+
+## [2026-10-15 16:38] research | Desert Ant React Native Local AI SDK
+- Captured the X post, repository, and official product page as separate sources. Clear and Ear are listed at about 9 MB each. Android wrappers are not yet compiled or device-tested per the repository. Did not install or run the SDK.
+
+
+## [2026-10-15 16:39] ingest | src-2026-10-15-007 | Desert Ant React Native Local AI SDK announcement on X
+- Added the exact post supplied by the user as its own source record.
+
+## [2026-10-15 16:39] ingest | src-2026-10-15-008 | Desert Ant React Native local AI SDK GitHub repository
+- Captured the repository model table, install requirements, Android status, and separate model-weight license.
+
+## [2026-10-15 16:39] ingest | src-2026-10-15-009 | Desert Ant React Native local AI product page
+- Captured the product page and recorded its eight end-to-end models, three incomplete models, and count differences from the repository.
+
+
+## [2026-10-15 16:39] log correction | Desert Ant source capture
+- The 16:39 ingest entries repeat the same three source records already logged at 16:38. No duplicate source or raw files were created.
+
+
+## [2026-10-15 16:43] research | react-native-nitro-vision-kit
+- Found the July X announcement already captured as src-2026-07-17-003. Replaced placeholder metadata and claims in that source record; left its raw file unchanged.
+- Added the current GitHub README as src-2026-10-15-010 and the npm listing as src-2026-10-15-011.
+- Recorded the Android segmentation beta, Play Services model download, and first-use/offline limits. Did not install, download, build, or test the package.
+
+
+## [2026-10-15 18:42] research | React Navigation 8 alpha icons and iOS 27
+- Captured the official React Navigation X article as src-2026-10-15-012. Added current icon docs, Bottom Tabs docs, the Bottom Tabs changelog, and Native Stack docs as src-2026-10-15-013 through src-2026-10-15-016.
+- Recorded iOS 27 tab roles, custom SF Symbols, Nano Icons integration, Material Symbol font-size claims, and header item options. Marked the differing Android tint wording as unresolved.
+- Left existing raw files unchanged. Did not install packages or run code.
+
+## [2026-10-20 21:43] research | babel-plugin-react-native-direct-imports
+- Captured Davyd NRB’s X thread, the GitHub README, and the npm listing as src-2026-10-20-017 through src-2026-10-20-019.
+- Recorded the 711 KB to 10.6 KB and 505 to 9 module figures as publisher claims. Documented compatibility limits and early-stage warnings.
+- Did not install, build, or test the plugin.
+
+## [2026-10-22 09:34] research | rossark-motion-skill
+- Captured the shared GitHub repository and its SKILL.md as src-2026-10-22-001 and src-2026-10-22-002.
+- Recorded platform templates, project-first workflow, motion principles, and example timing values from the inspected pages.
+- Did not install the skill or run scripts, rendering, or tests.
