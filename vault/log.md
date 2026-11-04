@@ -8864,3 +8864,91 @@
 - Captured the shared GitHub repository and its SKILL.md as src-2026-10-22-001 and src-2026-10-22-002.
 - Recorded platform templates, project-first workflow, motion principles, and example timing values from the inspected pages.
 - Did not install the skill or run scripts, rendering, or tests.
+
+## [2026-10-26 22:25] research | Legend Spark desktop framework
+- Captured Jay Meistrich’s X announcement, official Spark landing page, platform limitations, GitHub README, and npm registry metadata as src-2026-10-26-001 through -005.
+- Recorded current release tags, Node requirement, macOS-first target, Windows validation limits, and the author’s claims separately.
+- Did not install, build, or test Spark.
+
+## [2026-10-26 22:31] research | Jakub Krehel /teardown skill
+- Captured the author’s X announcement, current GitHub README, /teardown SKILL.md, and interactive preview as src-2026-10-26-006 through -009.
+- Recorded the README’s PDF export claim alongside the post’s SVG/PNG claim. Captured geometry/evidence handling and preview controls.
+- Did not install the skill, run scripts, or verify downloaded exports.
+
+## [2026-10-26 23:04] research | TanStack Redact
+- Captured the TanStack X thread, product page, launch blog, compatibility docs, GitHub README, and npm registry as src-2026-10-26-010 through -015.
+- Recorded the 0.2.0 release and vendor bundle comparisons with whole-build caveats. Separated historical 0.1.0 README measurements from the 0.2.0 blog results.
+- Recorded synchronous-rendering trade-offs and documented compatibility limits. Did not install, build, or test Redact.
+
+## [2026-10-28 12:39] research | ConitePay payment gateway SDK
+- Captured the user-provided launch post, React and React Native npm pages and registry metadata, and the shared GitHub README as src-2026-10-28-001 through -004.
+- Verified both npm packages were at 0.1.5. Recorded required backend verification, provider amount differences, web same-origin callback requirement, and React selector shell limits.
+- Recorded a license metadata difference: READMEs state MIT, while npm sidebars show none and registry metadata omits the license field. Did not install, build, or test the SDK.
+
+## [2026-11-01 17:28] research | PlotWeaver STORM-Ensemble 3.0
+- Captured Wole Fagbohun’s X launch post, the STORM Ensemble 3.0 product page, and PlotWeaver’s broader language catalogue as src-2026-10-31-001 through -003.
+- Recorded the model’s 64-language, 166-voice, 3B-parameter, and 24 kHz publisher specifications. Marked voice-quality and commercial-use statements as publisher claims.
+- Distinguished the model’s 64-language scope from the wider STORM-OS V3 catalogue’s 73-language claim. Did not independently evaluate the model.
+
+## [2026-11-01 17:47] research | Ooyaa USDC payroll on Arc
+- Captured the supplied launch post, live app and proof page, repository and threat model, factory explorer page, and official Arc USDC gas documentation as src-2026-11-01-001 through -005.
+- Confirmed Arc's official docs state that USDC is the native gas token. The explorer identifies the reported factory address as a contract with a successful creation transaction.
+- Recorded the app's live counters and that its eight-check proof was still scanning; no overall VERIFIED result was observed. Preserved the project's no-audit warning and chain-risk caveats. Did not connect a wallet, send transactions, install dependencies, or run tests.
+
+## [2026-11-01 17:51] research | Expo and Windows desktop app port
+- Captured Daniel Nguyen's X post and follow-up replies, VMPal's agent-mode description, React Native Windows setup docs, and BoltAI/PDF Pals product pages as src-2026-11-01-006 through -009.
+- Recorded the author's report of a successful port alongside caveats: several mobile APIs needed stand-ins, window resizing remained under work, and most effort went to QA. Distinguished this individual result from general Expo Windows support.
+- Did not install tools, run the apps, or reproduce benchmarks.
+
+## [2026-11-01 17:56] research | Searchata SEO MCP service
+- Captured the homepage, documentation and connection flow, security docs and privacy policy, pricing, and MCP tool reference as src-2026-11-01-010 through -014.
+- Recorded Google Search Console and Bing read-only access, OAuth-based MCP connection, current product boundaries, and the published 2 monthly/9 yearly prices and seven-day card-required trial.
+- Flagged that “we don't store your search data” coexists with documented encrypted source-response caches and OAuth credentials. Recorded privacy-policy details on retention, Clarity, PostHog, and X conversion measurement. Did not connect accounts or call tools.
+
+## [2026-11-02 18:52] research | API Anything website-to-API tool
+- Captured the project README, technical reference, and dated live-probe research as src-2026-11-02-001 through -003.
+- Recorded that it learns and replays site frontend requests, may extract from HTML or embedded data, and returns structured JSON. Documented the Node HTTP, browser-fetch, and browser-trigger read tiers.
+- Clarified that browser fallback is not a guaranteed bot bypass; the project reports persistent challenges as blocked. The dated probes include Reddit CAPTCHA and uncertain bot-token behavior. Did not install or run the tool.
+
+## [2026-11-04 05:00] research | Apple App Review queue claims
+- Captured the user-supplied post and evidence records src-2026-11-02-004 through -009.
+- Verified Apple's undated “nearly 500 / over 130K apps” wording and official complete-review guidance. Press reports quote Apple at over 200K submissions weekly in April and 378K in October, with 1.5-day overall and 14-hour minor-update averages.
+- Recorded the metric caveat: Apple's page says “apps,” while press reports say “app submissions.” The sources do not establish that the scopes match, so the near-3x ratio is not proof of a tripling in like-for-like workload.
+- Developer delays are reported anecdotes, not a representative measure. Apple's first-time app queue has no published cohort statistic. Apple's video guidance is conditional; it is not a general screen-recording requirement.
+
+## [2026-11-04 05:02] research | App Review delay reports follow-up
+- Added The Register's cited developer-forum and Reddit anecdotes as src-2026-11-02-010. One post was reported as waiting since September 19 in an October 22 article, a 33-day interval.
+- Kept the wait evidence labeled anecdotal; it does not establish the prevalence of long waits or a first-time-developer cohort effect.
+
+## [2026-11-04 05:10] research | Aakash Gupta app-liability video
+- Captured the X post and its 73-second auto-caption transcript as src-2026-11-04-001. Verified the six legal-risk claims against FTC, California, German court, Copyright Office, and U.S. Code sources in src-2026-11-04-002 through -009.
+- Preserved the core safety advice while correcting scope: COPPA does not require all general-audience apps to ask age; the Munich award was €100 damages in one case; CIPA says ,000 per violation, not per session; California's gift rule is not a universal subscription refund; and 50,000 copyright damages require willfulness and apply per work.
+- Marked penalty amounts as conditional maxima, not automatic fines. This research is not legal advice.
+
+## [2026-11-04 05:15] research | react-native-tgfx
+- Captured the official overview and install docs, GitHub repository, benchmark page, and npm metadata as src-2026-11-04-010 through -013.
+- Recorded the alpha documentation label, Nitro-based architecture, platform requirements, vendor benchmark limits, MIT package license, and the npm tag difference: docs use @alpha, while npm latest is 0.1.0 and alpha is 0.0.2-alpha.12.
+- Recorded npm's registry-reported unpacked size of about 675 MB; this is not the compressed download size. No package was installed, and no build or test was run.
+
+## [2026-11-04 05:19] research | react-native-skia-chart
+- Followed the user's t.co link to the baraa-rasheed/react-native-skia-chart GitHub repository and official docs. Captured repository, docs, and npm metadata as src-2026-11-04-014 through -016.
+- Recorded chart scope, Skia Graphite and Reanimated architecture, Expo development-build requirement, platform minimums, npm peer requirements, MIT license, and point-in-time release/check status.
+- Documented that the GPU pipeline still includes CPU work. No package was installed; no build or test was run.
+
+## [2026-11-04 05:26] research | Opus motion design toolchain post
+- Preserved the user-pasted post as src-2026-11-04-017 and checked all 14 linked repositories as src-2026-11-04-018 through -031.
+- Recorded workflow roles and key limits. The blanket “all free” claim is qualified by Remotion licensing, GSAP's prohibited-use restriction, compute and service costs, and model-specific costs. Added privacy caveats for Chrome DevTools MCP and rights caveats for voice cloning and downloaded media.
+- The promised article and the original post URL were not supplied. Marked the article as an open item in the raw post record.
+- No software was installed or run.
+
+## [2026-11-04 05:30] research | Global Hack Map
+- Captured the live cybersecurity dashboard and its source repository as src-2026-11-04-032 and -033.
+- Recorded the site's public data sources, status labels, read-only MCP and runbook features, local setup, Valyu dependencies, cache caveats, and MIT license.
+- Flagged an apparent live UI mismatch: Harvard was marked Confirmed on the map, while the breach list described a ShinyHunters claim. The incident was not independently verified.
+- No software was installed, built, or tested.
+
+## [2026-11-04 05:33] research | Claude animation skills
+- Captured the user post, repository, and installer review as src-2026-11-04-034 through -036.
+- Verified six skill formats, local rendering requirements, safe-area contact sheets, and the longer workflow for the two explainer skills.
+- Recorded the key setup caveat: the pasted ./install.sh command does not include --voice; local Kokoro and Parakeet models require an optional flag and about 1 GB of downloads.
+- Inspected installer side effects without running it. No software was installed or executed.
