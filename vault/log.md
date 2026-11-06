@@ -9013,3 +9013,42 @@
 - Committed and pushed the staged capture batch as `2486424` ("Capture research sources through November 6", 61 files, 1,273 insertions) to `origin/main` after validation.
 - Validation ran with Node type stripping plus a local loader hook because the esbuild native binary stalls in this sandbox: typecheck and build clean, all 9 tests pass, lint reports only the standing orphan-page warning, and `git diff --check` is clean. The previous vault log entry records the lint run's 1 issue.
 - Vault totals after push: 1,037 source records, 1,031 raw files, and 7 active inbox/paste items from September and October that pre-date this batch and stay unprocessed (lazyjson, expo-infinite-media, Codex design skills, graduate-trainee checklist, a t.co link, AI-built app legal-risk checklist, rollup-number).
+
+## [2026-11-06 20:22] ingest | src-2026-11-06-013 | LazyJSON async JSON parsing in Nitro
+- Created source record at sources/src-2026-11-06-013.md and raw source at raw/articles/2026-11-06-lazyjson-async-json-parsing-in-nitro.md.
+
+## [2026-11-06 20:22] ingest | src-2026-11-06-014 | Codex design skills workflow: Impeccable, 21st Design, and UX Audit
+- Created source record at sources/src-2026-11-06-014.md and raw source at raw/articles/2026-11-06-codex-design-skills-workflow-impeccable-21st-design-and-ux-audit.md.
+
+## [2026-11-06 20:22] ingest | src-2026-11-06-015 | expo-infinite-media npm package
+- Created source record at sources/src-2026-11-06-015.md and raw source at raw/articles/2026-11-06-expo-infinite-media-npm-package.md.
+
+## [2026-11-06 20:22] ingest | src-2026-11-06-016 | react-native-nitro-rolling-number
+- Created source record at sources/src-2026-11-06-016.md and raw source at raw/articles/2026-11-06-react-native-nitro-rolling-number.md.
+
+## [2026-11-06 20:22] ingest | src-2026-11-06-017 | Captured t.co link wQFWG9HC72
+- Created source record at sources/src-2026-11-06-017.md and raw source at raw/articles/2026-11-06-captured-t-co-link-wqfwg9hc72.md.
+
+## [2026-11-06 20:22] ingest | src-2026-11-06-018 | Graduate Trainee Assessment Preparation Checklist
+- Created source record at sources/src-2026-11-06-018.md and raw source at raw/articles/2026-11-06-graduate-trainee-assessment-preparation-checklist.md.
+
+## [2026-11-06 20:22] ingest | src-2026-11-06-019 | AI-Built App Legal-Risk Checklist
+- Created source record at sources/src-2026-11-06-019.md and raw source at raw/articles/2026-11-06-ai-built-app-legal-risk-checklist.md.
+
+## [2026-11-06 20:22] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-11-06 20:22] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-11-06 20:24] maintenance | Rebuilt index
+- Regenerated index.md from wiki pages.
+
+## [2026-11-06 20:24] lint | Vault lint
+- Found 1 issue(s).
+
+## [2026-11-06 20:07] research | Pending inbox items ingested
+- Ran `inktrace ingest inbox` to clear the seven pending September and October pastes. New records: src-2026-11-06-013 through -019 (LazyJSON on Nitro, Codex design skills with Impeccable and 21st.dev, expo-infinite-media, react-native-nitro-rolling-number, the unresolved t.co wQFWG9HC72 link, the Graduate Trainee assessment checklist, and the AI-built app legal-risk checklist).
+- Replaced the generated placeholder summary records with real content notes. Cross-referenced Impeccable sources [src-2026-06-27-001] [src-2026-08-09-002], the Jobberman and SHL assessment records [src-2026-09-29-006] [src-2026-09-29-007], and the verified Aakash Gupta app-liability source [src-2026-11-04-001] for the legal-risk checklist.
+- Kept the LazyJSON perf figures and both package benchmarks as project-published claims. The t.co wQFWG9HC72 record stays explicitly unresolved.
+- Vault totals: 1,044 source records, 1,038 raw files, 0 pending inbox items. Lint still reports only the standing orphan-page warning.
