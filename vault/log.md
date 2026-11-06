@@ -9008,3 +9008,8 @@
 
 ## [2026-11-06 19:47] lint | Vault lint
 - Found 1 issue(s).
+
+## [2026-11-06 19:56] maintenance | Commit and push through November 6
+- Committed and pushed the staged capture batch as `2486424` ("Capture research sources through November 6", 61 files, 1,273 insertions) to `origin/main` after validation.
+- Validation ran with Node type stripping plus a local loader hook because the esbuild native binary stalls in this sandbox: typecheck and build clean, all 9 tests pass, lint reports only the standing orphan-page warning, and `git diff --check` is clean. The previous vault log entry records the lint run's 1 issue.
+- Vault totals after push: 1,037 source records, 1,031 raw files, and 7 active inbox/paste items from September and October that pre-date this batch and stay unprocessed (lazyjson, expo-infinite-media, Codex design skills, graduate-trainee checklist, a t.co link, AI-built app legal-risk checklist, rollup-number).
