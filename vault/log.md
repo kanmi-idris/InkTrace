@@ -8952,3 +8952,59 @@
 - Verified six skill formats, local rendering requirements, safe-area contact sheets, and the longer workflow for the two explainer skills.
 - Recorded the key setup caveat: the pasted ./install.sh command does not include --voice; local Kokoro and Parakeet models require an optional flag and about 1 GB of downloads.
 - Inspected installer side effects without running it. No software was installed or executed.
+
+## [2026-11-05 20:29] research | Tinycharts
+- Captured the user post, Tinycharts page, and both cited inspiration sources as src-2026-11-04-037 through -040.
+- Reviewed all 28 demo entries. Recorded that the free skill contains 9 chart types; all 28, editable templates, and commercial use are Pro features listed at $34.90.
+- The skill download opens an email form that also promises update emails. No email was submitted, and the skill was not downloaded or installed.
+- Distinguished Tinycharts' statechart claim from the TLA+/TLC details documented by its inspiration sources.
+
+## [2026-11-05 20:45] research | Tinycharts free skill
+- The user approved submission of the primary email to the site's unlock form. The site said it would send new-skill and update emails.
+- Downloaded the `.skill` file. The `.skill` and `.zip` files were byte-identical; recorded their SHA-256 and preserved the `.skill` artifact.
+- Read the archive without installing or running it. Its checker is a plain BFS, not a model checker. The included license limits use to personal/fun projects and bars commercial use, resale, and redistribution.
+- Added src-2026-11-05-001. No skill files were installed or executed.
+
+## [2026-11-05 20:48] research | React Native SplashMotion
+- Resolved the user's t.co link to the public `react-native-splash-motion` GitHub repository.
+- Captured the README, package metadata, and NPM registry status as src-2026-11-05-002.
+- Recorded platform requirements, Expo limits, static launch-screen caveats, and the supplied `--still` image requirement.
+- The registry lists 0.1.0 as latest. No package was installed, run, or tested.
+
+## [2026-11-05 20:56] research | Electronics 101
+- Captured the user post and the Electronics 101 app as src-2026-11-05-003 and -004.
+- Verified 48 lessons from seven visible group counts and 13 choices in the language menu.
+- Inspected the first lesson's overview, circuit diagram, maths panel, and workbench controls. Translation quality and all lesson content remain untested.
+- A browser click did not change the switch's displayed state. No lesson progress was marked complete.
+
+## [2026-11-05 21:00] research | React Native SplashMotion post
+- Captured the user-provided promotional text as src-2026-11-05-005 and linked it to the previously inspected repository source, src-2026-11-05-002.
+- Preserved the New Architecture, Expo Go, static launch-screen, and untested transition caveats.
+
+## [2026-11-05 21:12] research | Sand3D
+- Captured the X post, library README, dataset and Explorer audit, and token benchmark as src-2026-11-05-006 through -009.
+- The dataset API reports 106,094 rows across all configs. The Explorer reports 103,797 objects and lists 2,297 AutoMate parts separately.
+- The published Blender benchmark totals 29,191 tokens versus 7,696 for Sand3D. This gives a 3.793 aggregate ratio; the benchmark page reports a 4.0x median on 30 CAD parts, with 9 of 30 Blender outputs correct.
+- Recorded row-level license and attribution caveats. No code was installed or run.
+
+## [2026-11-05 21:28] research | LFM3-Omni-2B
+- Captured Xenova's Nov 4 iPhone post, Oct 29 browser post, and Nov 4 follow-up as src-2026-11-05-010 through -014. Kept platform speed claims separate.
+- Inspected the static Hugging Face Space source and the official model card. The Space contains WebGPU and WGSL code, but no code was run and no speed or offline test was done.
+- Recorded the LFM Open License v1.0 commercial-use threshold and the separate MIT license for React Native WebGPU.
+- The iPhone app source was not linked. The App Store question remains the author's question, not a release decision.
+
+## [2026-11-06 10:12] research | Phonon and related Hex reply
+- Captured the X post, Phonon repository and product site, refiner model card, and the separate Hex repository as src-2026-11-06-001 through -005.
+- Kept the 65 ms versus about 520 ms result as the author's claim. The repository's 215-to-30 ms engine measurement over 40 dictations is a different measure.
+- Recorded the model-card split of 76,960 rows: 38,480 DeepSeek-labeled writing-mode rows and 38,480 rows from the prior 0.2.3 refiner corpus. The lecture result is model-judged and uses f16 weights.
+- The third supplied shortlink resolves to Hex, a separate local dictation project mentioned in another reply. No app was installed, run, or tested. No commit or push was made.
+
+## [2026-11-06 10:26] research | GeekNative
+- Captured the user note, landing page, repository, quick start, React Native comparison, npm registry record, and GitHub Actions run as src-2026-11-06-006 through -011.
+- Clarified that GeekNative keeps three separate platform codebases and shares specs, contracts, code generation, and agent workflow. It avoids a shared app runtime, not multi-platform implementation work.
+- Recorded setup side effects: the quick-start command installs npm dependencies and creates a Git commit unless skipped with documented flags. Nothing was installed or run.
+- The Nov 5 CI run passed four checks and failed the web app and project-creation smoke test on a TypeScript TS2322 error in the web check. Later fixes were not verified.
+- Follow-up: captured GeekyAnts' own article on the project's trade-offs as src-2026-11-06-012. Clarified that `--no-install` and `--no-git` skip separate setup actions.
+
+## [2026-11-06 19:47] lint | Vault lint
+- Found 1 issue(s).
